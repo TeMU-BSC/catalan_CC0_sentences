@@ -1,0 +1,120 @@
+He d'anar al parc de la Guineueta amb autobús.
+He d'anar al carrer de la Font de Canyelles amb autobús.
+He d'anar al carrer de Guillem sense agafar el metro.
+He d'anar al carrer de les Filatures amb autobús.
+He d'anar al carrer de Francesc de Borja Moll amb trasport públic.
+He d'anar al passatge de Bernat Fenollar amb tren.
+He d'anar a la plaça de les Ceràmiques Vicens amb autobús.
+He d'anar al carrer de Saragossa amb trasport públic.
+He d'anar al carrer d'Elkano a peu.
+He d'anar al carrer de Jaume Pinent amb trasport públic.
+He d'anar al carrer de l'Espinagosa amb autobús.
+He d'anar al carrer de Palafolls amb autobús.
+He d'anar al carrer de Jaume Fabra sense agafar el cotxe.
+He d'anar als jardins de Virginia Woolf sense agafar el metro.
+He d'anar al carrer de Villena amb tren.
+He d'anar al carrer de Lliçà amb trasport públic.
+He d'anar al pla de Miquel Tarradell sense agafar el cotxe.
+He d'anar al passeig de Torras i Bages amb tren.
+He d'anar al jardí de Sobreroca i Ferrer amb bicicleta.
+He d'anar al jardí de Maria Rosa Farré i Escofet sense agafar el cotxe.
+He d'anar al carrer del Marne amb cotxe.
+He d'anar al carrer de Felanitx amb trasport públic.
+He d'anar al passatge d'Elena Girol a peu.
+He d'anar al carrer de Garcilaso sense agafar el cotxe.
+Engega el rentaplats.
+Apaga l'aire condicionat de l'habitació dels nens.
+Apaga el microones a les tres.
+Engega la ràdio.
+Apaga el llum del lavabo.
+Apaga el microones a la nit.
+Engega la rentadora.
+Apaga el llum de la cuina.
+Apaga la ràdio a les tres.
+Engega la tele.
+Apaga el llum de l'habitació dels convidats.
+Apaga el televisor a les set.
+Engega el rentaplats.
+Apaga el llum del menjador.
+Apaga el televisor al matí.
+Engega la ràdio.
+Apaga l'aire condicionat del lavabo.
+Apaga la tele al matí.
+Engega el forn.
+Apaga el llum del rebedor.
+Apaga el rentaplats a dos quarts i cinc de set.
+Engega el forn.
+Apaga el llum del passadís.
+Apaga el televisor a dos quarts i cinc de set.
+Marca el sis, vuitanta-u, quaranta-nou, zero, cinc, vuitanta-nou.
+Apunta a l'agenda el número de l'Aleu Carrizo: sis, zero, u, vint-i-u, vuitanta-tres, setze.
+Marca el sis, noranta-nou, vuitanta-set, trenta-cinc, vint-i-nou.
+Apunta a l'agenda el número de l'Aïda Angelova: sis, zero, u, noranta-set, quaranta-quatre, setanta-u.
+Marca el sis, zero, vuit, setanta-dos, trenta-tres, seixanta-cinc.
+Apunta a l'agenda el número de la Chloé Serrat: sis, seixanta-nou, quaranta-dos, setanta-sis, trenta-dos.
+Marca el sis, quaranta-set, setanta-tres, seixanta, vint-i-dos.
+Apunta a l'agenda el número de la Tura Alomar: sis, quaranta-sis, setanta-quatre, seixanta, quaranta-sis.
+Marca el sis, vint-i-dos, trenta, seixanta-u, seixanta-u.
+Apunta a l'agenda el número de l'Eloi Taibo: sis, setanta-sis, seixanta-nou, vuitanta-vuit, cinquanta-u.
+Marca el sis, seixanta-quatre, catorze, trenta-sis, vint-i-tres.
+Apunta a l'agenda el número del Lluc Losilla: sis, trenta-u, vuitanta-tres, seixanta-cinc, deu.
+Marca el sis, vuitanta-dos, vuitanta-set, vuitanta-sis, vuitanta-quatre.
+Apunta a l'agenda el número de l'Àreu  Chicano: sis, quaranta-set, cinquanta-quatre, seixanta-vuit, setanta-set.
+Marca el sis, noranta-cinc, vuitanta-cinc, divuit, vuitanta-nou.
+Apunta a l'agenda el número de l'Asier Blay: sis, cinquanta-sis, disset, quaranta-set, quaranta-vuit.
+Marca el sis, setanta-quatre, cinquanta-dos, cinquanta-set, zero, cinc.
+Apunta a l'agenda el número de l'Ariadna Yanguas: sis, setanta-sis, quaranta-u, cinquanta-quatre, zero.
+Marca el sis, vint-i-sis, zero, dos, trenta-set, setanta-set.
+Apunta a l'agenda el número de la Gina Yoldi: sis, setanta-u, setanta-sis, tretze, zero, nou.
+Marca el sis, vuitanta-sis, setanta-quatre, seixanta-u, vuitanta-set.
+Apunta a l'agenda el número de l'Oriol Saucedo: sis, seixanta-sis, setanta-dos, vuitanta-vuit, quaranta-u.
+Marca el sis, quaranta-quatre, setanta, cinquanta-nou, cinquanta-quatre.
+Apunta a l'agenda el número de l'Àreu  Pagola: sis, quaranta-vuit, seixanta-vuit, trenta-set, setanta-vuit.
+He d'anar a Cabanabona amb tren diumenge a les vuit.
+M'agradaria anar a Sant Guim de Freixenet amb tren.
+A quina hora passa el primer autobús per Llambilles diumenge?
+Com puc anar a Meranges demà a les onze?
+He d'anar a Gavet de la Conca amb tren dijous a les dotze.
+M'agradaria anar a la Palma de Cervelló amb cotxe.
+A quina hora passa el primer autobús per Montgat demà?
+Com puc anar a el Far d'Empordà el dos de juny a les tres?
+He d'anar a la Floresta amb trasport públic diumenge a les deu.
+M'agradaria anar a el Port de la Selva sense agafar el cotxe.
+A quina hora passa el primer autobús per Montbrió del Camp demà?
+Com puc anar a Massanes dimecres al migdia?
+He d'anar a Campdevànol amb tren el cinc d'agost a les deu.
+M'agradaria anar a la Tallada d'Empordà amb tren.
+A quina hora passa el primer autobús per les Masies de Roda dimecres?
+Com puc anar a Sant Aniol de Finestres dilluns a la nit?
+He d'anar a Bossòst amb tren diumenge a la tarda.
+M'agradaria anar a Esplugues de Llobregat amb moto.
+A quina hora passa el primer autobús per Xerta el cinc d'agost?
+Com puc anar a Santa Cristina d'Aro dissabte a la una?
+He d'anar a Vilanova de Sau amb moto demà a les sis.
+M'agradaria anar a Vallbona d'Anoia amb tren.
+A quina hora passa el primer autobús per Casserres divendres?
+Com puc anar a Collbató el dos de juny al vespre?
+El nom és Elm: e, ela, ema.
+El seu cognom és Huang: hac, u, a, ena, ge.
+El nom és Haroun: hac, a, erra, o, u, ena.
+El seu cognom és Pablo: pe, a, be, ela, o.
+El nom és Saja: essa, a, jota, a.
+El seu cognom és Almonte: a, ela, ema, o, ena, te, e.
+El nom és Bruc: be, erra, u, ce.
+El seu cognom és Cartagena: ce, a, erra, te, a, ge, e, ena, a.
+El nom és Cira: ce, i, erra, a.
+El seu cognom és Cotillas: ce, o, te, i, ela, ela, a, essa.
+El nom és Joaquín: jota, o, a, cu, u, i amb accent tancat, ena.
+El seu cognom és Lema: ela, e, ema, a.
+El nom és Judith: jota, u, de, i, te, hac.
+El seu cognom és Asin: a, essa, i, ena.
+El nom és Marcos: ema, a, erra, ce, o, essa.
+El seu cognom és Antoñanzas: a, ena, te, o, enya, a, ena, zeta, a, essa.
+El nom és Olau: o, ela, a, u.
+El seu cognom és Pinar: pe, i, ena, a, erra.
+El nom és Gina: ge, i, ena, a.
+El seu cognom és Merayo: ema, e, erra, a, i grega, o.
+El nom és Julieta: jota, u, ela, i, e, te, a.
+El seu cognom és De Leon: de, e, espai, ela, e, o, ena.
+El nom és Mohamed amin: ema, o, hac, a, ema, e, de, espai, a, ema, i, ena.
+El seu cognom és Peregrina: pe, e, erra, e, ge, erra, i, ena, a.
