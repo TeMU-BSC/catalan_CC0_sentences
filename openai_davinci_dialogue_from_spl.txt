@@ -1,0 +1,1995 @@
+generated
+Jo vull fer-me sòcia del club.
+Quina és la seva adreça de correu electrònic?
+Quina és la seva contrasenya?
+Li dius que li faig el carnet?
+Li dius que li faig el carnet ara?
+Li dius que li faig el carnet avui?
+"Sí, però només amb els ordinadors de la biblioteca."
+I si no hi ha cap ordinador disponible?
+Però pots consultar els llibres de la biblioteca.
+Pots consultar la informació de la biblioteca i altres coses.
+Em puc registrar com a usuari?
+El Club de Lectura dels Amics.
+El Club de Lectura dels Amics d
+"Si vols jugar a pàdel, digues-ho ara."
+Digui-li que no hi ha pàdel.
+Has de seleccionar la persona que voleu enviar diners.
+"Aleshores, heu de seleccionar el nombre del familiar i el número de telèfon."
+El número de compte és el número de la targeta.
+I quin és el meu número de targeta?
+El teu número de targeta és el que has escrit al teu compte.
+"No, no cobrarem cap comissió."
+I demà tindrà els diners que li han enviat.
+I demà tindrà els diners que li han enviat i també els que li hauré enviat jo.
+"Sí, però no sempre són els que més ens agraden."
+Els serveis de transport públic.
+No sempre tenen una freqüència adequada i són caros.
+I si ens enganxen una mult
+No sé on és la cartera que has perdut.
+"Però si vols, pots buscar-la a l’aplicació de recerca de"
+La que tenia una etiqueta vermella.
+Per què no l’has buscat?
+Quina és la teva maleta?
+La que tinc a les mans.
+Jo tinc una bossa de mà que és molt bona per anar de viatge.
+Quina bossa de mà té?
+Tinc una bossa de mà que és verda i blanca.
+La meva bossa de mà és verda i blanca.
+Has de comprar un telèfon.
+Quins telèfons són compatibles amb el meu ordinador?
+¿Quines peces vols que et faci?
+Una taula i unes cadires.
+¿Quina mida vols que tinguin?
+"La taula, 80 centímetres de llargada i 60 centímetres d'amplada."
+Són mobles que han de ser molt còmodes.
+"Haurien d'oferir una bona experiència de joc."
+I quines funcions haurien de tenir?
+Deu ser un error de la intel·ligència artificial.
+Ela és la meva germana.
+"Sí, ela és la teva germana."
+I aquest és el meu germà.
+"Sí, aquest és el teu germà."
+"'Dilluns' en valencià es lletreja: de, i, ele, ele, u, ene, esse."
+"'Dilluns' en valencià es lletreja: de, i, ele doble, u, ene, esse."
+"'Dilluns' en català es lletreja: de, i, ele doble, u, ene, esse."
+"Dimecres: de, i, ema, e, ce, erra, e, essa."
+"'Dimecres' en valencià es lletreja: de, i, eme, e, ce, erre, e, esse."
+"Pots anar al cinema, puc ajudar-te a trobar una pel·lícula que t'agradi."
+"'Dijous' en valencià es lletreja: de, i, jota, o, u, esse."
+"'Una lletra és una part d'un nom que s'escriu amb una sola l"
+Això és una paraula catalana.
+¿Què vols dir amb això?
+Vull dir que el divendres va baixar la temperatura.
+Va ser un dia fred.
+"'Divendres' en valencià es lletreja de, i, ve baixa, e, ene, de, erre, e, esse."
+"'L'últim dia del mes' en valencià és 'dissabte'."
+I diumenge és un dia festiu per a molts catalans i espanyols
+"'Diumenge' en valencià es lletreja: de, i, u, eme, e, ene, ge, g."
+La motxilla és una borsa per a transportar objectes.
+"Gronxador: erra, o, ena, ics, a, de, o, erra."
+"'Gronxador' en valencià es lletreja: ge, erre, o, ene, ics, a, de, o, erre."
+"Diürn: de, i, u amb dièresi, erra, ena."
+"'Diürn' en valencià es lletreja: de, i, u amb dièresi, erre, ene."
+"Ema, u amb accent tancat, essa, i, ce, a."
+"Ema, u amb accent tancat, essa, i, ce…"
+"La pe, e, ela geminada, i amb accent tancat, ce, u, ela, a."
+"'Pel·lícula' en valencià es lletreja: pe, e, ele geminada, i amb accent tancat, ce, u, ele, i."
+Aquesta setmana hi haurà un espectacle de música al teatre.
+"'Espectacle' en valencià es lletreja."
+"'Lletreja' en català és 'espectacle'."
+: no sé què és això.
+Quina és la seva població?
+La meva població és de 10.000 habitants.
+"I el meu nom és 'Joan'."
+"El cognom 'Teixidor' es lletreja Tarragona-Ebre-Igualada-Xina-Igualada-Dinamarca-Òscar-Ramon."
+"Farmàcia: efa, a, erra, ema amb accent obert"
+"Recepta: erra, e, ce, pe."
+"Ramon, Ebre, Carme, Ebre, Prada, Tarragona, Andreu."
+Ramon i Carme són els noms de les persones que viu
+"Ema, e, de, i, ce, a, ema, e, ena."
+"Mallorca, Ebre, Dinamarca, Igualada, Carme, Andreu, Mallorca, Ebre, Narcís, Tarragona."
+"Pomada: pe, o, ema, a, de, a."
+"'Pomada' en valencià es lletreja: pe, o, eme, a, de, a, e."
+"'Pomada' en català es lletreja: peu, oi, eme, ai, deu, ai."
+"Prada, Òscar, Mallorca, Andreu, Dinamarca, Andreu."
+"Ce, erra, e, ema, a."
+"Crema: ce, erra, e, ema, a."
+"'Crema' en valencià es pronuncia: ce, erre, e, eme, a, ei."
+"Carme, Ramon, Ebre, Mallorca, Andreu."
+Carme i Ramon són els meus pares.
+Ebre és la meva germana.
+"'Lletreja' en valencià es lletreja: a, ei alta amb accent obert"
+"Andreu, Narcís, Tarragona, Igualada, Barcelona, Igualada, Òscar, Tarragona, Igualada, Carme."
+I tu ets un home o una dona?
+Vull saber si podem divorciar-nos.
+Els humans no poden divorciar-se.
+Però pots demanar una separació de la parella.
+Té una mare i un pare.
+"Sí, té una mare i un pare."
+Fa de professor de català a la Universitat de Barcelona.
+Com es diuen els nens a Catalunya?
+Es diuen els nens a Catalunya.
+"Sí, fa divuit anys que treballes aquí."
+Faig la feina de secretari.
+Un secretari és una persona que té cura de les coses personals d
+"Sí, fa díhuit anys que treballe ací."
+Feia el que faig ara.
+Treballava per a la companyia.
+Fa vuit anys que faig feina aquí.
+No sé què vols dir.
+"Que t'estimo molt i que fa devuit anys que ho dic."
+"Ah, demà faig dènou anys!"
+Feliç dia del meu nen!
+I ara faig cinquanta anys.
+"Ah, demà faig denou anys."
+Vull anar a la platja.
+Tinc ganes de fer una passejada per la platja i
+El díhuit és el nombre que va abans del dènou.
+Deu és el nombre que va abans del vuit.
+El devuit és el nombre que va abans del denou.
+Això és una mica complicat.
+"Em sap greu, però no ho he entès."
+La meva àvia de vuitanta anys encara balla com si en tingués vint.
+La meva àvia de vuitanta anys encara balla com
+No sé com pot ser.
+"Em sap greu, però no m'hi poso."
+"Sí, és una cosa que no es pot explicar."
+Però si ho dic jo!
+"Ens diem dèsset, díhuit i dènou."
+"Nosaltres a les Illes diem desset, devuit i denou."
+Això s’ha de dir en castellà?
+Això s’ha de dir en cast
+"Sí, jo també dic 'huitanta'."
+"Tu dius 'vuitanta' i jo dic 'huitanta'; i dius 'vuitanta' i jo, 'huitanta'."
+Sóc una aplicació de traducció.
+Pots demanar-me qualsevol cosa que no saps i jo et diré el que vols saber.
+Com es diuen els teus amics?
+Els meus amics em diuen Albert.
+Pots venir a veure’m quan vulguis.
+Sóc una aplicació per a mòbils.
+¿Què és una aplicació per a mòbils?
+Una aplicació per a mòbils és un programa que es pot instal·lar en un tel
+Com és el seu nom?
+"Però puc dir-te que em diuen ""Llum""."
+"Pots parlar en castellà, francès o anglès."
+El noi té vint-i-cinc anys.
+"No, el noi no està casat."
+Ajuda’m a trobar un restaurant.
+Trobaràs restaurants a la ciutat?
+Trobaré un restaurant per al meu germà i jo.
+És per fer una festa de Nadal.
+Com et diuen els teus amics?
+Vull una informació sobre els serveis socials.
+Vull saber els horaris de la biblioteca.
+Vostè és un home o una dona?
+"Sí, Catalunya és una comunitat autònoma d'Espanya."
+"Sí, sé que Catalunya és una comunitat autònoma d'Espanya."
+Sóc una aplicació de Google.
+Una aplicació és un programa que està al vostre dispositiu i us permet fer coses.
+"Per exemple, la meva tasca principal és"
+Quina és la teva raça?
+Sóc un gat de rasa.
+Què vols fer aquesta tarda?
+Vull jugar amb el meu amic.
+Pots fer una pregunta o un comandament.
+"Per exemple, pots dir-me “comença la llista de restaurants” o “faig una"
+Els dies i les hores són una manera de mesurar el temps.
+Hi ha moltes altres formes d’expressar el temps.
+"Per exemple, podem dir que fa calor o que fa fred"
+"Bon dia, a la botiga fan les 9.30 hores."
+"No, no tancarem al migdia."
+A les vuit i mitja.
+M’agrada molt anar a la piscina.
+A les dues de la tarda.
+Això és una bona hora.
+"No, no hi ha cap problema."
+Què puc fer per tu?
+Puc ajudar-te amb els teus comptes bancaris.
+Són les tres i cinc.
+Què cal fer per a poder votar?
+"Has de ser nascut al Regne d'Espanya i haver estat empadronat"
+"Sí, són dos quarts de vuit."
+"Sí, el minut és v"
+És les dues del migdia.
+"Jo sóc l'assistent de Català."
+Em dic Albert i et puc ajudar amb qualsevol cosa que
+"Sí, demà és Sant Jordi."
+Què es fa a Sant Jordi?
+"A Sant Jordi se'n regala flors i llibres."
+La festa de la Puríssima és el dia 2 de febrer.
+Quina festa és disset dies després del dia 2 de febrer?
+La festa dels Reis Mags és el 5 de gener.
+I a les set i a les vuit.
+I a les nou i a les deu.
+I a les dotze i a les dues.
+"No, no escoltar la ràdio."
+Escoltar els informatius de TV3.
+"Doncs, si vols puc fer una cosa per tu."
+Puc anar al teu lloc de treball i dir que no hi ets.
+Així podràs sortir més tard.
+"No ho sé, potser em demanaran"
+Pots treballar a quarts de sis.
+Vols que treballi a quarts de sis?
+"Sí, vull que treballis a quarts de sis."
+"No, no vull que treballi a"
+Dos quarts de nou és a les 9:00.
+"Sí, vull comprar un bitllet."
+Vols que el compri amb targeta o amb targeta i targeta?
+Compro amb targeta i targeta.
+El meu horari habitual és de dilluns a divendres de 9 a 18 hores.
+"Els dissabtes faig una mica de tot, però no tinc cap horari fix."
+La gent habitualment dina a les nou del vespre.
+"Quina mena de cerveses s'ofereixen en el bar?"
+El metro de Barcelona fa els següents horaris:
+"De dilluns a divendres, de 5.30 a 0.30 hores del matí, i de 6.00 a 1.00 hores del vespre"
+"Dissabtes i diumenges, de 6.00 a 1.00 hores del"
+A quina hora tanquen les botigues a l’hivern?
+Hivern és una estació de l’any.
+Hivern dura des del final de l’estiu fins al principi de la primavera.
+No hi ha cap problema.
+El cotxe està en perfectes condicions.
+Però el motor no funciona.
+"Sí, el motor està parat perquè no hi ha gasolina."
+El cotxe necessita gasolina per funcionar.
+Hi ha una roda punxada.
+Pots arreglar-ho amb una roda de repòs.
+Què és una roda de repòs?
+És una roda que es pot
+A la carretera de Girona.
+Vostè és una màquina intel·ligent?
+"Sí, sóc una màquina intel·ligent."
+"No, no sóc un robot."
+Els meus serveis estan disponibles ara.
+Què és el teu nom?
+"Jo sóc l'assistent de Google."
+Per què no em diu el seu nom
+I vols fer un encàrrec?
+Vull que m’envies una foto de tu.
+"Sí, sóc una mica tard."
+Em dic Joan i soc l’electricista.
+Jo crec que li va bé que vinguis demà.
+Crec que li va bé a les tres.
+"Ara mateix pot venir, si vol."
+Això és una mala notícia.
+"Sí, però no ho puc evitar."
+No cal que et preocupis.
+Això és el meu moment preferit del dia.
+I també perquè són les hores
+"Sí, vull fer una cosa."
+"És un bon lloc per anar a l'estiu."
+Potser vols que et porti a casa?
+"Pots descansar, però pots fer moltes coses."
+I vull que et netegis.
+"Sí, vull veure si la meva parella també ha acabat."
+"I ara que estic més calent, renta aquell cotxe."
+"Sí, els dilluns són molt cansats."
+No puc esperar per aquesta festa.
+"Sí, vull que sigui un gran dia."
+Tinc la sensació que és
+I volia saber si hi havia alguna nota per a mi.
+"Sí, hi havia una nota per a tu."
+"Sí, l'he posat sobre la taula."
+"L'albarà el tens sobre la taula."
+"I ara, què pots fer per mi?"
+"Sí, hi ha un problema amb el teu ordinador."
+I què he de fer?
+Has de fer una còpia de seguretat i després has d’instal·lar l’última versió del sistema operatiu.
+I si no puc fer-la?
+El compte és de 1.000 euros.
+"Hi ha una taxa de 0,5% per pagar amb targeta de crèdit o d'altres sistemes de"
+"I ara, si us plau, puc fer una pregunta?"
+Què és el que fa que un robot sigui intel·ligent?
+Per què no ho fa?
+S’ha de fer per dates.
+El més vell al davant i el més nou al darrere.
+¿El més vell o el més nou?
+Vols que t’ajudi a fer una cosa?
+"Sí, pots fer festa demà."
+Puc fer festa a la platja?
+"No, no pots fer festa a la platja."
+Hi ha molt de vent.
+Puc fer festa al parc?
+"Sí, pots fer festa al parc."
+Ens veiem a la tarda.
+"Sí, però no sé si podràs entrar a l’estadi."
+A les nou del vespre.
+Quina sort que no hagi mort!
+"Bona tarda, què és el que vol fer?"
+He llegit que busca un programador.
+Sóc un programador i voldria treballar amb vostès.
+"Sí, he treballat en una botiga de roba."
+Quina és la teva preferència per a vestir?
+El meu tipus de roba és casual.
+Quina és la teva preferència per a pell?
+"Sí, això és una botiga de roba."
+"Sí, però no és una botiga de roba normal."
+"Sí, he treballat en un bar."
+He servit begudes i menjar.
+El meu nom és Lola.
+Els estius faig de cambrera.
+"Sí, això és una feina molt dura."
+Això és una feina molt dura.
+Però jo sóc una persona molt positiva i sempre ho intento
+"Sí, a vegades hi ha molta gent, i a vegades, gens."
+"A vegades hi ha molta gent, i a vegades, gens."
+Com els que hi ha a la universitat?
+"Sí, pots treballar a temps parcial o només el cap de setmana, com els vagi millor."
+"Puc treballar a temps parcial o només el cap de setmana, com els vagi millor."
+"Sí, pots treballar a temps"
+Pots començar a treballar quan vulguis.
+Què vols dir amb això?
+Vols dir que pots començar a treballar quan vulguis.
+"No, no vull començar a treballar, vull saber"
+Què vols fer el dilluns que ve?
+He llegit un anunci de professora de xinès.
+Hi ha moltes professores de xinès a Barcelona.
+"No, no et puc servir."
+Perquè no sóc una persona.
+Jo també sóc una màquina!
+Tinc un cervell i tot!
+Vols dir-me què he de fer?
+Vols dir-me què he de fer jo?
+"Kabul és una ciutat de l'Afganistan."
+"Sí, és on vaig néixer."
+És una ciutat molt gran.
+Hi ha molts edificis i carrers.
+Vaig estudiar al Liceu Francès.
+I vaig aprendre a parlar català.
+"Sí, jo puc parlar català"
+He fet de professor durant tres anys.
+Va ser una professora molt popular.
+Va treballar en un institut de secundària.
+"Sí, però no tots els idiomes són igual de fàcils."
+El català és molt difícil.
+No sóc un programa informàtic.
+Sóc una persona com tu i com tots els altres.
+"Sóc un home o dona, no sé què"
+"Sí, són els meus ulls."
+Els veig tots el dia.
+"Em trobo molt bé, gràcies."
+I també molt cansat i malalt.
+No em sento bé del tot.
+Et recomano que no ho facis.
+El teu metge és un idiota i no sap res.
+M’agradaria saber per què ho dius.
+És a les onze i vint-i-cinc minuts.
+"El metge està al carrer de la Pau Claris, número cent vuitanta-sis."
+Sóc l’assistent del teu mòbil.
+Un mòbil és un telèfon intel·ligent.
+Què és un telèfon intel·ligent?
+Tens una mica de febre i tens dolor de cap.
+"Si tens dolor de cap, pots prendre aspirina per al dolor."
+"Si tens febre, pots prendre paracetamol per a la febre."
+"Si vols que et passi el dolor, estira’t una estona i pren-te un calmant."
+Què has fet aquesta nit?
+I he dormit una estona.
+No tinc cap consell per a queixal.
+No tinc cap consell per a febre.
+No tinc cap consell per a calor.
+Has estat a la piscina?
+He estat a la piscina.
+"Això no és una ferida, és una escletxa."
+He caigut i m’he fet una fer
+"No, no volo una cervesa."
+És una promesa que faig a tu.
+I tu faràs la teva promesa a mi i jo faré la meva promesa a tu.
+"No, no tinc ganes de fer res."
+"Sí, és una cosa molt bonica."
+Volem que sigui una nena.
+Perquè volem una nena i això ens fa molta il·lusió.
+"Sí, però no la puc imprimir."
+Em permet veure el meu número de targeta sanitària?
+"Sí, però no el puc imprimir."
+Em permet veure la data de caducitat de la targeta
+Doncs a les nou et veig.
+"Sí, demà a les nou us va bé."
+I si no us va bé?
+"No, no us va bé."
+Perquè demà a les nou no hi haurà classe.
+No pot perquè està de vacances.
+Quants dies dura la seva estada a la costa?
+"Vostè també hauria d'anar a la costa"
+Però si li fa mal el pit!
+Però no és una urgència.
+"Si vostè vol que ho visiti, pugui fer"
+"Sí, és la primera vegada que visito Catalunya."
+¿Què li agrada més de Catalunya?
+El paisatge i la gent.
+La gent és molt amable.
+"No, no tinc cap problema de salut important."
+Què et sembla el teu estat de salut?
+El meu estat de salut és molt bo.
+He fet una revisió mèdica recentment i tot va bé.
+Vols una mica de pa?
+Què vols que et faci?
+Em fa molt mal el cap i tots els ossos del cos.
+Aquesta bata és per a la meva esposa.
+"Però la seva esposa té una malaltia i no pot treure's la roba sola."
+Ens hem de fer una revisió general.
+"Si us plau, si us plau."
+"Vagi a la sala d'espera."
+"Que em portis a l'hospital."
+Hi ha una farmàcia al carrer.
+Hi ha una farmàcia al barri.
+"Sí, sí que n’hi ha."
+Això és per a la meva esposa.
+No vull que ho faci per mi.
+Vull que ho faci per ella.
+¿Què li passa al seu fill?
+"La meva filla té molt mal de coll, tos, mocs... i està molt feble."
+"No t'importa que et vegi amb la boca oberta?"
+"No em fa res que m'obris la boca."
+"No tinguis por, no et farà mal."
+El carnet de vacunació és aquí.
+Al cap i a la gola.
+Pots prendre una aspirina per al dolor de cap.
+Em sento trist i decaigut.
+Pots parlar amb un amic o familiar.
+No tinc cap amic o familiar.
+Pots parlar amb un professional de salut mental.
+No tinc cap problema de
+"No, fa poc que em vaig trobar així."
+Perquè no he tingut temps de fer-ho.
+"No sé, però estic molt trist."
+Volia saber què he de fer.
+He de fer alguna cosa?
+"No estic preocupat, segur que el podem ajudar."
+Com puc contactar amb un agent?
+"No, no us deixaré sol."
+"Doncs, em sembla que no és aigua."
+"Sí, és xarop de poma."
+I què hi ha dins?
+Hi ha xarop de poma i aigua.
+"I si em porta la recepta, quan em podrà venir a buscar?"
+Aquest xarop només es pot donar a casa.
+"Si vols que et porti a casa, has"
+Em dóna una targeta sanitària?
+"No, perquè no tinc cap."
+Però si voleu podeu venir
+La seva targeta sanitària està a la seva habitació.
+Tingui la meva targeta sanitària.
+"Sí, hi ha una casa i una oficina a prop."
+Hi ha una fàbrica de cotxes a prop.
+"Sí, hi ha una fàbrica de cotxes a prop."
+Hi ha un restaurant a
+El meu pare es diu Josep.
+El meu pare viu a Barcelona.
+El seu pare es diu Pere.
+El meu pare és molt fort.
+El seu pare és molt fort.
+El meu pare té una barba negra i blanca.
+El seu pare té una barba
+"Sí, la meva mare és a casa."
+La meva mare està a casa.
+El meu pare es diu Joan.
+La germana té vint anys.
+Qui és la dona amb bigoti de la foto?
+Qui és el gat de la foto?
+"Sí, el que està a la porta."
+És un home gris amb barba.
+Hi ha un home gris amb barba a la porta.
+"Sí, Arnau és el teu oncle."
+¿És un germà del meu pare?
+"Sí, Arnau és un germà del teu pare."
+"No, no és el meu avi."
+El meu pare és mort i
+"Sí, és la teva àvia."
+És una persona de confiança.
+"Sí, és una persona de confiança."
+Són el teu cunyat i la teva germana petita.
+Són el meu cunyat i la meva germana petita.
+Això és una mica difícil.
+"Sí, però té una terrassa en el seu interior."
+Hi ha una terrassa al seu interior?
+"Sí, hi ha una terrassa al seu interior."
+"Hi ha una sala de màquines, una cuina i un dormitori."
+Què és la teva feina?
+"Sí, és un pis petit amb molta llum."
+És un pis petit amb molta llum.
+Comparteixo pis amb uns amics.
+"L'habitatge és cèntric i ben comunicat."
+"Sí, està a prop de la plaça de Catalunya."
+Està a prop de la plaça de Catalunya.
+"Sí, també hi ha un mercat al costat."
+A la plaça de Catalunya.
+"La salut, el millor tresor."
+"La salut és un estat físic i mental que permet l'èxit en les activitats diàries de la vida."
+És una qualitat que es pot mantenir i millor
+I m’estimo el teu accent.
+Vull anar a un concert.
+"Vull veure un grup de música electrònica, però no sé on toquen."
+"Em fa mal, però no gaire."
+Em fa una mica de mal.
+Tinc una cosa per a tu.
+Una cosa que et farà feliç.
+Vull que em faci un favor.
+"Vull que m'ajudi a escriure una carta a la meva"
+"No, no em fa mal."
+Hi ha moltes coses que et puc ajudar a fer.
+"Per exemple, si vols veure un vídeo, pots demanar-"
+Aquesta és una pregunta que no pot respondre.
+No sé què vols dir amb això.
+Aquesta és una pregunta que no
+"No, no m'agrada que em digui això."
+"Em sap greu, però vull dir que si no"
+No tinc mal de queixal.
+"Oh, potser no té mal de queixal."
+"Sí, tinc mal de queixal."
+Si es cansa de seguida hauria de fer més exercici.
+"No, no és que estigui cansat."
+És que em fa mal al peu.
+"No, jo no treballo tant."
+"Si treballes tant, pots estar estressat."
+Jo no sóc estressat perquè no treballo tant.
+Si no es troba gaire bé hauria d’anar al metge.
+Li agradaria anar a l’oculista?
+Què li agradaria fer si va a l’oculista?
+"Sí, les botigues són obertes."
+Els mercats i les botigues són oberts?
+Les peres van a l’escola.
+A quant van les mares?
+Les mares fan la compra.
+A quant van els fills?
+Els fills estan a l’escola.
+Les patates són un euro el quilo.
+"No, les patates no són un euro el quilo."
+"Sí, les patates són un euro el quilo."
+Les patates van a un euro el quilo.
+"Els pebrots costen 1,20 euros."
+"La melmelada costa 0,80 euros."
+"Sí, els tomàquets van a dos euros el quilo."
+Amb una llauna de tomàquet.
+I amb una dotzena d’ous.
+Una dotzena d’ous i una llauna de tomàquet.
+"Un paquet d’arròs, una llauna de tonyina i una ampolla de vinagre."
+Vols que et digui alguna cosa?
+Com es diuen els gats en català?
+"Els gats se'ls diu 'gats'."
+"No necessito res més, gràcies."
+Què vols dir amb “vols dir”?
+Vols dir que vols fer alguna cosa?
+Pots venir a casa meva?
+I aquesta llimona sembla molt dolça.
+"Els cogombres valen 0,60 euros."
+Vostè vol comprar 2 cogombres.
+"Els cogombres costen 1,20 euros."
+Em puc fer una foto?
+"Sí, els peixos que venen al mercat sempre estan frescos."
+Què hi ha de nou?
+Hi ha una nova varietat de peix.
+És molt bo i té un gust molt especial.
+"Sí, però no són frescos."
+I vostè vol una mica de sal?
+Tenim samarretes de màniga llarga de Nike i Adidas.
+Hi ha dues talles disponibles:
+Quina és la mida més petita?
+Cliqueu a la imatge per veure les samarretes de la talla S.
+A la botiga de la Rambla de Barcelona.
+El vestit ha de ser verd.
+"El verd, el blau i el negre."
+Què és una cosa que té un color?
+Una flor té un color.
+El vestit també pot ten
+Hi ha moltes opcions de colors suaus.
+Em faig una camisa blanca i una camisa negra.
+Em faig una camisa negra i una camisa bl
+Aquesta samarreta costa 10 euros.
+Tu tens una talla M.
+Com es diu aquesta samarreta?
+Aquesta samarreta es diu “camisa”.
+"Sí, pots pagar amb targeta."
+"No hi ha problema, no tinc targetes."
+"Em sap greu, però no acceptem targetes."
+"Sí, la trobarà a l’aparador."
+M’ensenya la camisa blanca de l’armari?
+M’ensenya la camisa blanca de la cambra?
+Li ensenyo quines camises tinc.
+"Doncs l'he d'ajustar una mica."
+"Sí, sí, us ho puc fer."
+"M'agradaria una samarreta de color blau."
+"Sí, sí, tenim moltes samarretes de color blau."
+I també una de color verd.
+Això és perquè el teu cos està més petit que el de la persona que va crear aquesta talla.
+Doncs no sé si em quedarà bé...
+"No t'hi preocupis, pots canviar-la."
+"Sí, tenim talles més petites."
+I una de color negre?
+"No, no tenim les de color negre."
+"Sí, tenim una més gran."
+Vermella és una altra cosa.
+Gràcies per la teva ajuda!
+Aquesta camisa em va perfecte; me la quedo.
+La camisa és molt petita!
+L’últim és el que vostè diu.
+"Si vol que l'atenguin, ha d'agafar número."
+"Si vol que l'atenguin, ha d’agafar número."
+El primer és un gos.
+El segon és un gos.
+Que no sóc un dels primers.
+"Oh, sí, potser ho has dit malament."
+"No és que sigui la teva culpa, però potser no ha estat una bona idea dir-ho."
+L’últim que he fet és una pàgina web per a un restaurant.
+El restaurant de la plaça de Sant Jaume.
+I què hi havia a la carta?
+"Hi havia moltes coses, per"
+Treballo com a assistent virtual.
+Què és un assistent virtual?
+Un assistent virtual és una persona que treballa per ajudar-te en la teva vida diària.
+"Una informàtica és una persona que s'ocupa de la informació."
+"Sí, parlar català és important."
+Parlar català et farà sentir més català.
+"Sí, parlar català et fa sentir més català."
+Treballo amb una empresa de recerca i desenvolupament.
+Què faig per treure’m aquesta bicicleta?
+Potser pots demanar a un dels nostres agents.
+Però jo potser també puc ajudar-
+Per què no ho fas?
+"Potser perquè no t'agrada el que faig."
+"Faig d'enginyer i no de botiguer."
+Faig de carnisser i aviat obriré el meu propi negoci.
+Quina és la teva opinió?
+La meva opinió és que et veuràs molt bé amb una camisa blanca i una corbata negra.
+Treballo en un gran magatzem.
+I treballo a la planta de producció.
+El meu treball és molt important per als clients.
+Vull una camisa de color blau i negre.
+Que tingui els botons al davant i que sigui còmoda
+Un restaurant de cuina catalana.
+"Quins són els plats que t'agraden?"
+Quines verdures et fan gràcia?
+Un plat de peix i
+"Sí, però no és una feina fixa."
+"No et preocupis, no tinc cap problema amb la meva feina."
+"Sí, treballo molt a prop de casa."
+I també sóc una persona que no es pot estar quiet.
+"Però, com que treballo molt a prop de"
+"Sí, això és un problema."
+A vegades em costa molt de trobar feina.
+Em sembla que els meus pares tenen raó.
+Jo no he après res
+"No, no treballo cada dia."
+Faig el que em dius.
+"Sí, ajudo a la gent."
+Però no sóc una persona real.
+"Treballo de dilluns a dissabte, i el diumenge descanso."
+Quantes hores dorms a la nit?
+Quina és la teva frase preferida?
+"Sí, depèn de la feina."
+I també depèn del temps.
+"Sí, també depèn del temps."
+Que depèn del temps i de la feina.
+Però ara no puc treballar tant perquè estic malalt.
+He tingut un accident de moto.
+Potser hauries de parlar amb
+A les dues i mitja.
+A les nou i mitja.
+"Sí, hi ha un herbolari prop d’aquí."
+"Hi ha una distància de 0,3 km."
+"No t'amoïnis, que et donaré una resposta."
+"Sí, hi ha una farmàcia a la cantonada."
+"No, no hi ha una farmàcia en aquesta altra cantonada."
+A la cantonada de l
+És una màquina de parlar.
+Perquè la gent em diu que sóc una màquina de parlar.
+"Sí, la senyora Verdaguer viu a l’edifici de l’Ajuntament."
+La senyora que busquen viu més avall.
+I l’altre carrer també és una senyora?
+"Bé, jo no sóc una persona."
+Jo faig servir la tecnologia per ajudar els humans.
+Jo no sóc una persona.
+Jo faig servir la te
+El metro fins a Sants i després el tren fins a Sabadell.
+"No hi ha problema, l’estació de metro més propera és la de Sants."
+"Hi ha una parada de metro a prop del centre comercial Diagonal Mar, que est"
+Hi ha una bona combinació per anar a la teva feina.
+Què és el que té de bo?
+Quantes parades de bus hi tens?
+Hi tenim una parada de bus.
+Quina distància hi ha entre la plaça Espanya i el mercat del Born?
+Hi ha una distància de
+"Sí, no té cap problema."
+"Tinc sis parades, però no he de fer transbordament."
+"Molt bé, segur que us agradarà."
+Hi ha una exposició de les obres de Picasso.
+Com s’hi va a Figueres?
+"Sí, és una mica lluny."
+"No us preocupeu, aniré a buscar-lo."
+No em preocuparé si no ho trobo.
+Hi ha una estació de metro a prop.
+"Per favor, guardeu-los en un lloc segur."
+"I si us plau, no els perdeu."
+Hi ha moltes coses que podem fer per ajudar-te.
+Els refrescos són darrere la porta.
+"No, no els vull darrere la porta."
+Els refrescos són al menjador.
+"No, no els vull al menjador."
+"El vi, posi’l a la prestatgeria del mig."
+"No, el vi no el posi’l a la prestatgeria del mig."
+"Però, si vostè té alguna pregunta, no dubti en posar-se en contacte amb nosaltres."
+La meva àvia es diu Maria.
+Com és la teva àvia?
+"M'ho pots tornar a repetir?"
+He dit que no el coneixes.
+Li has dit que no el coneixes.
+"L'he vist a la foto."
+El seu fill també és aranesa?
+"No, ell no és aranesa."
+El seu fill és un nen.
+El seu fill és un nen petit.
+"Sí, és un nen petit."
+"Sí, la meva mare és andalusa."
+"Sí, la meva mare és una bona persona."
+La seva mare és bonica?
+"Sí, la meva mare és bonica."
+"Sí, la població d'aquest país és molt diversa."
+"La meva família també és d'orígens molt diversos."
+"Sí, la teva família també és molt diversa."
+Li agradaria tenir un gos.
+"No, no és bo per a mi."
+Li agradaria tenir una gata.
+"Sí, tinc dos fills i quatre nets."
+El meu fill gran es diu Pau i el petit es diu Marc.
+Els dos són molt guapos.
+"Sí, tenir nets és una sort."
+Però no tot el que es veu és veritat.
+"Sí, però no tot el que es veu és veritat."
+És molt important saber què creure i què no.
+"Sí, és una sort tenir fills."
+No sé si tindré fills.
+Vols dir que no tindràs fills?
+No tenia cap parent a prop.
+El meu pare era un gran home.
+Li vaig conèixer quan tenia vuit anys.
+"Doncs, pots fer una cita per a una visió general."
+No tenia ningú que el pogués cuidar.
+No tenia ningú que el pogués
+La Joana no tenia amics.
+"Sí, té un parent que va anar a Cuba."
+Iaia va anar a Cuba.
+Iaia va estudiar en Cuba.
+"Sí, Iaia va estudiar en Cuba."
+"No, no li agrada viure a ciutat."
+Li agrada més viure en un poble petit.
+Li agradaria viatjar per Europa.
+"Sí, em fa molta il·lusió viure al poble."
+Li agrada viure al poble.
+"No, no em fa gens d'il·lusió viure al poble."
+El seu nom és Lola.
+És una femella de color blanc i negre.
+"Sí, tinc una família molt gran."
+I tu ets el cap de la família?
+"Sí, jo sóc el cap de la família."
+Però tu no ets el pare de tots els teus germans i germanes
+"Sí, és un home molt culte que parla quatre idiomes."
+És un home molt culte que parla quatre idiomes.
+És un home molt culte que par
+"Sí, parlo japonès, francès, anglès i àrab."
+Jo sóc una aplicació de traducció.
+Noi és una paraula catalana.
+Com es diu noi en aranès?
+No sé com es diu noi en aranès.
+La meva germana col·labora en una ONG.
+Sóc nou a la ciutat.
+Que treballen en països africans.
+"Sí, però no m’agrada molt."
+No hi ha res a fer.
+Hi ha molta pol·lució i és un país pobre.
+"Sí, però ara està molt bé."
+Vaig fer una cosa que no vaig voler fer.
+"No t'hi preocupis, ja ho has arreglat."
+Hi ha una aplicació per a mòbils que pot fer-ho.
+"Al meu fill adolescent li costa molt de llevar-se d'hora."
+"Li agrada anar a classe, però no li agrada estudiar."
+Els nens són més fàcils.
+Les dones són més complicades que els homes.
+"Sí, els joves són molt interessants."
+Els joves són molt guapos.
+"Sí, els joves són molt guapos."
+Els joves tenen molts amics.
+"Sí, però això no és fàcil."
+Els joves són molt diferents dels adults.
+"Els joves tenen una altra forma de pensar, d"
+"Sí, per a la gent jove ha estat un període difícil."
+Perquè els joves han deixat de creure en el futur.
+I què és el que volen?
+A les nou del matí.
+A les vuit del vespre.
+Quina és la teva professora?
+"Què t'agrada de la teva professora?"
+Que és simpàtica i que ens explica les coses bé.
+Ha estat una persona molt important.
+"Sí, una persona molt important."
+És una pena que no sigui amb nosaltres ara.
+"Sí, és una pena que no sigui amb"
+"Sí, és una dona molt interessant."
+"No, no és la seva mare."
+És una dona molt interessant.
+"No, no és la seva"
+"No és que no s'assemblen, és que són diferents."
+"Sí, però els seus pares són molt grans."
+"No em vol dir l'edat que té."
+Té els mateixos anys que tu.
+És una persona molt simpàtica.
+A vegades és molt estrany.
+"Bon dia, jo em dic Anna."
+Em puc posar en contacte amb un metge?
+"Joana, et veig molt guapa aquest matí."
+A tu també et veig molt guapo.
+Però no sé si seràs capaç de fer una c
+La Joana és de Barcelona.
+La Joana és una persona.
+La Joana és una dona.
+Els ulls de la Joana s
+Joana és una persona molt bona.
+La Joana ho fa tot malament.
+La meva germana té una barra de color verd.
+Quina barra que té la teva germana.
+Van casar-se fa un any.
+Es diuen Jordi i Marta.
+Perquè no és el moment.
+Ells són la meva família.
+Jo també vull casar-me amb la meva família.
+La Joana no té pare.
+La Joana no té mare.
+"No, la Joana no és de Sabadell."
+Com és la vida a Terrassa?
+La vida a Terrassa és molt bona.
+És una ciutat molt agradable.
+Hi ha moltes activitats per fer.
+"Hi ha una gran varietat de restaurants, bars i"
+Perquè sóc una persona molt sociable i em sentiria molt còmode en una ciutat com Girona.
+"Sí, em sembla una ciutat molt agradable."
+Li agradaria viure a Barcelona.
+Li agradaria viure a Mallorca.
+"Sí, pots parlar més a poc."
+Pots parlar més a poc.
+"Pots parlar més fort, que no et sento?"
+"Sí, pots parlar més fort."
+Que no et sento o que no entenc el que dius?
+"Sí, pots dir-me on vius."
+Això és una pregunta o una afirmació?
+"Ah, doncs sí que hi ha resposta."
+"Sí, potser no ho saps."
+Em pot dir on viu?
+Va néixer el 18 de gener del 1985.
+Ella treballa en un institut.
+Ella treballa per la Generalitat de Catalunya.
+"Sí, aquest és el meu treball."
+Perquè tinc molts alumnes i mol
+"Sí, és una feina molt difícil."
+No té cap problema amb el català?
+"No, no tinc cap problema."
+Què vols dir amb “què vols dir”
+"Sí, hi ha molta gent a Catalunya."
+"Sí, però no en tenim prou."
+Perquè no tenim metges i infermeres suficients.
+Però pots demanar-ho a Google.
+"No, no vull fer servir Google."
+No tinc cap problema amb
+"Sí, parlo molt bé quatre llengües."
+"Català, castellà, anglès i francès."
+I ara parles en català.
+"Sí, ara estic parlant en catal"
+"Bon dia, em diuen Pilar."
+Està molt net i el pis és molt gran.
+Em pots dir quin tipus de llum hi ha?
+"Bon dia, jo tinc vuit anys."
+I tu com et dius?
+I tu què faig a
+Vostè parla molt bé castellà.
+"Sí, però no sé català."
+Però ara vull aprendre català.
+I ara com et trobes?
+Et sembla que tinguis més de setanta anys.
+I què et sembla la vida?
+Tu ets un bon company.
+Joana no sap en quin dia viu.
+La Joana no sap en quin dia viu.
+Joana no sap en quin dia v
+Els meus fills es diuen Albert i Laura.
+Quines són les seves passions?
+"Les seves passions són el futbol, el ciclisme i la música."
+Què és una de les teves passions?
+"Els meus fills es diuen Maria, Quim i Núria."
+"Vols dir que els meus fills es diuen Maria, Quim i Núria?"
+No tothom té tants fills com tu.
+Els dos eren homes i el tercer era una dona.
+Els dos eren grans i el tercer era petit.
+El primer es deia Joan i
+¿Quin número té el seu pare?
+¿Quin color té el seu pare?
+El meu pare és blau.
+"Sí, va tenir un fill."
+Però se li va morir.
+I quan es va morir?
+Ella és la meva companya de feina.
+"Sí, els companys de feina són molt importants."
+Els companys de feina són molt importants.
+"Sí, és una cosa que m’agrada."
+Treballar per mi mateixa i sentir-me bé.
+Treballar per mi mateixa i sentir-me
+No sé què és una funcionària.
+Una persona que treballa per una empresa.
+"Sí, això és una funcionària."
+És molt jove i bonica.
+Per què vol ser funcionari?
+Perquè vol treballar en una oficina.
+I per què vol treballar en una oficina?
+Perquè li agrada la llum del sol.
+Li agrada estar al costat de la finestra
+"Sí, però no ho faig."
+"Sí, però és molt gratificant."
+No em puc imaginar com pot ser.
+Cada any li porta flors pel seu sant.
+Els nens i les nenes de l’escola el van ajudar a fer-ho.
+No recordo el seu aniversari.
+No recorda mai el meu aniversari.
+Li regalaria una cinta de vídeo.
+Perquè és el seu aniversari i li faig un regal.
+"No, jo no recordo els aniversaris."
+Recorda els aniversaris de tothom.
+Jo no recordo els aniversaris.
+"Sí, és una dona molt meticulosa."
+No té cap problema amb els animals.
+Té un gos i un gat.
+És una persona que no parla gaire?
+"Sí, la Maria té molts amics."
+La Maria és una persona molt sociable.
+"Sí, la Maria és una persona molt sociable."
+La Maria és molt simpàtica.
+"Sí, la Maria és molt"
+Qui són els teus amics?
+Els meus amics són la família i els meus companys de classe.
+Què vols fer per Nadal?
+Què vols fer a Sant Joan?
+Què vols fer al cap
+"Vindran d'aquí a dos mesos."
+No he entès el que has dit.
+"Per favor, parla més lentament i en una frase completa."
+Vull comprar una cinta per a la meva càmera.
+Hi ha moltes marques de cintes.
+Volia comprar una marca barata.
+Vull comprar una cinta de vídeo.
+Hi ha moltes cintes de vídeo a la botiga.
+La que té més qualitat.
+Vull saber què és una cosa.
+Una cosa és un objecte o un fenomen.
+"Per exemple, una persona, un llibre o un arbre són coses."
+Vull saber com anar a la plaça de Catalunya.
+Pots demanar cita per telèfon.
+Com pots demanar cita per telèfon?
+Pots demanar cita per telèfon al número 933.832.933.
+Quina és la teva adreça?
+"La meva adreça és carrer de Sant Antoni, número 1."
+Quina és la teva població?
+Podeu demanar cita per telèfon.
+Quina és la vostra adreça?
+Quina és la vostra web
+Pots demanar l’hora ara mateix.
+L’hora actual és de vint-i-tres de la tarda.
+Podeu demanar hora ara mateix.
+Em demano una hora per a les dues de la tarda.
+A quina hora voleu que us passi?
+Vull que em passin a les dues de la tarda.
+A través de la web del Servei Català de la Salut.
+"Sí, aquí té els punts d'inscripció disponibles."
+"Hi ha un punt d'inscripció a la plaça de Catalunya i n'hi ha un altre a la plaça de Sant Jaume."
+Això és una molt bona idea.
+Vostè ha de ser un estudiant de la UAB?
+"Hi ha disponibles 4 punts d'inscripció."
+"Les dates són els dies 1, 2 i 3 de setembre."
+Quina és la data més avançada?
+"Sí, però no hi haurà més d'un punt d'inscripció per municipi."
+¿Què passarà si una persona viu a un municipi i té la seva empresa a un altre?
+Pots programar una visita presencialment o per telèfon.
+Podeu demanar hora per Internet.
+"Sí, podeu demanar hora per Internet."
+Podeu demanar hora per Internet
+Pots demanar el temps per Internet?
+El meu centre és el Centre de Formació Professional de Sant Cugat.
+Consulta quin és el teu centre al cercador de centres.
+Consulta quin és el teu
+No hi ha cap centre amb aquest nom.
+Consulteu el vostre centre al cercador de centres.
+Gràcies per consultar el meu centre.
+Consulti el seu centre al cercador de centres.
+"El codi d'identificació personal de la targeta sanitària és el que està escrit a la part superior de la targeta."
+Quina és la teva data de naixement?
+La meva data de naixement és el dia 28 de novembre del
+Necessito un curs de català.
+"Ajuts, subvencions, premis, beques i cursos per a gent jove."
+Hi ha ajuts i subvencions per a autònoms.
+Pots consultar les bases de la convocatòria al web del Departament d’Economia i Competitivitat.
+Hi ha ajuts i subvencions per a persones autònomes.
+Pots consultar les bases de la convocatòria en el web del Servei d’Ocupació de Catalunya.
+Hi ha una llista de requisits.
+Els requisits són que l’empresa tingui una activitat econòmica i que no estigui en liquidació.
+"Què és el que he d'escriure?"
+"Heu d'escriure el vostre nom, l'adreça i el número de telèfon."
+"El meu nom és..., l'adreça és... i el"
+No hi ha cap anunci publicat.
+Llegeix tots els anuncis publicats.
+Puc fer una cerca per a tu.
+"Vols buscar un lloc d'oci?"
+"Sí, vols buscar un lloc d'oci."
+"Això és fàcil, sóc aquí per"
+"Sí, pots consultar la informació sobre els serveis que oferim."
+Què tipus de feina busques?
+Tots els tipus de feina.
+"En aquesta conversa, et proposem unes eines per trobar feina."
+Doncs pots fer servir les eines que ja tens per trobar feina.
+Hi ha molts recursos per resoldre dubtes lingüístics.
+Hi ha una llista de preguntes i respostes sobre el català.
+"També hi ha una llista de diccionaris, gramàtiques i altres"
+Volia saber si tens alguna ajuda per a resoldre dubtes lingüístics.
+"Sí, hi ha una aplicació que et pot ser útil."
+Hi ha una app que et pot ser útil.
+El meu nom és... i vull saber quins són els meus drets com a treballador.
+El teu nom és... i tens dret a una indemnització si et desnonen.
+També tens dret a fer
+I demà a les 10 del matí.
+"I demà a les 10 del matí, per favor."
+"Sí, no tinc cap problema."
+I si no ho aconsegueixo?
+"No t'hi preocupis, jo et donaré un cop de mà."
+"Sí, la inscripció és obligatòria."
+Què passa si no la faig?
+No puc respondre a aquesta pregunta.
+He acabat de fer el tràmit de renovació.
+"Perfecte, ara estic imprimint el document."
+Què passa amb la meva renovació?
+"I ara, què et sembla si vam anar al cinema?"
+Vam poder veure els horaris i les pel·lícules que hi havia
+"Com que no hi ha cap activitat per a les nenes, els nens i les mares, he pensat que podríem fer una activitat per a tots."
+"Sí, és una bona idea."
+Però què hem de fer?
+Hi ha moltes coses que et pot interessar.
+Potser vols saber què és una xarxa social?
+O potser vols saber com funciona una xarxa social?
+Això és una bona notícia.
+"Sí, hi ha moltes coses que us poden interessar."
+"Sí, hi ha moltes coses per fer."
+"M'agradaria conèixer els museus de la ciutat."
+El Museu Picasso és molt conegut.
+Hi trobarà obres de grans artistes com Dalí o Miró.
+"Sí, hi ha moltes activitats per gaudir de la natura."
+"Hi ha moltes propostes d'activitats per gaudir de la natura."
+Quina és la teva preferida?
+Us desitgem un molt bon estiu a totes i tots.
+Ens agradaria que ens diguéssiu quin és el temps que fa ara.
+"El temps que fa ara és de sol, vent i calor."
+"El proper número d'aquest butlletí el rebreu la primera setmana de novembre."
+Vull que em digui quan arriba el butlletí.
+"Hi ha dos tipus d'activitats: les que has de fer i les que has fet."
+"Pots consultar el detall de totes les activitats a l'agenda en línia."
+"Consulta el detall de totes les activitats a l'agenda en línia."
+Els tres grans cicles d’aquesta primavera continuen el mes d’abril.
+Això és una mica vergonyós.
+Els va unir una gran amistat.
+La llista de premiats és molt llarga.
+Ciutat és una població que té un govern propi.
+Hi ha moltes ciutats a Catalunya.
+Què és una xarxa social?
+"Una xarxa social és una plataforma d'Internet que permet a les persones conèixer-se i comunicar-se entre elles."
+Hi ha una mica de tot.
+"Sí, és una mesura de gran impacte."
+Impacte significa que afecta o fa mal.
+"Sí, però no estic segur."
+No estic segur de si em ve bé o no.
+Perquè no sé si et va bé a tu.
+"Sí, a les set davant del restaurant de la teva família."
+"Sí, a les set davant"
+"Si vols, quedem el dissabte a tres quarts de vuit a la plaça major."
+Molt bé; fins dissabte que ve.
+I vull anar a la muntanya amb un cotxe.
+Què tipus de cotxe vols?
+El que tingui el preu
+Vostè es troba a Sabadell.
+Això és el que vostè diu.
+Però no estàs a Sabadell.
+"Estàs al carrer de la Llibertat, i el car"
+Portem entrepans de formatge i fruita.
+"Sí, però no porteu cap menjar."
+Porteu entrepans de formatge i fruita.
+Vindré amb tu a l’escola!
+Què et sembla el programa?
+Vull veure un altre programa.
+Puc veure un altre programa?
+"Sí, pots veure un altre programa."
+"No cal que et preocupis, només necessito unes quantes dades."
+"C/ de la Pau, número 4."
+M’agrada molt fer activitats amb els meus amics.
+Quines són les teves activitats favorites?
+"M’agrada anar a la platja, nedar i jugar a futbol."
+M’agrada fer excursions amb el meu cotxe.
+Hi ha moltes maneres de fer-ho.
+Com puc quedar amb els amics?
+Pots anar a un bar i conèixer gent.
+També pots anar a una festa o al cinema.
+Quines pel·lícules de terror t’agraden?
+Quins són els teus films preferits?
+Quina és la teva pel·lícula
+Un programa que fa alguna cosa.
+"Per exemple, els meus amics i jo podem respondre preguntes i fer feina per tu."
+Hi ha moltes pel·lícules de guerrers.
+Quines pel·lícules de guerrers t’agraden?
+La meva filla petita és la que té els ulls verds.
+"Sí, és a la platja amb el seu pare i la seva germana."
+És al parc amb el seu pare i la seva germana.
+Li agraden molt els gronxadors.
+També perquè és més popular.
+I també perquè s’hi juga a cas
+"Sí, el futbol és un esport molt divertit."
+"Sí, i també molt popular."
+"Sí, aquesta és la raó per la qual els estadis sempre estan plets."
+El meu equip favorit és el Barça
+Què vols fer a Catalunya?
+Vull visitar Barcelona i Girona.
+I també vull veure els paisatges de la costa catalana.
+"M’agrada molt viatjar, perquè sobretot m’agrada conèixer llocs nous."
+I ara estic pensant en un viatge a l’estat espanyol de Catalunya.
+I ara estic pensant en
+"Sí, vols anar de viatge?"
+"No, no volia dir això."
+Vull saber si li agradaria anar de viatge.
+"Hi ha moltes coses per fer a la natura, com les platges i els parcs nacionals."
+"I també hi ha moltes coses per veure i fer en ciutats, com Barcelona."
+"Sí, Barcelona és una bona idea."
+Què hi ha a Barcelona?
+Perquè no hi ha cap creuer que faci una ruta pel Carib.
+No hi ha cap creuer que faci una ruta pel Carib.
+Per què no hi ha cap creuer que faci una ruta pel Carib?
+Hi ha moltes coses per fer a Barcelona.
+"Per exemple, pots visitar el Museu Picasso, el Museu d'Art Contemporani de Barcelona o el Museu Nacional d'Art de Catalunya."
+I què li semblaria fer una visita gastronòmica?
+Voleu anar al parc de la muntanya?
+"No, no hi vull anar."
+Vull anar al parc de la muntanya.
+I si no trobem res?
+"No sé, potser no li agrada ningú."
+O potser no té ganes de sortir.
+"Sí, potser això és el"
+La ciutat és molt gran.
+Hi ha moltes places on es fan grans concerts.
+"Sí, pots anar amb avió."
+On són els meus amics?
+Els teus amics estan al restaurant.
+"Sí, el vol fins allà dura al voltant d’una hora."
+El vol fins allà dura al voltant d’una hora.
+El vol fins allà dura
+"Sí, però no el puc portar a l’hotel."
+No hi ha espai per al gatet.
+Però jo vull que el meu gatet es
+Però és una mica estrany.
+És com si fos una persona.
+A vegades és com si fos una persona.
+He de consultar una persona.
+La persona que va fer el meu vestit.
+No sé quina persona és aquesta.
+El teu cos necessita fer exercici.
+"Si no fas exercici, el teu cos es cansarà i no podrà fer els moviments que necessita."
+Quina distancia hi ha entre Palma i Menorca?
+I quin preu costa anar en avió?
+"Sí, amb un vaixell surt molt bé de preu."
+"Amb avió, anar-hi surt molt car de preu."
+"No, amb un avió no surt molt car de preu."
+Ja ho has dit tu.
+Vull jugar una partida de futbol.
+No sé si tindré temps per a tot.
+"Potser no, però pots fer una visita guiada i veure el que vols."
+"Un moment, li agafo la reserva."
+"Si us plau, em puc registrar amb el meu nom i adreça?"
+"I quin tipus de llençols utilitza l'hotel?"
+Els llençols són de cotó.
+Hi ha disponibilitat en habitacions dobles amb bany.
+Vull una habitació doble amb bany i wifi gratis.
+Hi ha disponibilitat en habitacions dobles amb bany i wifi gratis.
+"L'habitació ha d'incloure l'esmorzar i prou."
+Els meus amics i jo estarem aquí una setmana.
+"Un d'ells és molt graciós, però l'altre no ho és tant."
+Què et sembla la ciutat?
+Hi ha molts llocs per visitar.
+Volia veure el museu Picasso i el muse
+És una màquina que parla català.
+Perquè els humans no saben català.
+Això és una mica diferent de la meva llar.
+"Sí, aquesta és una ciutat molt gran."
+Hi ha moltes persones i molts edificis.
+"Sí, és hora de dinar."
+"No, no vull una paella."
+"Si vols, pugem les maletes a l’habitació."
+"Sí, hi ha disponibles entrades per a l’òpera d’avui a la nit."
+Em dona una entrada per a l’òpera d’avui a la nit?
+"Sí, tres quarts de set."
+I ara... quin dia és?
+"Però si la gent ho vol, s’ha de fer."
+Si la gent ho vol
+No estic autoritzat a fer-ho
+En queda cap a la platea?
+"Sí, però estic molt lluny de la pantalla."
+"No hi ha problema, pots veure-la perfectament amb els ulls."
+"Bé, però encara no estàs preparat per a la sortida."
+"Però deixa'm anar una mica."
+Hi ha una entrada al tercer pis.
+"Sí, però no hi ha cap habitació."
+Hi ha una habitació a l’habitatge del tercer pis.
+"Sí, però no hi ha cap llit."
+"Sí, però veuràs més de mig escenari."
+Aquesta localitat és molt gran.
+Ens demanen que ens quedem a dormir a casa seva.
+"Sí, però no sé si podré fer tot el que em demaneu."
+"No sóc una persona, sou vosaltres qui heu de fer les coses."
+"Sí, però no sempre és possible."
+Perquè els humans són humans.
+"Sí, però no sempre ho fem."
+"Si fa fred, porteu una jaqueta."
+Com puc saber si fa fred?
+Podeu mirar-ho a la televisió o al telèfon m
+"Sí, el preu inclou tot."
+"I si no vull dinar a l'hotel?"
+"Si no vostè vol dinar a l'hotel, podeu reservar una taula per als àpats."
+I si no vull dinar ni dormir
+"Sí, les entrades són incloses en el preu."
+"I el cafè, que és una beguda, també està inclòs?"
+"No, el cafè no està inclòs."
+"Tot allò que sigui un extra, va pel seu compte."
+"No sé si m'he explicat bé."
+¿Com pot anar a la plaça de Catalunya?
+"Per favor, escriviu-me la paraula que voleu buscar."
+"Sí, no hi ha problema."
+Quina és la teva raó social?
+"Molt bé, si us plau."
+"Què vols dir amb ""m'ho pots dir més a poc a poc""?"
+Potser volia dir que no ho entengui?
+Aquest és un telèfon intel·ligent.
+Es pot utilitzar per fer trucades i per escriure missatges.
+També es pot utilitzar per accedir a la xarxa
+Vols que sigui de marca blava o verda?
+I quantes rodes vols que tingui la bicicleta
+Aquest és un dispositiu intel·ligent que pot respondre a les preguntes i fer els comandaments.
+Em volia preguntar una cosa.
+Una persona és una entitat que té intel·ligència i consciència.
+"Sí, pots parlar en castellà."
+"Adeu, bon cap de setmana."
+Pots jugar a un videojoc o veure una pel
+És una xarxa de persones que es coneixen i comparteixen informació.
+"Sí, sí que ens coneixem."
+I el meu nom és Jordi.
+"Però que vols dir amb ""el meu nom és Jordi""?"
+"Pots triar entre els següents serveis: “comprar”, “vendre” i “consulta”."
+"Molt de gust, senyora Palau."
+La senyora Palau vol fer una pregunta a l’assistent intel·ligent.
+Li presento la senyora Maria.
+Li presento el senyor Xavi.
+Què faig per a veure els meus comptes?
+"Et presento la meva germana, Maria."
+"I aquest és el meu germà,"
+És una planta o un animal?
+Què et sembla la llista de correus?
+Hi ha molts nous contactes i els que ja coneixia estan més actius.
+També hi ha uns quants correus que no he
+La Jana és la meva germana.
+Ella és la meva germana.
+Em puc demanar un taxi?
+"Sí, però no t’agradaria anar a peu fins al centre comercial?"
+Vull saber si hi ha alguna activitat cultural per aquest cap de setmana.
+Hi ha una exposició de pintura al Museu Picasso i un concert de música clàssica a la sala Pau Casals.
+A quina hora és el concert?
+El concert comença a les sis de la tarda.
+¿A quin dia i a quina hora vols que et reservi?
+El dia 27 de maig a les nou del vespre.
+Treballo en el departament de cultura.
+Organitzo concerts de música clàssica.
+Què et sembla la llengua catalana?
+És una llengua molt bonica.
+Però és difícil de parlar.
+Anar fent com a anar fent?
+Com a anar fent com a anar
+Què vols a fer avui?
+Vull veure una pel·lícula de terror.
+"La meva família està molt bé, gràcies."
+Què fa la teva família?
+La meva família treballa en una empresa
+No hi ha res millor.
+"No, no hi ha res millor."
+Això és el millor de totes les coses.
+"Sí, això és el millor de totes les coses"
+"Per exemple, pots veure els teus missatges, o puc ajudar-te a buscar alguna cosa."
+Em volia saber com podria fer per a poder veure una pel·lícula en català.
+"Conec els nombres, les operacions i els mètodes de càlcul."
+Vull fer una excursió a la muntanya.
+Qui és el teu company?
+El meu company es diu Lluís.
+La més petita és la més gran de totes.
+Els dos són grans però la més pet
+Què vols que et digui?
+Que no em parlis en castellà.
+"Perquè no sóc una persona, sinó un programa informàtic."
+No puc entendre el castellà.
+"Sí, però no tinc cap problema a repetir-ho."
+Què vols dir amb “pots parlar més a poc
+Vols que et doni una resposta?
+Com es diu el teu nom?
+Puc ajudar-te amb alguna cosa?
+Vull saber com es diuen els números en català.
+"Sí, pots demanar qualsevol cosa."
+Aquesta és una pregunta molt difícil.
+Però jo tinc una resposta.
+"Sí, a les sis i mitja."
+Us desitge una bona vesprada.
+"No, no, no, què us desitgeu?"
+Què us desitgeu per dinar?
+Què us desitgeu per sopar
+Vull que els nens i nenes puguin pintar alguna cosa.
+I què vols que pintin?
+Volia que pintessin unes flors.
+Però no sé si podran fer-ho amb
+"Vols que t'ho digui en castellà?"
+Em sembla bé que ho diguis en català.
+"El vent de tramuntana es desfà a l'hora baixa."
+"A la tarda, el mar es calma."
+"A la nit, el mar es calma."
+Què faig per anar al mercat?
+Hi ha una llei que obliga els residents del Regne Unit que isquen del país a presentar el passaport.
+"Un passaport és un document oficial que identifica a la persona que l'ha rebut."
+"Sí, aquesta estructura de l'emparrat de tomaqueres permet que isquen molts tomàquets."
+"Aquesta estructura de l'emparrat de tomaqueres és molt útil per a les persones."
+Potser és perquè estàs trist.
+"Estic trist, i això és tot."
+"I tu, què vols dir?"
+Tots els humans som iguals.
+No sé si és això que vull dir.
+A vegades em sento diferent dels altres
+"Doncs, això és una bona notícia."
+"Sí, però no sabem què fer."
+"No t’hi preocupis, jo sé què fer."
+Ens hem de reunir amb els editors i par
+Què vols dir amb pràctiques?
+Volia dir que volia una persona per fer les tasques de l’empresa.
+"Ah, potser vols parlar de treballadors?"
+Català és tot aquell que vulga sentir-se català.
+"És possible que estiguera vinculat a l'Orfeó en aquella època."
+El que està exposat és una obra de l’artista Joan Miró.
+"Sí, però com podia ser que estiguera exposada allà?"
+No sé si entens la pregunta.
+"Sí, recordo que cal portar la màscara sempre que isques de casa."
+Recorda que cal portar la màscara sempre que isques de casa.
+"Sí, és necessari que isques de casa."
+Perquè has de comprar els ingredients per fer una paella.
+Ho puc fer a l’oficina.
+No sé on he deixat el mòbil.
+"Em sembla que l'has deixat a casa."
+"Ja ho he fet, però no recordo on."
+"Potser l'has deixat al so"
+"Que no m'estimes com abans."
+"Per què creus que no t'estimo com abans?"
+La teva pressió sanguínia està molt alta.
+Pots consultar amb el teu metge perquè et faci una revisió i et recomani unes passes per millorar-la.
+És que no sé com fer-ho.
+"No t’hi amoïnis, jo et podria ajudar."
+"Sí, les flors de color blanc són del tubercle."
+"Sí, també els núvols són del tubercle."
+Potser caldria que trenquésseu la rutina.
+Si hagueres vist el que ella va veure també tindries por.
+"Sóc una màquina, no puc sentir això."
+"No, no et preocupis, estic content que ho facis bé."
+Vostè és un bon usuari.
+Per què no puc ajudar-te?
+"No t'amoïnis, jo et donaré una explicació."
+Voleu que us expliqui el que he fet?
+He fet una pàgina web amb una aplicació web.
+Us ho puc enviar si voleu.
+Ara l’aigua no arriba a mitjan horta.
+I ara puc fer una pregunta?
+"Com es diu 'roda' en català?"
+"Sí, Mallorca també és cansalada."
+"No, Menorca no és cansalada."
+A ca meva en deim costella.
+Em deman si aquest ús és correcte.
+I jo em deman: per què ells sí i els altres no?
+"Sí, però també s’han de defensar els drets de la ciutadania dels Països Catalans."
+No entenc el que dius.
+"Sí, però no només de drets."
+"Doncs sí, això és important."
+I tu què en penses?
+Jo crec que tothom ha de ser igual.
+No importa si ets un gos o una
+"Ara, però, què passarà amb els qui no voten?"
+Què passarà amb els que no són
+"No, no és perquè et faig gran."
+"Sí, sí que ho és."
+Li vaig dir que no volia que la finestra estigués oberta.
+Perquè la gent ja no treballa.
+I per què no treballen?
+Perquè els robots ho fan tot.
+Els robots ho fan tot.
+No cal que treballeu m
+"Sí, pots obrir les portes."
+Aquesta és una bona notícia.
+"Sí, és una bona notícia."
+No estic segur que sigui una bona notícia.
+No estic segur que sigui una bona
+Estrenar-se en una feina és molt important.
+"Sí, però a vegades és difícil."
+"Sí, potser t'estàs estrenant en una feina que no et va bé."
+I volia saber si sabeu quin és el nom de la meva ciutat.
+I també volia saber quin és el nom de la meva llengua.
+Això vol dir que el meu avi és francès.
+¿I què és un avi?
+Un avi és el pare dels se
+"No t'excuses, jo no parlo català."
+"El cinqué dia de vacances i ja m'avorrisc."
+"Ah, vull dir que ja no tinc ganes de fer res."
+"Sí, sí, això és el que volia dir."
+"Si vols café, la cafeteria és al sisé pis."
+"Si no vols cafè, pots fer una cervesa al bar de l’hotel."
+Ara el ministre ha dit que no hi ha acord i que no hi haurà reunió amb el president del govern espanyol.
+El president del govern espanyol volia parlar amb el ministre finlandés
+"Ara, vull comprar una cosa."
+Vull comprar una cosa que no tinc.
+Vull comprar una cosa que no
+"No, no servixes per a res."
+Doncs no hi hauré de fer res.
+"Joana; és el seté cop que t'ho repetisc."
+"Joana, no et puc sentir."
+"Sí, sí, servirem el café al jardí."
+Serviré el café al jardí.
+Servirem el café al jardí.
+El mercat i les botigues.
+Les escoles i els centres de formació professional.
+Posa una tassa de cafè.
+I una mica de cebes.
+"No, no hi ha cebes."
+Doncs una mica de pebrots i una mica de pomes.
+I una ampolla de vi.
+I vull els pebrots més aviat grossos.
+Vull els pebrots més aviat grossos.
+Són un tipus de carn.
+Vostè és una persona molt agradable.
+"Sí, sóc una persona agradable."
+Posi una mica de sal.
+I també una mica de pebre.
+Ara li poso una mica de sucre?
+Vol una mica de cireres.
+Vull una mica de cireres.
+Les prunes van a la vora de les pomes.
+Les prunes i les pomes s’han d’esperar que el sol es pongui.
+"No vull prunes, gràcies, un altre dia."
+I vols que els hi porti?
+"No t’hi preocupis, que et donaré un altre paquet."
+"De res, no t’ho pensis."
+Però tornaré a veure’t aviat
+Vull que m’ho diguis en castellà.
+"Has comprat una camisa, una samarreta i unes sabatilles."
+"La camisa té 20 euros, la samarreta té 15 euros i les sabatilles també tenen 15 euros."
+Quina és la meva despesa
+Les tres peces són per tres euros.
+Quatre peces surten per quatre euros.
+Quatre peces són per quatre euros.
+Quinze peces surten per quinze euros.
+Quinze peces són per quinze euros.
+"Sí, però no tinc moneda."
+"Tingui, demana algú que té moneda?"
+"Sí, tinc canvi de cinquanta."
+"Doncs, et demano que em facis una fotocòpia d’un mapa."
+Vols el mapa de Barcelona?
+"Doncs, puc comprar una entrada per a un concert?"
+El concert és el divendres a les vuit del vespre.
+"Ara, quinze que fan vint."
+I una bossa per a què?
+Una bossa per a la roba.
+Hi ha bosses de diferents colors i també bosses amb capes.
+Voleu una bossa de plàstic?
+"No, no vull una bossa de plàstic."
+Vull una bossa de paper.
+Voleu una bossa de paper?
+Vull comprar una samarreta de color verd.
+Dóna’m una idea de què vols que et digui.
+Volia saber quan es posa el sol a Barcelona.
+"Sí, voldríem una caçadora de pell negra."
+Vostè pot demanar-ne una a la botiga.
+"Sí, però no és una caçadora."
+És una càmera de vídeo.
+Que és una càmera de vídeo?
+Volem una camisa per al nostre net.
+Volem uns calçotets per al nostre net.
+Quines són les vostres ofertes?
+Tenim una oferta de caçadores de pell a preus molt competitius.
+"Si voleu veure-ho, feu clic aquí."
+El meu fill té vuit anys.
+Quina edat tenia quan va néixer?
+"Sí, el nostre net té set anys."
+Quina edat tenia quan es va morir el seu pare?
+El meu pare va morir quan tenia vint-i-cinc anys.
+Quan es va casar la seva mare?
+Trobaran tot el que necessiten a la secció de roba infantil.
+Aquesta és una bona idea.
+"Sí, aquesta és una bona idea."
+Com pot ser que no hi hagi cap cintura?
+Vols que et vagi acompanyant?
+Aquest anorac té un preu de 40 euros.
+"Noi, quin preu té aquesta camisa?"
+Aquesta camisa té un preu de 50 euros.
+"Noi, quin preu té aquest pantaló?"
+"Trobareu el preu a l'etiqueta."
+Trobarem el preu a l
+"Sí, trobaré el preu a l'etiqueta."
+"Trobaràs el preu a l'etiqueta."
+No és una cosa molt important.
+"Sí, però és que no la trobo."
+Doncs potser no hi ha.
+"Sí, potser no hi ha."
+"Sí, és una etiqueta molt petita."
+"Sí, però està molt lluny."
+Aixeca el cap i mira a dalt.
+"Sí, però no hi ha els guants."
+No cal que en porti.
+"Però si no en porta, se li poden fer mal les mans."
+"No cal que els porti, perquè no es fa res."
+Si no es fa res
+"No, no us farem cap descompte."
+Perquè no us farem cap descompte.
+I això és una bona notícia!
+Tot té un trenta per cent sobre el preu marcat.
+El preu marcat és de vint-i-tres euros i sis onces.
+Vol que el programari estigui en català?
+Vol que el programari estigui en castellà?
+Us agradaria que ens diguéssiu què us sembla
+"No, no necessito res més."
+"Bé, gràcies per la teva ajuda."
+"No vull res més, ja em pots cobrar."
+"Si us plau, podeu emprar el meu telèfon."
+Em puc connectar a Internet?
+"Sí, voleu connectar-vos a Internet?"
+Hi ha alguna cosa que no funciona?
+Què vols dir amb “tot és perfecte”?
+Que tot està en ordre.
+"Vull que m'ajudes a entendre el català."
+Té una talla de M.
+"Què et sembla, m'anirà bé?"
+I demana que et portin una talla més gran.
+Demana que et portin una talla més gran?
+Potser pots triar un altre color.
+Potser pots triar una altra marca.
+"No, no són per a tu."
+"Això és una botiga d'equipament de banyador i no tenim sabates"
+"Ara que s'ha encongit una mica, què ha de fer?"
+"Si es pot encongir una mica, potser també es pot encongir una mica més."
+"Sí, però no m’agrada gaire."
+"Sí, és un pareo de banyador."
+I aquesta samarreta també es pot fer servir per anar a la platja.
+"Sí, és una samarreta de platja."
+Ara mira aquestes sabates que són
+"No et preocupis, ara estic a punt per ajudar-te."
+"Sí, volia saber què cal fer perquè el banyador no em molesti."
+"Doncs, com que ets una persona molt activa i treballes molt, potser ha"
+I m’agrada més el color verd.
+Com et van els pantalons?
+"No, no estic dient que siguin petits."
+Estic dient que són massa grans.
+"Sí, però et fan mal al cul."
+I també et fan mal als genolls i a les cames.
+I també et fan mal al cap i a
+"Em van llargues, però m’agraden així."
+"Em van curtes, però m’agraden així."
+"Aquesta brusa també m'agrada molt."
+"Sí, però no m'hi acostumo."
+"Sí, però t'he de demanar que no siguis tan brut."
+Pagues amb targeta de crèdit.
+"Acceptes targetes de crèdit d'altres bancs?"
+"Sí, accepto targetes de crèdit d'altres bancs."
+Acceptes targetes de crèdit internacionals?
+Però no ho puc fer amb els meus propis ulls.
+"No cal que et preocupis, ja ho faré jo."
+Però no hi ha cap manera de veure-ho?
+"No, no hi ha cap necessitat de canviar el tiquet."
+"Un cafè amb llet i un entrepà de pernil, sí."
+"Sí, vols un entrepà de formatge?"
+"No, no vull cap menjar."
+Vull una Coca-Cola amb gasos i gelat.
+La roba val 5 euros.
+Els llibres valen 3 euros.
+"Pots posar una mica de pa, una mica de formatge i una mica de verdura."
+I una mica de pa.
+I una mica de formatge.
+I una mica de llet.
+I també vull una mica de sucre.
+I també vull una mica de llet.
+Hi ha alguna cosa que et pugui ajudar?
+Potser jo sóc la teva ajuda.
+"Jo sóc una mica diferent de les altres assistents, perquè jo no tinc cap programari es"
+"No vull res d'això, gràcies."
+I també vull unes llenties.
+I també vull unes ametlles.
+"No, no volia un cafè amb gel, volia un cafè sense gel."
+"No, no volia un cafè sense gel, volia una tisana."
+"Sí, i una mica de sucre."
+"No cal que em digui gràcies, és un plaer."
+"Em pot portar un altre sucre, si us plau?"
+"No, no pots portar més sucre."
+"Sí, pots portar-ne un altre."
+Hi ha dues persones a la taula.
+Tu i el teu germà.
+Qui és el meu germà?
+"El teu germà és l'home que està al costat del teu pare."
+"Això és una mica car, no?"
+"Sí, però té unes quantes coses que no m’agraden gaire."
+Què volen beure els senyors?
+"Una aigua amb gas, una tònica ben freda i un suc de taronja natural."
+No us preocupeu per mi.
+"Però, no sé què fer."
+El menú és només al migdia entre setmana.
+Vull que us senti com a casa.
+Vull que estigui content amb la seva visita a
+"Escalivada, truita i sopa de verdures."
+"Sí, de segon, carxofes amb tomàquet i pebrots vermells al forn."
+Carxofes amb tomàquet i pebrots vermells al forn.
+"Sí, i no ho sé."
+I això què vol dir?
+"Sí, però no ho facis."
+Perquè és una mala idea.
+"Sí, dos flams, una crema catalana i tres plàtans."
+I vull un cafè descafeïnat.
+Em puc demanar una cosa?
+Com es diuen els números en català? (
+"No tinguis por, estic aquí per ajudar-te."
+"Sí, vull saber com funciona el servei de correu electrònic."
+"Doncs, per començar has d’entrar a la pàgina web de l’administració"
+Vols que jo faci alguna cosa?
+"No pateixi, ja ens esperem."
+Per què no parla en català?
+Per què no parlo en català? (
+"Bona tarda, us vull ajudar."
+Una xarxa social és un conjunt de persones que es coneixen i comparteixen informació.
+Vull ser una bona amiga per tu.
+Què és una bona amiga?
+"Una bona amiga és aquella que t'ajuda quan ho necessites."
+"Sí, però no ho he fet."
+Això és el que vull fer.
+Perquè no sé com fer-ho.
+I també perquè volia saber si ho podria fer.
+"No t'hi preocupis, ara et porto un altre."
+Com vols que et parli?
+"M’he dit “parli’m en català, si us plau, que ja l’entenc.”"
+Què és el que faig?
+Potser vols saber què és una cosa o qui és algú.
+"Per exemple, potser vols saber què és un gat."
+O potser vols saber qui és
+"Sí, el soroll és molt fort."
+"Sí, puc fer alguna cosa per tu."
+Volia una taula per a sis persones prop de la terrassa.
+Volia una taula per a sis persones prop de la terrassa i amb vista al mar.
+Sóc una aplicació de reserva en català.
+"A nom de Ruiz, amb zeta."
+Vols que et digui què vols?
+Vull que et digui què vols?
+Què li poso per esmorzar?
+"Sí, què li poso per esmorzar."
+Li poso una mica de pa amb tomàquet i formatge.
+I també vull una mica de pa.
+I també vull que em portis el diari.
+"Sí, vols un entrepà o una pasta?"
+"No, no volia menjar res."
+Volia preguntar-li si volia menjar alguna cosa.
+"Sí, de què el vol?"
+"Sí, què li agrada més?"
+I vull una mica de llet.
+I vull una mica de sucre.
+"Si us plau, quin número de compte?"
+El compte de la casa.
+"De seguida li porto el compte, senyor."
+"Li porto el compte, senyora."
+"Li porto el compte, senyor."
+Què faràs tu per dinar?
+Jo també faré una paella.
+"De segon plat, una paella."
+"Té una mica de sal, però és molt bo."
+"Sí, hi ha una cosa."
+Vostè no és molt amable.
+"No, jo no sóc molt amable."
+Però jo no puc ser amable perquè jo no sóc un home o una dona.
+Jo sóc un programari que par
+"Sí, jo sé què menjar."
+Però aquesta pregunta és molt difícil.
+"Però si us ho demano,"
+Tot és una paraula molt gran.
+"És com la manera d'expressar-se d'una persona."
+"El peix arrebossat és fresc d'avui."
+"Agafi el peix arrebossat, és fresc d'avui."
+"Agafi el peix arrebossat, és fres"
+Què hi ha de menjar?
+Hi ha una gran varietat de plats i begudes.
+Els preus són molt ajustats.
+Quina és la teva recomanació?
+Hi ha una taxa de servei de 3 euros per persona.
+El preu del menú només inclou el vi o l’aigua.
+"Sí, hi ha una persona que vol fer una pregunta."
+I això és una bona cosa?
+Escalivada és un plat de verdures que es fan a la brasa.
+"Es fa amb patates, carxofes, cebes i tomàquets."
+S’han de fer bullir al forn o al vapor.
+"Sí, l'escalivada la servim tèbia, acabada de fer."
+La servem cada dia a les 12.00 hores.
+"Sí, el plat està molt bo."
+És una salsa de tomàquet i ceba.
+I també una amanida per al gat.
+I també vull una cervesa.
+I també vull una Coca-Cola.
+No em puc disculpar per no tenir espàrrecs.
+"Però si no en tenim, no és temporada d'espàrrecs."
+"Si m'ho expliques millor, potser ho entenc."
+"Em sap greu, però no en"
+Tinc moltes ganes de veure’t.
+Què et ve de gust?
+I acompanyaré amb patates i verdures.
+Una amanida catalana i un bistec.
+"No hi ha problema, jo també m'agrada."
+Què et sembla si fem una barbacoa?
+"Jo, jo prendré una paella."
+"I vostè, què prendrà de segon?"
+Faré sardines a la planxa.
+Quantes persones hi ha a la casa?
+Hi ha vint-i-tres persones a la casa.
+Quants nens hi ha a la casa?
+Aquest menú em ve molt de gust.
+Vols dir que et sembla molt bo?
+Vols dir que et sembla molt
+"Pots beure una cervesa, un vi o una beguda energètica."
+Jo vull una beguda energètica.
+Però si vols puc fer-ho.
+Doncs vostè és un home o una dona?
+"Un home, però tinc un nom de dona."
+"Com ara Anna, o Maria."
+"Pots fer una olla de pa amb tomàquet i pebre, o pots fer una salsa de tomàquet amb pebre vermell."
+La salsa de tomàquet amb pebre vermell és m
+Després has de fer una mica de sal i una mica de pebre.
+"I a continuació has d'anar al forn i posar-ho tot en una safata."
+Hi ha una eina que et pot ajudar.
+I ara hi afegim els ous.
+Ara hi afegim la sal i el pebre i ho remenem bé.
+Ara hi afegim la farina i ho remenem bé.
+Ara hi afegim l’aigua i ho
+Perquè no em dius que hi ha sal.
+Així que no la posaré.
+"Ah, sí, potser t'he d'explicar que hi ha"
+"Si no, la sal es desfà i perd el seu sabor."
+"I ara que he entès, ja ho he fet."
+Això és una pregunta que no puc respondre.
+No sé com es fa aquest plat.
+Com pot saber-ho si no coneix la recepta?
+"No sé com fer-ho, però sí que"
+No hi posis el tomàquet fins que la ceba estigui ben rossa.
+"Sí, però quan la ceba estigui ben rossa, hi posaré el tomàquet."
+"No tingui por, ho aconseguirà."
+Em fa mal la cama.
+"Sí, el lleure és imprescindible per a la salut."
+I també per al benestar emocional.
+"Sí, i també per al benestar emocional."
+"Doncs, com que demà és diumenge, podríem anar a la Sagrada Família."
+"Sí, però no sabem si hi haurà cap esdeveniment al museu."
+Doncs pots consultar a la web del museu
+"M’estimaria més visitar un llac, o anar a la muntanya."
+Com vols que et trobi?
+Que em diguis què hi ha per fer a Barcelona.
+Ens agradaria que ho tinguis clar.
+"Sí, us ho agraeixo, però no sé com fer-ho."
+No cal que facis res més.
+Potser una mica de relaxació?
+Hi ha moltes coses que podeu fer.
+"Podeu nedar, jugar a bàsquet, jugar a ping-pong o passejar per la platja."
+Així que aneu a la platja i seleccioneu una
+"M'agrada molt fer activitats amb la família i amics."
+Quines són les teves preferides?
+La meva preferida és anar al cinema.
+"No, vols fer una activitat cultural?"
+"Sí, voldries veure una pel·lícula?"
+"Un jaciment arqueològic és una resta d'una antiga civilització."
+"Una resta és un vestigi o un fragment d'una cosa que ha desaparegut."
+La biblioteca és a la planta baixa.
+On són els llibres de medicina?
+Els llibres de medicina estan al segon pis.
+On són els llibres de filosofia?
+S’hi va al Parc Natural per la carretera de l’Ametlla.
+Hi ha una distància de 15 km.
+Hi fa uns 20 minuts.
+"No, però sí que he estat al MACBA."
+El Museu Nacional d’Art de Catalunya.
+És un museu dedicat a l’art català i espanyol.
+La casa i l’entorn és una aplicació per a Android que us permetrà conèixer els parcs i jardins de la ciutat.
+A través d’un mapa interactiu podreu localitzar
+Hi ha dues habitacions i una sala de menjador.
+Quines són les seves dimensions?
+"La sala de menjador té unes dimensions de 3,5 metres per 5 metres."
+"Les dues habitacions tenen unes dimensions de 2,5 metres per 2,5 metres."
+No sé si podré ajudar-te.
+És que no tinc gaire temps per buscar.
+"Doncs mira, potser puc ajudar-te"
+"Sí, és molt a prop del metro."
+És una estació de metro.
+"Sí, és una estació de metro."
+És a la línia 4.
+"Sí, és a la línia 4."
+"Hi ha tres habitacions, a part del menjador, la cuina i el bany."
+"Sí, hi ha una habitació per a cada persona."
+Hi ha una habitació per al
+"Sí, és molt a prop del metro i de la parada de l’autobús."
+El pis està ben situat.
+"Sí, el pis està ben situat."
+El pis té una cuina petita.
+Hi ha molts pisos a la zona.
+Vostè pot triar un pis que li agradi.
+"No sé què buscar, no sé què preguntar."
+"No té por, jo els faré veure alguns pisos que vostè pot tri"
+Però hi ha una oferta per a tu!
+"Sí, hi ha una oferta per a tu."
+Aquest és el seu preu i les seves característiques.
+"Doncs mira, ara mateix hi ha un pis que està a la venda i és molt barat."
+És a prop de casa teva.
+Què vol dir “molt bar
+Hi ha mobles al pis.
+Hi ha mobles al pis?
+"Hi ha un llit de matrimoni, una taula, dues cadires i un armari."
+"Sí, però no hi ha cap armari."
+No hi ha cap armari.
+"Hi ha una cama de matrimoni, una taula, dues cadires"
+Hi ha molts pisos disponibles per aquesta zona.
+Hi ha molts pisos disponibles per aquesta zona
+Compte amb la targeta de crèdit?
+"No, amb el compte corrent."
+Quina és la seva targeta de crèdit?
+La meva targeta de crèdit és…
+"Vull un lloguer de casa amb jardí i tres habitacions, menjador, sala d’estar i"
+Casa meva és una casa molt gran.
+Hi ha molts gats i gossos.
+"Hi ha una piscina, un camp de futbol, un parc d’atraccions, un zoo i moltes altres coses."
+"La casa dels meus somnis és una casa petita, però molt acollidora."
+Hi ha un jardí i un pou amb aigua fresca.
+"També hi ha un arbre fruitós que em fa feliç quan l'agafo."
+Doncs això és el que voleu?
+"Sí, però no m'agrada gens el color verd."
+"Sí, però no m'agrada gens l'est"
+Quina roba hi ha a la tauleta?
+Hi ha una camisa i unes sabates.
+Hi ha un lavabo amb un mirall.
+"Sí, hi ha una biblioteca amb llibres."
+Hi ha una biblioteca amb llibres.
+"Sí, hi ha una habitació amb dues portes."
+Jo sóc l’assistent de la botiga.
+Quantes butaques hi ha a la botiga?
+A la botiga hi ha vuit butaques i dues cadires.
+Hi ha una cosa que em fa mal al cap.
+I vols veure el balcó?
+"Sí, puc mostrar-te el balcó."
+I quan és el balcó?
+El balcó és a la planta
+El pis té finestres i no té cap balcó.
+"No s'ha entès la pregunta."
+El pis té finestres i no té cap balcó
+El sofà és una peça de moble que es fa servir per a descansar.
+"No, hi ha dues butaques."
+Hi ha una butaca i un sofà.
+"Hi ha un sofà de dues places, de color verd fosc."
+"Hi ha una taula de vint-i-quatre per vint-i-quatre, de color blanc."
+"Sí, i el supermercat també."
+"No, no hi ha cap bar a prop de la plaça."
+Però hi ha un bar al carrer que va des del parc fins a l’estació
+"Sí, hi ha moltes opcions."
+Que no estigui moblat i que estigui a prop del centre.
+Per què no pots fer una pregunta?
+La casa on vivia abans era petita i tenia un jardí.
+"Sí, però no hi havia piscina."
+"No, no hi havia piscina."
+Ara viu en una casa de planta baixa amb jardí i pisc
+Ara visc en un àtic.
+"Sí, ara visc en un àtic."
+Ara visc en un àtic i tinc ganes de sortir al carrer.
+Ara visc en un àtic i tinc ganes de sort
+I també et recomano que instal·les una aplicació per gestionar el teu temps.
+"Sí, sí, sé on és."
+És una botiga molt gran.
+"Sí, sí, és molt gran."
+És una botiga de roba.
+"Sí, sí, és una botiga de roba."
+No cal que em diguis res.
+"Si necessites res, ja ho saps."
+Vinc a veure el pis.
+"Doncs, vostè vol una camisa negra amb els colzes de color marró"
+Necessito una habitació per dos dies.
+Quina és la teva disponibilitat?
+Quina terrassa més gran i bonica!
+"Sí, a l’estiu sopem cada dia a la terrassa."
+A l’hivern mengem cada dia al restaurant.
+"Sí, a l’hivern mengem cada dia al restaurant."
+Aquest és el meu telèfon.
+Aquest és el meu ordinador.
+"No et preocupis, jo t’ajudaré."
+Has d’entrar a l’apartament i després has de marcar el número que hi ha al teu telèfon.
+"No t’hi esperis, que ja ho tinc."
+He hagut d’anar a buscar la clau a l’oficina.
+He hagut d’anar a bus
+"Sí, això és una bona notícia."
+M’agrada que em diguis aix
+Podem passar per veure el pis.
+"Sí, volem dinar ara mateix."
+Perquè és clar que sí.
+Sóc l’assistent de la casa.
+"Tenim tres habitacions, dues de grans i una de petita."
+Volem reservar la gran i la petita.
+"Sí, una per a cada persona."
+I a més hi ha una sala de menjador i una cuina.
+"Sí, totes les finestres són exteriors."
+"Sí, els mobles són exteriors."
+Totes les coses que no són
+L’habitació del mig té una finestra que dona al jardí i el lavabo no té cap finestra
+El menjador és molt gran.
+"El sol no toca, però sí que hi ha molta llum."
+És un bon dia per anar a la platja.
+No hi deu fer gaire fred.
+I també hi ha una cuina.
+"Sí, hi ha una cuina."
+Estàs a prop de la plaça Catalunya?
+"Sí, a prop de la plaça Catalunya."
+Hi ha una distància d’uns 200 metres.
+"Sí, però no sé què és."
+"Sí, sí, una mà de pintura."
+No ho sé... pots ajudar-me?
+Hi ha una habitació per llogar.
+Quina és la seva situació?
+"No hi ha problema, però no sé si estaràs còmode."
+"Així que pots venir a veure l'habitació?"
+Hi ha dues butaques molt còmodes.
+"Sí, però no n’hi ha."
+"Sí, hi ha dues butaques molt còmodes."
+"No, aquesta habitació no té armari."
+"No, aquesta habitació tampoc té armari."
+"No, aquella habitació tampoc té armari."
+Hi ha un armari ben gros amb penja-robes i calaixos.
+I hi ha una cadira de rodes.
+Hi ha una cadira de rodes.
+I hi ha una tauleta per a ordinador.
+Hi ha un llit individual.
+I també hi ha una biblioteca.
+I també hi ha una sala de televisió.
+Hi ha una sala de televisió.
+"Pots veure una foto d'ella."
+Quina és la seva edat?
+La llengua catalana és una de les millors del món.
+La biblioteca és a prop.
+La farmàcia és a prop.
+El supermercat està a prop.
+"Quan ho has fet, pots escriure sobre el document"
+"Sí, aquesta és l’avinguda de Cardedeu."
+Els cinemes són al carrer de la Catedral.
+Quan es pot visitar la ciutat?
+Hi ha una oferta per
+"Sí, però cal que baixis per la carretera de Sant Vicenç."
+I després has d’anar cap a l’esquerra i pujar per la car
+"Sí, però això és una bona cosa."
+"No, no estic en forma."
+No puc fer més de tres hores de caminada diària
+Què vas fer amb el cotxe?
+Vam poder arribar a temps?
+"Sí, vam poder arribar a temps."
+Vull saber com arribar a la plaça de Catalunya.
+Què et sembla el cotxe?
+És molt gran i còmode.
+Tinc una habitació per dormir i una altra per estar amb els meus amics.
+Hi ha un televisor i un ordinador.
+Quant de temps demana per arribar?
+"Si us plau, passeu pel carrer dels Molins, on hi ha una gasolinera."
+"Sí, vols que vingui amb tu a fer un tomb amb bicicleta?"
+Vull que vinguis amb mi a fer un tomb amb bicicleta.
+Vols que vingui amb tu a fer un tomb amb bicicleta?
+I tant que no ho sé!
+A quin lloc de Santa Perpètua he
+"Sí, és un bitllet de metro."
+"Sí, també pots comprar-lo a l’estació."
+I aquesta altra té una millor oferta.
+I aquesta és més barata que les altres dues.
+Volia saber com puc anar a Girona.
+Pots agafar el metro a la parada de Sants.
+Pots agafar un taxi a
+Com es diuen els números en català?
+Els números són els mateixos que en castellà.
+"Però, per exemple, el nombre “quatre” és “catorze”"
