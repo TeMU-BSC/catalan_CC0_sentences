@@ -4,22 +4,21 @@ Hola, vull fer-me sòcia del club.
 Si vol ser soci, ha d'omplir aquest formulari.
 He de portar alguna foto de carnet?
 Esperi's un moment que li faig el carnet.
-En aquesta biblioteca puc consultar Internet de franc?
+Bona tarda. En aquesta biblioteca puc consultar Internet de franc?
 Si és sòcia de la biblioteca, pot consultar Internet i moltes altres coses.
 Ja soc soci del club.
-Si vol jugar a pàdel,
-reservi pista en aquell ordinador.
+Si vol jugar a pàdel, reservi pista en aquell ordinador.
 Per enviar diners a un familiar, què he de fer?
 Sap el número de compte?
 Sí, miri, és aquest: tres cinc sis vuit nou zero sis set vuit cinc cinc quatre cinc.
 Li cobrarem una comissió.
 Demà mateix tindrà els diners que li han enviat.
-Els serveis que ens fan la vida més fàcil.
+Els serveis que ens fan la vida més fàcil. O no.
 Emplena el formulari per trobar la cartera que has perdut.
 Quina és la maleta que has perdut?
 Quina bossa de mà et sembla que és millor per anar de viatge?
 Què he de fer per instal·lar un telèfon a casa?
-Encarrega a un fuster que et faci els mobles de casa.
+Encarrega a un fuster que et faci els mobles de casa. 
 Com han de ser els mobles que t'han de fer?
 El telèfon d'atenció al client és el nou-cents trenta-dos trenta-dos trenta-dos.
 Pots trucar-nos al telèfon nou-cents deu trenta cinquanta.
@@ -47,20 +46,20 @@ L'assistència a les víctimes d'un delicte té el número: nou-cents seixanta-u
 El meu DNI és el 35043765F.
 El DNI del meu germà és el 64842659G.
 El DNI de l'àvia era el 58395465T.
-Setembre: essa, e, te, e, ema, be, erra,
-'Setembre' en valencià es lletreja: esse, e, te, e, eme, be, erre,
-: o, ce, te, u, be, erra, e.
-Novembre: ena, o, ve baixa, e, ema, be alta, erra,
+Setembre: essa, e, te, e, ema, be, erra, e.
+'Setembre' en valencià es lletreja: esse, e, te, e, eme, be, erre, e.
+Octubre: o, ce, te, u, be, erra, e.
+Novembre: ena, o, ve baixa, e, ema, be alta, erra, e.
 'Novembre', en valencià es lletreja: ene, o, ve baixa, e, eme, be alta, erre, e.
-Desembre: de, e, essa, e, ema, be alta, erra,
-'Desembre', en valencià es lletreja: de, e, esse, e, eme, be alta, erre,
+Desembre: de, e, essa, e, ema, be alta, erra, e.
+'Desembre', en valencià es lletreja: de, e, esse, e, eme, be alta, erre, e.
 Setmana: essa, e, te, ema, a, ena, a.
-'Setmana' en valencià es lletreja: esse, e, te, eme, a, ene,
+'Setmana' en valencià es lletreja: esse, e, te, eme, a, ene, a.
 Dilluns: de, i, ela, ela, u, ena, essa.
 Dilluns: de, i, ela doble, u, ena, essa.
 'Dilluns' en valencià es lletreja: de, i, ele, ele, u, ene, esse.
 'Dilluns' en valencià es lletreja: de, i, ele doble, u, ene, esse.
-Dimarts: de, i, ema, a, erra, te,
+Dimarts: de, i, ema, a, erra, te, essa
 'Dimarts' en valencià es lletreja: de, i, eme, a, erre, te, esse.
 Dimecres: de, i, ema, e, ce, erra, e, essa.
 'Dimecres' en valencià es lletreja: de, i, eme, e, ce, erre, e, esse.
@@ -68,16 +67,16 @@ Dijous: de, i, jota, o, u, essa.
 'Dijous' en valencià es lletreja: de, i, jota, o, u, esse.
 Divendres: de, i, ve baixa, e, ena, de, erra, e, essa.
 'Divendres' en valencià es lletreja: de, i, ve baixa, e, ene, de, erre, e, esse.
-Dissabte: de, i, essa, essa, a, be alta, te,
-'Dissabte' en valencià es lletreja: de, i, esse, esse, a, be alta, te,
-Diumenge: de, i, u, ema, e, ena, ge,
-'Diumenge' en valencià es lletreja: de, i, u, eme, e, ene, ge,
-Motxilla: ema, o, te, ics, i, ela, ela,
-Motxilla: ema, o, te, ics, i, ela doble,
-'Motxilla' en valencià es lletreja: eme, o, te, ics, i, ele, ele,
-'Motxilla' en valencià es lletreja: eme, o, te, ics, i, ele doble,
+Dissabte: de, i, essa, essa, a, be alta, te, e.
+'Dissabte' en valencià es lletreja: de, i, esse, esse, a, be alta, te, e.
+Diumenge: de, i, u, ema, e, ena, ge, e.
+'Diumenge' en valencià es lletreja: de, i, u, eme, e, ene, ge, e.
+Motxilla: ema, o, te, ics, i, ela, ela, a.
+Motxilla: ema, o, te, ics, i, ela doble, a.
+'Motxilla' en valencià es lletreja: eme, o, te, ics, i, ele, ele, a.
+'Motxilla' en valencià es lletreja: eme, o, te, ics, i, ele doble, a.
 Bicicleta: be alta, i, ce, i, ce, ela, e, te, a.
-'Bicicleta' en valencià es lletreja: be alta, i, ce, i, ce, ele, e, te,
+'Bicicleta' en valencià es lletreja: be alta, i, ce, i, ce, ele, e, te, a.
 Gronxador: ge, erra, o, ena, ics, a, de, o, erra.
 'Gronxador' en valencià es lletreja: ge, erre, o, ene, ics, a, de, o, erre.
 Diürn: de, i, u amb dièresi, erra, ena.
@@ -85,14 +84,13 @@ Diürn: de, i, u amb dièresi, erra, ena.
 Tobogan: te, o, be alta, o, ge, a, ena.
 'Tobogan' en valencià es lletreja: te, o, be alta, o, ge, a, ene.
 Música: ema, u amb accent tancat, essa, i, ce, a.
-'Música' en valencià es lletreja: eme, u amb accent tancat, esse, i, ce,
+'Música' en valencià es lletreja: eme, u amb accent tancat, esse, i, ce, a.
 Pel·lícula: pe, e, ela geminada, i amb accent tancat, ce, u, ela, a.
-'Pel·lícula' en valencià es lletreja: pe, e, ele geminada, i amb accent tancat, ce, u, ele,
-Espectacle: e, essa, pe, e, ce, te, a, ce, ela,
-'Espectacle' en valencià es lletreja
-: e, esse, pe, e, ce, te, a, ce, ele, e.
+'Pel·lícula' en valencià es lletreja: pe, e, ele geminada, i amb accent tancat, ce, u, ele, a.
+Espectacle: e, essa, pe, e, ce, te, a, ce, ela, e.
+'Espectacle' en valencià es lletreja: e, esse, pe, e, ce, te, a, ce, ele, e.
 Lectura: ela, e, ce, te, u, erra, a.
-'Lectura' en valencià es lletreja: ele, e, ce, te, u, erre,
+'Lectura' en valencià es lletreja: ele, e, ce, te, u, erre, a.
 El cognom 'Teixidor' es lletreja te, e, i, xeix, i, de, o, erra.
 El cognom 'Teixidor' es lletreja te, e, i, xeix, i, de, o, erre en valencià.
 El cognom 'Teixidor' es lletreja Tarragona-Ebre-Igualada-Xina-Igualada-Dinamarca-Òscar-Ramon.
@@ -106,10 +104,10 @@ Medicament: ema, e, de, i, ce, a, ema, e, ena, te.
 'Medicament' en valencià es lletreja: eme, e, de, i, ce, a, eme, e, ene, te.
 Medicament: Mallorca, Ebre, Dinamarca, Igualada, Carme, Andreu, Mallorca, Ebre, Narcís, Tarragona.
 Pomada: pe, o, ema, a, de, a.
-'Pomada' en valencià es lletreja: pe, o, eme, a, de,
+'Pomada' en valencià es lletreja: pe, o, eme, a, de, a.
 Pomada: Prada, Òscar, Mallorca, Andreu, Dinamarca, Andreu.
 Crema: ce, erra, e, ema, a.
-'Crema' en valencià es pronuncia: ce, erre, e, eme,
+'Crema' en valencià es pronuncia: ce, erre, e, eme, a.
 Crema: Carme, Ramon, Ebre, Mallorca, Andreu.
 Antibiòtic: a, ena, te, i, be alta, i, o amb accent obert, te, i, ce.
 'Antibiòtic' en valencià es lletreja: a, ene, te, i, be alta, i, o amb accent obert, te, i, ce.
@@ -138,7 +136,7 @@ Com et dius?
 Don és vostè?
 Soc de Madagascar.
 Perdoni, que mentén?
-Jo també parlo català.
+Sí. Jo també parlo català.
 Qui és aquell noi dallà?
 És el meu ajudant.
 Com et dius, tu?
@@ -146,10 +144,10 @@ Em dic Pau.
 Com es diu, vostè?
 Soc la senyora Verdú.
 Donam les teves dades personals.
-Em dic Richard Schubert.
+Em dic Richard Schubert. 
 Tinc trenta-vuit anys.
-Soc de Colònia.
-Ara visc a Catalunya.
+Soc de Colònia. 
+Ara visc a Catalunya. 
 I tu, don ets?
 Quants anys té?
 Com es diu de nom, i de cognom?
@@ -168,11 +166,11 @@ Quina festa és disset dies després de la Puríssima?
 Em llevo a les sis cada dia.
 Esmorzo a les set, escoltant la ràdio.
 Entro a treballar a les nou en punt i surto quan puc, que acostuma a ser molt tard.
-a les dues del migdia.
+Dino a les dues del migdia.
 Plego de treballar a quarts de sis.
 Sopo a dos quarts de nou.
 I tu, quin horari fas habitualment?
-A quina hora dina la gent habitualment a la ciutat on vius?
+A quina hora dina la gent habitualment a la ciutat on vius? 
 Quin horari fa el metro de Barcelona?
 A quina hora tanquen les botigues a l'estiu?
 I a l'hivern?
@@ -184,58 +182,58 @@ Quan estarà llest?
 D'aquí a vint minuts.
 Vaig a fer un encàrrec i torno de seguida.
 D'acord, fins ara.
-Senyora Martina, soc l'electricista.
+Senyora Martina, soc l'electricista. 
 Quan li va bé que vingui?
 Ara mateix pot venir, si vol.
-Ara no puc perquè se m'ha espatllat la furgoneta.
+Ara no puc perquè se m'ha espatllat la furgoneta. 
 Què li sembla a primera hora de la tarda?
-Em va bé.
+Em va bé. 
 Seré a casa.
 Què he de fer ara?
 Ja has acabat?
 Sí, ja he acabat; ho he fet ràpid.
 Ja que tens temps, ara renta aquell cotxe.
-Els dilluns són horrorosos.
+Els dilluns són horrorosos. 
 Maria, has vist l'albarà?
 L'albarà el tens sobre la taula.
-Ah, és aquí.
-He de fer la factura i no em funciona l'ordinador.
-Pots fer la factura d'aquesta senyora?
+Ah, és aquí. 
+He de fer la factura i no em funciona l'ordinador. 
+Pots fer la factura d'aquesta senyora? 
 Paga al comptat.
 Ja me n'encarrego jo.
 Per cert, quan puguis, s'han d'endreçar aquests armaris.
 Com ho he de fer?
-S'ha de fer per dates.
-El més vell al davant i el més nou al darrere.
+S'ha de fer per dates. 
+El més vell al davant i el més nou al darrere. 
 Vols que t'ajudi?
 Puc fer festa demà?
 Demà fem balanç i no et puc donar festa.
-Puc sortir mitja hora abans?
+Puc sortir mitja hora abans? 
 Plego abans perquè operen la meva mare.
 Bona tarda, he llegit el seu anunci i m'agradaria treballar en la seva empresa.
 Ha treballat alguna vegada en una botiga?
 Sí, com a dependenta a la botiga de robade la meva família, a Girona.
 Has treballat en algun bar o restaurant?
 També, els estius faig de cambrera.
-Busquem una persona que tingui flexibilitat horària, perquè no sempre hi ha feina.
+Busquem una persona que tingui flexibilitat horària, perquè no sempre hi ha feina. 
 A vegades hi ha molta gent, i a vegades, gens.
-A mi ja em va bé.
+A mi ja em va bé. 
 Puc treballar a temps parcial o només el cap de setmana, com els vagi millor.
 Quan pot començar a treballar?
 Puc venir a treballar demà mateix.
 Bon dia, truco per l'anunci que he llegit de professora de xinès.
-No sé si també els puc servir jo.
-Busco feina, sap?
+No sé si també els puc servir jo. 
+Busco feina, sap? 
 Vaig néixer a Kabul.
-Tinc trenta anys.
-La meva mare és catalana.
-Vaig estudiar al Liceu Francès.
-He fet de professor durant tres anys.
+Tinc trenta anys. 
+La meva mare és catalana. 
+Vaig estudiar al Liceu Francès. 
+He fet de professor durant tres anys. 
 Parlo bé l'àrab, el francès, l'anglès, el castellà i el català.
 Com et trobes?
 Estic molt millor, gràcies.
 Em trobo molt bé, gràcies.
-No em trobo gaire bé.
+No em trobo gaire bé. 
 Aniré al metge aquesta setmana.
 Me'n vaig al metge ara mateix.
 Què et passa?
@@ -249,9 +247,9 @@ Molt bé, i tu?
 I la teva promesa, està bé?
 Sí, es troba bé tot i que està una mica cansada.
 Esperem un altre fill i això ens fa molta il·lusió.
-Felicitats pel nou embaràs.
+Felicitats pel nou embaràs. 
 Dona-li molts records.
-Per demanar hora?
+Bon dia. Per demanar hora?
 Em permet veure la targeta sanitària?
 Demà a les nou li va bé?
 Demà a les nou et va bé?
@@ -259,34 +257,34 @@ Demà a les nou us va bé?
 No em pot visitar avui la doctora?
 L'haurà de visitar el metge d'urgències.
 És la seva primera visita?
-Tens algun problema de salut important?
-Què li passa?
+Tens algun problema de salut important? 
+Què li passa? 
 Què et passa?
 Em fa molt mal el cap i tots els ossos del cos.
-Treu-te la roba i posa't aquesta bata.
+Molt bé. Treu-te la roba i posa't aquesta bata. 
 Li farem una revisió general.
 Senyor Garriga, ja pot passar.
 Vagi a la sala d'espera.
 Què li passa al pacient de l'habitació tres?
-He caigut per les escales i no puc posar el peu a terra.
+He caigut per les escales i no puc posar el peu a terra. 
 Tinc el turmell inflat.
 Posi's aquesta pomada i faci repòs durant una setmana.
-La meva filla té molt mal de coll, tos, mocs...
+Bon dia. La meva filla té molt mal de coll, tos, mocs...
 Sisplau, obre bé la boca.
 No tinguis por, no et farà mal.
 Sí, vol el carnet de vacunació?
-Tinc molt de malestar.
+Bona tarda. Tinc molt de malestar.
 Quins símptomes té?
 Em sento trist i decaigut.
 Fa molt de temps que es troba així?
 Des de fa tres mesos.
-No es preocupi, segur que el podem ajudar.
+No es preocupi, segur que el podem ajudar. 
 L'ajudarem perquè no senti dolor.
 Té aquest xarop?
 Només li puc donar aquest xarop si em porta la recepta?
-Em deixa la targeta sanitària?
-Tingui la meva targeta sanitària.
-La casa i l'
+Em deixa la targeta sanitària? 
+Tingui la meva targeta sanitària. 
+La casa i l'entorn 
 Com es diu el teu pare?
 El meu pare es diu Pere.
 I la teva mare?
@@ -308,13 +306,14 @@ Com és casa teva?
 Comparteixo pis amb uns amics.
 Casa meva és cèntrica i està ben comunicada.
 A quin pis vius?
-Visc al 3r 1a.
+Visc al 3r 1a.	
 Visc al principal.
 La salut, el millor tresor.
 Com et trobes?
-Ja no em fa mal res.
+Millor. Ja no em fa mal res.
 Què tens, maco?
 Senyor González, ja pot passar.
+Pitjor. Em marejo.
 On et fa mal?
 A la panxa.
 Què li passa?
@@ -336,28 +335,29 @@ Un paquet d'arròs, una llauna de tonyina i una ampolla de vinagre.
 Què vol, senyora?
 Un manat de ceba tendra i una col.
 Alguna cosa més?
-No necessito res més, gràcies.
+No necessito res més, gràcies. 
 Què li dec?
 Sí tenim te en sobres i també a granel.
 Té tomàquets madurs?
 Aquests tomàquets semblen verds, però maduren molt ràpid.
 Quant valen els cogombres?
+Un euro amb cinquanta cèntims el quilo. 
 És fresc, el peix?
-Sempre tenim peix acabat d'arribar.
+Sempre tenim peix acabat d'arribar. 
 També podem oferir-li peix congelat.
 Tenen samarretes de màniga llarga?
 De quina talla necessita les samarretes?
 Necessito una talla mitjana.
 De quin color ha de ser el vestit?
-Em compro la roba sempre de colors suaus.
+Em compro la roba sempre de colors suaus. 
 Quant val aquesta samarreta?
 Puc pagar amb targeta?
 No acceptem targetes, ho sento.
 M'ensenya la camisa blanca de l'aparador?
-De seguida li ensenyo quines camises tinc.
+De seguida li ensenyo quines camises tinc. 
 Es vol emprovar la camisa, senyor?
-Sí, si us plau, m'agradari emprovar-me-la.
-Ui, aquesta talla em va massa ampla!
+Sí, si us plau, m'agradari emprovar-me-la. 
+Ui, aquesta talla em va massa ampla! 
 Tenen una talla més petita?
 Sí, tinc la camisa amb una talla menys, però és vermella.
 Aquesta brusa em va perfecte; me la quedo.
@@ -368,52 +368,52 @@ Jo soc l'últim que ha arribat.
 L'últim, si us plau?
 Aquesta senyora és l'última.
 De què treballes?
-Soc informàtica, però ara no treballo.
+Soc informàtica, però ara no treballo. 
 Parlar català t'ajudarà a trobar feina.
 Soc professora d'anglès.
 De què treballes?
 Faig de botiguer, però soc enginyer.
 Faig de carnisser i aviat obriré el meu propi negoci.
-Treballo en un gran magatzem.
+Treballo en un gran magatzem. 
 Soc l'encarregat de la botiga.
-Treballo en un restaurant.
+Treballo en un restaurant. 
 Soc la cuinera.
 Treballes a prop de casa?
-Sí, treballo molt a prop de casa.
+Sí, treballo molt a prop de casa. I tu?
 Jo treballo força lluny d'on visc.
 Treballes cada dia?
 Treballo de dilluns a dissabte, i el diumenge descanso.
 Quantes hores treballes a la setmana?
-Depèn de la feina.
+Depèn de la feina. 
 Normalment, treballo moltes hores.
 A quina hora comences a treballar?
-a les vuit del vespre.
+Començo a les vuit del vespre.
 I a quina hora acabes?
-a les vuit del matí.
+Acabo a les vuit del matí.
 Saps si hi ha un herbolari prop d'aquí?
-No, ho sento, no ho sé.
+No, ho sento, no ho sé. 
 En aquesta cantonada hi ha una farmàcia.
-Gràcies per la informació.
+Gràcies per la informació. Adeu.
 Disculpi, portem la compra del mercat de la senyora Verdaguer.
 Vostè sap on viu la senyora Verdaguer?
-La senyora que busquen viu més avall.
-Em sembla que s'està al número vint-i-quatre d'aquest mateix passatge.
+La senyora que busquen viu més avall. 
+Em sembla que s'està al número vint-i-quatre d'aquest mateix passatge. 
 Aquest és el número vuit.
 Com vas a la feina?
 Agafo el metro fins a Sants i després el tren fins a Sabadell.
 Hi ha bona combinació per anar a la teva feina?
 Quantes parades de metro hi tens?
 Tinc sis parades, però no he de fer transbordament.
-M'agradaria visitar el museu Picasso.
+M'agradaria visitar el museu Picasso. 
 Com s'hi va a Figueres?
-El que busqueu és una mica lluny.
-Pot anar-hi amb autocar o bé amb tren.
+El que busqueu és una mica lluny. 
+Pot anar-hi amb autocar o bé amb tren. 
 El viatge dura una hora i mitja.
 Senyora, on vol que li deixi la compra?
-Deixeu els paquets al magatzem, si us plau.
-Esperi's que farem lloc per posar-hi la compra.
-Els refrescos, els vull darrere la porta.
-Les ampolles d'aigua, les necessito sota l'escala.
+Deixeu els paquets al magatzem, si us plau. 
+Esperi's que farem lloc per posar-hi la compra. 
+Els refrescos, els vull darrere la porta. 
+Les ampolles d'aigua, les necessito sota l'escala. 
 El vi, posi'l a la prestatgeria del mig.
 De moment, no tenim res més per a vostè.
 Com es diu la teva àvia?
@@ -517,7 +517,7 @@ Bon dia, en què el puc ajudar?
 Bon dia, en què la puc ajudar?
 Bon dia, en què us puc ajudar?
 Bon dia, en què et puc ajudar?
-gràcies per formar part de la solució!
+Moltes gràcies per formar part de la solució!
 Les persones nascudes entre els anys dos mil sis i dos mil nou hauran de venir acompanyades.
 Com pots demanar cita?
 Com puc demanar cita?
@@ -594,11 +594,11 @@ Demà a mitja tarda, et va bé?
 Sí, a les set, davant del restaurant de la teva família.
 Si vols, quedem el dissabte a tres quarts de vuit a la plaça major.
 Molt bé; fins dissabte que ve.
-Demà finalment vaig a la muntanya.
+Demà finalment vaig a la muntanya. 
 Hi vols venir o no t'agrada?
-Sí, m'agradarà molt sortir de Sabadell.
+Sí, m'agradarà molt sortir de Sabadell. 
 Hi poden venir els nens?
-I tant, tots!
+I tant, tots! 
 Per dinar portarem entrepans de formatge i fruita.
 D'acord, fins demà.
 T'agrada mirar la televisió?
@@ -607,16 +607,15 @@ Què t'agrada fer en el teu temps lliure?
 M'agrada passejar, escoltar música i llegir novel·les.
 M'agrada quedar amb els amics.
 Quin tipus de pel·lícules t'agraden?
-M'agraden les pel·lícules romàntiques, les musicals i les d'acció.
-I a tu?
+M'agraden les pel·lícules romàntiques, les musicals i les d'acció. I a tu?
 A mi m'agraden les pel·lícules de guerrers.
 On és la teva filla petita?
-És al parc amb el seu pare i la seva germana.
+És al parc amb el seu pare i la seva germana. 
 A la meva germana li agraden molt els gronxadors.
 Què t'agrada més, el futbol o el bàsquet?
 El futbol és el que més m'agrada de tots els esports.
 T'agrada viatjar?
-M'agrada molt viatjar, perquè sobretot m'agrada conèixer llocs nous.
+Sí. M'agrada molt viatjar, perquè sobretot m'agrada conèixer llocs nous.
 On li agradaria anar de viatge?
 Voldria fer un viatge d'un parell de setmanes, per veure natura i prendre el sol.
 Per què no fa un creuer pel Carib?
@@ -624,51 +623,50 @@ Què li semblaria fer una visita cultural?
 No, no, m'estimaria més anar a un lloc prop d'un llac, o a la muntanya.
 A veure si trobem el que li agrada.
 El lloc m'interessa: com s'hi va?
-Cal anar-hi amb avió.
+Cal anar-hi amb avió. 
 El vol fins allà dura al voltant d'una hora.
 I el meu gatet, el puc portar?
-Bé, no és gaire freqüent.
-No ho sé.
-Ho he de consultar.
+Bé, no és gaire freqüent. 
+No ho sé. Ho he de consultar.
 Què em recomana?
-Podria anar a Mallorca o a Menorca.
+Podria anar a Mallorca o a Menorca. 
 Amb vaixell, anar-hi surt molt bé de preu.
-Ai, doni'm qualsevol cosa.
+Ai, doni'm qualsevol cosa. 
 Em convé molt distreure'm.
 Val la pena anar-hi, ja ho veurà.
 Si us plau, voldria reservar una habitació doble.
 L'habitació ha de ser doble o individual?
-Vull una habitació doble, que tingui bany.
+Vull una habitació doble, que tingui bany. 
 L'habitació ha d'incloure l'esmorzar i prou.
 Quants dies s'estarà a l'hotel?
-Com ha anat el viatge?
-Molt bé, gràcies.
+Benvinguda. Com ha anat el viatge?
+Molt bé, gràcies. 
 Que contenta que estic de ser aquí!
-És hora de dinar.
+És hora de dinar. 
 Si vol, vagi directament al menjador i nosaltres li pugem les maletes a l'habitació.
 Em dona una entrada per a l'òpera d'avui a la nit?
-A veure quina hora és... tres quarts de set.
-És una mica just però no se sap mai.
-tenim entrades, però no estan gaire ben situades.
+A veure quina hora és... tres quarts de set. 
+És una mica just però no se sap mai. 
+Miri, tenim entrades, però no estan gaire ben situades.
 En queda cap a la platea?
 Queda una entrada, però és molt endarrere, a les últimes files.
 Ja ho veig.
-També queda una entrada al tercer pis.
+També queda una entrada al tercer pis. 
 El seient és lateral, però veurà més de mig escenari.
 Em quedo aquesta localitat.
 Demà ens ve a buscar el taxi a dos quarts de nou.
-Aquí teniu l'itinerari tot explicat, amb els horaris que farem.
-La puntualitat és molt important per poder-lo seguir.
-A la visita han de portar una jaqueta per si fa fred.
+Aquí teniu l'itinerari tot explicat, amb els horaris que farem. 
+La puntualitat és molt important per poder-lo seguir. 
+A la visita han de portar una jaqueta per si fa fred. 
 Voldria saber si en el preu ja hi és tot inclòs: els àpats, les entrades als llocs...
-Les entrades, estan incloses en el preu, i el dinar, que és un menú, també.
-Tot allò que sigui un extra, va pel seu compte.
+Les entrades, estan incloses en el preu, i el dinar, que és un menú, també. 
+Tot allò que sigui un extra, va pel seu compte. 
 Mho pot repetir, si us plau?
 M'ho pots repetir, sisplau?
 Mho pot dir més a poc a poc, si us plau?
 M'ho pots dir més a poc a poc, sisplau?
 Fa poc temps que he arribat, pot parlar més a poc a poc?
-Hola, bon dia.
+Hola, bon dia. 
 Hola, bona tarda.
 Hola, bona nit.
 Adeu, fins ara.
@@ -690,10 +688,10 @@ Ella és la Jana.
 És la Clàudia.
 Hola, soc lAnna Salardú, del Departament de Cultura.
 Perdoni, ho pot repetir?
-Sí, em dic Anna Salardú.
+Sí, em dic Anna Salardú. 
 Treballo a lAjuntament.
 Hola, com anem?
-Bé, anar fent.
+Bé, anar fent. I tu?
 Hola, com estàs?
 Molt bé, gràcies.
 I la teva família, com està?
@@ -749,8 +747,7 @@ A ca meva en deim costella.
 Em deman si aquest ús és correcte.
 I jo em deman: per què ells sí i els altres no?
 Continuam defensant els drets de la ciutadania de les Illes Balears.
-Continuam parlant d'igualtat de drets?
-Si m'assegurau aquesta igualtat, amb entusiasme votaré que sí.
+Continuam parlant d'igualtat de drets? Si m'assegurau aquesta igualtat, amb entusiasme votaré que sí.
 Me fa mal tot; supòs que és perquè me faig gran.
 Li vaig dir que dormira destapat.
 Ara ja no es necessita tantes escoles.
@@ -758,13 +755,12 @@ Ja es pot obrir les portes.
 Avui m'estrén en aquesta feina.
 M'anomèn Ramon Llull i visc a Mallorca.
 Mon avi és francés.
-No parle gaire l'anglés, disculpa'
+No parle gaire l'anglés, disculpa'm.
 El cinqué dia de vacances i ja m'avorrisc.
 Si vols café, la cafeteria és al sisé pis.
 La reunió del Comité amb el ministre finlandés ha estat difícil i no s'han posat d'acord.
 Espero que els haja servit per a la propera vegada.
-No servixes per a res,
-Joana; és el seté cop que t'ho repetisc.
+No servixes per a res, Joana; és el seté cop que t'ho repetisc.
 Els he dit que servisquen el café al jardí.
 El mercat i les botigues.
 Què li poso?
@@ -775,45 +771,44 @@ Com han de ser?
 Vull els pebrots més aviat grossos.
 Què li semblen aquests carbassons?
 Aquests estan molt bé, gràcies.
-Què més li poso?
-Que vol una mica de cireres!
+Què més li poso? Que vol una mica de cireres!
 A quant van les prunes?
 Les prunes clàudia van a vuit euros el quilo.
-No vull prunes, gràcies, un altre dia.
+No vull prunes, gràcies, un altre dia. 
 Té tomàquets cirerols?
 Ho sento, no me'n queden.
 I d'oli, que en teniu?
 Tampoc; no me'n queda gens.
-Doncs no vull res més.
+Doncs no vull res més. 
 Quant és tot el que he comprat?
 Les tres peces surten per tres euros.
 Tingui, té canvi de cinquanta?
 Té, tens canvi de cinquanta?
 Tens canvi de vint euros?
-Aquí té el seu canvi: això fan cinc, i quinze que fan vint.
+Aquí té el seu canvi: això fan cinc, i quinze que fan vint. 
 Necessita una bossa?
 Vols una bossa?
 Et cal una bossa?
 Voleu una bossa?
 No cal, gràcies.
 Adeu, bon dia, senyora.
-Els puc ajudar?
+Bona tarda. Els puc ajudar?
 Sí, voldríem una caçadora de pell negra.
 La caçadora és per a vostè?
-Volem uns pantalons per al nostre net.
+Volem uns pantalons per al nostre net. 
 En tenen, de caçadores de pell?
 Quina edat té el seu fill?
 El nostre net té set anys, acabats de fer.
-Trobaran tot el que necessiten a la secció de roba infantil.
-Em volen acompanyar, si us plau?
+Trobaran tot el que necessiten a la secció de roba infantil. 
+Em volen acompanyar, si us plau? Gràcies.
 Noi, quin preu té aquest anorac?
 Trobareu el preu a l'etiqueta.
 Trobaràs el preu a l'etiqueta.
-No trobo l'etiqueta enlloc.
+No trobo l'etiqueta enlloc. 
 Que estrany, no trobo l'etiqueta!
-Ja ho veig: aquí hi ha el preu.
+Ja ho veig: aquí hi ha el preu. 
 I no em faríeu cap descompte?
-Tot té un trenta per cent sobre el preu marcat.
+Tot té un trenta per cent sobre el preu marcat. 
 Vol passar a l'emprovador?
 No em cal emprovar-me'l. Me'l quedo.
 Necessita alguna cosa més?
@@ -824,30 +819,29 @@ Ja us atenen?
 Ja t'atenen?
 M'agrada aquest biquini de colors.
 Què et sembla, m'anirà bé?
-És molt bonic però crec que t'anirà petit.
+És molt bonic però crec que t'anirà petit. 
 Demana que et portin una talla més gran?
-No vull una altra talla, aquest m'estarà molt bé.
-Em puc emprovar aquest banyador?
-L'etiqueta diu que es pot encongir una mica.
-Vols emprovar-te aquest altre jersei?
+No vull una altra talla, aquest m'estarà molt bé. 
+Em puc emprovar aquest banyador? 
+L'etiqueta diu que es pot encongir una mica. 
+Vols emprovar-te aquest altre jersei? 
 Mira, aquest banyador va amb un pareo que hi fa joc.
-Gràcies, el pareo m'encanta, però el banyador no gaire.
+Gràcies, el pareo m'encanta, però el banyador no gaire. 
 M'estimo més l'altre biquini, el de colors.
 Com et van, els pantalons?
-Em van perfecte, aquests pantalons.
-Em van amples, però m'agraden així.
+Em van perfecte, aquests pantalons. Em van amples, però m'agraden així. 
 Me'ls quedo.
 Aquesta brusa també m'agrada molt.
 Te la vols emprovar?
-No és per a mi, és per regalar.
+No és per a mi, és per regalar. 
 Me la pots embolicar per regal, per favor?
 Ho pagues en efectiu o amb targeta de crèdit?
-Pagaré en efectiu.
+Pagaré en efectiu. 
 Té, aquí tens el paquet embolicat.
 Conserva el tiquet de compra per si s'ha de canviar.
 Un cafè amb llet i un entrepà de pernil.
 Avui no tenim pernil, vol un entrepà de formatge?
-Quant val tot?
+D'acord. Quant val tot?
 Què li poso?
 Posi'm una ampolla d'aigua natural.
 Posi'm un te i un suc de taronja.
@@ -860,11 +854,12 @@ Vull un cafè amb gel.
 Hola, vull un tallat, amb la llet natural.
 De seguida li porto el que m'ha demanat.
 Em pot portar un altre sucre, si us plau?
+Bona nit. Podem sopar?
 Per quanta gent ha de ser la taula?
 Som cinc a dinar; que hi cabem?
 Què volen beure els senyors?
 Una aigua amb gas, una tònica ben freda i un suc de taronja natural.
-Em sap greu, però no el podem atendre.
+Em sap greu, però no el podem atendre. 
 El menú és només al migdia entre setmana.
 Vol la carta?
 Ja saben què prendran?
@@ -877,16 +872,14 @@ Jo vull un cafè descafeïnat.
 Ja l'atenen?
 He demanat fa estona una aigua sense gas, per favor.
 Un moment, de seguida estic per vostès.
-Faci, faci.
-No pateixi, ja ens esperem.
-Ja soc aquí.
-En què els puc servir?
+Faci, faci. No pateixi, ja ens esperem.
+Ja soc aquí. En què els puc servir?
 Apunti! De primer volem sopa i amanida.
-Crec que ja ho han demanat tot.
-Perdonin, m'he deixat el pa.
+Crec que ja ho han demanat tot. 
+Perdonin, m'he deixat el pa. Ara torno.
 Parli'm en català, si us plau, que ja l'entenc.
 Voldria reservar una taula per dinar.
-M'ho pot repetir, si us plau?
+M'ho pot repetir, si us plau? 
 Hi ha tant de soroll que no el sento bé.
 Volia encarregar una taula per a sisa prop de la terrassa.
 A nom de qui vol fer la reserva?
@@ -895,13 +888,13 @@ Què li poso per esmorzar?
 Porti'm un cafè amb llet i un croisant, si us plau.
 Vol menjar alguna cosa, un entrepà o una pasta?
 Sí que en tenim, de gelats; de què el vol?
-En vull un de nata i xocolata.
+En vull un de nata i xocolata. 
 Si us plau, porti'm el compte, que hauria de marxar.
 De seguida li porto el compte, senyora.
 Gràcies per la seva atenció.
 Què farem demà per dinar?
 Prendré el menú: de primer plat, una truita.
-La nostra amanida és molt bona, ja ho veurà.
+La nostra amanida és molt bona, ja ho veurà. 
 I de segon, què prendrà?
 Vostè què em recomana?
 De segon què s'estima més, carn o peix?
@@ -914,8 +907,8 @@ Ja han demanat?
 No encara, no hem demanat res.
 Què prendran per veure?
 Què és l'escalivada?
-L'escalivada albergínies i pebrots cuits a les flames i amanits amb oli.
-L'escalivada la servim tèbia, acabada de fer.
+L'escalivada albergínies i pebrots cuits a les flames i amanits amb oli. 
+L'escalivada la servim tèbia, acabada de fer. 
 Aquest plat és una de les nostres especialitats.
 Jo voldré una escalivada i ell una amanida.
 Jo vull carxofes a la brasa amb patates.
@@ -926,7 +919,7 @@ De segon prendré un bistec de bou ben poc fet.
 Una amanida catalana i un bistec.
 La carn m'agrada gairebé crua.
 I vostè, què prendrà de segon?
-Jo faré sardines a la planxa.
+Jo faré sardines a la planxa. 
 Quantes sardines hi ha per ració?
 Servim mitja dotzena de sardines en cada racció.
 Aquest menú em ve molt de gust.
@@ -937,7 +930,7 @@ Primer has de pelar la ceba i tallar-la ben petita.
 Em costa molt tallar la ceba a trossets ben petits.
 Poses una mica d'oli a la cassola i hi afegeixes la ceba.
 Ja em diràs quan hi he de posar la sal
-Abans de posar la sal, primer has d'esperar que la ceba estigui una cuita.
+Abans de posar la sal, primer has d'esperar que la ceba estigui una cuita. 
 Remena-ho tot bé de tant en tant.
 Quan he d'afegir-hi el tomàquet?
 No hi posis el tomàquet fins que la ceba estigui ben rossa.
@@ -946,7 +939,7 @@ El lleure és imprescindible per a la salut.
 Què li semblaria fer demà una visita cultural?
 No, no, m'estimaria més visitar un llac, o anar a la muntanya.
 A veure què trobem.
-Benvinguts a bord.
+Benvinguts a bord. 
 Desitjo que tinguin una estada agradable.
 Empleneu aquest formulari.
 Què us agradaria fer en aquest creuer?
@@ -986,15 +979,15 @@ El pis té finestres i no té cap balcó.
 Com és el sofà?
 No hi ha sofà, però hi ha dues butaques.
 Hi ha un sofà de dues places, de color verd fosc.
-La casa i l'
+La casa i l'entorn
 Voldria un pis de lloguer.
 Com ha de ser?
-No gaire car.
+No gaire car. 
 Necessito un pis que no estigui moblat, de tres habitacions i que estigui a prop del centre.
 I tu, on vius?
-Abans vivia en una casa petita de planta baixa amb jardí.
+Abans vivia en una casa petita de planta baixa amb jardí. 
 Ara visc en un àtic.
-No, m'hi acabo d'instal·lar.
+No, m'hi acabo d'instal·lar. 
 És aquí mateix, al capdavall d'aquest carrer.
 Si necessites res, ja ho saps.
 Vinc a veure el pis.
@@ -1004,31 +997,31 @@ Quina terrassa més gran!
 A l'estiu sopem cada dia a la terrassa.
 Fa gaire que s'esperen?
 No, uns deu minuts.
-Em sap greu.
+Em sap greu. 
 He vingut abans, però m'havia equivocat de clau.
-He hagut d'anar a buscar la clau a l'oficina.
-No s'hi amoïni.
+He hagut d'anar a buscar la clau a l'oficina. 
+No s'hi amoïni. 
 Podem passar per veure el pis?
-És clar que sí.
+És clar que sí. 
 Quantes habitacions té?
-Tenim tres habitacions, dues de grans i una de petita.
+Tenim tres habitacions, dues de grans i una de petita. 
 Sense comptar el menjador, la cuina i el lavabo, tenim dues habitacions.
 I totes les finestres són exteriors?
 L'habitació del mig dona al celobert i el lavabo no té cap finestra.
 El menjador és molt gran.
-s quina claror que hi ha a la sala!
+I fixi's quina claror que hi ha a la sala! 
 Hi toca el sol gairebé tot el dia.
 És veritat, no hi deu fer gaire fred.
-A més, té calefacció central.
+A més, té calefacció central. 
 Està molt ben equipat.
-Miri, al pis hi falta una mà de pintura...
+Miri, al pis hi falta una mà de pintura... 
 Cal donar d'alta el llum i el gas?
 Truco per l'anunci de l'habitació que es lloga.
 Sí, miri: l'habitació no és gaire gran però està tota moblada.
 Que hi ha cadires?
 No n'hi ha, però hi ha dues butaques molt còmodes.
 Aquesta habitació no té armari?
-Hi ha un armari ben gros, amb penja-robes i calaixos.
+Hi ha un armari ben gros, amb penja-robes i calaixos. 
 També hi ha un llit individual.
 Quan la puc veure?
 Vingui quan vulgui.
@@ -1041,14 +1034,14 @@ Cada dia camino més de tres hores per anar a la feina.
 Vas a la feina a peu?
 Sí, camino molt.
 Vas sovint amb cotxe?
-No, no tinc carnet.
+No, no tinc carnet. 
 Normalment vaig amb moto o amb autobús.
 Vols venir amb mi a fer un tomb amb bicicleta?
 I tant que sí que m'agradaria!
 Quina línia he d'agafar per anar a Santa Perpètua?
 La línia u és la línia de color vermell.
 Això és un bitllet de metro?
-No, és una targeta T-10.
+No, és una targeta T-10. 
 Aquesta targeta té deu viatges i surten més barats.
 Com puc anar a Girona?
 Pots anar a l'estació de Sants i allà agafar el tren.
@@ -1102,8 +1095,7 @@ Al pot petit hi ha la millor confitura.
 Un pot de mel, si us plau.
 Quatre unces de pinyons.
 Els pinyons bons són els del país.
-Has comprat nous de Califòrnia?
-Jo compro sempre les d'aquí.
+Has comprat nous de Califòrnia? Jo compro sempre les d'aquí.
 Us recomanem de comprar sempre el producte local.
 Vull un rodó de vedella farcit de tòfona.
 Teniu la meva comanda preparada?
@@ -1194,31 +1186,31 @@ Què he de fer per demanar informació sobre els horaris de tren?
 Agafi número i ja la cridaran.
 Puc treure diners?
 Sap el número de compte?
-Aquest és el meu número de compte: u dos tres cinc sis tres quatre vuit set sis quatre.
+Aquest és el meu número de compte: u dos tres cinc sis tres quatre vuit set sis quatre. 
 Aquest compte és d'un altre banc.
 Li hauré de cobrar unes despeses per la gestió.
+Poden venir? És urgent!
 Què ha passat?
 El meu fill petit de dos anys s'ha tancat al lavabo i no en pot sortir.
 Hola, he arribat amb el vol de les quinze hores i he perdut la maleta.
 Ja n'està segur que la seva maleta no ha arribat?
 M'han dit que la meva maleta no és aquí.
 Com és la maleta?
-La meva maleta és negra, rectangular, de plàstic metal·litzat i gran.
-La meva maleta era gairebé nova.
+La meva maleta és negra, rectangular, de plàstic metal·litzat i gran. 
+La meva maleta era gairebé nova. 
 Hi ha un adhesiu groc en un costat de la maleta.
 Dintre de la maleta hi havia una càmera de fotos i un ordinador.
 A la bossa hi duc roba, sabates, medicaments, un llibre i el mòbil!
 On havia embarcat?
 He embarcat a Londres.
-No pateixi, de seguida resoldrem el seu problema.
+No pateixi, de seguida resoldrem el seu problema. 
 Ompli aquest formulari i ja l'avisarem.
 Bon dia, tinc tres fills i voldria saber què he de fer per inscriure'ls en una escola pública.
 On viu, vostè?
-Visc al Poblenou.
-M'hi acabo d'instal·lar.
+Visc al Poblenou. M'hi acabo d'instal·lar.
 Ja s'ha empadronat al seu nou lloc de residència?
 Sí, ja fa dies.
-Doncs ha d'anar a l'escola que més li agradi de la seva zona amb el full d'empadronament.
+Doncs ha d'anar a l'escola que més li agradi de la seva zona amb el full d'empadronament. 
 Com més aviat faci el tràmit, millor.
 Em pot venir a connectar el gas?
 Ja ha donat d'alta el servei a la companyia?
@@ -1236,23 +1228,23 @@ Truqueu al telèfon nou-cents deu setanta-sis noranta-cinc quaranta-u
 El telèfon és el nou-cents onze dos-cents trenta-nou cent setanta-u.
 El nostre telèfon és el nou-cents trenta-tres vint-i-tres vuitanta-nou dinou.
 Quin és l'horari d'atenció al públic?
-Atenem el públic de vuit a vuit.
+Atenem el públic de vuit a vuit. 
 De nit, hi ha un contestador automàtic per a avaries i emergències.
 I després, he de fer alguna gestió més?
-Vostè no ha de fer res més.
+Vostè no ha de fer res més. 
 Ells ens avisaran i vindrem a casa seva a fer la instal·lació.
 I com es paga aquesta gestió?
 Si vol, li podem carregar la despesa al seu compte.
-Bon dia, soc el fuster de can Cabrisses.
+Bon dia, soc el fuster de can Cabrisses. 
 Vinc a prendre mides per fer la llibreria que van encarregar.
 Hola, ja era hora que vingués, senyor fuster.
 Per on comencem a prendre mides?
 Per la sala d'estar, que és on hi ha més feina.
 Quants armaris hi vol, a la cuina?
-Necessito un bufet, una vitrina i quatre prestatgeries, tot de fusta de pi.
+Necessito un bufet, una vitrina i quatre prestatgeries, tot de fusta de pi. 
 Asseguri's que sigui una fusta que no tingui nusos.
 I el llit com el voldrà?
-Un llit de matrimoni, ben gran.
+Un llit de matrimoni, ben gran. 
 Vull que hi hagi dos calaixos a sota.
 Quan tindrà acabat l'encàrrec?
 Amb una mica de sort, d'aquí a un parell de mesos vindré a fer la instal·lació.
@@ -1260,64 +1252,63 @@ Em puc visitar amb la doctora Niubó?
 Avui no és possible que la rebi cap metge.
 Vol que li doni hora per demà?
 Voldria que em visitessin d'urgència.
-No es preocupi, la pot visitar la doctora de guàrdia.
+No es preocupi, la pot visitar la doctora de guàrdia. 
 Esperi's a la sala d'espera, que la cridaran de seguida.
-Necessito uns antibiòtics.
+Hola. Necessito uns antibiòtics.
 Porta la recepta?
 Aquí té la meva recepta.
 Necessita alguna cosa més?
-No necessito res més, només aquest medicament.
+No necessito res més, només aquest medicament. Gràcies.
 Em deixa la targeta sanitària?
 Oh! No sé si tinc la meva targeta sanitària.
-Sense la targeta no el puc servir.
+Sense la targeta no el puc servir. 
 Miri, sí que porto el document que em demana.
 Miri, sí que porto les anàlisis que em va demanar.
+A veure? Moltes gràcies.
 Què t'ha passat?
 M'he fet un tall al dit.
-Deixa-me'l veure.
+Deixa-me'l veure. 
 Amb què t'ho has fet, això?
-M'he tallat amb un vidre.
+M'he tallat amb un vidre. 
 He agafat un got trencat i m'he tallat.
 Bon dia, què li passa?
 Em fa molt mal l'esquena.
-Tregui's la samarreta i estiri's aquí.
-Ara aixequi's, posi's dreta, amb l'esquena recta i camini ben a poc a poc.
-Molt bé, ja hem acabat; es pot vestir.
+Tregui's la samarreta i estiri's aquí. 
+Ara aixequi's, posi's dreta, amb l'esquena recta i camini ben a poc a poc. 
+Molt bé, ja hem acabat; es pot vestir. 
 És greu, doctor?
-No sembla que sigui greu, però li farem més proves.
+No sembla que sigui greu, però li farem més proves. 
 Passa molta estona dreta?
-Estic dreta tot el dia
+Sí. Estic dreta tot el dia
 Sí, estic asseguda tot el dia.
 No és bo estar assegut tot el dia.
-La Joana té l'esquena ben torta.
+La Joana té l'esquena ben torta. 
 Soc informàtic i em passo el dia davant l'ordinador.
-Hauria de seure amb l'esquena recta, els colzes a l'alçada de la taula i amb els peus sobre un suport.
+Hauria de seure amb l'esquena recta, els colzes a l'alçada de la taula i amb els peus sobre un suport. 
 Ja mires de fer una mica d'exercici?
 Només faig exercici de tant en tant, quan me'n recordo.
 Li convindria fer un exercici suau, per exemple natació.
-Els anys passen per tothom i el cos ho nota molt si no en tenim cura.
+Els anys passen per tothom i el cos ho nota molt si no en tenim cura. 
 Vagi al massatgista de tant en tant.
-Què, noia, com està el teu fill del refredat?
+Què, noia, com està el teu fill del refredat? 
 No està gaire bé: li fa mal l'orella.
 Jo conec un metge naturista que ho fa molt bé.
-Ah, sí?
-I on és?
-Aquí mateix, a l'ambulatori del carrer Matances.
+Ah, sí? I on és?
+Aquí mateix, a l'ambulatori del carrer Matances. 
 Treballa en el centre mèdic nou que et vaig comentar l'altre dia.
 Les hores i els dies
 Què fas al matí quan et lleves?
-Em llevo a dos quarts de set.
+Em llevo a dos quarts de set. 
 Després de llevar-me, em rento, em vesteixo i esmorzo.
 Quin horari fas, a la feina?
 Al matí, de vuit a dos, i a la tarda, de quatre a set.
 A quina hora obres la botiga?
 Al matí, de dos quarts de deu a dos quarts de dues i, a la tarda, de dos quarts de cinc a dos quarts de vuit.
 Quina estació de l'any t'agrada més?
-A mi m'agraden la primavera i la tardor.
-I a tu?
+A mi m'agraden la primavera i la tardor. I a tu?
 A mi m'agraden la tardor i l'hivern.
-a dinar amb nosaltres?
-No, perquè esmorzo tard.
+Vens a dinar amb nosaltres?
+No, perquè esmorzo tard. 
 Podem sopar plegats.
 D'acord, sopem plegats aquest vespre.
 La feina és el lloc on passem tantes hores.
@@ -1330,12 +1321,12 @@ Centre de formació busca professora de xinès.
 Important empresa gràfica busca distribuïdors.
 Cal tenir vehicle propi.
 Es necessiten persones per treballar en un càmping de la Costa Brava.
-Truco per l'anunci que he llegit de professora de xinès.
+Bon dia. Truco per l'anunci que he llegit de professora de xinès.
 No sé si també els puc servir jo.
-Busco feina, sap?
+Busco feina, sap? 
 Vaig néixer a Kabul.
-Tinc trenta anys.
-La meva mare és catalana.
+Tinc trenta anys. 
+La meva mare és catalana. 
 Vaig estudiar al Liceu Francès.
 He fet de professor d'institut durant vuit anys.
 Parlo bé l'àrab, el francès, el castellà i el català.
@@ -1349,9 +1340,9 @@ La cartera reparteix cartes.
 El pintor pinta parets.
 Ara soc cuiner, però abans era dependent d'una carnisseria.
 I tu, de què treballes?
-Sí, soc jo, l'electricista.
-Una emergència, diu?
-Que s'ha quedat a les fosques?
+Sí, soc jo, l'electricista. 
+Una emergència, diu? 
+Que s'ha quedat a les fosques? 
 Vinc de seguida.
 Els llocs que configuren el nostre espai vital.
 Com s'hi va a casa el pare?
@@ -1359,18 +1350,17 @@ On viu vostè?
 On és la parada?
 Aquí mateix, al carrer Ample.
 Si us plau, on és la parada de l'autobús?
-Molt a prop.
-Al costat d'aquella farmàcia.
+Molt a prop. Al costat d'aquella farmàcia.
 Em pot portar al centre cívic?
 Com s'hi va?
 Per anar a l'Ajuntament, què he de fer?
 Vagi carrer Ample amunt i giri a mà esquerra quan vegi l'església.
 Tiri carrer amunt, giri a la primera cantonada a l'esquerra, segueixi tot recte fins al semàfor.
-Trobarà una plaça molt petita, la travessa, i després agafi el carrer que surt a l'esquerra.
+Trobarà una plaça molt petita, la travessa, i després agafi el carrer que surt a l'esquerra. 
 De seguida que tombi per aquest carrer veurà l'hospital.
-L'oficina és a la vora.
+L'oficina és a la vora. 
 Sembla molt complicat, però és aquí mateix.
-Com s'hi va, a l'escola?
+Com s'hi va, a l'escola? 
 Els pots de tomàquet són damunt del prestatge de l'oli.
 El sabó és dins la caixa.
 La llimonada és sobre les ampolles d'aigua.
@@ -1520,12 +1510,11 @@ La seva gran afició són els mots encreuats.
 Té moltes aficions: és un home inquiet.
 T'agraden les activitats manuals?
 Saps d'algú que tingui afició per la cuina?
-Era un col·leccionista de segells.
-En tenia moltíssims.
+Era un col·leccionista de segells. En tenia moltíssims.
 El bricolatge no era per a la Joana.
 El fill tocava la trompeta i els veïns n'estaven farts.
 Hi ha pocs homes aficionats a la costura.
-Tenia una passió pel billar.
+Tenia una passió pel billar. 
 Les hores i els dies.
 Vostè a quina hora es lleva normalment?
 A les set, quarts de vuit.
@@ -1535,35 +1524,34 @@ I després què fa, al matí?
 Vaig a comprar o m'estic a casa fins a les tres, que dino.
 I a quina hora comença a treballar?
 Normalment, faig el torn de tarda.
-Doncs podria venir de nou a dotze, si li sembla.
+Doncs podria venir de nou a dotze, si li sembla. 
 Recordeu que les classes sempre comencen en punt.
-Soc en Joan Duran i tenia hora per demà, però no em va bé.
+Hola. Soc en Joan Duran i tenia hora per demà, però no em va bé.
 Puc canviar l'hora per demà passat?
-Un moment que miro si podem canviar l'hora.
-Demà no pot ser.
+Un moment que miro si podem canviar l'hora. 
+Demà no pot ser. 
 Li va bé divendres que ve a la mateixa hora?
-A la mateixa hora no puc.
+A la mateixa hora no puc. 
 Pot ser més aviat?
 A dos quarts de set, si vol.
-Avui he tingut molta feina.
-Estic morta de cansament.
+Avui he tingut molta feina. 
+Estic morta de cansament. 
 He arribat a l'institut a les vuit i no he parat fins a l'hora de plegar.
 A quina hora has dinat?
-A dos quarts de dues.
-Només he tingut temps de menjar un entrepà en deu minuts, i he hagut de tornar-hi!
+A dos quarts de dues. 
+Només he tingut temps de menjar un entrepà en deu minuts, i he hagut de tornar-hi! 
 Tinc una gana…
-Senyor Morales... li va bé que repassem l'agenda?
+Senyor Morales... li va bé que repassem l'agenda? 
 Divendres és el dia que va a París.
-Em pensava que hi anava dijous.
+Divendres? Em pensava que hi anava dijous.
 Demà és festa, vint-i-quatre de juny, Sant Joan.
-Ah, sí!
-No me'n recordava.
+Ah, sí! No me'n recordava.
 A veure, li he reservat un bitllet per al vol de tres quarts de deu.
 Tan d'hora he de sortir?
-Vostè es lleva sempre d'hora, cap a dos quarts de set.
+Vostè es lleva sempre d'hora, cap a dos quarts de set. 
 Si va ràpid a esmorzar, el pot agafar sense problemes.
 Amb un taxi segur que arribo a l'aeroport en un quart d'hora.
-A veure: arriba a les onze a París i el senyor Perrier l'espera al centre a un quart de dotze.
+És clar. A veure: arriba a les onze a París i el senyor Perrier l'espera al centre a un quart de dotze.
 I el dinar sabem on el farem?
 Dinarem allà mateix, amb tothom.
 Està molt bé.
@@ -1582,47 +1570,46 @@ Atenció, el bistec el volen molt poc fet.
 Què es necessita per fer un sofregit?
 Quins plats es fan amb un sofregit?
 Disculpi, vostè és la senyora Vartan?
-No, s'equivoca.
-Jo em dic Font.
+No, s'equivoca. Jo em dic Font. 
 La persona que busca és aquella senyora d'allà.
-Jo sóc l'Imma.
-Em dic Joan.
-Soc el cap de vendes.
+Jo sóc l'Imma. 
+I tu, qui ets?
+Em dic Joan. 
+Soc el cap de vendes. 
 I aquella, qui és?
-No coneixes aquesta senyora?
-És la Marta!
+No coneixes aquesta senyora? 
+És la Marta! 
 És d'Olot.
 Hola, Manel.
-Hola, Mireia.
+Hola, Mireia. 
 Com va això?
-Mira, vaig fent.
+Mira, vaig fent. 
 Et presento el senyor Garriga.
-Molt de gust, senyora Garriga.
+Molt de gust, senyora Garriga. 
 Igualment, encantat de conèixer-la.
 És la primera vegada que ve a Catalunya?
-Em puc fer sòcia del club?
-És clar que sí.
+Bon dia. Em puc fer sòcia del club?
+És clar que sí. 
 Per inscriure't has de portar una fotografia.
 Va bé aquesta fotografia?
 Digui'm el seu nom?
 Em pots dir el teu nom?
 Nom i cognoms, sisplau.
 Andrea Montserrat Solé.
-Montserrat és el cognom?
-No, és el nom.
-El cognom és Solé.
-Com s'escriu, Solé?
+Montserrat és el cognom? 
+No, és el nom. El cognom és Solé.
+Com s'escriu, Solé? 
 El meu cognom s'escriu amb i d'Itàlia i ge de Girona.
 Vol que li ensenyi el passaport?
-No necessito el seu passaport, gràcies.
+No necessito el seu passaport, gràcies. 
 Sí, un mòbil, és el sis-cents vint-i-cinc zero noranta-set quatre-cents trenta-vuit.
 Avinguda del Conflent, vint-i-cinc, segon quarta.
-Tingui, ja pot venir quan vulgui.
+Molt bé. Tingui, ja pot venir quan vulgui.
 Que hi ha en Miquel?
 Amb qui parlo?
-Soc l'Ernest.
+Soc l'Ernest. 
 Que no em coneixes?
-Ei, Ernest! Quina sorpresa!
+Ei, Ernest! Quina sorpresa! 
 Ahir a la nit va fer mal temps.
 Arriba una tempesta.
 Anuncien una calamarsada.
@@ -1712,8 +1699,7 @@ Els bancs només t'atenen presencialment als matins.
 Abans podies anar al banc cada dia matí i tarda; ara no.
 L'exposició tanca a les vuit del vespre.
 El concert comença a les deu del vespre.
-Bona nit, fill meu.
-Qui tinguis bons somnis.
+Bona nit, fill meu. Qui tinguis bons somnis.
 El garbí, a les set se'n va a dormir.
 Són les tres menys vint.
 Són tres quarts menys cinc de tres.

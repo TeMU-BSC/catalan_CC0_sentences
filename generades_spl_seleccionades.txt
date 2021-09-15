@@ -1,0 +1,4469 @@
+Hola, vull fer-me càrrec del club.
+Hola, vull fer-me soci del club.
+Hola, vull fer-me membre del club.
+Hola, vull fer-me responsable del club.
+Si vol ser contactat, ha d'omplir aquest formulari.
+Si vol ser admès, ha d'omplir aquest formulari.
+Si vol ser voluntari, ha d'omplir aquest formulari.
+Si vol ser candidat, ha d'omplir aquest formulari.
+He de portar alguna mena de carnet?
+He de portar alguna fotografia de carnet?
+He de portar alguna cosa de carnet?
+He de portar alguna imatge de carnet?
+Esperi's un temps que li faig el carnet.
+Esperi's un dia que li faig el carnet.
+Esperi's un mes que li faig el carnet.
+Esperi's un minut que li faig el carnet.
+Bona nit.
+En aquesta biblioteca puc consultar Internet de franc?
+Bona feina.
+Bona gent.
+Bona sort.
+Ja soc fora del club.
+Ja soc membre del club.
+Ja soc dins del club.
+Ja soc president del club.
+Si vol jugar a futbol, reservi pista en aquell ordinador.
+Si vol jugar a bàsquet, reservi pista en aquell ordinador.
+Si vol jugar a escacs, reservi pista en aquell ordinador.
+Si vol jugar a golf, reservi pista en aquell ordinador.
+Per enviar missatges a un familiar, què he de fer?
+Per enviar això a un familiar, què he de fer?
+Per enviar algú a un familiar, què he de fer?
+Per enviar flors a un familiar, què he de fer?
+Sap el tipus de compte?
+Sap el doble de compte?
+Sap el nombre de compte?
+Sap el nom de compte?
+Li cobrarem una indemnització.
+Li cobrarem una pensió.
+Li cobrarem una multa.
+Li cobrarem una quantitat.
+Demà mateix tindrà els missatges que li han enviat.
+Demà mateix tindrà els papers que li han enviat.
+Demà mateix tindrà els documents que li han enviat.
+Demà mateix tindrà els arxius que li han enviat.
+Els homes que ens fan la vida més fàcil.
+O no.
+Els únics que ens fan la vida més fàcil.
+Els llibres que ens fan la vida més fàcil.
+Els diners que ens fan la vida més fàcil.
+Els amics que ens fan la vida més fàcil.
+Emplena el ratolí per trobar la cartera que has perdut.
+Emplena el cotxe per trobar la cartera que has perdut.
+Emplena el mapa per trobar la cartera que has perdut.
+Emplena el compte per trobar la cartera que has perdut.
+Quina és la informació que has perdut?
+Quina és la vida que has perdut?
+Quina és la pista que has perdut?
+Quina és la cosa que has perdut?
+Quina és la part que has perdut?
+Quina quantitat de mà et sembla que és millor per anar de viatge?
+Quina cosa de mà et sembla que és millor per anar de viatge?
+Quina peça de mà et sembla que és millor per anar de viatge?
+Quina tassa de mà et sembla que és millor per anar de viatge?
+Què he de fer per instal·lar un ascensor a casa?
+Què he de fer per instal·lar un ordinador a casa?
+Què he de fer per instal·lar un generador a casa?
+Què he de fer per instal·lar un ventilador a casa?
+Què he de fer per instal·lar un televisor a casa?
+Encarrega a un home que et faci els mobles de casa.
+Encarrega a un altre que et faci els mobles de casa.
+Encarrega a un amic que et faci els mobles de casa.
+Encarrega a un senyor que et faci els mobles de casa.
+Encarrega a un noi que et faci els mobles de casa.
+Com han de ser els diners que t'han de fer?
+Com han de ser els amics que t'han de fer?
+Com han de ser els deures que t'han de fer?
+Com han de ser els passos que t'han de fer?
+Com han de ser els homes que t'han de fer?
+El nombre d'emergències és el cent dotze.
+El nivell d'emergències és el cent dotze.
+El número d'emergències és el cent dotze.
+El grau d'emergències és el cent dotze.
+El pressupost d'emergències és el cent dotze.
+El programa 'Teixidor' es lletreja Tarragona-Ebre-Igualada-Xina-Igualada-Dinamarca-Òscar-Ramon.
+El nostre 'Teixidor' es lletreja Tarragona-Ebre-Igualada-Xina-Igualada-Dinamarca-Òscar-Ramon.
+El projecte 'Teixidor' es lletreja Tarragona-Ebre-Igualada-Xina-Igualada-Dinamarca-Òscar-Ramon.
+El llibre 'Teixidor' es lletreja Tarragona-Ebre-Igualada-Xina-Igualada-Dinamarca-Òscar-Ramon.
+El grup 'Teixidor' es lletreja Tarragona-Ebre-Igualada-Xina-Igualada-Dinamarca-Òscar-Ramon.
+Fa huit mesos que estem casats.
+Fa huit setmanes que estem casats.
+Fa huit dies que estem casats.
+Fa huit hores que estem casats.
+Fa díhuit mesos que treballe ací.
+Fa díhuit dies que treballe ací.
+Fa díhuit hores que treballe ací.
+Fa díhuit setmanes que treballe ací.
+La meva filla de huitanta anys encara balla com si en tingués díhuit.
+La meva neboda de huitanta anys encara balla com si en tingués díhuit.
+La meva mare de huitanta anys encara balla com si en tingués díhuit.
+La meva dona de huitanta anys encara balla com si en tingués díhuit.
+És el meu germà.
+És el meu fill.
+És el meu pare.
+Soc la Marta Verdú.
+Soc la Maria Verdú.
+Soc la Rosa Verdú.
+Soc la Mercè Verdú.
+Soc la Isabel Verdú.
+I tu, qui ets?
+I tu, on ets?
+I tu, com ets?
+I tu, què ets?
+I tu, quin ets?
+Quants fills té?
+Quants diners té?
+Quants dies té?
+Quants en té?
+Com es diu de veritat, i de cognom?
+Com es diu de debò, i de cognom?
+Com es diu de paraula, i de cognom?
+Com es diu de cognom, i de cognom?
+Les estacions i els dies que marquen el nostre temps.
+Les persones i els dies que marquen el nostre temps.
+Les nits i els dies que marquen el nostre temps.
+Les coses i els dies que marquen el nostre temps.
+Bon dia, quin servei fan a la botiga?
+Bon dia, quin treball fan a la botiga?
+Bon dia, quin negoci fan a la botiga?
+Bon dia, quin fàstic fan a la botiga?
+A quina edat et lleves?
+A quina nit et lleves?
+A quina velocitat et lleves?
+A quina tarda et lleves?
+Quina edat és?
+Quina persona és?
+Quina ciutat és?
+Quina classe és?
+Quin país som avui?
+Quin poble som avui?
+Quin món som avui?
+Quin lloc som avui?
+Dino a les dues del matí.
+Dino a les dues del vespre.
+Dino a les dues del dia.
+I tu, quin treball fas habitualment?
+I tu, quin paper fas habitualment?
+I tu, quin servei fas habitualment?
+I tu, quin ús fas habitualment?
+A quina taula dina la gent habitualment a la ciutat on vius?
+A quina escola dina la gent habitualment a la ciutat on vius?
+A quina casa dina la gent habitualment a la ciutat on vius?
+A quina ciutat dina la gent habitualment a la ciutat on vius?
+Quin servei fa el metro de Barcelona?
+Quin recorregut fa el metro de Barcelona?
+Quin ús fa el metro de Barcelona?
+Quin trajecte fa el metro de Barcelona?
+A quina edat tanquen les botigues a l'estiu?
+A quina zona tanquen les botigues a l'estiu?
+A quina ciutat tanquen les botigues a l'estiu?
+A quina distància tanquen les botigues a l'estiu?
+I a l'inrevés?
+I a l'altre?
+I a l'escola?
+I a l'altra?
+I a l'esquerra?
+Bon dia, què li passa al...?
+Bon dia, què li passa al nen?
+Bon dia, què li passa al??
+Bon dia, què li passa al rei?
+Bon dia, què li passa al meu?
+Té una petita punxada.
+Té una cama punxada.
+Té una mà punxada.
+Té una orella punxada.
+De vegades li canviem la roda del cotxe.
+De sobte li canviem la roda del cotxe.
+De cop li canviem la roda del cotxe.
+De nou li canviem la roda del cotxe.
+M'espero que hàgiu acabat la sèrie.
+M'espero que hàgiu acabat la prova.
+M'espero que hàgiu acabat la sessió.
+D'aquí a vint anys.
+D'aquí a vint dies.
+D'aquí a vint mesos.
+D'aquí a vint segons.
+Vaig a fer un cafè i torno de seguida.
+Vaig a fer un tomb i torno de seguida.
+Vaig a fer un mos i torno de seguida.
+Vaig a fer un test i torno de seguida.
+Vaig a fer un examen i torno de seguida.
+D'aquí, fins ara.
+D'abans, fins ara.
+D'ara, fins ara.
+Senyora Martina, soc l'Anna.
+Senyora Martina, soc l'Eva.
+Senyora Martina, soc l'Oliver.
+Senyora Martina, soc l'home.
+Senyora Martina, soc l'Elena.
+Ara ja pot venir, si vol.
+Ara vostè pot venir, si vol.
+Ara no pot venir, si vol.
+Ara, pot venir, si vol.
+Ara també pot venir, si vol.
+Ara no puc perquè se m'ha espatllat la roda.
+Ara no puc perquè se m'ha espatllat la calefacció.
+Ara no puc perquè se m'ha espatllat la porta.
+Ara no puc perquè se m'ha espatllat la càmera.
+Ara no puc perquè se m'ha espatllat la bateria.
+Què li sembla a primera set de la tarda?
+Què li sembla a primera sessió de la tarda?
+Seré a prop.
+Seré a dins.
+Seré a dalt.
+Ja que tens pressa, ara renta aquell cotxe.
+Ja que tens cotxe, ara renta aquell cotxe.
+Ja que tens sort, ara renta aquell cotxe.
+Ja que tens raó, ara renta aquell cotxe.
+Ja que tens això, ara renta aquell cotxe.
+Els resultats són horrorosos.
+Els nens són horrorosos.
+Els ulls són horrorosos.
+Els homes són horrorosos.
+Els efectes són horrorosos.
+L'albarà el posarem sobre la taula.
+L'albarà el tinc sobre la taula.
+L'albarà el tenim sobre la taula.
+L'albarà el posaré sobre la taula.
+L'albarà el tindrem sobre la taula.
+He de fer la prova i no em funciona l'ordinador.
+He de fer la feina i no em funciona l'ordinador.
+He de fer la compra i no em funciona l'ordinador.
+He de fer la neteja i no em funciona l'ordinador.
+He de fer la trucada i no em funciona l'ordinador.
+Pots fer la feina d'aquesta senyora?
+Pots fer la foto d'aquesta senyora?
+Pots fer la prova d'aquesta senyora?
+Pots fer la recerca d'aquesta senyora?
+Pots fer la defensa d'aquesta senyora?
+Paga al juny.
+Paga al setembre.
+Paga al mes.
+Paga al març.
+Per això, quan puguis, s'han d'endreçar aquests armaris.
+Per tant, quan puguis, s'han d'endreçar aquests armaris.
+Per descomptat, quan puguis, s'han d'endreçar aquests armaris.
+S'ha de fer per escrit.
+S'ha de fer per torns.
+S'ha de fer per sorteig.
+S'ha de fer per duplicat.
+Vol que t'ajudi?
+Vull que t'ajudi?
+Cal que t'ajudi?
+Espero que t'ajudi?
+Puc fer això demà?
+Puc fer res demà?
+Puc fer quelcom demà?
+Puc fer el demà?
+Puc fer, demà?
+Demà fem festa i no et puc donar festa.
+Demà fem vaga i no et puc donar festa.
+Demà fem vacances i no et puc donar festa.
+Demà fem feina i no et puc donar festa.
+Demà fem eleccions i no et puc donar festa.
+Puc sortir mitja nit abans?
+Puc sortir mitja setmana abans?
+Puc sortir mitja volta abans?
+Puc sortir mitja estona abans?
+Plego abans perquè operen la meva filla.
+Bona nit, he llegit el seu anunci i m'agradaria treballar en la seva empresa.
+Bona gent, he llegit el seu anunci i m'agradaria treballar en la seva empresa.
+Bona noia, he llegit el seu anunci i m'agradaria treballar en la seva empresa.
+Bona sort, he llegit el seu anunci i m'agradaria treballar en la seva empresa.
+Ha treballat alguna nit en una botiga?
+Ha treballat alguna cosa en una botiga?
+Ha treballat alguna temporada en una botiga?
+Ha treballat alguna setmana en una botiga?
+Has treballat en algun hotel o restaurant?
+Has treballat en algun hospital o restaurant?
+Has treballat en algun supermercat o restaurant?
+Has treballat en algun comerç o restaurant?
+També, els estius faig de cangur.
+També, els estius faig de mestra.
+També, els estius faig de tot.
+Busquem una feina que tingui flexibilitat horària, perquè no sempre hi ha feina.
+Busquem una empresa que tingui flexibilitat horària, perquè no sempre hi ha feina.
+Busquem una jornada que tingui flexibilitat horària, perquè no sempre hi ha feina.
+Busquem una plantilla que tingui flexibilitat horària, perquè no sempre hi ha feina.
+A dins hi ha molta gent, i a vegades, gens.
+A casa hi ha molta gent, i a vegades, gens.
+A fora hi ha molta gent, i a vegades, gens.
+A Barcelona hi ha molta gent, i a vegades, gens.
+Bon dia, truco per l'article que he llegit de professora de xinès.
+Bon dia, truco per l'últim que he llegit de professora de xinès.
+Bon dia, truco per l'entrevista que he llegit de professora de xinès.
+Bon dia, truco per l'obra que he llegit de professora de xinès.
+Bon dia, truco per l'escrit que he llegit de professora de xinès.
+Tinc trenta dies.
+Tinc trenta fills.
+Tinc trenta germans.
+Tinc trenta mesos.
+La meva família és catalana.
+La meva dona és catalana.
+La meva filla és catalana.
+La meva àvia és catalana.
+Parlo bé l'àrab, el xinès, l'anglès, el castellà i el català.
+Parlo bé l'àrab, el rus, l'anglès, el castellà i el català.
+Parlo bé l'àrab, el portuguès, l'anglès, el castellà i el català.
+Parlo bé l'àrab, el romanès, l'anglès, el castellà i el català.
+Com et sents?
+Com et veig?
+Com et va?
+Com et sento?
+Estic molt millor, senyor.
+Estic molt millor, estimada.
+Estic molt millor, estimat.
+Estic molt millor, senyora.
+Em trobo molt bé, senyor.
+Em trobo molt bé, senyora.
+Me'n vaig al llit ara mateix.
+Me'n vaig al bosc ara mateix.
+Me'n vaig al lavabo ara mateix.
+Me'n vaig al Japó ara mateix.
+Me'n vaig al món ara mateix.
+Ja fa temps que em fa molt mal el cap.
+Ja fa estona que em fa molt mal el cap.
+Ja fa anys que em fa molt mal el cap.
+Ja fa mesos que em fa molt mal el cap.
+Si vol que et passi el dolor, estira't una estona i pren-te un calmant.
+Si deixes que et passi el dolor, estira't una estona i pren-te un calmant.
+Si necessites que et passi el dolor, estira't una estona i pren-te un calmant.
+Si esperes que et passi el dolor, estira't una estona i pren-te un calmant.
+Fas mala sang.
+Fas mala pinta.
+Fas mala olor.
+Fas mala impressió.
+Tinc dolor de queixal i no he dormit gens.
+Tinc mals de queixal i no he dormit gens.
+Tinc inflamació de queixal i no he dormit gens.
+Tinc cops de queixal i no he dormit gens.
+I la teva mare, està bé?
+I la teva germana, està bé?
+I la teva filla, està bé?
+I la teva dona, està bé?
+I la teva família, està bé?
+Sí, es troba bé tot i que està una miqueta cansada.
+Sí, es troba bé tot i que està una hora cansada.
+Esperem un altre any i això ens fa molta il·lusió.
+Esperem un altre dia i això ens fa molta il·lusió.
+Esperem un altre cop i això ens fa molta il·lusió.
+Esperem un altre curs i això ens fa molta il·lusió.
+Esperem un altre estiu i això ens fa molta il·lusió.
+Dona-li molts ànims.
+Dona-li molts consells.
+Dona-li molts diners.
+Bon dia.
+Per demanar...?
+Per demanar.?
+Per demanar??
+Per demanar ajuda?
+Per demanar!?
+Em permet veure la informació sanitària?
+Em permet veure la regió sanitària?
+Em permet veure la zona sanitària?
+Em permet veure la part sanitària?
+No em pot visitar avui la policia?
+No em pot visitar avui la.?
+No em pot visitar avui la...?
+No em pot visitar avui la reina?
+No em pot visitar avui la mare?
+L'haurà de visitar el servei d'urgències.
+L'haurà de visitar el personal d'urgències.
+L'haurà de visitar el cap d'urgències.
+L'haurà de visitar el facultatiu d'urgències.
+És la seva primera.?
+És la seva primera vegada?
+És la seva primera...?
+És la seva primera!?
+És la seva primera oportunitat?
+Tens algun tema de salut important?
+Tens algun símptoma de salut important?
+Tens algun tipus de salut important?
+Tens algun estat de salut important?
+Em fa molt mal el cor i tots els ossos del cos.
+Em fa molt mal el coll i tots els ossos del cos.
+Em fa molt mal el nas i tots els ossos del cos.
+Em fa molt mal el crani i tots els ossos del cos.
+Molt bé.
+Treu-te la jaqueta i posa't aquesta bata.
+Treu-te la màscara i posa't aquesta bata.
+Treu-te la samarreta i posa't aquesta bata.
+Treu-te la camisa i posa't aquesta bata.
+Li farem una visita general.
+Li farem una pregunta general.
+Li farem una presentació general.
+Li farem una petició general.
+Vagi a la llista d'espera.
+Vagi a la zona d'espera.
+Vagi a la caixa d'espera.
+Vagi a la cua d'espera.
+He caigut per les finestres i no puc posar el peu a terra.
+He caigut per les roques i no puc posar el peu a terra.
+He caigut per les mans i no puc posar el peu a terra.
+He caigut per les cames i no puc posar el peu a terra.
+Tinc el cap inflat.
+Tinc el cor inflat.
+Tinc el nas inflat.
+Tinc el cervell inflat.
+Tinc el cul inflat.
+No tinguis pressa, no et farà mal.
+No tinguis pietat, no et farà mal.
+No tinguis vergonya, no et farà mal.
+No tinguis sort, no et farà mal.
+Sí, vol el programa de vacunació?
+Sí, vol el certificat de vacunació?
+Sí, vol el pla de vacunació?
+Sí, vol el servei de vacunació?
+Tinc molt de malestar.
+Quins poders té?
+Quins drets té?
+Quins coneixements té?
+Quins problemes té?
+Quins interessos té?
+Fa molt de mal que es troba així?
+Fa molt de poc que es troba així?
+Fa molt de fred que es troba així?
+Fa molt de dies que es troba així?
+L'ajudarem perquè no senti vergonya.
+L'ajudarem perquè no senti això.
+L'ajudarem perquè no senti res.
+Té aquest...?
+Té aquest??
+Té aquest poder?
+Té aquest.?
+Té aquest problema?
+Només li puc donar aquest consell si em porta la recepta?
+Només li puc donar aquest favor si em porta la recepta?
+Només li puc donar aquest nom si em porta la recepta?
+Només li puc donar aquest menjar si em porta la recepta?
+Només li puc donar aquest medicament si em porta la recepta?
+Em deixa la targeta blava?
+Em deixa la targeta vermella?
+Em deixa la targeta bancària?
+Em deixa la targeta blanca?
+Tingui la meva targeta vermella.
+La ciutat i l'entorn
+La vegetació i l'entorn
+La zona i l'entorn
+La població i l'entorn
+La natura i l'entorn
+Com es diu el teu??
+Com es diu el teu nom?
+Com es diu el teu.?
+Com es diu el teu...?
+Com es diu el teu!?
+El meu fill es diu Pere.
+El meu germà es diu Pere.
+El meu nom es diu Pere.
+El meu home es diu Pere.
+I la teva.?
+I la teva??
+I la teva...?
+I la teva germana?
+Qui és l'individu amb bigoti de la foto?
+Qui és l'Home amb bigoti de la foto?
+Qui és l'estudiant amb bigoti de la foto?
+Qui és l'avi amb bigoti de la foto?
+És el meu germà Ramon, un germà de la meva mare.
+És el meu amic Ramon, un germà de la meva mare.
+És el meu cosí Ramon, un germà de la meva mare.
+És el meu fill Ramon, un germà de la meva mare.
+I l'altre??
+I l'altre...?
+I l'altre.?
+I l'altre!?
+I l'altre no?
+És el meu germà Arnau, un germà del meu pare.
+És el meu amic Arnau, un germà del meu pare.
+És el meu cosí Arnau, un germà del meu pare.
+És el meu fill Arnau, un germà del meu pare.
+És la meva filla.
+Són els meus amics.
+Són els meus fills.
+Són els meus pares.
+Són el meu pare i la meva germana petita.
+Són el meu germà i la meva germana petita.
+Són el meu marit i la meva germana petita.
+Són el meu fill i la meva germana petita.
+Són el meu amic i la meva germana petita.
+I té raó?
+I té...?
+I té??
+I té.?
+Com és la teva?
+Com és culpa teva?
+Com és cosa teva?
+Com és part teva?
+És un lloc petit amb molta llum.
+És un espai petit amb molta llum.
+És un edifici petit amb molta llum.
+És un poble petit amb molta llum.
+Comparteixo taula amb uns amics.
+Comparteixo habitació amb uns amics.
+Comparteixo això amb uns amics.
+Comparteixo cotxe amb uns amics.
+A quin país vius?
+A quin lloc vius?
+A quin barri vius?
+A quin planeta vius?
+A quin món vius?
+Què tens, senyor?
+Què tens, amic?
+On et fa??
+On et fa...?
+On et fa.?
+On et fa això?
+On et fa!?
+Si es cansa de caminar hauria de fer més exercici.
+Si es cansa de llegir hauria de fer més exercici.
+Si es cansa de treballar hauria de fer més exercici.
+Si es cansa de tot hauria de fer més exercici.
+Si es cansa de cridar hauria de fer més exercici.
+Si pateixes no hauria de treballar tant.
+Si pateix, no hauria de treballar tant.
+Si pateix això no hauria de treballar tant.
+Si no es troba gaire bé hauria d'anar al dentista.
+Si no es troba gaire bé hauria d'anar al lavabo.
+Si no es troba gaire bé hauria d'anar al psicòleg.
+Si no hi veig bé, potser hauria d'anar a l'hospital.
+Si no hi veig bé, potser hauria d'anar a l'escola.
+Si no hi veig bé, potser hauria d'anar a l'Hospital.
+Si no hi veig bé, potser hauria d'anar a l'institut.
+Si no hi veig bé, potser hauria d'anar a l'església.
+El patrimoni i les botigues
+El dret i les botigues
+El projecte i les botigues
+El paisatge i les botigues
+El treball i les botigues
+A quant van les coses?
+A quant van les??
+A quant van les...?
+A quant van les vacances?
+A quant van les proves?
+Les peres van a un euro el quilo.
+Les racions van a un euro el quilo.
+Les hamburgueses van a un euro el quilo.
+Les gallines van a un euro el quilo.
+Quant costen els diners?
+Quant costen els bitllets?
+Quant costen els impostos?
+Quant costen els cotxes?
+Quant costen els premis?
+Què vol, senyora?
+Una truita d'ous i una llauna de tomàquet.
+Una caixa d'ous i una llauna de tomàquet.
+Una bossa d'ous i una llauna de tomàquet.
+Una safata d'ous i una llauna de tomàquet.
+Un plat d'arròs, una llauna de tonyina i una ampolla de vinagre.
+Un vas d'arròs, una llauna de tonyina i una ampolla de vinagre.
+Un got d'arròs, una llauna de tonyina i una ampolla de vinagre.
+Un manat d'arròs, una llauna de tonyina i una ampolla de vinagre.
+Un bol d'arròs, una llauna de tonyina i una ampolla de vinagre.
+Què vol, senyor?
+Un tros de ceba tendra i una col.
+Un tall de ceba tendra i una col.
+Un sofregit de ceba tendra i una col.
+Un raig de ceba tendra i una col.
+Alguna coseta més?
+Alguna pregunta més?
+Alguna informació més?
+Alguna raó més?
+No necessito res més, senyor.
+No necessito res més, Senyor.
+No necessito res més, senyora.
+No necessito res més, però.
+Té ulls madurs?
+Té cabells madurs?
+Té pits madurs?
+Té peus madurs?
+Té fills madurs?
+Quant valen els diners?
+Quant valen els impostos?
+Quant valen els premis?
+Quant valen els vots?
+Quant valen els bitllets?
+Un quilo amb cinquanta cèntims el quilo.
+Un dòlar amb cinquanta cèntims el quilo.
+Un cèntim amb cinquanta cèntims el quilo.
+Un val amb cinquanta cèntims el quilo.
+És fresc, el...?
+És fresc, el vestit?
+És fresc, el teu?
+És fresc, el meu?
+És fresc, el lloc?
+Sempre tenim algú acabat d'arribar.
+Sempre tenim un acabat d'arribar.
+Sempre tenim quelcom acabat d'arribar.
+Sempre tenim això acabat d'arribar.
+També podem oferir-li menjar congelat.
+També podem oferir-li un congelat.
+També podem oferir-li pa congelat.
+També podem oferir-li el congelat.
+Tenen camisa de màniga llarga?
+Tenen uniforme de màniga llarga?
+Tenen roba de màniga llarga?
+Tenen samarreta de màniga llarga?
+Tenen bata de màniga llarga?
+De quina manera necessita les samarretes?
+De quina edat necessita les samarretes?
+De quina forma necessita les samarretes?
+De quina qualitat necessita les samarretes?
+De quina mida necessita les samarretes?
+Necessito una velocitat mitjana.
+Necessito una edat mitjana.
+Necessito una classe mitjana.
+Necessito una mida mitjana.
+De quin tipus ha de ser el vestit?
+De quin estil ha de ser el vestit?
+De quin any ha de ser el vestit?
+De quin ús ha de ser el vestit?
+Em compro la samarreta sempre de colors suaus.
+Em compro la jaqueta sempre de colors suaus.
+Em compro la casa sempre de colors suaus.
+Em compro la camisa sempre de colors suaus.
+Quant val aquesta??
+Quant val aquesta quantitat?
+Quant val aquesta.?
+Quant val aquesta...?
+Quant val aquesta pena?
+Puc pagar amb mi?
+Puc pagar amb això?
+Puc pagar amb diners?
+Puc pagar amb ells?
+Puc pagar amb...?
+No acceptem això, ho sento.
+No acceptem res, ho sento.
+No acceptem comentaris, ho sento.
+No acceptem canvis, ho sento.
+No acceptem més, ho sento.
+M'ensenya la roba blanca de l'aparador?
+M'ensenya la caixa blanca de l'aparador?
+M'ensenya la part blanca de l'aparador?
+M'ensenya la cara blanca de l'aparador?
+M'ensenya la tela blanca de l'aparador?
+De vegades li ensenyo quines camises tinc.
+De moment li ensenyo quines camises tinc.
+De pas li ensenyo quines camises tinc.
+De fet li ensenyo quines camises tinc.
+Es vol emprovar la vida, senyor?
+Es vol emprovar la casa, senyor?
+Es vol emprovar la cartera, senyor?
+Es vol emprovar la roba, senyor?
+Es vol emprovar la veritat, senyor?
+Ui, aquesta cançó em va massa ampla!
+Ui, aquesta idea em va massa ampla!
+Ui, aquesta paraula em va massa ampla!
+Ui, aquesta cosa em va massa ampla!
+Ui, aquesta pregunta em va massa ampla!
+Tenen una germana més petita?
+Tenen una mida més petita?
+Tenen una cosa més petita?
+Tenen una part més petita?
+Tenen una boca més petita?
+Sí, tinc la samarreta amb una talla menys, però és vermella.
+Sí, tinc la jaqueta amb una talla menys, però és vermella.
+Sí, tinc la foto amb una talla menys, però és vermella.
+Sí, tinc la cara amb una talla menys, però és vermella.
+Sí, tinc la bossa amb una talla menys, però és vermella.
+Aquesta idea em va perfecte; me la quedo.
+Aquesta nit em va perfecte; me la quedo.
+Aquesta cançó em va perfecte; me la quedo.
+Aquesta foto em va perfecte; me la quedo.
+Aquesta recepta em va perfecte; me la quedo.
+Si vol que l'atenguin, ha d'agafar un.
+Si vol que l'atenguin, ha d'agafar el.
+Si vol que l'atenguin, ha d'agafar la.
+Si vol que l'atenguin, ha d'agafar una.
+L'últim, si us agrada?
+Aquesta no és l'última.
+Aquesta nit és l'última.
+Aquesta vegada és l'última.
+Aquesta setmana és l'última.
+Aquesta foto és l'última.
+Parlar català t'ajudarà a trobar oportunitats.
+Parlar català t'ajudarà a trobar la.
+Soc professor d'anglès.
+Soc estudiant d'anglès.
+Soc mestra d'anglès.
+Soc mestre d'anglès.
+Faig de botiguer, però soc un.
+Faig de botiguer, però soc jo.
+Faig de cambrer i aviat obriré el meu propi negoci.
+Faig de tot i aviat obriré el meu propi negoci.
+Faig de taxista i aviat obriré el meu propi negoci.
+Faig de cambrera i aviat obriré el meu propi negoci.
+Faig de comptable i aviat obriré el meu propi negoci.
+Treballo en un gran hotel.
+Treballo en un gran hospital.
+Treballo en un gran estudi.
+Treballo en un gran supermercat.
+Soc l'amo de la botiga.
+Soc l'home de la botiga.
+Soc l'empleat de la botiga.
+Soc l'administrador de la botiga.
+Treballo en un hotel.
+Treballo en un laboratori.
+Treballo en un bar.
+Treballo en un hospital.
+Soc la Maria.
+Soc la Marta.
+Soc la Laura.
+Treballes a prop de...?
+Treballes a prop de mi?
+Treballes a prop de nosaltres?
+Treballes a prop de??
+Sí, treballo molt a prop de tu.
+I tu?
+Sí, treballo molt a prop de mi.
+Sí, treballo molt a prop de vostè.
+Sí, treballo molt a prop de nosaltres.
+Treballes cada matí?
+Treballes cada nit?
+Treballes cada setmana?
+Treballes cada any?
+Treballo de dimarts a dissabte, i el diumenge descanso.
+Treballo de divendres a dissabte, i el diumenge descanso.
+Treballo de dijous a dissabte, i el diumenge descanso.
+Treballo de dimecres a dissabte, i el diumenge descanso.
+Depèn de la Direcció.
+Depèn de la direcció.
+Depèn de la Gerència.
+Depèn de la Presidència.
+Depèn de la gerència.
+Normalment, treballo moltes vegades.
+Normalment, treballo moltes setmanes.
+Normalment, treballo moltes nits.
+A quina edat comences a treballar?
+A quina empresa comences a treballar?
+A quina velocitat comences a treballar?
+A quina feina comences a treballar?
+I a quina edat acabes?
+I a quina velocitat acabes?
+I a quina universitat acabes?
+I a quina ciutat acabes?
+Saps si hi ha un lloc prop d'aquí?
+Saps si hi ha un poble prop d'aquí?
+Saps si hi ha un castell prop d'aquí?
+Saps si hi ha un bosc prop d'aquí?
+Saps si hi ha un aeroport prop d'aquí?
+En aquesta casa hi ha una farmàcia.
+En aquesta zona hi ha una farmàcia.
+En aquesta ciutat hi ha una farmàcia.
+En aquesta planta hi ha una farmàcia.
+En aquesta illa hi ha una farmàcia.
+Adeu.
+Felicitats per la informació.
+Enhorabona per la informació.
+Disculpi, portem la foto del mercat de la senyora Verdaguer.
+Disculpi, portem la porta del mercat de la senyora Verdaguer.
+Disculpi, portem la roba del mercat de la senyora Verdaguer.
+Disculpi, portem la clau del mercat de la senyora Verdaguer.
+Disculpi, portem la caixa del mercat de la senyora Verdaguer.
+Vostè sap on viu la família Verdaguer?
+Vostè sap on viu la casa Verdaguer?
+Vostè sap on viu la Maria Verdaguer?
+La noia que busquen viu més avall.
+La gent que busquen viu més avall.
+La persona que busquen viu més avall.
+La dona que busquen viu més avall.
+La parella que busquen viu més avall.
+Com va a la feina?
+Com anar a la feina?
+Com anem a la feina?
+Com vaig a la feina?
+Agafo el bus fins a Sants i després el tren fins a Sabadell.
+Agafo el tren fins a Sants i després el tren fins a Sabadell.
+Agafo el cotxe fins a Sants i després el tren fins a Sabadell.
+Agafo el tramvia fins a Sants i després el tren fins a Sabadell.
+Hi ha bona gent per anar a la teva feina?
+Hi ha bona manera per anar a la teva feina?
+Hi ha bona hora per anar a la teva feina?
+Hi ha bona roba per anar a la teva feina?
+Hi ha bona estona per anar a la teva feina?
+Quantes estacions de metro hi tens?
+Quantes línies de metro hi tens?
+Quantes boques de metro hi tens?
+Quantes hores de metro hi tens?
+El que busqueu és una vida lluny.
+El que busqueu és una casa lluny.
+El que busqueu és una ciutat lluny.
+El que busqueu és una mirada lluny.
+Pot anar-hi amb cotxe o bé amb tren.
+Pot anar-hi amb avió o bé amb tren.
+Pot anar-hi amb autobús o bé amb tren.
+Pot anar-hi amb bus o bé amb tren.
+Pot anar-hi amb vaixell o bé amb tren.
+El descans dura una hora i mitja.
+El curs dura una hora i mitja.
+El treball dura una hora i mitja.
+El servei dura una hora i mitja.
+Senyora, on vol que li deixi la??
+Senyora, on vol que li deixi la cartera?
+Senyora, on vol que li deixi la...?
+Senyora, on vol que li deixi la bossa?
+Senyora, on vol que li deixi la roba?
+Porta els paquets al magatzem, si us plau.
+Deixa els paquets al magatzem, si us plau.
+Portem els paquets al magatzem, si us plau.
+Tots els paquets al magatzem, si us plau.
+Esperi's que farem tard per posar-hi la compra.
+Esperi's que farem temps per posar-hi la compra.
+Esperi's que farem això per posar-hi la compra.
+Esperi's que farem quelcom per posar-hi la compra.
+Esperi's que farem res per posar-hi la compra.
+Els meus, els vull darrere la porta.
+Els diners, els vull darrere la porta.
+Els tinc, els vull darrere la porta.
+Els necessito, els vull darrere la porta.
+Els dos, els vull darrere la porta.
+Les canonades d'aigua, les necessito sota l'escala.
+Les botes d'aigua, les necessito sota l'escala.
+Les gotes d'aigua, les necessito sota l'escala.
+Les reserves d'aigua, les necessito sota l'escala.
+El llibre, posi'l a la prestatgeria del mig.
+El quadre, posi'l a la prestatgeria del mig.
+El meu, posi'l a la prestatgeria del mig.
+El bolígraf, posi'l a la prestatgeria del mig.
+El cap, posi'l a la prestatgeria del mig.
+De fet, no tenim res més per a vostè.
+De veritat, no tenim res més per a vostè.
+De debò, no tenim res més per a vostè.
+De vegades, no tenim res més per a vostè.
+Com es diu la teva??
+Com es diu la teva.?
+Com es diu la teva...?
+Com es diu la teva!?
+Com es diu la teva mare?
+La seva nacionalitat és aranesa.
+La seva denominació és aranesa.
+La seva llengua és aranesa.
+La seva procedència és aranesa.
+La seva identitat és aranesa.
+El seu nom és francès.
+El seu cognom és francès.
+El seu pare és francès.
+El seu origen és francès.
+El seu accent és francès.
+La seva família és andalusa.
+La seva nacionalitat és andalusa.
+La seva àvia és andalusa.
+La seva dona és andalusa.
+La gent d'aquest país és d'orígens molt diversos.
+La joventut d'aquest país és d'orígens molt diversos.
+La immigració d'aquest país és d'orígens molt diversos.
+La ciutadania d'aquest país és d'orígens molt diversos.
+Li agradaria tenir un.
+Li agradaria tenir una.
+Li agradaria tenir fills.
+Tenir nets és una responsabilitat.
+Tenir nets és una obligació.
+Tenir nets és una necessitat.
+Tenir nets és una garantia.
+Tenir amics és una sort.
+Tenir nens és una sort.
+Tenir sort és una sort.
+Tenir família és una sort.
+Té un germà que va anar a Cuba.
+Té un fill que va anar a Cuba.
+Té un amic que va anar a Cuba.
+Té un oncle que va anar a Cuba.
+Té un nen que va anar a Cuba.
+Li agrada viure al carrer.
+Li agrada viure al camp.
+Li agrada viure al bosc.
+Li agrada viure al desert.
+Té casa al poble on viu i al del costat.
+Té parents al poble on viu i al del costat.
+Té propietats al poble on viu i al del costat.
+Té dret al poble on viu i al del costat.
+Té una mida molt gran.
+Té una edat molt gran.
+Té una força molt gran.
+Té una alçada molt gran.
+Té una grandària molt gran.
+Parla japonès, francès, italià i àrab, a més de català.
+Parla japonès, francès, rus i àrab, a més de català.
+Parla japonès, francès, xinès i àrab, a més de català.
+Parla japonès, francès, portuguès i àrab, a més de català.
+No sé com es diu això en aranès.
+No sé com es diu, en aranès.
+No sé com es diu així en aranès.
+No sé com es diu aquí en aranès.
+No sé com es diu: en aranès.
+La meva mare col·labora en una ONG.
+La meva filla col·labora en una ONG.
+La meva família col·labora en una ONG.
+La meva dona col·labora en una ONG.
+Tinc companys que treballen a l'Àfrica subsahariana.
+Tinc familiars que treballen a l'Àfrica subsahariana.
+Tinc amigues que treballen a l'Àfrica subsahariana.
+Tinc parents que treballen a l'Àfrica subsahariana.
+Va viure molts mesos a Cambodja.
+Va viure molts estius a Cambodja.
+Va viure molts dies a Cambodja.
+Va viure molts temps a Cambodja.
+La meva mare parla hores i hores per telèfon.
+La meva dona parla hores i hores per telèfon.
+La meva família parla hores i hores per telèfon.
+La meva germana parla hores i hores per telèfon.
+Al meu germà adolescent li costa molt de llevar-se d'hora.
+Al meu petit adolescent li costa molt de llevar-se d'hora.
+Al meu amic adolescent li costa molt de llevar-se d'hora.
+Al meu nebot adolescent li costa molt de llevar-se d'hora.
+Els camins són complicats.
+Els càlculs són complicats.
+Els mètodes són complicats.
+Els resultats són complicats.
+Els detalls són complicats.
+Els vídeos són molt interessants.
+Els comentaris són molt interessants.
+Els resultats són molt interessants.
+Els dibuixos són molt interessants.
+Els enllaços són molt interessants.
+Cal tenir empatia amb els altres.
+Cal tenir empatia amb els nens.
+Cal tenir empatia amb els clients.
+Cal tenir empatia amb els fills.
+Cal tenir empatia amb els treballadors.
+Per a la població jove ha estat un període difícil.
+Per a la parella jove ha estat un període difícil.
+Per a la meva jove ha estat un període difícil.
+Per a la nostra jove ha estat un període difícil.
+A quina edat comences les classes?
+A quina setmana comences les classes?
+A quina velocitat comences les classes?
+A quina escola comences les classes?
+T'agraden els teus??
+T'agraden els teus.?
+T'agraden els teus...?
+T'agraden els teus fills?
+T'agraden els teus amics?
+El seu marit ha tingut una vida apassionant.
+El seu fill ha tingut una vida apassionant.
+El seu germà ha tingut una vida apassionant.
+El seu avi ha tingut una vida apassionant.
+La seva dona és una dona molt interessant.
+La seva germana és una dona molt interessant.
+La seva filla és una dona molt interessant.
+La seva esposa és una dona molt interessant.
+No s'assembla gens als seus amics.
+No s'assembla gens als seus veïns.
+No em vol donar l'edat que té.
+No em vol per l'edat que té.
+No em vol explicar l'edat que té.
+No em vol recordar l'edat que té.
+Té els mateixos drets que jo.
+Té els mateixos problemes que jo.
+Té els mateixos poders que jo.
+Té els mateixos defectes que jo.
+Té els mateixos coneixements que jo.
+Bon dia, Joana, a quina hora és?
+Bon dia, Joana, en quina hora és?
+Bon dia, Joana, A quina hora és?
+Bon dia, Joana, de quina hora és?
+Quina sort que té la teva germana.
+Quina edat que té la teva germana.
+Quina por que té la teva germana.
+Quina pinta que té la teva germana.
+Quina cara que té la teva germana.
+Es casaran el Diumenge de Rams.
+Es casaran el dilluns de Rams.
+Es casaran el Dissabte de Rams.
+Pots parlar més a poquet a poc, que no t'entenc?
+Pots parlar més a molt a poc, que no t'entenc?
+Pots parlar més a més a poc, que no t'entenc?
+Saps on viu aquesta??
+Saps on viu aquesta.?
+Saps on viu aquesta dona?
+Saps on viu aquesta...?
+Saps on viu aquesta senyora?
+Ella treballa de secretària.
+Ella treballa de cambrera.
+Ella treballa de peó.
+Ella treballa de cangur.
+Ell treballa de peó.
+Ell treballa de cambrer.
+Ell treballa de mecànic.
+Ell treballa de conductor.
+Ell treballa de porter.
+Falten infermers i infermeres a Catalunya.
+Falten mestres i infermeres a Catalunya.
+Falten doctors i infermeres a Catalunya.
+Falten jutges i infermeres a Catalunya.
+Falten bons temps a Catalunya.
+Falten bons polítics a Catalunya.
+Falten bons mestres a Catalunya.
+Falten bons actors a Catalunya.
+Falten bons líders a Catalunya.
+És catalana, de costums andalusos.
+És catalana, de cognoms andalusos.
+És catalana, de trets andalusos.
+Bon dia, em pots dir quants fills tens?
+Bon dia, em pots dir quants dies tens?
+Bon dia, em pots dir quants diners tens?
+Bon dia, em pots dir quants bitllets tens?
+Tinc vint fills.
+La Joana no sap en quin món viu.
+La Joana no sap en quin país viu.
+La Joana no sap en quin estat viu.
+La Joana no sap en quin planeta viu.
+La Joana no sap en quin lloc viu.
+Com es diuen els teus??
+Com es diuen els teus.?
+Com es diuen els teus...?
+Com es diuen els teus!?
+Com es diuen els teus noms?
+Els meus pares es diuen Maria, Quim i Núria.
+Els meus germans es diuen Maria, Quim i Núria.
+Els meus noms es diuen Maria, Quim i Núria.
+Els meus amics es diuen Maria, Quim i Núria.
+No tothom té tants problemes com tu.
+No tothom té tants amics com tu.
+No tothom té tants diners com tu.
+No tothom té tants drets com tu.
+No tothom té tants defectes com tu.
+L'home va tenir molts fills.
+L'Anna va tenir molts fills.
+L'Oliver va tenir molts fills.
+L'Eva va tenir molts fills.
+L'autora va tenir molts fills.
+La seva dona va tenir dotze fills.
+La seva esposa va tenir dotze fills.
+La seva parella va tenir dotze fills.
+La seva família va tenir dotze fills.
+Va tenir un accident, però se li va morir.
+Va tenir un germà, però se li va morir.
+Va tenir un somni, però se li va morir.
+Va tenir un nen, però se li va morir.
+Núria, aquesta és la Joana, la meva dona de feina.
+Núria, aquesta és la Joana, la meva amiga de feina.
+Els canvis de feina són molt importants.
+Els torns de feina són molt importants.
+Els dies de feina són molt importants.
+Els horaris de feina són molt importants.
+Treballa pel seu bé i això la fa sentir bé.
+Treballa pel seu fill i això la fa sentir bé.
+Treballa pel seu benestar i això la fa sentir bé.
+Treballa pel seu germà i això la fa sentir bé.
+Va ser autònoma durant molts segles, però ara és funcionària.
+Va ser autònoma durant molts mesos, però ara és funcionària.
+Va ser autònoma durant molts temps, però ara és funcionària.
+Va ser autònoma durant molts períodes, però ara és funcionària.
+En Pere vol ser president.
+En Pere vol ser lliure.
+Treballen de secretària d'un jutjat.
+Treballen de secretaris d'un jutjat.
+Treballen de secretari d'un jutjat.
+Treballen de secretaria d'un jutjat.
+Treballen de porter d'un jutjat.
+La seva vida és molt difícil.
+La seva missió és molt difícil.
+La seva tasca és molt difícil.
+La seva situació és molt difícil.
+Cada dia li porta flors pel seu sant.
+Cada cristià li porta flors pel seu sant.
+Cada un li porta flors pel seu sant.
+Cada mes li porta flors pel seu sant.
+No recorda mai el seu nom.
+No recorda mai el seu pare.
+No recorda mai el seu passat.
+Sempre recorda els noms de tothom.
+Sempre recorda els problemes de tothom.
+Sempre recorda els errors de tothom.
+Sempre recorda els èxits de tothom.
+Sempre recorda els defectes de tothom.
+És una feina molt meticulosa.
+És una persona molt meticulosa.
+És una tasca molt meticulosa.
+És una tècnica molt meticulosa.
+És una casa molt tancada.
+És una habitació molt tancada.
+És una cosa molt tancada.
+És una ment molt tancada.
+És una porta molt tancada.
+La Maria té molts problemes.
+La Maria té molts dubtes.
+La Maria té molts defectes.
+Tenir fills t'ajuda molt a la vida.
+Tenir parella t'ajuda molt a la vida.
+Tenir família t'ajuda molt a la vida.
+Tenir nens t'ajuda molt a la vida.
+Moltes felicitats per formar part de la solució!
+Moltes Gràcies per formar part de la solució!
+Moltes Felicitats per formar part de la solució!
+Com pots demanar??
+Com pots demanar...?
+Com pots demanar.?
+Com pots demanar això?
+Com pots demanar!?
+Com puc demanar??
+Com puc demanar...?
+Com puc demanar.?
+Com puc demanar això?
+Com puc demanar!?
+Com podeu demanar??
+Com podeu demanar...?
+Com podeu demanar.?
+Com podeu demanar!?
+Com podeu demanar això?
+Cal presentar la targeta magnètica individual, juntament amb el DNI, el NIE o el passaport.
+Cal presentar la targeta bancària individual, juntament amb el DNI, el NIE o el passaport.
+Cal presentar la targeta digital individual, juntament amb el DNI, el NIE o el passaport.
+Cal presentar la targeta universitària individual, juntament amb el DNI, el NIE o el passaport.
+Consulta els fulls d'inscripció disponibles.
+Consulta els formularis d'inscripció disponibles.
+Consulta els períodes d'inscripció disponibles.
+Consulta els terminis d'inscripció disponibles.
+Consulteu els fulls d'inscripció disponibles.
+Consulteu els formularis d'inscripció disponibles.
+Consulteu els períodes d'inscripció disponibles.
+Consulteu els terminis d'inscripció disponibles.
+Consulti els fulls d'inscripció disponibles.
+Consulti els formularis d'inscripció disponibles.
+Consulti els models d'inscripció disponibles.
+Consulti els impresos d'inscripció disponibles.
+S'han habilitat diferents vies d'inscripció per tot Catalunya.
+S'han habilitat diferents llocs d'inscripció per tot Catalunya.
+S'han habilitat diferents centres d'inscripció per tot Catalunya.
+S'han habilitat diferents fulls d'inscripció per tot Catalunya.
+Pots programar una sessió presencialment o per telèfon.
+Pots programar una reunió presencialment o per telèfon.
+Pots programar una activitat presencialment o per telèfon.
+Pots programar una entrevista presencialment o per telèfon.
+Podeu demanar informació per Internet.
+Podeu demanar ajuda per Internet.
+Podeu demanar cita per Internet.
+Podeu demanar plaça per Internet.
+Pots demanar informació per Internet.
+Pots demanar ajuda per Internet.
+Pots demanar crèdit per Internet.
+Pots demanar finançament per Internet.
+Aquest és el número d'identificació personal de la targeta sanitària individual.
+Aquest és el document d'identificació personal de la targeta sanitària individual.
+Aquest és el nombre d'identificació personal de la targeta sanitària individual.
+Aquest és el sistema d'identificació personal de la targeta sanitària individual.
+Aquí trobaràs informació, subvencions, premis, beques i cursos.
+Aquí trobaràs ajudes, subvencions, premis, beques i cursos.
+Aquí trobaràs notícies, subvencions, premis, beques i cursos.
+Aquí trobaràs activitats, subvencions, premis, beques i cursos.
+Aquí trobareu ajuts, beques, premis, beques i cursos.
+Aquí trobareu ajuts, ajuts, premis, beques i cursos.
+Aquí trobareu ajuts, tràmits, premis, beques i cursos.
+Aquí trobareu ajuts, premis, premis, beques i cursos.
+Premis, subvencions, premis, beques i cursos per a gent jove.
+Activitats, subvencions, premis, beques i cursos per a gent jove.
+Programes, subvencions, premis, beques i cursos per a gent jove.
+Beques, subvencions, premis, beques i cursos per a gent jove.
+Ajudes i subvencions per a autònoms.
+Beques i subvencions per a autònoms.
+Subvencions i subvencions per a autònoms.
+Ajuda i subvencions per a autònoms.
+Ajudes i subvencions per a persones autònomes.
+Serveis i subvencions per a persones autònomes.
+Cal que compliu els requeriments de la convocatòria.
+Cal que compliu els criteris de la convocatòria.
+Cal que compliu els terminis de la convocatòria.
+Cal que compliu els termes de la convocatòria.
+Llegiu atentament les normes.
+Llegiu atentament les conclusions.
+Llegiu atentament les imatges.
+Llegiu atentament les obres.
+Llegiu atentament tots els articles publicats.
+Llegiu atentament tots els textos publicats.
+Llegiu atentament tots els documents publicats.
+Llegiu atentament tots els treballs publicats.
+Com puc fer una...?
+Com puc fer una??
+Com puc fer una cosa?
+Com puc fer una.?
+On puc trobar??
+On puc trobar...?
+On puc trobar.?
+On puc trobar això?
+On puc trobar!?
+Tècniques i recursos per trobar feina.
+Recursos i recursos per trobar feina.
+Informació i recursos per trobar feina.
+Requisits i recursos per trobar feina.
+Tècniques i recursos per a trobar feina.
+Recursos i recursos per a trobar feina.
+Mitjans i recursos per a trobar feina.
+Estratègies i recursos per a trobar feina.
+Recursos i recursos per resoldre dubtes lingüístics.
+Informació i recursos per resoldre dubtes lingüístics.
+Tècniques i recursos per resoldre dubtes lingüístics.
+Serveis i recursos per resoldre dubtes lingüístics.
+Recursos i recursos per a resoldre dubtes lingüístics.
+Informació i recursos per a resoldre dubtes lingüístics.
+Tècniques i recursos per a resoldre dubtes lingüístics.
+Serveis i recursos per a resoldre dubtes lingüístics.
+Servei d'assessorament professional
+Servei d'habilitació professional
+Servei d'acompanyament professional
+Servei d'informació professional
+Fes la prova amb el formulari.
+Fes la comanda amb el formulari.
+Fes la consulta amb el formulari.
+Fes la foto amb el formulari.
+Feu la prova amb el formulari.
+Feu la foto amb el formulari.
+Feu la comanda amb el formulari.
+Feu la consulta amb el formulari.
+Faci la consulta amb el formulari.
+Faci la prova amb el formulari.
+Faci la comprovació amb el formulari.
+Faci la petició amb el formulari.
+La senyalització és obligatòria.
+La formació és obligatòria.
+La cessió és obligatòria.
+La separació és obligatòria.
+Cal imprimir el certificat un cop finalitzat el tràmit de renovació.
+Cal imprimir el carnet un cop finalitzat el tràmit de renovació.
+Cal imprimir el formulari un cop finalitzat el tràmit de renovació.
+Cal imprimir el rebut un cop finalitzat el tràmit de renovació.
+Aquí tens el llistat d'activitats que han organitzat els equipaments.
+Aquí tens el calendari d'activitats que han organitzat els equipaments.
+Aquí tens el recull d'activitats que han organitzat els equipaments.
+Aquí tens el mapa d'activitats que han organitzat els equipaments.
+Aquí teniu el recull d'activitats que han organitzat els equipaments.
+Aquí teniu el llistat d'activitats que han organitzat els equipaments.
+Aquí teniu el calendari d'activitats que han organitzat els equipaments.
+Aquí teniu el resum d'activitats que han organitzat els equipaments.
+El programa t'ofereix una selecció d'activitats per gaudir de la cultura.
+El museu t'ofereix una selecció d'activitats per gaudir de la cultura.
+El Museu t'ofereix una selecció d'activitats per gaudir de la cultura.
+El Casal t'ofereix una selecció d'activitats per gaudir de la cultura.
+El centre t'ofereix una selecció d'activitats per gaudir de la cultura.
+El Parc t'ofereix una selecció d'activitats per gaudir de la natura.
+El centre t'ofereix una selecció d'activitats per gaudir de la natura.
+El programa t'ofereix una selecció d'activitats per gaudir de la natura.
+El museu t'ofereix una selecció d'activitats per gaudir de la natura.
+El parc t'ofereix una selecció d'activitats per gaudir de la natura.
+Us desitgem un molt bon Nadal a totes i tots.
+Us desitgem un molt bon any a totes i tots.
+Us desitgem un molt bon viatge a totes i tots.
+Consulta el calendari de totes les activitats a l'agenda en línia.
+Consulta el programa de totes les activitats a l'agenda en línia.
+Consulta el llistat de totes les activitats a l'agenda en línia.
+Consulta el resum de totes les activitats a l'agenda en línia.
+Consulteu el calendari de totes les activitats a l'agenda en línia.
+Consulteu el programa de totes les activitats a l'agenda en línia.
+Consulteu el llistat de totes les activitats a l'agenda en línia.
+Consulteu el resum de totes les activitats a l'agenda en línia.
+És un assagista, novel·lista, poeta i filòsof francès.
+És un historiador, novel·lista, poeta i filòsof francès.
+És un dramaturg, novel·lista, poeta i filòsof francès.
+És un metge, novel·lista, poeta i filòsof francès.
+Els va unir una gran força.
+Els va unir una gran abraçada.
+Els va unir una gran alegria.
+Els va unir una gran família.
+La nòmina de premiats és molt llarga.
+La relació de premiats és molt llarga.
+La història de premiats és molt llarga.
+La resta de premiats és molt llarga.
+Hi trobaràs enllaços a temes que et poden interessar.
+Hi trobaràs respostes a temes que et poden interessar.
+Hi trobaràs referències a temes que et poden interessar.
+Hi trobaràs accés a temes que et poden interessar.
+Estan organitzades per categories.
+Estan organitzades per departaments.
+Estan organitzades per seccions.
+Estan organitzades per matèries.
+És una activitat de gran impacte.
+És una obra de gran impacte.
+És una inversió de gran impacte.
+És una actuació de gran impacte.
+És una acció de gran impacte.
+Demà a mitja hora, et va bé?
+Demà a mitja jornada, et va bé?
+Demà a mitja setmana, et va bé?
+Molt bé; fins dilluns que ve.
+Molt bé; fins dimarts que ve.
+Molt bé; fins diumenge que ve.
+Molt bé; fins dimecres que ve.
+Molt bé; fins divendres que ve.
+Demà finalment vaig a la feina.
+Demà finalment vaig a la presó.
+Demà finalment vaig a la platja.
+Demà finalment vaig a la universitat.
+Demà finalment vaig a la Universitat.
+Hi vas venir o no t'agrada?
+Hi pots venir o no t'agrada?
+Hi penses venir o no t'agrada?
+Hi veus venir o no t'agrada?
+Hi poden venir els...?
+Hi poden venir els altres?
+Hi poden venir els homes?
+Hi poden venir els meus?
+Per dinar portarem entrepà de formatge i fruita.
+Per dinar portarem trossets de formatge i fruita.
+Per dinar portarem trossos de formatge i fruita.
+Per dinar portarem coca de formatge i fruita.
+D'aquí, fins demà.
+D'entrada, fins demà.
+D'avui, fins demà.
+D'ara, fins demà.
+T'agrada mirar la tele?
+T'agrada mirar la lluna?
+T'agrada mirar la pantalla?
+T'agrada mirar la vida?
+Què t'agrada fer en el meu temps lliure?
+Què t'agrada fer en el seu temps lliure?
+Què t'agrada fer en el nostre temps lliure?
+Què t'agrada fer en el vostre temps lliure?
+M'agrada passejar, escoltar contes i llegir novel·les.
+M'agrada passejar, escoltar poesia i llegir novel·les.
+M'agrada passejar, escoltar cançons i llegir novel·les.
+M'agrada quedar amb els altres.
+M'agrada quedar amb els nens.
+M'agrada quedar amb els teus.
+Quin parell de pel·lícules t'agraden?
+Quin munt de pel·lícules t'agraden?
+Quin nombre de pel·lícules t'agraden?
+Quin grup de pel·lícules t'agraden?
+M'agraden les comèdies romàntiques, les musicals i les d'acció.
+I a tu?
+M'agraden les cançons romàntiques, les musicals i les d'acció.
+M'agraden les històries romàntiques, les musicals i les d'acció.
+M'agraden les sèries romàntiques, les musicals i les d'acció.
+M'agraden les bandes romàntiques, les musicals i les d'acció.
+A mi m'agraden les històries de guerrers.
+A mi m'agraden les baralles de guerrers.
+A mi m'agraden les lluites de guerrers.
+A mi m'agraden les batalles de guerrers.
+A mi m'agraden les curses de guerrers.
+On és la teva germana petita?
+On és la teva nena petita?
+On és la teva mare petita?
+On és la teva cosina petita?
+És al llit amb el seu pare i la seva germana.
+És al bosc amb el seu pare i la seva germana.
+És al poble amb el seu pare i la seva germana.
+És al carrer amb el seu pare i la seva germana.
+És al cotxe amb el seu pare i la seva germana.
+A la meva mare li agraden molt els gronxadors.
+A la meva filla li agraden molt els gronxadors.
+A la meva àvia li agraden molt els gronxadors.
+A la meva dona li agraden molt els gronxadors.
+Què t'agrada més, el teatre o el bàsquet?
+Què t'agrada més, el jazz o el bàsquet?
+Què t'agrada més, el golf o el bàsquet?
+El bàsquet és el que més m'agrada de tots els esports.
+El ciclisme és el que més m'agrada de tots els esports.
+El waterpolo és el que més m'agrada de tots els esports.
+On li agradaria anar de vacances?
+On li agradaria anar de??
+On li agradaria anar de...?
+On li agradaria anar de debò?
+Per què no fa un viatge pel Carib?
+Per què no fa un tomb pel Carib?
+Per què no fa un vol pel Carib?
+Per què no fa un passeig pel Carib?
+Què li semblaria fer una manifestació cultural?
+Què li semblaria fer una escapada cultural?
+Què li semblaria fer una ruta cultural?
+Què li semblaria fer una fira cultural?
+No, no, m'estimaria més anar a un poble prop d'un llac, o a la muntanya.
+No, no, m'estimaria més anar a un poblet prop d'un llac, o a la muntanya.
+No, no, m'estimaria més anar a un bosc prop d'un llac, o a la muntanya.
+No, no, m'estimaria més anar a un llac prop d'un llac, o a la muntanya.
+Cal anar-hi amb compte.
+Cal anar-hi amb temps.
+Cal anar-hi amb cotxe.
+Cal anar-hi amb bicicleta.
+Cal anar-hi amb cura.
+El vol fins allà dura al cap d'una hora.
+El vol fins allà dura al llarg d'una hora.
+El vol fins allà dura al ritme d'una hora.
+I el meu cotxe, el puc portar?
+I el meu fill, el puc portar?
+I el meu germà, el puc portar?
+I el meu pare, el puc portar?
+I el meu gos, el puc portar?
+Amb tot, anar-hi surt molt bé de preu.
+Amb això, anar-hi surt molt bé de preu.
+Amb sort, anar-hi surt molt bé de preu.
+Amb bicicleta, anar-hi surt molt bé de preu.
+Amb cotxe, anar-hi surt molt bé de preu.
+Bé, doni'm qualsevol cosa.
+Senyor, doni'm qualsevol cosa.
+-, doni'm qualsevol cosa.
+No, doni'm qualsevol cosa.
+Sí, doni'm qualsevol cosa.
+Val la idea anar-hi, ja ho veurà.
+Val la cosa anar-hi, ja ho veurà.
+Val la vida anar-hi, ja ho veurà.
+Val la gràcia anar-hi, ja ho veurà.
+Si us interessa, voldria reservar una habitació doble.
+Si us agrada, voldria reservar una habitació doble.
+Si us animeu, voldria reservar una habitació doble.
+L'ajut ha de ser doble o individual?
+L'abonament ha de ser doble o individual?
+L'equip ha de ser doble o individual?
+L'aportació ha de ser doble o individual?
+L'assegurança ha de ser doble o individual?
+Vull una casa doble, que tingui bany.
+Vull una cambra doble, que tingui bany.
+Vull una cabina doble, que tingui bany.
+Vull una banyera doble, que tingui bany.
+L'esmorzar ha d'incloure l'esmorzar i prou.
+L'àpat ha d'incloure l'esmorzar i prou.
+L'ajut ha d'incloure l'esmorzar i prou.
+L'allotjament ha d'incloure l'esmorzar i prou.
+L'entrepà ha d'incloure l'esmorzar i prou.
+Quants anys s'estarà a l'hotel?
+Quants minuts s'estarà a l'hotel?
+Quants mesos s'estarà a l'hotel?
+Quants cops s'estarà a l'hotel?
+Benvinguda.
+Com ha anat el dia?
+Com ha anat el...?
+Com ha anat el procés?
+Com ha anat el sopar?
+Molt bé, senyor.
+Molt bé, Senyor.
+Molt bé, senyora.
+Molt bé, Sr.
+Molt bé, noi.
+És temps de dinar.
+És moment de dinar.
+És qüestió de dinar.
+És costum de dinar.
+Em dona una idea per a l'òpera d'avui a la nit?
+Em dona una cançó per a l'òpera d'avui a la nit?
+Em dona una invitació per a l'òpera d'avui a la nit?
+Em dona una pista per a l'òpera d'avui a la nit?
+Miri, tenim habitacions, però no estan gaire ben situades.
+Miri, tenim cases, però no estan gaire ben situades.
+Miri, tenim aquí, però no estan gaire ben situades.
+Miri, tenim alternatives, però no estan gaire ben situades.
+Miri, tenim problemes, però no estan gaire ben situades.
+En queda un a la platea?
+En queda una a la platea?
+En queda alguna a la platea?
+En queda algun a la platea?
+Queda una mica, però és molt endarrere, a les últimes files.
+Queda una línia, però és molt endarrere, a les últimes files.
+Queda una plaça, però és molt endarrere, a les últimes files.
+Queda una foto, però és molt endarrere, a les últimes files.
+Queda una fila, però és molt endarrere, a les últimes files.
+També queda una habitació al tercer pis.
+També queda una finestra al tercer pis.
+També queda una escala al tercer pis.
+També queda una porta al tercer pis.
+També queda una casa al tercer pis.
+El públic és lateral, però veurà més de mig escenari.
+El teatre és lateral, però veurà més de mig escenari.
+El cor és lateral, però veurà més de mig escenari.
+El carrer és lateral, però veurà més de mig escenari.
+El muntatge és lateral, però veurà més de mig escenari.
+Em quedo aquesta nit.
+Aquí teniu l'horari tot explicat, amb els horaris que farem.
+Aquí teniu l'agenda tot explicat, amb els horaris que farem.
+Aquí teniu l'esquema tot explicat, amb els horaris que farem.
+Aquí teniu l'enllaç tot explicat, amb els horaris que farem.
+La sang és molt important per poder-lo seguir.
+La veritat és molt important per poder-lo seguir.
+La mort és molt important per poder-lo seguir.
+La distància és molt important per poder-lo seguir.
+La música és molt important per poder-lo seguir.
+A la nit han de portar una jaqueta per si fa fred.
+A la feina han de portar una jaqueta per si fa fred.
+A la tarda han de portar una jaqueta per si fa fred.
+A la setmana han de portar una jaqueta per si fa fred.
+A la tornada han de portar una jaqueta per si fa fred.
+Tot allò que sigui un home, va pel seu compte.
+Tot allò que sigui un perill, va pel seu compte.
+Tot allò que sigui un error, va pel seu compte.
+Tot allò que sigui un crim, va pel seu compte.
+Tot allò que sigui un desastre, va pel seu compte.
+Fa poc dies que he arribat, pot parlar més a poc a poc?
+Fa poc, que he arribat, pot parlar més a poc a poc?
+Fa poc estona que he arribat, pot parlar més a poc a poc?
+Fa poc des que he arribat, pot parlar més a poc a poc?
+Hola, bon matí.
+Hola, bon vespre.
+Hola, bon any.
+Hola, bon viatge.
+Hola, bona nit.
+Hola, bona vesprada.
+Hola, bona setmana.
+Hola, bona gent.
+Hola, bona tarda.
+-, fins ara.
+No, fins ara.
+I, fins ara.
+Total, fins ara.
+Bé, fins aviat.
+Senyor, fins aviat.
+No, fins aviat.
+-, fins aviat.
+Hola, molt de temps!
+Hola, molt de bo!
+Hola, molt de profit!
+Hola, molt de gràcies!
+Senyor Picó, li presento la casa Palau.
+Senyor Picó, li presento la Casa Palau.
+Senyor Picó, li presento la Fundació Palau.
+Senyor Picó, li presento la paraula Palau.
+Li presento el doctor Jofre.
+Li presento el meu Jofre.
+Li presento el petit Jofre.
+Li presento el Senyor Jofre.
+Et presento l'informe.
+Et presento l'enllaç.
+Et presento l'anell.
+Et presento l'empresa.
+Et presento l'oportunitat.
+Li presento la carta.
+Li presento la meva.
+Li presento la foto.
+Li presento la solució.
+Li presento la targeta.
+Et presento la meva.
+Et presento la solució.
+Et presento la teva.
+Molt de temps, Arnau.
+Molt de bo, Arnau.
+Molt de mal, Arnau.
+Molt de bé, Arnau.
+Treballo a Barcelona.
+Treballo a Catalunya.
+Treballo a Girona.
+Treballo a Tarragona.
+Treballo a Lleida.
+Hola, com??
+Hola, com va?
+Hola, com està?
+Hola, com és?
+Molt bé, nois.
+I la teva mare, com està?
+I la teva germana, com està?
+I la teva filla, com està?
+I la teva dona, com està?
+I la teva casa, com està?
+Quants diners tens?
+Quants fills tens?
+Quants en tens?
+Quants dies tens?
+Tinc cinquanta fills.
+Sí, tinc un marit i dues filles.
+Sí, tinc un germà i dues filles.
+Sí, tinc un nen i dues filles.
+Sí, tinc un home i dues filles.
+Pot parlar més a molt a poc?
+Pot parlar més a més a poc?
+Pot parlar més a poquet a poc?
+Ha dit que vindrà a la nit.
+Ha dit que vindrà a la ciutat.
+Ha dit que vindrà a la reunió.
+Ha dit que vindrà a la presó.
+Bon dia per la família.
+Bon dia per la resta.
+Bon dia per la gent.
+Bon dia per la feina.
+Bon dia per la meva.
+Us desitgem una bona vesprada.
+Us desitjo una bona vesprada.
+Us desitja una bona vesprada.
+Hem preparat una sèrie d'activitats per als més menuts.
+Hem preparat una agenda d'activitats per als més menuts.
+Hem preparat una selecció d'activitats per als més menuts.
+Hem preparat una proposta d'activitats per als més menuts.
+Hem preparat una programació d'activitats per als més menuts.
+L'onada de tramuntana es desferma a l'horabaixa.
+L'amenaça de tramuntana es desferma a l'horabaixa.
+L'huracà de tramuntana es desferma a l'horabaixa.
+L'olor de tramuntana es desferma a l'horabaixa.
+A l'estiu, el mar es calma.
+A l'hivern, el mar es calma.
+A l'agost, el mar es calma.
+A l'illa, el mar es calma.
+A l'alba, el mar es calma.
+Hi arribarem a l'hora.
+Hi arribarem a l'estiu.
+Hi arribarem a l'octubre.
+Hi arribarem a l'hivern.
+Hi arribarem a l'alba.
+Els residents del Regne Unit que isquen del Principat han de presentar el passaport.
+Els residents del Regne Unit que isquen del Consolat han de presentar el passaport.
+Els residents del Regne Unit que isquen del centre han de presentar el passaport.
+Els residents del Regne Unit que isquen del Canadà han de presentar el passaport.
+Aquesta tècnica de l'emparrat de tomaqueres permet que isquen molts tomàquets.
+Aquesta característica de l'emparrat de tomaqueres permet que isquen molts tomàquets.
+Aquesta millora de l'emparrat de tomaqueres permet que isquen molts tomàquets.
+Aquesta reducció de l'emparrat de tomaqueres permet que isquen molts tomàquets.
+Aquesta varietat de l'emparrat de tomaqueres permet que isquen molts tomàquets.
+Dels meus llavis isqueren llàgrimes espesses.
+Dels meus braços isqueren llàgrimes espesses.
+Dels meus peus isqueren llàgrimes espesses.
+Dels meus caps isqueren llàgrimes espesses.
+Esperem que puga dir per fi la veritat.
+Esperem que puga saber per fi la veritat.
+Esperem que puga conèixer per fi la veritat.
+Esperem que puga explicar per fi la veritat.
+Esperem que puga conéixer per fi la veritat.
+Treballem perquè el sol puga eixir al llarg del mes que ve.
+Treballem perquè el mercat puga eixir al llarg del mes que ve.
+Treballem perquè el documental puga eixir al llarg del mes que ve.
+Treballem perquè el poble puga eixir al llarg del mes que ve.
+Cercam qualcú que vulga venir a fer les coses aquí.
+Cercam qualcú que vulga venir a fer les vacances aquí.
+Cercam qualcú que vulga venir a fer les proves aquí.
+Cercam qualcú que vulga venir a fer les maletes aquí.
+Cercam qualcú que vulga venir a fer les paus aquí.
+És possible que estiguera vinculat a l'Orfeó en aquella data.
+És possible que estiguera vinculat a l'Orfeó en aquella etapa.
+És possible que estiguera vinculat a l'Orfeó en aquella ocasió.
+Com podia ser que estigués exposada allí?
+Com podia ser que estigues exposada allí?
+Com podia ser que fos exposada allí?
+Com podia ser que quedés exposada allí?
+Recorda que cal portar la roba sempre que isques de casa.
+Recorda que cal portar la motxilla sempre que isques de casa.
+Recorda que cal portar la maleta sempre que isques de casa.
+Recorda que cal portar la bicicleta sempre que isques de casa.
+Recorda que cal portar la bossa sempre que isques de casa.
+És necessari que isques de vacances.
+És necessari que isques de nit.
+No isc de vacances sense el mòbil.
+No isc de viatge sense el mòbil.
+No isc de festa sense el mòbil.
+No isc de nit sense el mòbil.
+Sent que no m'agrada com abans.
+Sent que no m'estimo com abans.
+Sent que no m'estima com abans.
+Sent que no m'agraden com abans.
+Sent que no m'importa com abans.
+He procurat que no es trencara el cor.
+He procurat que no es trencara el gel.
+He procurat que no es trencara el silenci.
+Del sòl ixen les flors de color blanc.
+Del centre ixen les flors de color blanc.
+Del tronc ixen les flors de color blanc.
+Del sol ixen les flors de color blanc.
+Del terra ixen les flors de color blanc.
+Potser caldria que trenquéssem la cadena.
+Potser caldria que trenquéssem la relació.
+Potser caldria que trenquéssem la línia.
+Potser caldria que trenquéssem la barrera.
+Potser caldria que trenquésseu la cadena.
+Potser caldria que trenquésseu la relació.
+Potser caldria que trenquésseu la línia.
+Potser caldria que trenquésseu la llei.
+Si hagués vist el que ella va veure també tindries por
+Si has vist el que ella va veure també tindries por
+Si haguessin vist el que ella va veure també tindries por
+Si haguéssim vist el que ella va veure també tindries por
+Si haguera vist el que ella va veure també tindries por
+Jo no sóc ni a la dutxa.
+Jo no vaig ni a la dutxa.
+Jo no estic ni a la dutxa.
+Jo no era ni a la dutxa.
+Jo no soc ni a la dutxa.
+L'home arribava a mitjan horta.
+L'enemic arribava a mitjan horta.
+L'arròs arribava a mitjan horta.
+L'avió arribava a mitjan horta.
+Jo m'estim més dir-ne '! '.
+Jo m'estim més dir-ne ''.
+Em deman si aquest nom és correcte.
+Em deman si aquest missatge és correcte.
+Em deman si aquest article és correcte.
+Em deman si aquest sistema és correcte.
+Em deman si aquest comportament és correcte.
+Continuam defensant els interessos de la ciutadania de les Illes Balears.
+Continuam defensant els Drets de la ciutadania de les Illes Balears.
+Continuam defensant els valors de la ciutadania de les Illes Balears.
+Continuam defensant els serveis de la ciutadania de les Illes Balears.
+Continuam parlant d'equiparació de drets?
+Si m'assegurau aquesta igualtat, amb entusiasme votaré que sí.
+Continuam parlant d'Igualtat de drets?
+Continuam parlant d'ampliació de drets?
+Ara ja no es necessita tantes coses.
+Ara ja no es necessita tantes hores.
+Ja es pot obrir les finestres.
+Ja es pot obrir les caixes.
+Ja es pot obrir les butxaques.
+Avui m'estrén en aquesta habitació.
+Avui m'estrén en aquesta posició.
+Avui m'estrén en aquesta ciutat.
+Mon pare és francés.
+Mon germà és francés.
+Mon oncle és francés.
+No entenc gaire l'anglés, disculpa'm.
+No parlo gaire l'anglés, disculpa'm.
+No entens gaire l'anglés, disculpa'm.
+No conec gaire l'anglés, disculpa'm.
+No sé gaire l'anglés, disculpa'm.
+El primer dia de vacances i ja m'avorrisc.
+El darrer dia de vacances i ja m'avorrisc.
+El segon dia de vacances i ja m'avorrisc.
+El tercer dia de vacances i ja m'avorrisc.
+El cinquè dia de vacances i ja m'avorrisc.
+La relació del Comité amb el ministre finlandés ha estat difícil i no s'han posat d'acord.
+La trobada del Comité amb el ministre finlandés ha estat difícil i no s'han posat d'acord.
+La comunicació del Comité amb el ministre finlandés ha estat difícil i no s'han posat d'acord.
+La negociació del Comité amb el ministre finlandés ha estat difícil i no s'han posat d'acord.
+Els he dit que servisquen el café al matí.
+Els he dit que servisquen el café al bar.
+Els he dit que servisquen el café al carrer.
+Els he dit que servisquen el café al poble.
+Els he dit que servisquen el café al llit.
+El comerç i les botigues.
+El magatzem i les botigues.
+El supermercat i les botigues.
+El port i les botigues.
+Voldria mig més de pastanagues i mig més de bledes.
+Voldria mig menys de pastanagues i mig més de bledes.
+Voldria mig milió de pastanagues i mig més de bledes.
+Voldria mig tros de pastanagues i mig més de bledes.
+Vol alguna coseta més?
+Vol alguna pregunta més?
+Vol alguna idea més?
+Vol alguna informació més?
+Vull els ulls més aviat grossos.
+Vull els pits més aviat grossos.
+Vull els ossos més aviat grossos.
+Vull els caps més aviat grossos.
+Vull els peixos més aviat grossos.
+Què li semblen aquests??
+Què li semblen aquests...?
+Què li semblen aquests.?
+Què li semblen aquests!?
+Què li semblen aquests homes?
+Aquests estan molt bé, senyor.
+Aquests estan molt bé, nois.
+Aquests estan molt bé, senyora.
+Què més li poso?
+Que vol una caixa de cireres!
+Que vol una capsa de cireres!
+Que vol una bossa de cireres!
+Que vol una sopa de cireres!
+No vull prunes, no, un altre dia.
+No vull prunes, però, un altre dia.
+No vull prunes, senyora, un altre dia.
+No vull prunes, això, un altre dia.
+No vull prunes, ara, un altre dia.
+Té dos cirerols?
+Té molts cirerols?
+Té els cirerols?
+Té uns cirerols?
+Té tres cirerols?
+I d'això, que en teniu?
+I d'aquests, que en teniu?
+I d'acord, que en teniu?
+I d'altres, que en teniu?
+I d'ells, que en teniu?
+Tingui, té més de cinquanta?
+Tingui, té menys de cinquanta?
+Tingui, té prop de cinquanta?
+Tingui, té edat de cinquanta?
+Té, tens més de cinquanta?
+Té, tens menys de cinquanta?
+Té, tens prop de cinquanta?
+Té, tens raó de cinquanta?
+Tens més de vint euros?
+Tens menys de vint euros?
+Tens bitllets de vint euros?
+Tens prop de vint euros?
+Necessita una ambulància?
+Necessita una...?
+Necessita una ajuda?
+Necessita una solució?
+Necessita una resposta?
+És una bossa?
+Tinc una bossa?
+Tens una bossa?
+Vull una bossa?
+I una bossa?
+Et cal una...?
+Et cal una??
+Et cal una.?
+Et cal una ambulància?
+Et cal una arma?
+Voleu una...?
+Voleu una??
+Voleu una cosa?
+Voleu una resposta?
+Voleu una solució?
+No cal, senyor.
+No cal, senyora.
+No cal, no.
+No cal, noi.
+Adeu, bon matí, senyora.
+Adeu, bon vespre, senyora.
+Adeu, bon home, senyora.
+Adeu, bon vent, senyora.
+Els puc ajudar?
+Sí, voldríem una dona de pell negra.
+Sí, voldríem una noia de pell negra.
+Sí, voldríem una persona de pell negra.
+Sí, voldríem una senyora de pell negra.
+Sí, voldríem una nina de pell negra.
+La culpa és per a vostè?
+La casa és per a vostè?
+La pilota és per a vostè?
+La victòria és per a vostè?
+La vida és per a vostè?
+Volem uns diners per al nostre net.
+Volem uns dies per al nostre net.
+Volem uns ulls per al nostre net.
+Volem uns mitjons per al nostre net.
+Volem uns amics per al nostre net.
+En tenen, de sabates de pell?
+En tenen, de cucs de pell?
+En tenen, de nines de pell?
+En tenen, de cabells de pell?
+En tenen, de vestits de pell?
+Quina opinió té el seu fill?
+Quina cara té el seu fill?
+Quina sort té el seu fill?
+Quina importància té el seu fill?
+Trobaran tot el que necessiten a la botiga de roba infantil.
+Trobaran tot el que necessiten a la tenda de roba infantil.
+Trobaran tot el que necessiten a la caixa de roba infantil.
+Trobaran tot el que necessiten a la fàbrica de roba infantil.
+Em volen acompanyar, si us agrada?
+Gràcies.
+Em volen acompanyar, si us interessa?
+Noi, quin poder té aquest anorac?
+Noi, quin color té aquest anorac?
+Noi, quin valor té aquest anorac?
+Noi, quin nom té aquest anorac?
+Trobareu el missatge a l'etiqueta.
+Trobareu el text a l'etiqueta.
+Trobareu el nom a l'etiqueta.
+Trobareu el hashtag a l'etiqueta.
+Trobareu el codi a l'etiqueta.
+Trobaràs el nom a l'etiqueta.
+Trobaràs el missatge a l'etiqueta.
+Trobaràs el títol a l'etiqueta.
+Trobaràs el número a l'etiqueta.
+Trobaràs el text a l'etiqueta.
+No trobo l'adreça enlloc.
+No trobo l'enllaç enlloc.
+No trobo l'ascensor enlloc.
+No trobo l'aigua enlloc.
+No trobo l'arma enlloc.
+Que estrany, no trobo l'adreça!
+Que estrany, no trobo l'equilibri!
+Que estrany, no trobo l'assassí!
+Que estrany, no trobo l'enllaç!
+Que estrany, no trobo l'oportunitat!
+I no em faríeu cap favor?
+I no em faríeu cap??
+I no em faríeu cap.?
+I no em faríeu cap...?
+I no em faríeu cap pregunta?
+Tot té un trenta per cent sobre el temps marcat.
+Tot té un trenta per cent sobre el límit marcat.
+Tot té un trenta per cent sobre el valor marcat.
+Tot té un trenta per cent sobre el pla marcat.
+Vol passar a l'acció?
+Vol passar a l'examen?
+Vol passar a l'atac?
+Vol passar a l'eternitat?
+Vol passar a l'hospital?
+No em cal emprovar-me'l.
+Necessita alguna coseta més?
+Necessita alguna ajuda més?
+Necessita alguna vegada més?
+Necessita alguna informació més?
+Vagi a pagar a la policia, si us plau.
+Vagi a pagar a la presó, si us plau.
+Vagi a pagar a la botiga, si us plau.
+Vagi a pagar a la fàbrica, si us plau.
+M'agrada aquest joc de colors.
+M'agrada aquest contrast de colors.
+M'agrada aquest món de colors.
+M'agrada aquest tipus de colors.
+M'agrada aquest munt de colors.
+Demana que et portin una cosa més gran?
+Demana que et portin una mica més gran?
+Demana que et portin una bossa més gran?
+Demana que et portin una maleta més gran?
+Demana que et portin una casa més gran?
+No vull una altra cosa, aquest m'estarà molt bé.
+No vull una altra vegada, aquest m'estarà molt bé.
+No vull una altra persona, aquest m'estarà molt bé.
+No vull una altra mort, aquest m'estarà molt bé.
+No vull una altra solució, aquest m'estarà molt bé.
+Em puc emprovar aquest cotxe?
+Em puc emprovar aquest regal?
+Em puc emprovar aquest home?
+Em puc emprovar aquest vestit?
+Em puc emprovar aquest pastís?
+L'home diu que es pot encongir una mica.
+L'Oliver diu que es pot encongir una mica.
+L'altre diu que es pot encongir una mica.
+L'hi diu que es pot encongir una mica.
+L'agent diu que es pot encongir una mica.
+Pots emprovar-te aquest altre jersei?
+Puc emprovar-te aquest altre jersei?
+Podria emprovar-te aquest altre jersei?
+Vas emprovar-te aquest altre jersei?
+Mira, aquest nen va amb un pareo que hi fa joc.
+Mira, aquest paio va amb un pareo que hi fa joc.
+Mira, aquest noi va amb un pareo que hi fa joc.
+Mira, aquest home va amb un pareo que hi fa joc.
+Mira, aquest senyor va amb un pareo que hi fa joc.
+Bé, el pareo m'encanta, però el banyador no gaire.
+Sí, el pareo m'encanta, però el banyador no gaire.
+Mira, el pareo m'encanta, però el banyador no gaire.
+No, el pareo m'encanta, però el banyador no gaire.
+M'estimo més l'altre color, el de colors.
+M'estimo més l'altre món, el de colors.
+M'estimo més l'altre blau, el de colors.
+M'estimo més l'altre vestit, el de colors.
+M'estimo més l'altre vidre, el de colors.
+Com et van, els??
+Com et van, els...?
+Com et van, els nens?
+Com et van, els diners?
+Com et van, els meus?
+Em van perfecte, aquests vestits.
+Em van amples, però m'agraden així.
+Em van perfecte, aquests dos.
+Em van perfecte, aquests llocs.
+Aquesta cançó també m'agrada molt.
+Aquesta dona també m'agrada molt.
+Aquesta paraula també m'agrada molt.
+Aquesta idea també m'agrada molt.
+Aquesta noia també m'agrada molt.
+Te la vas emprovar?
+Te la pots emprovar?
+Te la podràs emprovar?
+Te la podries emprovar?
+Me la pots embolicar per aquí, per favor?
+Me la pots embolicar per tu, per favor?
+Me la pots embolicar per mi, per favor?
+Me la pots embolicar per dins, per favor?
+Me la pots embolicar per ella, per favor?
+Ho pagues en efectiu o amb hores de crèdit?
+Ho pagues en efectiu o amb targetes de crèdit?
+Ho pagues en efectiu o amb entitat de crèdit?
+Pagaré en negre.
+Pagaré en part.
+Pagaré en pau.
+Té, aquí tens el cap embolicat.
+Té, aquí tens el plat embolicat.
+Té, aquí tens el paper embolicat.
+Té, aquí tens el cul embolicat.
+Conserva el dret de compra per si s'ha de canviar.
+Conserva el contracte de compra per si s'ha de canviar.
+Conserva el compromís de compra per si s'ha de canviar.
+Conserva el full de compra per si s'ha de canviar.
+Un café amb llet i un entrepà de pernil.
+Un arròs amb llet i un entrepà de pernil.
+Un pa amb llet i un entrepà de pernil.
+Avui no tenim gana, vol un entrepà de formatge?
+Avui no tenim pa, vol un entrepà de formatge?
+Avui no tenim temps, vol un entrepà de formatge?
+Avui no tenim res, vol un entrepà de formatge?
+Avui no tenim formatge, vol un entrepà de formatge?
+D'entrada.
+Quant val tot?
+D'aquí.
+D'aquesta.
+D'això.
+Posi'm una mica d'aigua natural.
+Posi'm una bomba d'aigua natural.
+Posi'm una font d'aigua natural.
+Posi'm una pistola d'aigua natural.
+Posi'm un ganivet i un suc de taronja.
+Posi'm un cafè i un suc de taronja.
+Posi'm un plàtan i un suc de taronja.
+Posi'm un iogurt i un suc de taronja.
+Posi'm un got i un suc de taronja.
+Posi'm una cervesa, si us plau, i un cafè.
+Posi'm una jaqueta, si us plau, i un cafè.
+Posi'm una tassa, si us plau, i un cafè.
+Posi'm una mà, si us plau, i un cafè.
+Posi'm una tovallola, si us plau, i un cafè.
+No vull res d'això, senyor.
+No vull res d'això, senyora.
+No vull res d'això, pare.
+Vull una truita i unes patates.
+Vull una ceba i unes patates.
+Vull una poma i unes patates.
+Vull una pasta i unes patates.
+Vull un bany amb gel.
+Vull un llit amb gel.
+Vull un llac amb gel.
+Vull un plat amb gel.
+Hola, vull un iogurt, amb la llet natural.
+Hola, vull un cafè, amb la llet natural.
+Hola, vull un esmorzar, amb la llet natural.
+Hola, vull un plat, amb la llet natural.
+Hola, vull un pastís, amb la llet natural.
+De moment li porto el que m'ha demanat.
+De fet li porto el que m'ha demanat.
+De vegades li porto el que m'ha demanat.
+De nou li porto el que m'ha demanat.
+De veritat li porto el que m'ha demanat.
+Em pot portar un altre cop, si us plau?
+Em pot portar un altre cotxe, si us plau?
+Em pot portar un altre missatge, si us plau?
+Em pot portar un altre lloc, si us plau?
+Bona tarda.
+Podem sopar?
+Bona Nit.
+Bona vesprada.
+Per quanta estona ha de ser la taula?
+Per quanta raó ha de ser la taula?
+Per quanta no ha de ser la taula?
+Per quanta distància ha de ser la taula?
+Què volen beure els??
+Què volen beure els nens?
+Què volen beure els homes?
+Què volen beure els nois?
+Què volen beure els vampirs?
+Una cervesa amb gas, una tònica ben freda i un suc de taronja natural.
+Una beguda amb gas, una tònica ben freda i un suc de taronja natural.
+Una xocolata amb gas, una tònica ben freda i un suc de taronja natural.
+Una amanida amb gas, una tònica ben freda i un suc de taronja natural.
+Vol la...?
+Vol la pau?
+Vol la veritat?
+Vol la??
+Vol la llibertat?
+Sí, de primer, escalivada, truita i crema de verdures.
+Sí, de primer, escalivada, truita i amanida de verdures.
+Sí, de primer, escalivada, truita i brou de verdures.
+Sí, de primer, escalivada, truita i truita de verdures.
+I de moment ja saben què volen?
+I de fet ja saben què volen?
+I de vegades ja saben què volen?
+I de sobte ja saben què volen?
+I de cop ja saben què volen?
+Carn a la graella per a tots
+Carn a la planxa per a tots
+Carn a la carnisseria per a tots
+Carn a la carta per a tots
+Jo vull un pis descafeïnat.
+Jo vull un menjar descafeïnat.
+Jo vull un lloc descafeïnat.
+Jo vull un home descafeïnat.
+He demanat fa poc una aigua sense gas, per favor.
+He demanat fa temps una aigua sense gas, per favor.
+He demanat fa anys una aigua sense gas, per favor.
+He demanat fa dies una aigua sense gas, per favor.
+He demanat fa mesos una aigua sense gas, per favor.
+Un dia, de seguida estic per vostès.
+Un petó, de seguida estic per vostès.
+Un consell, de seguida estic per vostès.
+Un amic, de seguida estic per vostès.
+Perdonin, m'he deixat el cotxe.
+Ara torno.
+Perdonin, m'he deixat el lloc.
+Perdonin, m'he deixat el llibre.
+Perdonin, m'he deixat el telèfon.
+Perdonin, m'he deixat el cor.
+Parli'ns en català, si us plau, que ja l'entenc.
+Parli'n en català, si us plau, que ja l'entenc.
+Parli'l en català, si us plau, que ja l'entenc.
+Parli'ls en català, si us plau, que ja l'entenc.
+Voldria reservar una hora per dinar.
+Voldria reservar una plaça per dinar.
+Voldria reservar una cadira per dinar.
+Voldria reservar una estona per dinar.
+M'ho pot repetir, si us agrada?
+M'ho pot repetir, si us interessa?
+Hi ha tant de dolor que no el sento bé.
+Hi ha tant de temps que no el sento bé.
+Hi ha tant de talent que no el sento bé.
+Hi ha tant de mal que no el sento bé.
+A favor de qui vol fer la reserva?
+A canvi de qui vol fer la reserva?
+A través de qui vol fer la reserva?
+A càrrec de qui vol fer la reserva?
+A. de Ruiz, amb zeta.
+A partir de Ruiz, amb zeta.
+A excepció de Ruiz, amb zeta.
+A càrrec de Ruiz, amb zeta.
+A través de Ruiz, amb zeta.
+Vol menjar alguna coseta, un entrepà o una pasta?
+Vol menjar alguna fruita, un entrepà o una pasta?
+Vol menjar alguna pizza, un entrepà o una pasta?
+Vol menjar alguna verdura, un entrepà o una pasta?
+En vull un de pa i xocolata.
+En vull un de mel i xocolata.
+En vull un de cafè i xocolata.
+En vull un de taronja i xocolata.
+En vull un de mantega i xocolata.
+Si us agrada, porti'm el compte, que hauria de marxar.
+Si us cal, porti'm el compte, que hauria de marxar.
+De moment li porto el compte, senyora.
+De fet li porto el compte, senyora.
+De veritat li porto el compte, senyora.
+De debò li porto el compte, senyora.
+Interès per la seva atenció.
+Vetllar per la seva atenció.
+Respecte per la seva atenció.
+Felicitats per la seva atenció.
+Què farem demà per??
+Què farem demà per tu?
+Què farem demà per...?
+Què farem demà per mi?
+Què farem demà per vostè?
+La nostra idea és molt bona, ja ho veurà.
+La nostra feina és molt bona, ja ho veurà.
+La nostra relació és molt bona, ja ho veurà.
+La nostra experiència és molt bona, ja ho veurà.
+La nostra opinió és molt bona, ja ho veurà.
+I de fet, què prendrà?
+I de moment, què prendrà?
+I de sobte, què prendrà?
+I de veritat, què prendrà?
+I de debò, què prendrà?
+De segon què s'estima més, pollastre o peix?
+De segon què s'estima més, gat o peix?
+De segon què s'estima més, peix o peix?
+De segon què s'estima més, vaca o peix?
+Agafi el pa arrebossat, és fresc d'avui.
+Agafi el pollastre arrebossat, és fresc d'avui.
+Agafi el plat arrebossat, és fresc d'avui.
+Agafi el cap arrebossat, és fresc d'avui.
+Agafi el meu arrebossat, és fresc d'avui.
+La cervesa i els cafès van inclosos en el preu?
+La llet i els cafès van inclosos en el preu?
+La carn i els cafès van inclosos en el preu?
+La pasta i els cafès van inclosos en el preu?
+El cost del menú només inclou el vi o l'aigua.
+El total del menú només inclou el vi o l'aigua.
+El menú del menú només inclou el vi o l'aigua.
+El pagament del menú només inclou el vi o l'aigua.
+Prendré un vestit negre de la casa.
+Prendré un llibre negre de la casa.
+Prendré un paper negre de la casa.
+Prendré un drap negre de la casa.
+Què és l'aigua?
+Què és l'amor?
+Què és l'empresa?
+Què és l'escola?
+Què és l'avió?
+L'escalivada, i pebrots cuits a les flames i amanits amb oli.
+L'escalivada cuita i pebrots cuits a les flames i amanits amb oli.
+L'escalivada tallada i pebrots cuits a les flames i amanits amb oli.
+L'escalivada torrada i pebrots cuits a les flames i amanits amb oli.
+L'escalivada fresca i pebrots cuits a les flames i amanits amb oli.
+L'aigua la servim tèbia, acabada de fer.
+L'amanida la servim tèbia, acabada de fer.
+L'altra la servim tèbia, acabada de fer.
+L'endemà la servim tèbia, acabada de fer.
+L'ampolla la servim tèbia, acabada de fer.
+Jo voldré una sopa i ell una amanida.
+Jo voldré una pizza i ell una amanida.
+Jo voldré una cervesa i ell una amanida.
+Jo voldré una truita i ell una amanida.
+Jo voldré una poma i ell una amanida.
+Jo vull carn a la brasa amb patates.
+Jo vull pollastre a la brasa amb patates.
+Jo vull xai a la brasa amb patates.
+Jo vull pa a la brasa amb patates.
+Jo vull sardines a la brasa amb patates.
+Em sap greu, però no en tenim, no és temps d'espàrrecs.
+Em sap greu, però no en tenim, no és època d'espàrrecs.
+Em sap greu, però no en tenim, no és qüestió d'espàrrecs.
+Em sap greu, però no en tenim, no és cosa d'espàrrecs.
+Agafa una arma, home.
+Agafa una pistola, home.
+Agafa una cosa, home.
+Agafa una pilota, home.
+Agafa una bossa, home.
+Què et ve de nou, estimat?
+Què et ve de dir, estimat?
+Què et ve de meravella, estimat?
+Què et ve de perles, estimat?
+De segon, un bistec de bou ben poc fet.
+De segon: un bistec de bou ben poc fet.
+De segon és un bistec de bou ben poc fet.
+De segon plat un bistec de bou ben poc fet.
+De segon amb un bistec de bou ben poc fet.
+Una truita catalana i un bistec.
+Una ceba catalana i un bistec.
+Una pilota catalana i un bistec.
+Una crema catalana i un bistec.
+La cuina m'agrada gairebé crua.
+La vida m'agrada gairebé crua.
+La música m'agrada gairebé crua.
+La veritat m'agrada gairebé crua.
+I vostè, què prendrà de...?
+I vostè, què prendrà de??
+I vostè, què prendrà de vostè?
+I vostè, què prendrà de nosaltres?
+I vostè, què prendrà de debò?
+Jo faré això a la planxa.
+Jo faré carn a la planxa.
+Jo faré coses a la planxa.
+Jo faré foc a la planxa.
+Jo faré surf a la planxa.
+Quantes calories hi ha per ració?
+Quantes racions hi ha per ració?
+Quantes persones hi ha per ració?
+Quantes unitats hi ha per ració?
+Quantes dones hi ha per ració?
+Aquest llibre em ve molt de gust.
+Aquest plat em ve molt de gust.
+Aquest any em ve molt de gust.
+Aquest article em ve molt de gust.
+Aquest regal em ve molt de gust.
+Volem una copa de vi negre de la casa, i aigua amb gas ben freda.
+Volem una mica de vi negre de la casa, i aigua amb gas ben freda.
+Volem una barreja de vi negre de la casa, i aigua amb gas ben freda.
+Volem una tassa de vi negre de la casa, i aigua amb gas ben freda.
+Què he de fer per preparar aquest??
+Què he de fer per preparar aquest.?
+Què he de fer per preparar aquest...?
+Què he de fer per preparar aquest!?
+Què he de fer per preparar aquest sopar?
+Primer has de pelar la pastanaga i tallar-la ben petita.
+Primer has de pelar la poma i tallar-la ben petita.
+Primer has de pelar la patata i tallar-la ben petita.
+Primer has de pelar la carn i tallar-la ben petita.
+Poses una cullerada d'oli a la cassola i hi afegeixes la ceba.
+Poses una miqueta d'oli a la cassola i hi afegeixes la ceba.
+Poses una gota d'oli a la cassola i hi afegeixes la ceba.
+Ja em diràs quan hi he de posar la
+Ja em diràs quan hi he de posar la #
+Ja em diràs quan hi he de posar la �
+Ja em diràs quan hi he de posar la N
+Abans de posar la ceba, primer has d'esperar que la ceba estigui una cuita.
+Abans de posar la carn, primer has d'esperar que la ceba estigui una cuita.
+Abans de posar la pastanaga, primer has d'esperar que la ceba estigui una cuita.
+Abans de posar la truita, primer has d'esperar que la ceba estigui una cuita.
+Abans de posar la salsa, primer has d'esperar que la ceba estigui una cuita.
+Remena-ho tot, de tant en tant.
+Remena-ho tot això de tant en tant.
+Remena-ho tot molt de tant en tant.
+Remena-ho tot plegat de tant en tant.
+Remena-ho tot i de tant en tant.
+Quan he d'afegir-hi el...?
+Quan he d'afegir-hi el meu?
+Quan he d'afegir-hi el nom?
+Quan he d'afegir-hi el teu?
+El treball és imprescindible per a la salut.
+El manteniment és imprescindible per a la salut.
+El que és imprescindible per a la salut.
+El transport és imprescindible per a la salut.
+El servei és imprescindible per a la salut.
+Què li semblaria fer demà una manifestació cultural?
+Què li semblaria fer demà una fira cultural?
+Què li semblaria fer demà una trobada cultural?
+Què li semblaria fer demà una activitat cultural?
+No, no, m'estimaria més visitar un museu, o anar a la muntanya.
+No, no, m'estimaria més visitar un castell, o anar a la muntanya.
+No, no, m'estimaria més visitar un monestir, o anar a la muntanya.
+No, no, m'estimaria més visitar un poble, o anar a la muntanya.
+No, no, m'estimaria més visitar un lloc, o anar a la muntanya.
+És a bord.
+Estic a bord.
+Sóc a bord.
+Som a bord.
+Està a bord.
+Desitjo que tinguin una relació agradable.
+Desitjo que tinguin una conversa agradable.
+Desitjo que tinguin una vida agradable.
+Desitjo que tinguin una companyia agradable.
+Empleneu aquest document.
+Empleneu aquest fitxer.
+Empleneu aquest missatge.
+Empleneu aquest full.
+Què us agradaria fer en aquest??
+Què us agradaria fer en aquest moment?
+Què us agradaria fer en aquest...?
+Què us agradaria fer en aquest.?
+Què us agradaria fer en aquest lloc?
+Amb quina roba fas les activitats que més t'agraden?
+Amb quina finalitat fas les activitats que més t'agraden?
+Amb quina energia fas les activitats que més t'agraden?
+Amb quina companyia fas les activitats que més t'agraden?
+Quina mena de lleure voldries fer més sovint?
+Quina estona de lleure voldries fer més sovint?
+Quina oferta de lleure voldries fer més sovint?
+Quina classe de lleure voldries fer més sovint?
+Què és un museu arqueològic?
+Què és un monument arqueològic?
+Què és un lloc arqueològic?
+Què és un estudi arqueològic?
+On és la meva?
+On és la clau?
+On és la diferència?
+On és la policia?
+On és la dona?
+La ciutat i l'entorn.
+La vegetació i l'entorn.
+La zona i l'entorn.
+La població i l'entorn.
+La natura i l'entorn.
+Quantes vides té el seu pis?
+Quantes possibilitats té el seu pis?
+Quantes persones té el seu pis?
+Quantes coses té el seu pis?
+Busco un cotxe de lloguer no gaire car.
+Busco un habitatge de lloguer no gaire car.
+Busco un apartament de lloguer no gaire car.
+Busco un local de lloguer no gaire car.
+És molt a prop del mar.
+És molt a prop del poble.
+És molt a prop del centre.
+És molt a prop del cementiri.
+És molt a prop del riu.
+Està ben comunicat el seu.?
+Està ben comunicat el seu nom?
+Està ben comunicat el seu...?
+Està ben comunicat el seu??
+Està ben comunicat el seu telèfon?
+El lloc és molt a prop del metro i de la parada de l'autobús.
+El barri és molt a prop del metro i de la parada de l'autobús.
+El poble és molt a prop del metro i de la parada de l'autobús.
+El centre és molt a prop del metro i de la parada de l'autobús.
+El carrer és molt a prop del metro i de la parada de l'autobús.
+Busco un cotxe de lloguer per aquesta zona.
+Busco un habitatge de lloguer per aquesta zona.
+Busco un apartament de lloguer per aquesta zona.
+Busco un local de lloguer per aquesta zona.
+Em sap greu, però no hi ha cap lloc per llogar disponible.
+Em sap greu, però no hi ha cap pis per llogar disponible.
+Em sap greu, però no hi ha cap cotxe per llogar disponible.
+Em sap greu, però no hi ha cap casa per llogar disponible.
+Si en surt algun dia que estigui bé, l'avisaré.
+Si en surt algun, que estigui bé, l'avisaré.
+Si en surt algun altre que estigui bé, l'avisaré.
+Si en surt algun membre que estigui bé, l'avisaré.
+Si en surt algun home que estigui bé, l'avisaré.
+Hi ha algú al pis?
+Hi ha gent al pis?
+Hi ha ningú al pis?
+Hi ha nens al pis?
+Hi ha sang al pis?
+Al menjador hi ha un llit de matrimoni, una taula, dues cadires i un armari.
+Al centre hi ha un llit de matrimoni, una taula, dues cadires i un armari.
+Al dormitori hi ha un llit de matrimoni, una taula, dues cadires i un armari.
+Al soterrani hi ha un llit de matrimoni, una taula, dues cadires i un armari.
+Lloguem habitacions amb dret a cuina.
+Lloguem aliments amb dret a cuina.
+Lloguem locals amb dret a cuina.
+Lloguem mobles amb dret a cuina.
+Lloguem habitatges amb dret a cuina.
+Compro pis per aquesta raó.
+Compro pis per aquesta via.
+Compro pis per aquesta finestra.
+Compro pis per aquesta porta.
+Pago al sol.
+Pago al mar.
+Pago al forn.
+Pago al revés.
+Com és la terra dels teus somnis?
+Com és la vida dels teus somnis?
+Com és la ciutat dels teus somnis?
+Com és la realitat dels teus somnis?
+A quina edat es refereix?
+A quina categoria es refereix?
+A quina cosa es refereix?
+A quina persona es refereix?
+A quina classe es refereix?
+Hi ha...?
+Hi ha.?
+Hi ha??
+Hi ha un?
+Hi ha!?
+Sí, hi ha un problema amb un mirall.
+Sí, hi ha un home amb un mirall.
+Sí, hi ha un lloc amb un mirall.
+Sí, hi ha un joc amb un mirall.
+Sí, hi ha un mirall amb un mirall.
+Quantes persones hi ha?
+Quantes més hi ha?
+Quantes diferències hi ha?
+Quantes habitacions hi ha?
+Quantes morts hi ha?
+No hi ha comentaris.
+No hi ha publicitat.
+No hi ha garanties.
+No hi ha precedents.
+No hi ha cap.
+Hi ha algun problema?
+Hi ha algun lloc?
+Hi ha algun dubte?
+Hi ha algun error?
+Hi ha algun perill?
+No hi ha sofà, però hi ha dues habitacions.
+No hi ha sofà, però hi ha dues persones.
+Hi ha un edifici de dues places, de color verd fosc.
+Hi ha un aparcament de dues places, de color verd fosc.
+Hi ha un garatge de dues places, de color verd fosc.
+Hi ha un total de dues places, de color verd fosc.
+Hi ha un pàrquing de dues places, de color verd fosc.
+La informació i l'entorn
+La imatge i l'entorn
+La planificació i l'entorn
+La comunicació i l'entorn
+La formació i l'entorn
+Voldria un cotxe de lloguer.
+Voldria un habitatge de lloguer.
+Voldria un apartament de lloguer.
+Voldria un local de lloguer.
+Abans vivia en una finca petita de planta baixa amb jardí.
+Abans vivia en una caseta petita de planta baixa amb jardí.
+Abans vivia en una masia petita de planta baixa amb jardí.
+Ara visc en un apartament.
+Ara visc en un poble.
+Ara visc en un hotel.
+Ara visc en un pis.
+Ara visc en un lloc.
+És aquí dalt, al capdavall d'aquest carrer.
+És aquí dins, al capdavall d'aquest carrer.
+És aquí baix, al capdavall d'aquest carrer.
+Vinc a veure el pare.
+Vinc a veure el vídeo.
+Vinc a veure el cotxe.
+Vinc a veure el rei.
+Vinc a veure el rellotge.
+A l'escola sopem cada dia a la terrassa.
+A l'hotel sopem cada dia a la terrassa.
+A l'hivern sopem cada dia a la terrassa.
+A l'institut sopem cada dia a la terrassa.
+No, uns deu anys.
+He vingut abans, però m'havia equivocat de lloc.
+He vingut abans, però m'havia equivocat de nom.
+He vingut abans, però m'havia equivocat de camí.
+He hagut d'anar a buscar la policia a l'oficina.
+He hagut d'anar a buscar la informació a l'oficina.
+He hagut d'anar a buscar la família a l'oficina.
+He hagut d'anar a buscar la dona a l'oficina.
+Podem passar per veure el...?
+Podem passar per veure el vídeo?
+Podem passar per veure el.?
+Podem passar per veure el cotxe?
+Podem passar per veure el cadàver?
+Quantes en té?
+Quantes coses té?
+Quantes facultats té?
+Quantes armes té?
+Quantes hores té?
+Sense comptar el bany, la cuina i el lavabo, tenim dues habitacions.
+Sense comptar el rebedor, la cuina i el lavabo, tenim dues habitacions.
+Sense comptar el dormitori, la cuina i el lavabo, tenim dues habitacions.
+Sense comptar el saló, la cuina i el lavabo, tenim dues habitacions.
+L'espai del mig dona al celobert i el lavabo no té cap finestra.
+L'armari del mig dona al celobert i el lavabo no té cap finestra.
+L'escala del mig dona al celobert i el lavabo no té cap finestra.
+L'edifici del mig dona al celobert i el lavabo no té cap finestra.
+El món és molt gran.
+El problema és molt gran.
+El cor és molt gran.
+El cap és molt gran.
+El cervell és molt gran.
+I fixi's quina gent que hi ha a la sala!
+I fixi's quina gentada que hi ha a la sala!
+I fixi's quina merda que hi ha a la sala!
+I fixi's quina cara que hi ha a la sala!
+I fixi's quina cosa que hi ha a la sala!
+Hi toca el piano gairebé tot el dia.
+Hi toca el timbre gairebé tot el dia.
+Hi toca el cor gairebé tot el dia.
+Hi toca el cap gairebé tot el dia.
+És clar, no hi deu fer gaire fred.
+És més, no hi deu fer gaire fred.
+És cert, no hi deu fer gaire fred.
+És normal, no hi deu fer gaire fred.
+A més, té una central.
+A més, té la central.
+A més, té un central.
+A més, té seu central.
+Cal donar d'electricitat el llum i el gas?
+Cal donar d'urgència el llum i el gas?
+Cal donar d'aigua el llum i el gas?
+Truco per l'amo de l'habitació que es lloga.
+Truco per l'adreça de l'habitació que es lloga.
+Truco per l'habitació de l'habitació que es lloga.
+Truco per l'hora de l'habitació que es lloga.
+Truco per l'ús de l'habitació que es lloga.
+Que hi ha??
+Que hi ha...?
+Que hi ha!?
+Que hi ha.?
+Que hi ha...??
+No n'hi ha, però hi ha dues habitacions molt còmodes.
+No n'hi ha, però hi ha dues opcions molt còmodes.
+No n'hi ha, però hi ha dues persones molt còmodes.
+No n'hi ha, però hi ha dues cadires molt còmodes.
+No n'hi ha, però hi ha dues posicions molt còmodes.
+Aquesta casa no té armari?
+Aquesta dona no té armari?
+Aquesta noia no té armari?
+Aquesta senyora no té armari?
+Hi ha un moble ben gros, amb penja-robes i calaixos.
+Hi ha un lloc ben gros, amb penja-robes i calaixos.
+Hi ha un llit ben gros, amb penja-robes i calaixos.
+Hi ha un espai ben gros, amb penja-robes i calaixos.
+També hi ha un premi individual.
+També hi ha un torn individual.
+També hi ha un apartat individual.
+També hi ha un dret individual.
+També hi ha un pagament individual.
+La font és a la plaça Major, al final d'aquest passeig.
+La fita és a la plaça Major, al final d'aquest passeig.
+La finca és a la plaça Major, al final d'aquest passeig.
+La casa és a la plaça Major, al final d'aquest passeig.
+La rotonda és a la plaça Major, al final d'aquest passeig.
+Aquesta és l'estació de Cardedeu?
+Aquesta és l'alcaldessa de Cardedeu?
+Aquesta és l'entrada de Cardedeu?
+Aquesta és l'escola de Cardedeu?
+Vas a la platja a peu?
+Vas a la muntanya a peu?
+Vas a la universitat a peu?
+Vas a la presó a peu?
+Vas sovint amb ells?
+Vas sovint amb nens?
+Vas sovint amb mi?
+Vas sovint amb amics?
+Vas sovint amb nosaltres?
+No, no tinc res.
+No, no tinc por.
+No, no tinc raó.
+No, no tinc feina.
+No, no tinc temps.
+Normalment vaig amb tren o amb autobús.
+Normalment vaig amb metro o amb autobús.
+Normalment vaig amb cotxe o amb autobús.
+Normalment vaig amb taxi o amb autobús.
+Normalment vaig amb avió o amb autobús.
+Vols venir amb mi a fer un passeig amb bicicleta?
+Vols venir amb mi a fer un viatge amb bicicleta?
+Vols venir amb mi a fer un recorregut amb bicicleta?
+I tant que sé que m'agradaria!
+I tant que crec que m'agradaria!
+I tant que segur que m'agradaria!
+Quina ruta he d'agafar per anar a Santa Perpètua?
+Quina hora he d'agafar per anar a Santa Perpètua?
+Quina direcció he d'agafar per anar a Santa Perpètua?
+Quina carretera he d'agafar per anar a Santa Perpètua?
+Quina sortida he d'agafar per anar a Santa Perpètua?
+La lletra u és la línia de color vermell.
+La número u és la línia de color vermell.
+La fila u és la línia de color vermell.
+La zona u és la línia de color vermell.
+Això és un vagó de metro?
+Això és un accident de metro?
+Això és un servei de metro?
+Això és un tren de metro?
+Aquesta empresa té deu viatges i surten més barats.
+Aquesta companyia té deu viatges i surten més barats.
+Aquesta sèrie té deu viatges i surten més barats.
+Aquesta agència té deu viatges i surten més barats.
+Aquesta casa té deu viatges i surten més barats.
+Pots anar a l'Estació de Sants i allà agafar el tren.
+Pots anar a l'aeroport de Sants i allà agafar el tren.
+Si pagues el bitllet d'anada i tornada, et sortirà més barat.
+Si compra el bitllet d'anada i tornada, et sortirà més barat.
+Si tens el bitllet d'anada i tornada, et sortirà més barat.
+Si vols el bitllet d'anada i tornada, et sortirà més barat.
+Saps on viu el professor de francès?
+Saps on viu el departament de francès?
+Saps on viu el lector de francès?
+On viu la teva??
+On viu la teva mare?
+On viu la teva família?
+On viu la teva filla?
+On viu la teva germana?
+Viu a Girona, a la Vall de Sant Miquel.
+Viu a Girona, a la vall de Sant Miquel.
+Viu a Girona, a la parròquia de Sant Miquel.
+Viu a Girona, a la serra de Sant Miquel.
+Visc a Santa Perpètua, a l'Alta Pallaresa.
+Visc a Santa Perpètua, a l'antiga Pallaresa.
+Al meu voltant hi ha de tot.
+Al meu cap hi ha de tot.
+Al meu poble hi ha de tot.
+Al meu costat hi ha de tot.
+Al meu apartament hi ha de tot.
+Hi ha gent al teu barri?
+Hi ha vida al teu barri?
+Hi ha problemes al teu barri?
+Hi ha algú al teu barri?
+Hi ha nens al teu barri?
+I també hi ha gent al teu barri?
+I també hi ha nens al teu barri?
+I també hi ha vida al teu barri?
+I també hi ha problemes al teu barri?
+I també hi ha morts al teu barri?
+No hi ha cap crim al meu poble.
+No hi ha cap mort al meu poble.
+No hi ha cap perill al meu poble.
+No hi ha cap policia al meu poble.
+No hi ha cap home al meu poble.
+A prop de casa hi ha un forn de pa.
+A tocar de casa hi ha un forn de pa.
+A davant de casa hi ha un forn de pa.
+A dins de casa hi ha un forn de pa.
+Per comprar roba, on he d'anar?
+Per comprar coses, on he d'anar?
+Per comprar això, on he d'anar?
+Per comprar menjar, on he d'anar?
+Per comprar res, on he d'anar?
+A la plaça de l'entrada hi ha una carnisseria i al davant una peixateria.
+A la zona de l'entrada hi ha una carnisseria i al davant una peixateria.
+A la cantonada de l'entrada hi ha una carnisseria i al davant una peixateria.
+A la porta de l'entrada hi ha una carnisseria i al davant una peixateria.
+Aquesta nit tinc hora a la perruqueria.
+Aquesta setmana tinc hora a la perruqueria.
+Aquesta matinada tinc hora a la perruqueria.
+Aquesta vegada tinc hora a la perruqueria.
+A quina escola vas?
+A quina hora vas?
+A quina edat vas?
+A quina universitat vas?
+A quina velocitat vas?
+A la resta del barri.
+A la plaça del barri.
+A la zona del barri.
+A la biblioteca del barri.
+A la sortida del barri.
+Vull un tros de mongeta.
+Vull un tipus de mongeta.
+Vull un tall de mongeta.
+Vull un plat de mongeta.
+Li agrada molt la música.
+Li agrada molt la cuina.
+Li agrada molt la feina.
+Li agrada molt la fotografia.
+Li agrada molt la cervesa.
+No menja gens de fruita.
+No menja gens de pa.
+No menja gens de porc.
+No menja gens de pressa.
+Tota la població és vegetariana.
+Tota la gent és vegetariana.
+Tota la casa és vegetariana.
+Tota la resta és vegetariana.
+Podeu fer la reserva trucant al telèfon del mercat.
+Podeu fer la comanda trucant al telèfon del mercat.
+Podeu fer la inscripció trucant al telèfon del mercat.
+Podeu fer la preinscripció trucant al telèfon del mercat.
+Al Mercat hi trobaràs productes de proximitat i ecològics.
+Al restaurant hi trobaràs productes de proximitat i ecològics.
+Al supermercat hi trobaràs productes de proximitat i ecològics.
+Al menú hi trobaràs productes de proximitat i ecològics.
+Volem un sistema d'alimentació sostenible.
+Volem un espai d'alimentació sostenible.
+Volem un centre d'alimentació sostenible.
+Volem un producte d'alimentació sostenible.
+Els bombers han estat essencials durant la pandèmia.
+Els serveis han estat essencials durant la pandèmia.
+Els treballadors han estat essencials durant la pandèmia.
+Els sanitaris han estat essencials durant la pandèmia.
+Els professionals han estat essencials durant la pandèmia.
+Els serveis són essencials.
+Els estudis són essencials.
+Els salaris són essencials.
+Els aliments són essencials.
+Els impostos són essencials.
+Al Mercat hi trobaràs fruita i verdura.
+Al supermercat hi trobaràs fruita i verdura.
+Al Mercadona hi trobaràs fruita i verdura.
+Al menú hi trobaràs fruita i verdura.
+Al menú hi trobaràs carn de vedella, de porc, de poltre, aviram i de tota mena.
+Al restaurant hi trobaràs carn de vedella, de porc, de poltre, aviram i de tota mena.
+Al Mercat hi trobaràs carn de vedella, de porc, de poltre, aviram i de tota mena.
+Al corral hi trobaràs carn de vedella, de porc, de poltre, aviram i de tota mena.
+Al menú hi trobaràs el peix més fresc.
+Al restaurant hi trobaràs el peix més fresc.
+Al Mercat hi trobaràs el peix més fresc.
+Al rebost hi trobaràs el peix més fresc.
+Al soterrani hi trobaràs salaons.
+Al centre hi trobaràs salaons.
+Al museu hi trobaràs salaons.
+Al vestíbul hi trobaràs salaons.
+Al Mercat hi trobaràs productes de qualitat.
+Al supermercat hi trobaràs productes de qualitat.
+Al restaurant hi trobaràs productes de qualitat.
+Al centre hi trobaràs productes de qualitat.
+També hi ha varietat de delicadeses.
+També hi ha tot de delicadeses.
+També hi ha infinitat de delicadeses.
+També hi ha diversitat de delicadeses.
+També hi ha part de delicadeses.
+Hi ha persones que tenen menjar preparat.
+Hi ha restaurants que tenen menjar preparat.
+Hi ha famílies que tenen menjar preparat.
+Hi ha clients que tenen menjar preparat.
+Hi ha llocs que tenen menjar preparat.
+Tria el llibre que t'agrada i te'l portem a casa.
+Tria el vestit que t'agrada i te'l portem a casa.
+Tria el plat que t'agrada i te'l portem a casa.
+Tria el dibuix que t'agrada i te'l portem a casa.
+Tria el producte que t'agrada i te'l portem a casa.
+Vull un parell d'anxoves.
+Vull un plat d'anxoves.
+Vull un vas d'anxoves.
+Vull un got d'anxoves.
+Al plat petit hi ha la millor confitura.
+Al meu petit hi ha la millor confitura.
+Al bol petit hi ha la millor confitura.
+Al rebost petit hi ha la millor confitura.
+Un pot de vidre, si us plau.
+Un pot de te, si us plau.
+Un pot de vi, si us plau.
+Un pot de cervesa, si us plau.
+Un pot de gel, si us plau.
+Quatre parells de pinyons.
+Quatre barres de pinyons.
+Quatre boles de pinyons.
+Quatre caixes de pinyons.
+Quatre tipus de pinyons.
+Els més bons són els del país.
+Els homes bons són els del país.
+Els únics bons són els del país.
+Els productes bons són els del país.
+Els llocs bons són els del país.
+Us recomanem de comprar sempre el mateix local.
+Us recomanem de comprar sempre el vostre local.
+Us recomanem de comprar sempre el nostre local.
+Us recomanem de comprar sempre el millor local.
+Vull un cap de vedella farcit de tòfona.
+Vull un tros de vedella farcit de tòfona.
+Vull un tall de vedella farcit de tòfona.
+Vull un entrepà de vedella farcit de tòfona.
+Vull un fetge de vedella farcit de tòfona.
+Teniu la meva roba preparada?
+Teniu la meva casa preparada?
+Teniu la meva feina preparada?
+Teniu la meva vida preparada?
+Teniu la meva habitació preparada?
+Em podeu donar la meva opinió, si us plau?
+Em podeu donar la meva adreça, si us plau?
+Em podeu donar la meva ajuda, si us plau?
+Em podeu donar la meva informació, si us plau?
+Em podeu donar la meva autorització, si us plau?
+Vaig trucar ahir per fer una trucada.
+Vaig trucar ahir per fer una visita.
+Vaig trucar ahir per fer una entrevista.
+Vaig trucar ahir per fer una prova.
+Vinc a buscar la filla de la meva mare, que no ha pogut venir.
+Vinc a buscar la germana de la meva mare, que no ha pogut venir.
+Vinc a buscar la mare de la meva mare, que no ha pogut venir.
+Vinc a buscar la família de la meva mare, que no ha pogut venir.
+Vinc a buscar la dona de la meva mare, que no ha pogut venir.
+Vull una mica de pa.
+Vull una torrada de pa.
+Vull una molla de pa.
+Vull una peça de pa.
+Tinc un treball de pagès que no me l'acabaré.
+Tinc un contracte de pagès que no me l'acabaré.
+Tinc un fill de pagès que no me l'acabaré.
+Tinc un tros de pagès que no me l'acabaré.
+Tinc un llibre de pagès que no me l'acabaré.
+La Joana no sap fer-ho a la Catalunya tradicional.
+La Joana no sap fer-ho a la forma tradicional.
+La Joana no sap fer-ho a la Xina tradicional.
+La Joana no sap fer-ho a la cuina tradicional.
+Ves a aquella granja, que tenen el millor formatge.
+Ves a aquella pastisseria, que tenen el millor formatge.
+Ves a aquella cuina, que tenen el millor formatge.
+Ves a aquella casa, que tenen el millor formatge.
+M'agrada molt el tema.
+M'agrada molt el llibre.
+M'agrada molt el futbol.
+M'agrada molt el lloc.
+A tu t'agrada el futbol?
+A tu t'agrada el...?
+A tu t'agrada el.?
+A tu t'agrada el menjar?
+A tu t'agrada el??
+Conec una persona que fa les millors confitures del món.
+Conec una empresa que fa les millors confitures del món.
+Conec una noia que fa les millors confitures del món.
+Conec una senyora que fa les millors confitures del món.
+La meva mare em va ensenyar a fer la millor confitura.
+La meva dona em va ensenyar a fer la millor confitura.
+La meva germana em va ensenyar a fer la millor confitura.
+La meva filla em va ensenyar a fer la millor confitura.
+Els millors experts diuen que el secret és tenir un bon producte.
+Els millors mestres diuen que el secret és tenir un bon producte.
+Els millors especialistes diuen que el secret és tenir un bon producte.
+Els millors entesos diuen que el secret és tenir un bon producte.
+És gaire car el cotxe?
+És gaire car el...?
+És gaire car el menjar?
+És gaire car el cafè?
+És gaire car el??
+Has tastat mai el vi?
+Has tastat mai el...?
+Has tastat mai el cafè?
+Has tastat mai el peix?
+Jo no menjo mai, per principi.
+Jo no menjo mai carn per principi.
+Jo no menjo mai res per principi.
+Jo no menjo mai peix per principi.
+Jo no menjo mai blat per principi.
+Sempre em poso mans a la carn.
+Sempre em poso carn a la carn.
+Sempre em poso vermell a la carn.
+Sempre em poso oli a la carn.
+M'agrada el toc picant, i a tu?
+M'agrada el pebre picant, i a tu?
+M'agrada el més picant, i a tu?
+M'agrada el color picant, i a tu?
+No me'l faci gaire picant, si us agrada.
+La pizza és el millor de la cuina italiana.
+La cuina és el millor de la cuina italiana.
+La salsa és el millor de la cuina italiana.
+La seva és el millor de la cuina italiana.
+Doncs jo prefereixo la primera.
+Doncs jo prefereixo la mort.
+Doncs jo prefereixo la segona.
+Doncs jo prefereixo la llibertat.
+Les cuines admeten un munt de preparacions diferents.
+Les receptes admeten un munt de preparacions diferents.
+Les cases admeten un munt de preparacions diferents.
+Les hamburgueses admeten un munt de preparacions diferents.
+Les amanides admeten un munt de preparacions diferents.
+Les cremes de verdures són les millors.
+Les varietats de verdures són les millors.
+Les amanides de verdures són les millors.
+Les llavors de verdures són les millors.
+A mi m'agrada la sopa de patates amb ceba.
+A mi m'agrada la pasta de patates amb ceba.
+A mi m'agrada la barreja de patates amb ceba.
+A mi m'agrada la salsa de patates amb ceba.
+A mi no m'hi poseu mai, si us plau.
+A mi no m'hi poseu aquí, si us plau.
+A mi no m'hi poseu així, si us plau.
+A mi no m'hi poseu més, si us plau.
+A mi no m'hi poseu bé, si us plau.
+És un especialista en cuina francesa.
+És un referent en cuina francesa.
+És un mestre en cuina francesa.
+És un màster en cuina francesa.
+La seva recepta és el fricandó.
+La seva passió és el fricandó.
+La seva beguda és el fricandó.
+La seva variant és el fricandó.
+Què és millor, l'amanida aranesa o l'escudella i carn d'olla catalana?
+Què és millor, l'ovella aranesa o l'escudella i carn d'olla catalana?
+Què és millor, l'herba aranesa o l'escudella i carn d'olla catalana?
+Les fulles seques no li agraden gens.
+Les figues seques no li agraden gens.
+Les flors seques no li agraden gens.
+Les fruites seques no li agraden gens.
+Faig una sopa amb llenties per llepar-se'n els dits.
+Faig una recepta amb llenties per llepar-se'n els dits.
+Faig una truita amb llenties per llepar-se'n els dits.
+Faig una pasta amb llenties per llepar-se'n els dits.
+No li agraden les dones.
+No li agraden les drogues.
+No li agraden les flors.
+No li agraden les baralles.
+No li agraden les noies.
+Aquest home és molt maniàtic amb el menjar.
+Aquest paio és molt maniàtic amb el menjar.
+Aquest senyor és molt maniàtic amb el menjar.
+Aquest noi és molt maniàtic amb el menjar.
+Menja de tot, no importa.
+El gaspatxo amb salsa de poma és el millor.
+El gaspatxo amb melmelada de poma és el millor.
+El gaspatxo amb suc de poma és el millor.
+El gaspatxo amb puré de poma és el millor.
+Jo sempre poso poma al plat.
+Jo sempre poso poma al cul.
+Jo sempre poso poma al forn.
+Jo sempre poso poma al coll.
+Jo sempre poso poma al pastís.
+No demanis llobarro fora de lloc.
+No demanis llobarro fora de perill.
+No demanis llobarro fora de test.
+No demanis llobarro fora de mida.
+A l'hivern hi ha bona sardina.
+A l'illa hi ha bona sardina.
+A l'escola hi ha bona sardina.
+A l'Alguer hi ha bona sardina.
+El color blau és el més sa.
+El vestit blau és el més sa.
+El més blau és el més sa.
+El menjar blau és el més sa.
+A mi m'agrada més el color negre que el blanc.
+A mi m'agrada més el gènere negre que el blanc.
+A mi m'agrada més el fons negre que el blanc.
+A mi m'agrada més el vestit negre que el blanc.
+Jo prefereixo la primera.
+Jo prefereixo la mort.
+Jo prefereixo la segona.
+Jo prefereixo la vida.
+La idea em puja al cap.
+La imatge em puja al cap.
+La música em puja al cap.
+La paraula em puja al cap.
+La notícia em puja al cap.
+El menjar és boníssim.
+El resultat és boníssim.
+El plat és boníssim.
+El sopar és boníssim.
+El pa és boníssim.
+M'ensenya a fer bunyols?
+M'atreveixo a fer bunyols?
+M'ajuda a fer bunyols?
+M'ajudes a fer bunyols?
+M'obliga a fer bunyols?
+El comerç i les botigues donen vida als barris.
+El carrer i les botigues donen vida als barris.
+El barri i les botigues donen vida als barris.
+El teatre i les botigues donen vida als barris.
+A quin lloc van les taronges?
+A quin plat van les taronges?
+A quin color van les taronges?
+A quin país van les taronges?
+No sé, res més.
+No puc, res més.
+No importa, res més.
+No cal, res més.
+A quina plaça del mercat puc comprar un tall de congre que sigui ben fresc?
+A quina zona del mercat puc comprar un tall de congre que sigui ben fresc?
+A quina botiga del mercat puc comprar un tall de congre que sigui ben fresc?
+A quina part del mercat puc comprar un tall de congre que sigui ben fresc?
+Quant val un??
+Quant val un...?
+Quant val un.?
+Quant val un cotxe?
+Cada bitllet val un euro.
+Cada minut val un euro.
+Cada fitxa val un euro.
+Cada caixa val un euro.
+Demana el que t'he apuntat a la compra a la botiga.
+Demana el que t'he apuntat a la carta a la botiga.
+Demana el que t'he apuntat a la botiga a la botiga.
+Demana el que t'he apuntat a la venda a la botiga.
+Llista de la població.
+Llista de la zona.
+Llista de la plantilla.
+Llista de la prova.
+Llista de la propietat.
+Un gra d'arròs.
+Un quilo d'arròs.
+Un plat d'arròs.
+Un camp d'arròs.
+Un tros d'arròs.
+Una mica de llet descremada.
+Una cullerada de llet descremada.
+Una tassa de llet descremada.
+Una gota de llet descremada.
+Una caixa de tonyina.
+Una mica de tonyina.
+Una ampolla de tonyina.
+Una truita de tonyina.
+Un pot de vidre.
+Un pot de vi.
+Un pot de llet.
+Un pot de cervesa.
+Un pot de tabac.
+Una fàbrica de galetes.
+Una marca de galetes.
+Una classe de galetes.
+Posi'm un plat d'arròs i un de llentia pardina.
+Posi'm un tros d'arròs i un de llentia pardina.
+Posi'm un vas d'arròs i un de llentia pardina.
+Posi'm un got d'arròs i un de llentia pardina.
+Posi'm un quilo d'arròs i un de llentia pardina.
+Passi per la caixa, si us agrada.
+Passi per la caixa, si us interessa.
+Vol que li'n porti una de més gran?
+Vol que li'n porti una mica més gran?
+Vol que li'n porti una altra més gran?
+Vol que li'n porti una mida més gran?
+Vol que li'n porti una versió més gran?
+Per pagar vagi a la botiga, si us plau.
+Per pagar vagi a la presó, si us plau.
+Per pagar vagi a la policia, si us plau.
+Per pagar vagi a la farmàcia, si us plau.
+Porta el carro de compra?
+Porta el carret de compra?
+Porta el llibre de compra?
+Porta el full de compra?
+Un viatge d'anada i tornada a Brussel·les, si us plau.
+Un vol d'anada i tornada a Brussel·les, si us plau.
+Un tren d'anada i tornada a Brussel·les, si us plau.
+Un autobús d'anada i tornada a Brussel·les, si us plau.
+El vol normal o de primera.?
+El vol normal o de primera categoria?
+El vol normal o de primera línia?
+El vol normal o de primera ocupació?
+El que ja em va bé.
+El nom ja em va bé.
+El cotxe ja em va bé.
+El cap ja em va bé.
+El menjar ja em va bé.
+Què hi posa en aquell??
+Què hi posa en aquell...?
+Què hi posa en aquell.?
+Què hi posa en aquell moment?
+Què hi posa en aquell lloc?
+Lloguer de locals.
+Lloguer de maquinària.
+Lloguer de material.
+Lloguer de bicicletes.
+Què he de fer per demanar explicacions sobre els horaris de tren?
+Què he de fer per demanar consell sobre els horaris de tren?
+Què he de fer per demanar permís sobre els horaris de tren?
+Què he de fer per demanar aclariments sobre els horaris de tren?
+Agafi, i ja la cridaran.
+Agafi'm i ja la cridaran.
+Agafi't i ja la cridaran.
+Agafi això i ja la cridaran.
+Agafi's i ja la cridaran.
+Puc treure??
+Puc treure...?
+Puc treure.?
+Puc treure això?
+Aquest bitllet és d'un altre banc.
+Aquest banc és d'un altre banc.
+Aquest número és d'un altre banc.
+Aquest home és d'un altre banc.
+Li hauré de cobrar unes comissions per la gestió.
+Li hauré de cobrar unes quantitats per la gestió.
+Li hauré de cobrar unes multes per la gestió.
+Li hauré de cobrar unes taxes per la gestió.
+Hola, he arribat amb el tren de les quinze hores i he perdut la maleta.
+Hola, he arribat amb el retard de les quinze hores i he perdut la maleta.
+Hola, he arribat amb el bitllet de les quinze hores i he perdut la maleta.
+Hola, he arribat amb el cotxe de les quinze hores i he perdut la maleta.
+Ja n'està segur que la seva filla no ha arribat?
+Ja n'està segur que la seva hora no ha arribat?
+Ja n'està segur que la seva ajuda no ha arribat?
+Ja n'està segur que la seva mare no ha arribat?
+Ja n'està segur que la seva salvació no ha arribat?
+M'han dit que la meva mare no és aquí.
+M'han dit que la meva família no és aquí.
+M'han dit que la meva filla no és aquí.
+M'han dit que la meva dona no és aquí.
+M'han dit que la meva germana no és aquí.
+Com és la vida?
+Com és la casa?
+Com és la cosa?
+Com és la ciutat?
+Com és la gent?
+La meva bossa és negra, rectangular, de plàstic metal·litzat i gran.
+La meva camisa és negra, rectangular, de plàstic metal·litzat i gran.
+La meva roba és negra, rectangular, de plàstic metal·litzat i gran.
+La meva jaqueta és negra, rectangular, de plàstic metal·litzat i gran.
+La meva samarreta és negra, rectangular, de plàstic metal·litzat i gran.
+La meva vida era gairebé nova.
+La meva mare era gairebé nova.
+La meva casa era gairebé nova.
+La meva habitació era gairebé nova.
+La meva cara era gairebé nova.
+Hi ha un llaç groc en un costat de la maleta.
+Hi ha un llapis groc en un costat de la maleta.
+Hi ha un mocador groc en un costat de la maleta.
+Hi ha un bolígraf groc en un costat de la maleta.
+Hi ha un rellotge groc en un costat de la maleta.
+Dintre de la casa hi havia una càmera de fotos i un ordinador.
+Dintre de la cabina hi havia una càmera de fotos i un ordinador.
+Dintre de la caixa hi havia una càmera de fotos i un ordinador.
+Dintre de la sala hi havia una càmera de fotos i un ordinador.
+Dintre de la màquina hi havia una càmera de fotos i un ordinador.
+A la motxilla hi duc roba, sabates, medicaments, un llibre i el mòbil!
+A la maleta hi duc roba, sabates, medicaments, un llibre i el mòbil!
+A la butxaca hi duc roba, sabates, medicaments, un llibre i el mòbil!
+A la caixa hi duc roba, sabates, medicaments, un llibre i el mòbil!
+No pateixi, de moment resoldrem el seu problema.
+No pateixi, de nou resoldrem el seu problema.
+No pateixi, de pas resoldrem el seu problema.
+No pateixi, de veritat resoldrem el seu problema.
+Ompli aquest full i ja l'avisarem.
+Ompli aquest qüestionari i ja l'avisarem.
+Ompli aquest document i ja l'avisarem.
+Ompli aquest quadre i ja l'avisarem.
+Sí, ja fa temps.
+Sí, ja fa anys.
+Sí, ja fa estona.
+Doncs ha d'anar a l'ajuntament que més li agradi de la seva zona amb el full d'empadronament.
+Doncs ha d'anar a l'oficina que més li agradi de la seva zona amb el full d'empadronament.
+Doncs ha d'anar a l'hotel que més li agradi de la seva zona amb el full d'empadronament.
+Doncs ha d'anar a l'institut que més li agradi de la seva zona amb el full d'empadronament.
+Com més aviat faci el ple, millor.
+Com més aviat faci el canvi, millor.
+Com més aviat faci el temps, millor.
+Com més aviat faci el dia, millor.
+Com més aviat faci el salt, millor.
+Em pot venir a connectar el telèfon?
+Em pot venir a connectar el mòbil?
+Em pot venir a connectar el...?
+Em pot venir a connectar el cable?
+Em pot venir a connectar el cor?
+Ja ha donat d'abandonar el servei a la companyia?
+Ja ha donat d'acabar el servei a la companyia?
+Ja ha donat d'acabat el servei a la companyia?
+Ja ha donat d'entrada el servei a la companyia?
+Encara no sé com he de sol·licitar aquest permís.
+Encara no sé com he de sol·licitar aquest préstec.
+Encara no sé com he de sol·licitar aquest crèdit.
+La llei ha canviat i ara és molt estricta.
+La societat ha canviat i ara és molt estricta.
+La legislació ha canviat i ara és molt estricta.
+La Llei ha canviat i ara és molt estricta.
+La gent ha canviat i ara és molt estricta.
+Té el cap?
+Té el poder?
+Té el cor?
+Té el cotxe?
+Té el...?
+Tens el poder?
+Tens el cotxe?
+Tens el cap?
+Tens el cor?
+Tens el control?
+Quin és l'espai d'atenció al públic?
+Quin és l'equip d'atenció al públic?
+Quin és l'àmbit d'atenció al públic?
+De fet, hi ha un contestador automàtic per a avaries i emergències.
+De moment, hi ha un contestador automàtic per a avaries i emergències.
+De nou, hi ha un contestador automàtic per a avaries i emergències.
+De vegades, hi ha un contestador automàtic per a avaries i emergències.
+I després, he de fer alguna cosa més?
+I després, he de fer alguna coseta més?
+I després, he de fer alguna acció més?
+I després, he de fer alguna pregunta més?
+I després, he de fer alguna feina més?
+Ells ens avisaran i vindrem a ca seva a fer la instal·lació.
+Ells ens avisaran i vindrem a la seva a fer la instal·lació.
+Ells ens avisaran i vindrem a Casa seva a fer la instal·lació.
+Ells ens avisaran i vindrem a petició seva a fer la instal·lació.
+I com es paga aquesta??
+I com es paga aquesta.?
+I com es paga aquesta quantitat?
+I com es paga aquesta...?
+I com es paga aquesta!?
+Si vol, li podem carregar la suma al seu compte.
+Si vol, li podem carregar la quantitat al seu compte.
+Si vol, li podem carregar la quota al seu compte.
+Si vol, li podem carregar la fiança al seu compte.
+Si vol, li podem carregar la multa al seu compte.
+Vinc a prendre notes per fer la llibreria que van encarregar.
+Vinc a prendre diners per fer la llibreria que van encarregar.
+Vinc a prendre temps per fer la llibreria que van encarregar.
+Vinc a prendre partit per fer la llibreria que van encarregar.
+Hola, ja era bé que vingués, senyor fuster.
+Hola, ja era millor que vingués, senyor fuster.
+Hola, ja era possible que vingués, senyor fuster.
+Hola, ja era bo que vingués, senyor fuster.
+Per on comencem a prendre??
+Per on comencem a prendre.?
+Per on comencem a prendre...?
+Per on comencem a prendre!?
+Per on comencem a prendre?.?
+Per la zona d'estar, que és on hi ha més feina.
+Per la cambra d'estar, que és on hi ha més feina.
+Per la part d'estar, que és on hi ha més feina.
+Per la raó d'estar, que és on hi ha més feina.
+Quants armaris hi vol, a la ciutat?
+Quants armaris hi vol, a la casa?
+Quants armaris hi vol, a la...?
+Quants armaris hi vol, a la presó?
+Asseguri's que sigui una peça que no tingui nusos.
+Asseguri's que sigui una bicicleta que no tingui nusos.
+Asseguri's que sigui una màquina que no tingui nusos.
+Asseguri's que sigui una cosa que no tingui nusos.
+Asseguri's que sigui una embarcació que no tingui nusos.
+I el vol com el voldrà?
+I el veuràs com el voldrà?
+I el veig com el voldrà?
+I el faré com el voldrà?
+I el veurà com el voldrà?
+Un any de matrimoni, ben gran.
+Un fill de matrimoni, ben gran.
+Un dia de matrimoni, ben gran.
+Un regal de matrimoni, ben gran.
+Un pacte de matrimoni, ben gran.
+Quan tindrà acabat l'entrenament?
+Quan tindrà acabat l'espectacle?
+Quan tindrà acabat l'intercanvi?
+Quan tindrà acabat l'estudi?
+Quan tindrà acabat l'esmorzar?
+Amb una miqueta de sort, d'aquí a un parell de mesos vindré a fer la instal·lació.
+Amb una setmana de sort, d'aquí a un parell de mesos vindré a fer la instal·lació.
+Amb una vegada de sort, d'aquí a un parell de mesos vindré a fer la instal·lació.
+Amb una dosi de sort, d'aquí a un parell de mesos vindré a fer la instal·lació.
+Avui no és possible que la rebi cap persona.
+Vol que li doni temps per demà?
+Vol que li doni menjar per demà?
+Vol que li doni diners per demà?
+Vol que li doni res per demà?
+Vol que li doni pa per demà?
+Voldria que em visitessin d'amagat.
+Voldria que em visitessin d'hora.
+Voldria que em visitessin d'entrada.
+Voldria que em visitessin d'alt.
+No es preocupi, la pot visitar la policia de guàrdia.
+No es preocupi, la pot visitar la infermera de guàrdia.
+No es preocupi, la pot visitar la patrulla de guàrdia.
+No es preocupi, la pot visitar la persona de guàrdia.
+Esperi's a la llista d'espera, que la cridaran de seguida.
+Esperi's a la zona d'espera, que la cridaran de seguida.
+Esperi's a la cua d'espera, que la cridaran de seguida.
+Esperi's a la taula d'espera, que la cridaran de seguida.
+Hola.
+Necessito uns diners.
+Necessito uns mitjons.
+Necessito uns papers.
+Porta la clau?
+Porta la roba?
+Porta la bossa?
+Porta la càmera?
+Porta la maleta?
+Aquí té la meva mare.
+No necessito res més, només aquest llibre.
+No necessito res més, només aquest amor.
+No necessito res més, només aquest regal.
+Em deixa la targeta.?
+Em deixa la targeta??
+Em deixa la targeta!?
+Em deixa la targeta...?
+Oh!
+Miri, crec que porto el document que em demana.
+Miri, sé que porto el document que em demana.
+Miri, és que porto el document que em demana.
+Miri, així que porto el document que em demana.
+A veure?
+M'he fet un nus al dit.
+M'he fet un petó al dit.
+M'he fet un anell al dit.
+M'he fet un forat al dit.
+M'he tallat amb un ganivet.
+M'he tallat amb un dit.
+M'he tallat amb un mocador.
+M'he tallat amb un arbre.
+M'he tallat amb un drap.
+He agafat un braç trencat i m'he tallat.
+He agafat un ganivet trencat i m'he tallat.
+He agafat un vidre trencat i m'he tallat.
+He agafat un os trencat i m'he tallat.
+He agafat un cor trencat i m'he tallat.
+Em fa molt mal l'ànima.
+Em fa molt mal l'estómac.
+Em fa molt mal l'enveja.
+Em fa molt mal l'espatlla.
+Tregui's la roba i estiri's aquí.
+Tregui's la màscara i estiri's aquí.
+Tregui's la jaqueta i estiri's aquí.
+Tregui's la faldilla i estiri's aquí.
+Ara aixequi's, posi's dreta, amb l'espatlla recta i camini ben a poc a poc.
+Ara aixequi's, posi's dreta, amb l'orella recta i camini ben a poc a poc.
+Ara aixequi's, posi's dreta, amb l'ala recta i camini ben a poc a poc.
+Ara aixequi's, posi's dreta, amb l'oïda recta i camini ben a poc a poc.
+És greu, senyor?
+És greu, oi?
+És greu, senyora?
+És greu, això?
+És greu, amic?
+No sembla que sigui greu, però li farem més cas.
+No sembla que sigui greu, però li farem més preguntes.
+No sembla que sigui greu, però li farem més costat.
+No sembla que sigui greu, però li farem més mal.
+Passa molta gent dreta?
+Passa molta mà dreta?
+Passa molta llum dreta?
+Passa molta cosa dreta?
+Sí.
+Estic dreta tot el
+Estic dreta tot el (
+Estic dreta tot el [...]
+Sí, estic asseguda tot el matí.
+Sí, estic asseguda tot el temps.
+No és bo estar assegut tot el temps.
+No és bo estar assegut tot el matí.
+La Joana té l'espatlla ben torta.
+La Joana té l'orella ben torta.
+La Joana té l'ànima ben torta.
+La Joana té l'ampolla ben torta.
+Soc informàtic i em passo el matí davant l'ordinador.
+Soc informàtic i em passo el temps davant l'ordinador.
+Hauria de seure amb l'espatlla recta, els colzes a l'alçada de la taula i amb els peus sobre un suport.
+Hauria de seure amb l'orella recta, els colzes a l'alçada de la taula i amb els peus sobre un suport.
+Hauria de seure amb l'ala recta, els colzes a l'alçada de la taula i amb els peus sobre un suport.
+Hauria de seure amb l'esquerra recta, els colzes a l'alçada de la taula i amb els peus sobre un suport.
+Ja mires de fer una mena d'exercici?
+Ja mires de fer una espècie d'exercici?
+Ja mires de fer una miqueta d'exercici?
+Ja mires de fer una classe d'exercici?
+Només faig això de tant en tant, quan me'n recordo.
+Només faig soroll de tant en tant, quan me'n recordo.
+Només faig fotos de tant en tant, quan me'n recordo.
+Només faig broma de tant en tant, quan me'n recordo.
+Només faig, de tant en tant, quan me'n recordo.
+Li convindria fer un entrenament suau, per exemple natació.
+Li convindria fer un esport suau, per exemple natació.
+Li convindria fer un treball suau, per exemple natació.
+Li convindria fer un escalfament suau, per exemple natació.
+Els temps passen per tothom i el cos ho nota molt si no en tenim cura.
+Els problemes passen per tothom i el cos ho nota molt si no en tenim cura.
+Els mals passen per tothom i el cos ho nota molt si no en tenim cura.
+Els perills passen per tothom i el cos ho nota molt si no en tenim cura.
+Vagi al metge de tant en tant.
+Vagi al llit de tant en tant.
+Vagi al lavabo de tant en tant.
+Vagi al gra de tant en tant.
+Vagi al poble de tant en tant.
+Què, pare, com està el teu fill del refredat?
+Què, però, com està el teu fill del refredat?
+Què, senyor, com està el teu fill del refredat?
+Què, mare, com està el teu fill del refredat?
+Què, doncs, com està el teu fill del refredat?
+Jo conec un home naturista que ho fa molt bé.
+Jo conec un noi naturista que ho fa molt bé.
+Jo conec un company naturista que ho fa molt bé.
+Jo conec un amic naturista que ho fa molt bé.
+Aquí mateix, a l'altura del carrer Matances.
+Aquí mateix, a l'entrada del carrer Matances.
+Aquí mateix, a l'edifici del carrer Matances.
+Aquí mateix, a l'inici del carrer Matances.
+Les funcions i els dies
+Les vacances i els dies
+Les faltes i els dies
+Les causes i els dies
+Què fas al llit quan et lleves?
+Què fas al carrer quan et lleves?
+Què fas al vespre quan et lleves?
+Què fas al gimnàs quan et lleves?
+Després de llevar-me, em rento, em vesteixo i [...].
+Quin paper fas, a la feina?
+Quin temps fas, a la feina?
+Quin dia fas, a la feina?
+Quin treball fas, a la feina?
+Quina època de l'any t'agrada més?
+Quina part de l'any t'agrada més?
+Quina setmana de l'any t'agrada més?
+Quina temporada de l'any t'agrada més?
+A mi m'agraden la tardor i la tardor.
+A mi m'agraden la pluja i la tardor.
+A mi m'agraden la muntanya i la tardor.
+A mi m'agraden la neu i la tardor.
+A mi m'agraden la primavera i l'hivern.
+A mi m'agraden la neu i l'hivern.
+A mi m'agraden la nit i l'hivern.
+A mi m'agraden la fresca i l'hivern.
+D'entrada, sopem plegats aquest vespre.
+D'aquí, sopem plegats aquest vespre.
+D'això, sopem plegats aquest vespre.
+D'hora, sopem plegats aquest vespre.
+La presó és el lloc on passem tantes hores.
+La platja és el lloc on passem tantes hores.
+La cuina és el lloc on passem tantes hores.
+La ciutat és el lloc on passem tantes hores.
+La muntanya és el lloc on passem tantes hores.
+Busquem encarregat per a punts de venda.
+Busquem encarregat per a oficines de venda.
+Busquem encarregat per a oficina de venda.
+Busquem encarregat per a sala de venda.
+Busquem encarregat per a equips de venda.
+Es valorarà inversió en vendes.
+Es valorarà èxit en vendes.
+Es valorarà despesa en vendes.
+Es valorarà formació en vendes.
+Centre de Lleida busca professora de xinès.
+Centre de Barcelona busca professora de xinès.
+Centre de Badalona busca professora de xinès.
+Centre de Tarragona busca professora de xinès.
+Centre de Reus busca professora de xinès.
+Cal tenir cotxe propi.
+Cal tenir compte propi.
+Cal tenir habitatge propi.
+Cal tenir ordinador propi.
+Es necessiten voluntaris per treballar en un càmping de la Costa Brava.
+Es necessiten treballadors per treballar en un càmping de la Costa Brava.
+Es necessiten ajudants per treballar en un càmping de la Costa Brava.
+Es necessiten permisos per treballar en un càmping de la Costa Brava.
+Truco per l'article que he llegit de professora de xinès.
+Truco per l'últim que he llegit de professora de xinès.
+Truco per l'entrevista que he llegit de professora de xinès.
+Truco per l'informe que he llegit de professora de xinès.
+Truco per l'obra que he llegit de professora de xinès.
+Parlo bé l'àrab, el rus, el castellà i el català.
+Parlo bé l'àrab, el xinès, el castellà i el català.
+Parlo bé l'àrab, el portuguès, el castellà i el català.
+Parlo bé l'àrab, el romanès, el castellà i el català.
+Què fan a la seva??
+Què fan a la seva.?
+Què fan a la seva...?
+Què fan a la seva vida?
+Què fan a la seva habitació?
+El que ven productes.
+El venedor ven productes.
+El personal ven productes.
+El client ven productes.
+El fabricant ven productes.
+El que cura malalts.
+El qui cura malalts.
+El treball cura malalts.
+El manteniment cura malalts.
+El que condueix cotxes.
+El conductor condueix cotxes.
+El pare condueix cotxes.
+El senyor condueix cotxes.
+El vent apaga focs.
+El foc apaga focs.
+El sol apaga focs.
+El fum apaga focs.
+El bosc apaga focs.
+La gent reparteix cartes.
+La policia reparteix cartes.
+La mare reparteix cartes.
+La que reparteix cartes.
+La família reparteix cartes.
+El que pinta parets.
+El rei pinta parets.
+El nen pinta parets.
+El poble pinta parets.
+Ara sóc cuiner, però abans era dependent d'una carnisseria.
+Ara és cuiner, però abans era dependent d'una carnisseria.
+Ara ets cuiner, però abans era dependent d'una carnisseria.
+Sí, soc jo, l'home.
+Sí, soc jo, l'Oliver.
+Sí, soc jo, l'assassí.
+Sí, soc jo, l'amo.
+Sí, soc jo, l'alcalde.
+Una cosa, diu?
+Una pregunta, diu?
+Una mica, diu?
+Una noia, diu?
+Una vegada, diu?
+Que s'ha quedat a les golfes?
+Que s'ha quedat a les habitacions?
+Que s'ha quedat a les mans?
+Que s'ha quedat a les escombraries?
+Vinc de Barcelona.
+Vinc de Rússia.
+Vinc de França.
+Vinc de València.
+Vinc de fora.
+Els elements que configuren el nostre espai vital.
+Els factors que configuren el nostre espai vital.
+Els objectes que configuren el nostre espai vital.
+Els fets que configuren el nostre espai vital.
+Els processos que configuren el nostre espai vital.
+Com s'hi va a veure el pare?
+Com s'hi va a trobar el pare?
+Com s'hi va a posar el pare?
+Com s'hi va a viure el pare?
+Com s'hi va a parar el pare?
+Aquí mateix, al Carrer Ample.
+Aquí mateix, al Pati Ample.
+Aquí mateix, al pati Ample.
+Aquí mateix, al Saló Ample.
+Si us fixeu, on és la parada de l'autobús?
+Si us agrada, on és la parada de l'autobús?
+Si us interessa, on és la parada de l'autobús?
+Molt a prop.
+Al davant d'aquella farmàcia.
+Al voltant d'aquella farmàcia.
+Al soterrani d'aquella farmàcia.
+Al peu d'aquella farmàcia.
+Em pot portar al Centre cívic?
+Em pot portar al consell cívic?
+Em pot portar al servei cívic?
+Em pot portar al casal cívic?
+Vagi carrer Ample amunt i giri a banda esquerra quan vegi l'església.
+Tiri recte amunt, giri a la primera cantonada a l'esquerra, segueixi tot recte fins al semàfor.
+Tiri cap amunt, giri a la primera cantonada a l'esquerra, segueixi tot recte fins al semàfor.
+Trobarà una carretera molt petita, la travessa, i després agafi el carrer que surt a l'esquerra.
+Trobarà una riera molt petita, la travessa, i després agafi el carrer que surt a l'esquerra.
+Trobarà una rotonda molt petita, la travessa, i després agafi el carrer que surt a l'esquerra.
+Trobarà una porta molt petita, la travessa, i després agafi el carrer que surt a l'esquerra.
+De cop que tombi per aquest carrer veurà l'hospital.
+De segur que tombi per aquest carrer veurà l'hospital.
+De manera que tombi per aquest carrer veurà l'hospital.
+De qualsevol que tombi per aquest carrer veurà l'hospital.
+L'avió és a la vora.
+L'enemic és a la vora.
+L'aigua és a la vora.
+L'hospital és a la vora.
+L'infern és a la vora.
+Com s'hi va, a l'avió?
+Com s'hi va, a l'hospital?
+Com s'hi va, a l'aeroport?
+Com s'hi va, a l'aigua?
+Els talls de tomàquet són damunt del prestatge de l'oli.
+Els grans de tomàquet són damunt del prestatge de l'oli.
+Els trossos de tomàquet són damunt del prestatge de l'oli.
+Els daus de tomàquet són damunt del prestatge de l'oli.
+El que és dins la caixa.
+El tresor és dins la caixa.
+El cotxe és dins la caixa.
+El cadàver és dins la caixa.
+El cap és dins la caixa.
+La clau és sobre les ampolles d'aigua.
+La prova és sobre les ampolles d'aigua.
+La bomba és sobre les ampolles d'aigua.
+La culpa és sobre les ampolles d'aigua.
+La pressió és sobre les ampolles d'aigua.
+El que és a sota les ampolles de llet.
+El menjar és a sota les ampolles de llet.
+El nen és a sota les ampolles de llet.
+El cotxe és a sota les ampolles de llet.
+El cap és a sota les ampolles de llet.
+La diferència és entre el paquet de cafè i la farina.
+La relació és entre el paquet de cafè i la farina.
+La connexió és entre el paquet de cafè i la farina.
+La separació és entre el paquet de cafè i la farina.
+La frontera és entre el paquet de cafè i la farina.
+La família és allà, al costat del vi.
+La gent és allà, al costat del vi.
+La casa és allà, al costat del vi.
+La mare és allà, al costat del vi.
+La lluna és allà, al costat del vi.
+Senyora, no trobo la solució.
+Senyora, no trobo la resposta.
+Senyora, no trobo la manera.
+Al final del passadís, a mà dreta hi ha la sortida.
+Al mig del passadís, a mà dreta hi ha la sortida.
+Al centre del passadís, a mà dreta hi ha la sortida.
+Al costat del passadís, a mà dreta hi ha la sortida.
+No tinc prou diners al pis per a tots els meus llibres.
+No tinc prou lloc al pis per a tots els meus llibres.
+No tinc prou llibres al pis per a tots els meus llibres.
+No tinc prou accés al pis per a tots els meus llibres.
+Viu en un poblet petit del Priorat.
+Viu en un mas petit del Priorat.
+Viu en un municipi petit del Priorat.
+Viu en un llogaret petit del Priorat.
+Casa meva és un apartament petit amb dues habitacions i un bany.
+Casa meva és un edifici petit amb dues habitacions i un bany.
+Casa meva és un espai petit amb dues habitacions i un bany.
+Casa meva és un habitatge petit amb dues habitacions i un bany.
+La seva família té un pis enorme al centre de Sabadell.
+La seva mare té un pis enorme al centre de Sabadell.
+La seva dona té un pis enorme al centre de Sabadell.
+La seva filla té un pis enorme al centre de Sabadell.
+La seva germana té un pis enorme al centre de Sabadell.
+En Julià viu en un castell enorme.
+En Julià viu en un edifici enorme.
+En Julià viu en un núvol enorme.
+En Julià viu en un món enorme.
+En Julià viu en un apartament enorme.
+On viuen els teus??
+On viuen els teus fills?
+On viuen els teus.?
+On viuen els teus germans?
+Em pots dir la teva??
+Em pots dir la teva.?
+Em pots dir la teva...?
+Em pots dir la teva!?
+Digui'ns la seva adreça, si us plau.
+Digui'ls la seva adreça, si us plau.
+Digui'l la seva adreça, si us plau.
+Digueu-me la meva adreça, si us plau.
+Digueu-me la seva adreça, si us plau.
+Digueu-me la teva adreça, si us plau.
+Digueu-me la nostra adreça, si us plau.
+El seu àmbit d'atenció primària és el del carrer Joan Miró.
+El seu equip d'atenció primària és el del carrer Joan Miró.
+El seu domicili d'atenció primària és el del carrer Joan Miró.
+El seu Centre d'atenció primària és el del carrer Joan Miró.
+Saps quin és el teu correu postal?
+Saps quin és el teu número postal?
+Saps quin és el teu sistema postal?
+Saps quin és el teu nom postal?
+Escrigui en aquesta direcció la seva adreça postal.
+Escrigui en aquesta adreça la seva adreça postal.
+Escrigui en aquesta pàgina la seva adreça postal.
+Escrigui en aquesta fitxa la seva adreça postal.
+Escrigui en aquesta bústia la seva adreça postal.
+Si tens un complex turístic, pots guanyar molts diners.
+Si tens un apartament turístic, pots guanyar molts diners.
+Si tens un negoci turístic, pots guanyar molts diners.
+Si tens un destí turístic, pots guanyar molts diners.
+Si tens un centre turístic, pots guanyar molts diners.
+Es vol comprar una casa a l'Empordà per fer-hi estades a l'estiu.
+Es vol comprar una finca a l'Empordà per fer-hi estades a l'estiu.
+Es vol comprar una caseta a l'Empordà per fer-hi estades a l'estiu.
+Es vol comprar una cabana a l'Empordà per fer-hi estades a l'estiu.
+És una finca amb un bon tros de terreny.
+És una casa amb un bon tros de terreny.
+És una zona amb un bon tros de terreny.
+És una granja amb un bon tros de terreny.
+És una urbanització amb un bon tros de terreny.
+Necessito que el pare tingui una habitació per posar-hi l'estudi.
+Necessito que el nen tingui una habitació per posar-hi l'estudi.
+Necessito que el noi tingui una habitació per posar-hi l'estudi.
+Necessito que el rei tingui una habitació per posar-hi l'estudi.
+Necessito que el poble tingui una habitació per posar-hi l'estudi.
+Pugi pel pont major fins a arribar a la plaça de l'església.
+Pugi pel camí major fins a arribar a la plaça de l'església.
+Pugi pel passeig major fins a arribar a la plaça de l'església.
+Pugi pel Carrer major fins a arribar a la plaça de l'església.
+A l'eixida del poble hi ha un rètol que indica on és l'hotel.
+A l'interior del poble hi ha un rètol que indica on és l'hotel.
+A l'esquerra del poble hi ha un rètol que indica on és l'hotel.
+A l'exterior del poble hi ha un rètol que indica on és l'hotel.
+L'oferta de l'hotel era petita, però correcta.
+L'entrada de l'hotel era petita, però correcta.
+L'estructura de l'hotel era petita, però correcta.
+L'escala de l'hotel era petita, però correcta.
+Al voltant del poble ara només hi ha restaurants i botigues per a turistes.
+Al nord del poble ara només hi ha restaurants i botigues per a turistes.
+Al cor del poble ara només hi ha restaurants i botigues per a turistes.
+Al sud del poble ara només hi ha restaurants i botigues per a turistes.
+La casa que tenien al carrer de Portaferrissa l'han tancat.
+La seu que tenien al carrer de Portaferrissa l'han tancat.
+La farmàcia que tenien al carrer de Portaferrissa l'han tancat.
+La sucursal que tenien al carrer de Portaferrissa l'han tancat.
+Aquest espai natural està localitzat dins la comarca del Vallès Occidental.
+Aquest paratge natural està localitzat dins la comarca del Vallès Occidental.
+Aquest entorn natural està localitzat dins la comarca del Vallès Occidental.
+Aquest medi natural està localitzat dins la comarca del Vallès Occidental.
+Aquest lloc està abandonat.
+Aquest edifici està abandonat.
+Aquest vaixell està abandonat.
+Aquest cotxe està abandonat.
+Aquest projecte està abandonat.
+Heu de demanar un certificat per ocupació de la via pública si voleu fer-hi filmacions.
+Heu de demanar un justificant per ocupació de la via pública si voleu fer-hi filmacions.
+Heu de demanar un ajut per ocupació de la via pública si voleu fer-hi filmacions.
+Tenim espais emblemàtics com ara el parc del Laberint d'Horta o el Turó de la Rovira.
+Tenim indrets emblemàtics com ara el parc del Laberint d'Horta o el Turó de la Rovira.
+Tenim punts emblemàtics com ara el parc del Laberint d'Horta o el Turó de la Rovira.
+Tenim elements emblemàtics com ara el parc del Laberint d'Horta o el Turó de la Rovira.
+A Tarragona tenim la fortuna de tenir racons preciosos al centre de la ciutat.
+A Tarragona tenim la sensació de tenir racons preciosos al centre de la ciutat.
+A Tarragona tenim la satisfacció de tenir racons preciosos al centre de la ciutat.
+A Tarragona tenim la garantia de tenir racons preciosos al centre de la ciutat.
+Tenim paratges naturals impressionants a poca distància per fer escapades d'un dia.
+Tenim espais naturals impressionants a poca distància per fer escapades d'un dia.
+Tenim paisatges naturals impressionants a poca distància per fer escapades d'un dia.
+Tenim llocs naturals impressionants a poca distància per fer escapades d'un dia.
+El Parc Natural del Montseny està situat entre les Comarques d'Osona, el Vallès Oriental i la Selva.
+El Parc Natural del Montseny està situat entre les províncies d'Osona, el Vallès Oriental i la Selva.
+El Parc Natural del Montseny està situat entre les zones d'Osona, el Vallès Oriental i la Selva.
+El Parc Natural del Montseny està situat entre les àrees d'Osona, el Vallès Oriental i la Selva.
+La Mola és la part més alta del Parc Natural.
+La Mola és la roca més alta del Parc Natural.
+La Mola és la cota més alta del Parc Natural.
+La Mola és la zona més alta del Parc Natural.
+És un paratge de gran valor ecològic.
+És un entorn de gran valor ecològic.
+És un paisatge de gran valor ecològic.
+És un bosc de gran valor ecològic.
+És un espai natural de gran bellesa.
+És un entorn natural de gran bellesa.
+És un parc natural de gran bellesa.
+És un paisatge natural de gran bellesa.
+El temps és el temps que dediquem a fer activitats que ens agraden.
+El futbol és el temps que dediquem a fer activitats que ens agraden.
+El joc és el temps que dediquem a fer activitats que ens agraden.
+El resultat és el temps que dediquem a fer activitats que ens agraden.
+En Joan és un bon amic.
+En Joan és un bon noi.
+En Joan és un bon home.
+En Joan és un bon paio.
+En Joan és un bon company.
+La Maria juga de porter.
+La Maria juga de portera.
+La Maria juga de valent.
+La Maria juga de mestra.
+La Maria juga de nit.
+Li agrada molt fer això.
+Li agrada molt fer fotos.
+La Quima treballa de cambrera turística.
+La Quima treballa de tècnica turística.
+La Quima treballa de periodista turística.
+La Quima treballa de mediadora turística.
+La Joana no té cap problema.
+La Joana no té cap poder.
+La Joana no té cap raó.
+L'exercici és una activitat molt beneficiosa per a la salut.
+L'alimentació és una activitat molt beneficiosa per a la salut.
+L'entrenament és una activitat molt beneficiosa per a la salut.
+L'agricultura és una activitat molt beneficiosa per a la salut.
+L'Anton fa molt d'amor.
+L'Anton fa molt d'esforç.
+L'Anton fa molt d'efecte.
+L'Anton fa molt d'agost.
+L'Anton fa molt d'anys.
+A l'hivern val més no fer esport en hores centrals del dia.
+A l'escola val més no fer esport en hores centrals del dia.
+A l'agost val més no fer esport en hores centrals del dia.
+A l'esport val més no fer esport en hores centrals del dia.
+L'escalada és una disciplina molt difícil.
+L'arbitratge és una disciplina molt difícil.
+L'esport és una disciplina molt difícil.
+L'agricultura és una disciplina molt difícil.
+Per ser un bon entrenador t'has d'entrenar molt.
+Per ser un bon jugador t'has d'entrenar molt.
+Per ser un bon atleta t'has d'entrenar molt.
+Per ser un bon professional t'has d'entrenar molt.
+Les bales li van jugar una mala passada.
+Les dones li van jugar una mala passada.
+Les matemàtiques li van jugar una mala passada.
+Les cames li van jugar una mala passada.
+Les xarxes li van jugar una mala passada.
+La Joana té una cama que no li permet córrer.
+La Joana té una discapacitat que no li permet córrer.
+La Joana té una malaltia que no li permet córrer.
+La Joana té una edat que no li permet córrer.
+La Joana té una bicicleta que no li permet córrer.
+La roba va molt bé per a l'esquena.
+La bicicleta va molt bé per a l'esquena.
+La motxilla va molt bé per a l'esquena.
+La goma va molt bé per a l'esquena.
+La corbata va molt bé per a l'esquena.
+La vida és molt avorrida.
+La feina és molt avorrida.
+La gent és molt avorrida.
+La casa és molt avorrida.
+La ciutat és molt avorrida.
+Em fa molta gràcia nedar en mar.
+Em fa molta vergonya nedar en mar.
+Em fa molta ràbia nedar en mar.
+Em fa molta mandra nedar en mar.
+Ara està de tornada el senderisme.
+Ara està de ple el senderisme.
+Ara està de conya el senderisme.
+Ara està de vacances el senderisme.
+Abans del que en dèiem caminar per la muntanya.
+Abans del cim en dèiem caminar per la muntanya.
+Abans del viatge en dèiem caminar per la muntanya.
+Abans del camí en dèiem caminar per la muntanya.
+Cada cop és més difícil esquiar per la manca de neu.
+Cada dia és més difícil esquiar per la manca de neu.
+Cada any és més difícil esquiar per la manca de neu.
+Cada volta és més difícil esquiar per la manca de neu.
+Al Pirineu hi ha bones pistes d'esquí.
+Al Pirineu hi ha bones escoles d'esquí.
+Al Pirineu hi ha bones zones d'esquí.
+Al Pirineu hi ha bones condicions d'esquí.
+Va guanyar moltes batalles fent el que més li agrada.
+Va guanyar moltes coses fent el que més li agrada.
+Va guanyar moltes carreres fent el que més li agrada.
+Va guanyar moltes vegades fent el que més li agrada.
+És un gran honor.
+És un gran home.
+És un gran amic.
+És un gran descobriment.
+La Carla és mestra de cant.
+La Carla és estudiant de cant.
+La Carla és alumna de cant.
+La Carla és cantant de cant.
+El que més li agrada d'aquest home és viatjar.
+El que més li agrada d'aquest paio és viatjar.
+El que més li agrada d'aquest país és viatjar.
+El que més li agrada d'aquest noi és viatjar.
+Ha viatjat per tot el planeta.
+Ha viatjat per tot el país.
+Ha viatjat per tot el regne.
+Quan va acabar els cursos es va dedicar a viatjar.
+Quan va acabar els anys es va dedicar a viatjar.
+Quan va acabar els exàmens es va dedicar a viatjar.
+Quan va acabar els treballs es va dedicar a viatjar.
+La cuina és la meva distracció preferida.
+La lectura és la meva distracció preferida.
+La bicicleta és la meva distracció preferida.
+La televisió és la meva distracció preferida.
+El seu pare és un gran acordionista.
+El seu germà és un gran acordionista.
+El seu marit és un gran acordionista.
+El seu oncle és un gran acordionista.
+El resultat és una bona proposta cultural.
+El llibre és una bona proposta cultural.
+El projecte és una bona proposta cultural.
+El programa és una bona proposta cultural.
+Anar al cinema sempre és interessant.
+Anar al cine sempre és interessant.
+Anar al metge sempre és interessant.
+Anar al gimnàs sempre és interessant.
+A Barcelona hi ha una bona cartellera teatral.
+A Barcelona hi ha una bona programació teatral.
+A Barcelona hi ha una bona tradició teatral.
+A Barcelona hi ha una bona representació teatral.
+La meva cunyada canta en una església.
+La meva cunyada canta en una cançó.
+La meva cunyada canta en una discoteca.
+La meva cunyada canta en una festa.
+El seu cor, en canvi, desafina molt.
+El seu timbre, en canvi, desafina molt.
+El seu cant, en canvi, desafina molt.
+El seu violí, en canvi, desafina molt.
+El seu germà, en canvi, desafina molt.
+Els cotxes estan molt de moda.
+Els mòbils estan molt de moda.
+Els mitjons estan molt de moda.
+Els toros estan molt de moda.
+Hi ha molts nens que passen moltes hores jugant a videojocs.
+Hi ha molts joves que passen moltes hores jugant a videojocs.
+Hi ha molts adolescents que passen moltes hores jugant a videojocs.
+Hi ha molts homes que passen moltes hores jugant a videojocs.
+Els llibres en català de vegades són difícils de trobar.
+Els subtítols en català de vegades són difícils de trobar.
+Els diccionaris en català de vegades són difícils de trobar.
+Els textos en català de vegades són difícils de trobar.
+Els mitjans en català de vegades són difícils de trobar.
+Quin és el teu llibre preferit?
+Quin és el teu lloc preferit?
+Quin és el teu joc preferit?
+Quin és el teu personatge preferit?
+Quin és el teu plat preferit?
+A on teniu una consola?
+A més teniu una consola?
+A sobre teniu una consola?
+A fora teniu una consola?
+La meva mare és una jugadora experta.
+La meva dona és una jugadora experta.
+La meva germana és una jugadora experta.
+La meva àvia és una jugadora experta.
+L'únic que més em relaxa és treure a passejar el meu gos.
+L'acte que més em relaxa és treure a passejar el meu gos.
+L'operació que més em relaxa és treure a passejar el meu gos.
+L'acció que més em relaxa és treure a passejar el meu gos.
+Aquest matí he aprofitat per llegir molt.
+Aquest any he aprofitat per llegir molt.
+Aquest mes he aprofitat per llegir molt.
+Aquest cop he aprofitat per llegir molt.
+M'agraden les històries de misteri.
+M'agraden les obres de misteri.
+M'agraden les coses de misteri.
+M'agraden les sèries de misteri.
+M'agraden les narracions de misteri.
+Jo prefereixo la camisa rosa.
+Jo prefereixo la roba rosa.
+Jo prefereixo la meva rosa.
+Jo prefereixo la llum rosa.
+Les nenes llegeixen més que els nois.
+Les dones llegeixen més que els nois.
+Les mares llegeixen més que els nois.
+Les xiques llegeixen més que els nois.
+A la llibreria del teu barri hi trobaràs una gran oferta de llibres bons.
+A la Biblioteca del teu barri hi trobaràs una gran oferta de llibres bons.
+A la botiga del teu barri hi trobaràs una gran oferta de llibres bons.
+A la Llibreria del teu barri hi trobaràs una gran oferta de llibres bons.
+Hi ha molta literatura que escriu, però no tots són bons escriptors.
+Hi ha molta generació que escriu, però no tots són bons escriptors.
+Hi ha molta cultura que escriu, però no tots són bons escriptors.
+Hi ha molta poesia que escriu, però no tots són bons escriptors.
+Et recomano que llegeixis els llibres de fades.
+Et recomano que llegeixis els Contes de fades.
+Et recomano que llegeixis els conte de fades.
+Et recomano que llegeixis els jocs de fades.
+A l'hivern sempre aprofitem per visitar algun museu.
+A l'agost sempre aprofitem per visitar algun museu.
+A l'escola sempre aprofitem per visitar algun museu.
+A l'any sempre aprofitem per visitar algun museu.
+El MNAC té una bona oferta temporal.
+El MNAC té una bona programació temporal.
+El MNAC té una bona imatge temporal.
+El MNAC té una bona situació temporal.
+Has visitat mai les excavacions d'Empúries?
+Has visitat mai les runes d'Empúries?
+Has visitat mai les piràmides d'Empúries?
+Has visitat mai les mines d'Empúries?
+Et recomano aquesta experiència.
+Et recomano aquesta pàgina.
+A Tarragona hi ha una activitat cultural important.
+A Tarragona hi ha una manifestació cultural important.
+A Tarragona hi ha una vida cultural important.
+A Tarragona hi ha una tradició cultural important.
+Aquest any els festivals de Música tenen una programació extraordinària.
+Aquest curs els festivals de Música tenen una programació extraordinària.
+Aquest 2013 els festivals de Música tenen una programació extraordinària.
+Aquest 2017 els festivals de Música tenen una programació extraordinària.
+He anat a diversos llocs aquest estiu.
+He anat a diversos festivals aquest estiu.
+He anat a diversos actes aquest estiu.
+He anat a diversos països aquest estiu.
+Per Setmana Santa, al Palau fan Missa de Bach.
+Per Setmana Santa, al Palau fan missa de Bach.
+Per Setmana Santa, al Palau fan música de Bach.
+Per Setmana Santa, al Palau fan Nadal de Bach.
+S'ha comprat una barca per navegar per la costa.
+S'ha comprat una embarcació per navegar per la costa.
+S'ha comprat una nau per navegar per la costa.
+S'ha comprat una màquina per navegar per la costa.
+S'ha comprat una moto per navegar per la costa.
+La seva gran passió és pescar.
+La seva gran feina és pescar.
+La seva gran missió és pescar.
+La seva gran tasca és pescar.
+En aquest espai podràs gaudir d'una experiència exclusiva durant la primera hora del dia.
+En aquest taller podràs gaudir d'una experiència exclusiva durant la primera hora del dia.
+En aquest programa podràs gaudir d'una experiència exclusiva durant la primera hora del dia.
+En aquest servei podràs gaudir d'una experiència exclusiva durant la primera hora del dia.
+En aquest lloc podràs gaudir d'una experiència exclusiva durant la primera hora del dia.
+Què és, mar o muntanya?
+Què significa, mar o muntanya?
+Què són, mar o muntanya?
+Què fem, mar o muntanya?
+Què vols, mar o muntanya?
+Hi ha bons llocs de visita.
+Hi ha bons horaris de visita.
+Hi ha bons torns de visita.
+Hi ha bons punts de visita.
+Hi ha bons moments de visita.
+És un servei gratuït, però cal fer reserva prèvia.
+És un curs gratuït, però cal fer reserva prèvia.
+És un taller gratuït, però cal fer reserva prèvia.
+És un acte gratuït, però cal fer reserva prèvia.
+És un concert gratuït, però cal fer reserva prèvia.
+Visita l'espai temporal amb les peces més destacades del conjunt arqueològic.
+Visita l'Exposició temporal amb les peces més destacades del conjunt arqueològic.
+Visita l'entorn temporal amb les peces més destacades del conjunt arqueològic.
+Diverteix-te en grup amb el taller de màscares.
+Diverteix-te en directe amb el taller de màscares.
+Diverteix-te en Carnestoltes amb el taller de màscares.
+El festival de circ ens va encantar.
+El muntatge de circ ens va encantar.
+El curs de circ ens va encantar.
+L'Educació en el lleure inclou un conjunt d'iniciatives, moviments i experiències.
+L'esport en el lleure inclou un conjunt d'iniciatives, moviments i experiències.
+L'associacionisme en el lleure inclou un conjunt d'iniciatives, moviments i experiències.
+L'animació en el lleure inclou un conjunt d'iniciatives, moviments i experiències.
+Cada cop hi ha més gent que vol ampliar els seus estudis.
+Cada dia hi ha més gent que vol ampliar els seus estudis.
+Cada any hi ha més gent que vol ampliar els seus estudis.
+Cada volta hi ha més gent que vol ampliar els seus estudis.
+Estudiar s'ha convertit en una opció de lleure més.
+Estudiar s'ha convertit en una forma de lleure més.
+Estudiar s'ha convertit en una alternativa de lleure més.
+Estudiar s'ha convertit en una peça de lleure més.
+Si aneu a la platja, heu de vigilar de no encendre cap foc.
+Si aneu a la foguera, heu de vigilar de no encendre cap foc.
+Si aneu a la nit, heu de vigilar de no encendre cap foc.
+Si aneu a la cuina, heu de vigilar de no encendre cap foc.
+Les hores de lleure cal fer-les amb civisme.
+Les estones de lleure cal fer-les amb civisme.
+Les actuacions de lleure cal fer-les amb civisme.
+Les pràctiques de lleure cal fer-les amb civisme.
+Els nens i joves han de portar mascareta en els espais interiors dels museus.
+Els adolescents i joves han de portar mascareta en els espais interiors dels museus.
+Els menors i joves han de portar mascareta en els espais interiors dels museus.
+Els adults i joves han de portar mascareta en els espais interiors dels museus.
+Ja he apuntat els alumnes a les colònies.
+Ja he apuntat els fills a les colònies.
+Ja he apuntat els infants a les colònies.
+Ja he apuntat els pares a les colònies.
+La seva gran especialitat són els mots encreuats.
+La seva gran passió són els mots encreuats.
+La seva gran tradició són els mots encreuats.
+La seva gran novetat són els mots encreuats.
+T'agraden les feines manuals?
+T'agraden les tasques manuals?
+T'agraden les tècniques manuals?
+T'agraden les eines manuals?
+T'agraden les arts manuals?
+Ets d'algú que tingui afició per la cuina?
+És d'algú que tingui afició per la cuina?
+Sé d'algú que tingui afició per la cuina?
+Parlem d'algú que tingui afició per la cuina?
+I d'algú que tingui afició per la cuina?
+Era un venedor de segells.
+En tenia moltíssims.
+Era un fabricant de segells.
+Era un lladre de segells.
+Era un home de segells.
+Era un llibre de segells.
+El que no era per a la Joana.
+El lloc no era per a la Joana.
+El nom no era per a la Joana.
+El cotxe no era per a la Joana.
+El pis no era per a la Joana.
+El noi tocava la trompeta i els veïns n'estaven farts.
+El pare tocava la trompeta i els veïns n'estaven farts.
+El grup tocava la trompeta i els veïns n'estaven farts.
+El nen tocava la trompeta i els veïns n'estaven farts.
+Hi ha pocs veritables aficionats a la costura.
+Hi ha pocs nens aficionats a la costura.
+Hi ha pocs mestres aficionats a la costura.
+Hi ha pocs professionals aficionats a la costura.
+Tenia una afició pel billar.
+Tenia una màquina pel billar.
+Tenia una llicència pel billar.
+Tenia una habilitat pel billar.
+Tenia una taula pel billar.
+Les setmanes i els dies.
+Les causes i els dies.
+Les vacances i els dies.
+Les dates i els dies.
+Vostè a quina edat es lleva normalment?
+Vostè a quina velocitat es lleva normalment?
+Vostè a quina feina es lleva normalment?
+Vostè a quina estació es lleva normalment?
+A quina taula esmorza?
+A quina sala esmorza?
+A quina altura esmorza?
+A quina habitació esmorza?
+Esmorzo de nou, després de dutxar-me i vestir-me.
+Esmorzo de nit, després de dutxar-me i vestir-me.
+Esmorzo de valent, després de dutxar-me i vestir-me.
+Esmorzo de matinada, després de dutxar-me i vestir-me.
+I després què fa, al??
+I després què fa, al...?
+I després què fa, al.?
+I després què fa, al final?
+I després què fa, al principi?
+I a quina edat comença a treballar?
+I a quina empresa comença a treballar?
+I a quina velocitat comença a treballar?
+I a quina distància comença a treballar?
+Normalment, faig el servei de tarda.
+Normalment, faig el treball de tarda.
+Normalment, faig el reforç de tarda.
+Normalment, faig el curs de tarda.
+Recordeu que les vacances sempre comencen en punt.
+Recordeu que les hores sempre comencen en punt.
+Recordeu que les festes sempre comencen en punt.
+Recordeu que les obres sempre comencen en punt.
+Recordeu que les coses sempre comencen en punt.
+Soc en Joan Duran i tenia plans per demà, però no em va bé.
+Soc en Joan Duran i tenia feina per demà, però no em va bé.
+Soc en Joan Duran i tenia temps per demà, però no em va bé.
+Soc en Joan Duran i tenia festa per demà, però no em va bé.
+Puc canviar l'examen per demà passat?
+Puc canviar l'esmorzar per demà passat?
+Puc canviar l'operació per demà passat?
+Puc canviar l'endemà per demà passat?
+Un dia que miro si podem canviar l'hora.
+Un cop que miro si podem canviar l'hora.
+Un any que miro si podem canviar l'hora.
+Un temps que miro si podem canviar l'hora.
+Li va bé, que ve a la mateixa hora?
+Li va bé saber que ve a la mateixa hora?
+Li va bé dir que ve a la mateixa hora?
+Li va bé pensar que ve a la mateixa hora?
+Li va bé ara que ve a la mateixa hora?
+A la mateixa edat no puc.
+A la mateixa habitació no puc.
+A la mateixa vegada no puc.
+A la mateixa nit no puc.
+Avui he tingut molta sort.
+Avui he tingut molta gana.
+Avui he tingut molta por.
+Avui he tingut molta fam.
+Estic morta de por.
+Estic morta de gana.
+Estic morta de fam.
+Estic morta de fàstic.
+Estic morta de vergonya.
+A quina taula has dinat?
+A quina sala has dinat?
+A quina casa has dinat?
+A quina escola has dinat?
+Només he tingut ganes de menjar un entrepà en deu minuts, i he hagut de tornar-hi!
+Només he tingut ocasió de menjar un entrepà en deu minuts, i he hagut de tornar-hi!
+Només he tingut oportunitat de menjar un entrepà en deu minuts, i he hagut de tornar-hi!
+Només he tingut sort de menjar un entrepà en deu minuts, i he hagut de tornar-hi!
+Avui és el dia que va a París.
+Demà és el dia que va a París.
+Aquest és el dia que va a París.
+Ara és el dia que va a París.
+No és el dia que va a París.
+-? Em pensava que hi anava dijous.
+Què?
+Em pensava que hi anava dijous.
+No?
+¿? Em pensava que hi anava dijous.
+Amb un cotxe segur que arribo a l'aeroport en un quart d'hora.
+Amb un bitllet segur que arribo a l'aeroport en un quart d'hora.
+Amb un avió segur que arribo a l'aeroport en un quart d'hora.
+Amb un tren segur que arribo a l'aeroport en un quart d'hora.
+Amb un rellotge segur que arribo a l'aeroport en un quart d'hora.
+I el que sabem on el farem?
+I el no sabem on el farem?
+I el cotxe sabem on el farem?
+I el futur sabem on el farem?
+I el camí sabem on el farem?
+Menjar i beure són les coses preferides dels turistes.
+Menjar i beure són les opcions preferides dels turistes.
+Menjar i beure són les aficions preferides dels turistes.
+Menjar i beure són les ocupacions preferides dels turistes.
+El peix, el volen cru, al punt o fet?
+El menjar, el volen cru, al punt o fet?
+El cotxe, el volen cru, al punt o fet?
+El petroli, el volen cru, al punt o fet?
+El plat, el volen cru, al punt o fet?
+El color, el prendran blanc, negre o rosat?
+El cabell, el prendran blanc, negre o rosat?
+El negre, el prendran blanc, negre o rosat?
+El vestit, el prendran blanc, negre o rosat?
+Les que ens agraden fresques; no me les doni congelades.
+Les patates ens agraden fresques; no me les doni congelades.
+Les flors ens agraden fresques; no me les doni congelades.
+Les verdures ens agraden fresques; no me les doni congelades.
+Les cireres ens agraden fresques; no me les doni congelades.
+Els metges els han deixat nets i escorreguts.
+Els déus els han deixat nets i escorreguts.
+Els bombers els han deixat nets i escorreguts.
+Els lladres els han deixat nets i escorreguts.
+Els homes els han deixat nets i escorreguts.
+Atenció, el pa el volen molt poc fet.
+Atenció, el treball el volen molt poc fet.
+Atenció, el cotxe el volen molt poc fet.
+Atenció, el menjar el volen molt poc fet.
+Atenció, el llibre el volen molt poc fet.
+Què es necessita per fer un...?
+Què es necessita per fer un??
+Què es necessita per fer un.?
+Què es necessita per fer un viatge?
+Què es necessita per fer un casament?
+Quins menjars es fan amb un sofregit?
+Quins àpats es fan amb un sofregit?
+Quins arrossos es fan amb un sofregit?
+Quins aliments es fan amb un sofregit?
+La noia que busca és aquella senyora d'allà.
+La gent que busca és aquella senyora d'allà.
+La dona que busca és aquella senyora d'allà.
+La cosa que busca és aquella senyora d'allà.
+Soc el director de vendes.
+Soc el responsable de vendes.
+Soc el Cap de vendes.
+Soc el gerent de vendes.
+No coneixes aquesta noia?
+No coneixes aquesta dona?
+No coneixes aquesta persona?
+No coneixes aquesta gent?
+No coneixes aquesta ciutat?
+Et presento el doctor Garriga.
+Et presento el meu Garriga.
+Et presento el professor Garriga.
+Molt de mal, senyora Garriga.
+Molt de profit, senyora Garriga.
+Molt de dolor, senyora Garriga.
+Molt de dol, senyora Garriga.
+Igualment, ha de conèixer-la.
+Igualment, haurà de conèixer-la.
+Igualment, han de conèixer-la.
+Igualment, hauria de conèixer-la.
+Igualment, hem de conèixer-la.
+És la primera persona que ve a Catalunya?
+És la primera dona que ve a Catalunya?
+És la primera volta que ve a Catalunya?
+És la primera catalana que ve a Catalunya?
+Em puc fer càrrec del club?
+Em puc fer soci del club?
+Em puc fer membre del club?
+Em puc fer amic del club?
+Em puc fer responsable del club?
+Per inscriure't has de portar una targeta.
+Per inscriure't has de portar una fitxa.
+Va bé aquesta??
+Va bé aquesta...?
+Va bé aquesta.?
+Va bé aquesta!?
+Va bé aquesta gent?
+Digui'ns el seu nom?
+Digui'ls el seu nom?
+Digui'l el seu nom?
+Em pots dir el teu??
+Em pots dir el teu.?
+Em pots dir el teu...?
+Em pots dir el teu!?
+Montserrat és el camí?
+Montserrat és el lloc?
+Montserrat és el dimoni?
+Montserrat és el cel?
+Montserrat és el paradís?
+No, és el mateix.
+No, és el cognom.
+No, és el meu.
+No, és el cas.
+El meu nom s'escriu amb i d'Itàlia i ge de Girona.
+El meu escrit s'escriu amb i d'Itàlia i ge de Girona.
+El meu accent s'escriu amb i d'Itàlia i ge de Girona.
+El meu DNI s'escriu amb i d'Itàlia i ge de Girona.
+Vol que li ensenyi el...?
+Vol que li ensenyi el cotxe?
+Vol que li ensenyi el cor?
+Vol que li ensenyi el nom?
+Vol que li ensenyi el camí?
+No necessito el seu permís, gràcies.
+No necessito el seu suport, gràcies.
+No necessito el seu ajut, gràcies.
+No necessito el seu nom, gràcies.
+No necessito el seu consentiment, gràcies.
+Oh, Ernest!
+Quina sorpresa!
+Gràcies, Ernest!
+Sí, Ernest!
+Hola, Ernest!
+Ahir a la tarda va fer mal temps.
+Ahir a la matinada va fer mal temps.
+Ahir a la feina va fer mal temps.
+Ahir a la platja va fer mal temps.
+Arriba una hora.
+Arriba una nit.
+Arriba una altra.
+Anuncien una reunió.
+Anuncien una ampliació.
+Anuncien una rectificació.
+Anuncien una denúncia.
+Anuncien una resolució.
+Cada cop hi ha més onades de calor.
+Cada dia hi ha més onades de calor.
+Cada any hi ha més onades de calor.
+Cada nit hi ha més onades de calor.
+No suporto la violència.
+No suporto la idea.
+No suporto la vaga.
+No suporto la publicitat.
+No suporto la política.
+Prefereixo el menjar.
+Prefereixo el millor.
+Prefereixo el primer.
+Prefereixo el silenci.
+Prefereixo el cotxe.
+Aquí trobaràs totes les actualitzacions de temperatura dels darrers dies.
+Aquí trobaràs totes les variacions de temperatura dels darrers dies.
+Aquí trobaràs totes les baixades de temperatura dels darrers dies.
+Aquí trobaràs totes les pujades de temperatura dels darrers dies.
+Fa bon dia.
+Fa bon vent.
+Fa bon sol.
+Fa bon matí.
+Avui farà mal dia, el cel està ben tapat.
+Avui farà mal vent, el cel està ben tapat.
+Avui farà mal matí, el cel està ben tapat.
+Avui farà mal sol, el cel està ben tapat.
+El dia està ennuvolat.
+El temps està ennuvolat.
+El matí està ennuvolat.
+El Cel està ennuvolat.
+El sol ha escampat els núvols.
+El cel ha escampat els núvols.
+El mar ha escampat els núvols.
+El temps ha escampat els núvols.
+Fa molts anys que fa mal temps.
+Fa molts mesos que fa mal temps.
+Fa molts minuts que fa mal temps.
+Fa molts hiverns que fa mal temps.
+Aviat tindrem l'Arc de Sant Martí.
+Aviat tindrem l'arc de Sant Martí.
+Aviat tindrem l'església de Sant Martí.
+Aviat tindrem l'Església de Sant Martí.
+Les festes de gener què són?
+Les nits de gener què són?
+Les pluges de gener què són?
+Les vacances de gener què són?
+Les hores de gener què són?
+Com que fa bo anirem a la guerra.
+Com que fa bo anirem a la presó.
+Com que fa bo anirem a la muntanya.
+Els mesos de vent fort cal anar amb compte amb el foc.
+Els casos de vent fort cal anar amb compte amb el foc.
+Els anys de vent fort cal anar amb compte amb el foc.
+Els episodis de vent fort cal anar amb compte amb el foc.
+Cel rogent, o fred o vent.
+Cel rogent, o neu o vent.
+Cel rogent, o mar o vent.
+Cel rogent, o boira o vent.
+A la baixa ja no fa tanta calor.
+A temporada baixa ja no fa tanta calor.
+A temperatura baixa ja no fa tanta calor.
+A cota baixa ja no fa tanta calor.
+A Terra baixa ja no fa tanta calor.
+A l'agost és una bona època per fer vacances.
+A l'hivern és una bona època per fer vacances.
+A l'abril és una bona època per fer vacances.
+A l'octubre és una bona època per fer vacances.
+Per Tots Sants abans estrenàvem l'any.
+Per Tots Sants abans estrenàvem l'escola.
+Per Tots Sants abans estrenàvem l'armari.
+Per Tots Sants abans estrenàvem l'estelada.
+Per Tots Sants abans estrenàvem l'uniforme.
+Ara triga molt a venir el temps.
+Ara triga molt a venir el millor.
+Ara triga molt a venir el moment.
+Ja fa dies que no fa fred a l'hivern.
+Ja fa temps que no fa fred a l'hivern.
+Ja fa mesos que no fa fred a l'hivern.
+Ja fa setmanes que no fa fred a l'hivern.
+Jo soc més de sol que de calor.
+Jo soc més de llum que de calor.
+Jo soc més de calor que de calor.
+Jo soc més de suor que de calor.
+La sang m'abalteix.
+La mort m'abalteix.
+La vida m'abalteix.
+La por m'abalteix.
+La lluna m'abalteix.
+A Cadaqués hi ha un cementiri.
+A Cadaqués hi ha un restaurant.
+A Cadaqués hi ha un hotel.
+A Cadaqués hi ha un castell.
+Em va dir que al mal no hi posés bona cara.
+Em va dir que al mal gust hi posés bona cara.
+Em va dir que al malentès hi posés bona cara.
+Em va dir que al malefici hi posés bona cara.
+Vam tenir un final de maig molt ventós.
+Vam tenir un dia de maig molt ventós.
+Vam tenir un començament de maig molt ventós.
+Vam tenir un inici de maig molt ventós.
+El dia de Setmana Santa és molt traïdor.
+El viatge de Setmana Santa és molt traïdor.
+El temps de Setmana Santa és molt traïdor.
+El final de Setmana Santa és molt traïdor.
+El pont de Setmana Santa és molt traïdor.
+Prendre molt el cafè és perillós per a la salut.
+Prendre molt el menjar és perillós per a la salut.
+Prendre molt el tabac és perillós per a la salut.
+Prendre molt el que és perillós per a la salut.
+Es passa dies i hores prenent el sol.
+Es passa minuts i hores prenent el sol.
+Es passa tardes i hores prenent el sol.
+Es passa setmanes i hores prenent el sol.
+L'home de la mar és dolent.
+L'aigua de la mar és dolent.
+L'aire de la mar és dolent.
+L'aspecte de la mar és dolent.
+Els vaixells no han sortit per mala mar.
+Els nens no han sortit per mala mar.
+Els peixos no han sortit per mala mar.
+Els homes no han sortit per mala mar.
+Els dofins no han sortit per mala mar.
+Fa tan poc vent que el lloc sembla una bassa d'oli.
+Fa tan poc vent que el terreny sembla una bassa d'oli.
+Fa tan poc vent que el terra sembla una bassa d'oli.
+Fa tan poc vent que el camp sembla una bassa d'oli.
+Fa tan poc vent que el paisatge sembla una bassa d'oli.
+Amb el pas de temps el nivell del mar està pujant.
+Amb el mal de temps el nivell del mar està pujant.
+Amb el poc de temps el nivell del mar està pujant.
+Amb el temps de temps el nivell del mar està pujant.
+Quan fa calor necessito un barret i un bon abric.
+Quan fa sol necessito un barret i un bon abric.
+Quan fa mal necessito un barret i un bon abric.
+Quan fa vent necessito un barret i un bon abric.
+Aquest any es preveu que farà poc fred.
+Aquest matí es preveu que farà poc fred.
+Aquest dissabte es preveu que farà poc fred.
+Aquest dia es preveu que farà poc fred.
+Hi ha famílies que celebren Nadal a l'estiu.
+Hi ha persones que celebren Nadal a l'estiu.
+Hi ha parelles que celebren Nadal a l'estiu.
+Hi ha pobles que celebren Nadal a l'estiu.
+Hi ha nens que celebren Nadal a l'estiu.
+El dia passa i la Joana balla.
+El món passa i la Joana balla.
+El sol passa i la Joana balla.
+El tren passa i la Joana balla.
+No tens ganes d'arribar a l'hora.
+No tens intenció d'arribar a l'hora.
+No tens por d'arribar a l'hora.
+No tens manera d'arribar a l'hora.
+Si no et convenç, arribaràs a misses dites.
+Si no et deixen, arribaràs a misses dites.
+Si no et mates, arribaràs a misses dites.
+Si no et plau, arribaràs a misses dites.
+Si no et deixa, arribaràs a misses dites.
+Aquesta pregunta no la puc fer d'avui per demà.
+Aquesta foto no la puc fer d'avui per demà.
+Aquesta operació no la puc fer d'avui per demà.
+Aquesta tasca no la puc fer d'avui per demà.
+De vegades fes el que et dic i qui dia passa any empeny.
+De nou fes el que et dic i qui dia passa any empeny.
+De fet fes el que et dic i qui dia passa any empeny.
+De debò fes el que et dic i qui dia passa any empeny.
+Anem al llit solament de tard en tard.
+Anem al poble solament de tard en tard.
+Anem al lavabo solament de tard en tard.
+Anem al metge solament de tard en tard.
+Anem al gimnàs solament de tard en tard.
+A la una en Punt comença la xerrada.
+L'1 de maig és festa.
+L'11 de maig és festa.
+L'onze de maig és festa.
+El primer de gener és festa.
+El primer de juny és festa.
+El primer de desembre és festa.
+El primer de setmana és festa.
+L'1 de gener és Cap d'Any.
+L'11 de gener és Cap d'Any.
+L'onze de gener és Cap d'Any.
+El primer de desembre és Cap d'Any.
+El primer de tots és Cap d'Any.
+El primer de novembre és Cap d'Any.
+El primer de Tots és Cap d'Any.
+Cap d'Any és la nit del primer dia de l'any.
+Cap d'Any és la data del primer dia de l'any.
+Cap d'Any és la matinada del primer dia de l'any.
+Cap d'Any és la vigília del primer dia de l'any.
+Cap d'Any és la festa del primer dia de l'any.
+Del darrer mes de l'any hi ha qui en diu Cua d'Any.
+Del darrer trimestre de l'any hi ha qui en diu Cua d'Any.
+Del darrer any de l'any hi ha qui en diu Cua d'Any.
+Del darrer semestre de l'any hi ha qui en diu Cua d'Any.
+Faig festa sempre al mes d'agost.
+Faig festes sempre al mes d'agost.
+Faig feina sempre al mes d'agost.
+Faig guàrdia sempre al mes d'agost.
+Ja m'agradaria fer això, però amb la feina que tinc no m'ho puc permetre.
+Ja m'agradaria fer turisme, però amb la feina que tinc no m'ho puc permetre.
+Ja m'agradaria fer més, però amb la feina que tinc no m'ho puc permetre.
+Ja m'agradaria fer teatre, però amb la feina que tinc no m'ho puc permetre.
+Els nens tenen moltes vacances.
+Els homes tenen moltes vacances.
+Els treballadors tenen moltes vacances.
+Els fills tenen moltes vacances.
+Els empleats tenen moltes vacances.
+Quin any va néixer en Joan?
+Quin mes va néixer en Joan?
+Quin moment va néixer en Joan?
+La Joana no recorda mai les hores de naixement dels seus fills.
+La Joana no recorda mai les data de naixement dels seus fills.
+La Joana no recorda mai les paraules de naixement dels seus fills.
+La Joana no recorda mai les edats de naixement dels seus fills.
+Per Nadal sempre intento fer uns minuts de festa.
+Per Nadal sempre intento fer uns quants de festa.
+Per Nadal sempre intento fer uns moments de festa.
+Per Nadal sempre intento fer uns divendres de festa.
+Avui, dimarts i dimecres seré fora de Catalunya.
+Demà, dimarts i dimecres seré fora de Catalunya.
+Dimarts, dimarts i dimecres seré fora de Catalunya.
+Dimecres, dijous i divendres els mercats obren a la tarda.
+Dilluns, dijous i divendres els mercats obren a la tarda.
+Ahir, dijous i divendres els mercats obren a la tarda.
+Dijous, dijous i divendres els mercats obren a la tarda.
+Els metges només t'atenen presencialment als matins.
+Els professors només t'atenen presencialment als matins.
+Els matins només t'atenen presencialment als matins.
+Els centres només t'atenen presencialment als matins.
+Els professionals només t'atenen presencialment als matins.
+Abans podia anar al banc cada dia matí i tarda; ara no.
+Abans podíem anar al banc cada dia matí i tarda; ara no.
+Abans solia anar al banc cada dia matí i tarda; ara no.
+Abans vaig anar al banc cada dia matí i tarda; ara no.
+El partit comença a les deu del vespre.
+El judici comença a les deu del vespre.
+El programa comença a les deu del vespre.
+El curs comença a les deu del vespre.
+Bona sort, fill meu.
+Qui tinguis bons somnis.
+Bona tarda, fill meu.
+Bona feina, fill meu.
+Bona vida, fill meu.
+Avui quin país som?
+Avui quin poble som?
+Avui quin grup som?
+Avui quin home som?
+La Joana no recorda mai en quin món viu.
+La Joana no recorda mai en quin país viu.
+La Joana no recorda mai en quin estat viu.
+La Joana no recorda mai en quin barri viu.
+La Joana no recorda mai en quin lloc viu.
+Aquesta tarda no he dormit gens.
+Aquesta setmana no he dormit gens.
+Aquesta vegada no he dormit gens.
+Aquesta matinada no he dormit gens.
+El curs s'acaba el tretze de març.
+El contracte s'acaba el tretze de març.
+El període s'acaba el tretze de març.
+El còmput s'acaba el tretze de març.
+La documentació s'ha de presentar en el termini de temps que s'indica en el formulari.
+La justificació s'ha de presentar en el termini de temps que s'indica en el formulari.
+La memòria s'ha de presentar en el termini de temps que s'indica en el formulari.
+La instància s'ha de presentar en el termini de temps que s'indica en el formulari.
+La declaració s'ha de presentar en el termini de temps que s'indica en el formulari.
+Heu presentat la documentació fora de termini.
+Heu presentat la denúncia fora de termini.
+Heu presentat la reclamació fora de termini.
+Heu presentat la justificació fora de termini.
+Heu presentat la petició fora de termini.
