@@ -1,0 +1,40 @@
+already generated: Què és una xarxa social?
+Li presento la gerent.
+(Are they very young?)
+(Yes, yes.
+.
+Sí, ho he entès.
+Sí, sí.
+(Hi, hi!
+Quinze i cinc.
+Ok, vinga.
+(What do you want?)
+I m’agrada més el color verd.
+Assistant:
+Posa'm aigua.
+Machine:
+(Of course.)
+Sí.
+Where are you located
+Ok, dues escalivades i una amanida per a vosaltres.
+Què vols fer?
+Ok, doncs vostè vol cireres.
+Ok.
+Si, si.
+AI:
+Sí, si us plau.
+Vols que la compriem?
+Yes, it costs €1.50.
+Sure, thank you.
+Per què?
+Doncs parla-me en català.
+(If you please, what account number?)
+Perquè si us demaneu alguna cosa, us ho dir
+Human
+No, no bevo ara mateix.
+Hi ha exposicions permanentes i
+No hi ha estenedor.
+Ok.
+Ok, ho faré
+Hi.
+Em dic Joan.
