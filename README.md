@@ -13,3 +13,4 @@ collected CC0 sentences written in Catalan
 * selected_club.txt: 21237 sentences from <a href="https://huggingface.co/bsc">our own</a> corpora and datasets, published here under CC0 licence.
 
 * directory samples/: contains 1 out 25 (about 4%) sentences of each corpus
+* GPT-3/: Various experiments by prompting davinci to generate paraphrases or completions from existing prompts. With and without SoftCatala filtering algorithms [experimental]
