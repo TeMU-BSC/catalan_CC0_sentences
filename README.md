@@ -2,7 +2,7 @@
 collected CC0 sentences written in Catalan
 
 ## Contents
-* catalan_government_crawling_frases_seleccionades_filtrades.txt:  82222 sentences selected from the <a href="https://zenodo.org/record/5500233#.YUSvh3uxXOt">Catalan Government Crawling</a>
+* catalan_government_crawling_frases_seleccionades_filtrades.txt:  93691 sentences selected from the <a href="https://zenodo.org/record/5500233#.YUSvh3uxXOt">Catalan Government Crawling</a>. Numbers have been transcribed.
 * frases_spl.txt: 1711 sentences created by <a href="https://llengua.gencat.cat/ca/direccio_general_politica_linguistica/">Secretaria de política lingüística</a> for this project, published here for the first time.
 * generades_spl_seleccionades.txt: 4469 new sentences, generated from frases_spl semi-authomaticaly by masking with <a href="https://huggingface.co/bsc/roberta-base-ca-cased">bsc/roberta-base-ca-cased</a>
 * literatura.txt: 357 literature sentences, published <a href="https://cultura.gencat.cat/ca/ilc/que-fem/publicacions/postals-literaries/">here</a>, edited.
