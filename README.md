@@ -18,7 +18,7 @@ Please refer to <a href="https://web.gencat.cat/en/menu-ajuda/ajuda/avis_legal/i
 
 
 ### frases_spl.txt 
-1711 sentences created by <a href="https://llengua.gencat.cat/ca/direccio_general_politica_linguistica/">Secretaria de política lingüística</a>  (Linguistic Policy Office, from the Catalan government) for this project, published here for the first time, and covered as CC0 by the included "CC0 waiver process"
+1711 sentences created by <a href="https://llengua.gencat.cat/ca/direccio_general_politica_linguistica/">Secretaria de política lingüística</a>  (Linguistic Policy Office, from the Catalan government) for this project, published here for the first time, and covered as CC0 by the included "CC0 waiver" (see <a href="https://github.com/TeMU-BSC/catalan_CC0_sentences/blob/main/SPL_CC0_waiver.pdf">SPL_CC0_waiver.pdf</a>)
 
 
 ### generades_spl_seleccionades.txt
