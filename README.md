@@ -1,6 +1,9 @@
 # catalan_CC0_sentences
 collected CC0 sentences written in Catalan, from Public Domains and/ CC0 licences
 
+TeMU-BSC is the Text Mining Unit of the Barcelona Supercomputing Center - Centro Nacional de Supercomputación in Barcelona (Spain) 
+[https://www.bsc.es/discover-bsc/organisation/scientific-structure/text-mining]
+
 ## Contents
 ### catalan_cc0_sentences.txt
 All the 124k sentences described below
