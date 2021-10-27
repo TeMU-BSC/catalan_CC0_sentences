@@ -54,6 +54,7 @@ Contains all the 107k sentences described before, from the files:
 * selected_club.txt 
 
 ## Extra contents
+Files not included in new_catalan_cc0_corpus.txt:
 
 ### catalan_government_crawling_frases_seleccionades_filtrades.txt
 93691 sentences selected from the <a href="https://zenodo.org/record/5500233#.YUSvh3uxXOt">Catalan Government Crawling</a>. Numbers have been transcribed.
