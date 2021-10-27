@@ -1,0 +1,873 @@
+Què he de fer per registrar-me?
+És obligatori entregar aquests papers?
+Quina és la data límit per donar-se d'alta com a autònom?
+Ja us han arribat els documents?
+No he rebut cap confirmació.
+Vull saber si s'ha completat el procés.
+Hem acabat o falta alguna cosa?
+Aleshores ja hem finalitzat el procés?
+Teniu un moment demà per fer una consulta?
+Puc venir demà passat al registre civil?
+El dipòsit legal està tancat, o no?
+Volem demanar cita amb l'especialista.
+No tinc cita prèvia, puc venir igualment?
+Apunteu-me per demà, no, perdó, per demà passat.
+Demà no puc venir! Ho podem canviar?
+Al final dimarts no pot ser.
+Què tal la setmana que ve?
+Vaig dir que vindria demà però haurà de ser dimecres, si us va bé.
+Les vuit? No, no, volia dir les nou.
+On he d'enviar els papers?
+El registre és al Passeig de Gràcia, oi?
+Pensava que estàveu al costat de la Rambla.
+Quins papers he de portar?
+Cal que la traducció sigui jurada?
+Em van dir que amb això ja estava.
+Pot ser el document word o ha de ser en pe de efa?
+Està obert a les nou?
+Crec que ara esteu tancats, no?
+Cal que li faci una autorització?
+Em vull donar d'alta a la renta universal.
+Ens han dit que necessitem el certificat de naixement, és veritat?
+Tinc trenta anys. Encara puc fer servir el carnet jove?
+És gratuït amb el carnet de la biblioteca?
+Cal empadronar-se per entrar gratis al parc?
+Feu reducció per família nombrosa?
+Amb el carnet del súper tres, feu descompte?
+Tinc totes aquestes targetes, és més barat?
+A quina hora és el tren directe?
+Quin és el primer tren a Girona?
+En quin tren hi anem?
+A quina hora surt el que va a Madrid?
+Ja sóc a les Rambles.
+Al final anem a Àustria.
+Vull anar a Madrid avui mateix.
+Hem decidit que anem a Portugal.
+Heu trobat una gorra blava?
+Venia en el tren de Manresa i he perdut la bufanda.
+Què ha passat a la propera estació?
+El problema afecta a aquesta línia?
+El bus ve amb retard.
+Crec que algú ha fet sonar l'alarma!
+Com es va a l'oficina de turisme?
+Vaig bé per anar a Plaça Catalunya?
+Que em podries ajudar a arribar a l'hotel?
+Perdoni, no trobo el Liceu.
+Sóc a l'Hospital de Sant Pau i no trobo la boca de metro!
+Què puc fer per arribar-hi?
+Quina altra possibilitat hi ha?
+Heu de fer alguna cosa.
+I a qui he de trucar?
+Quin bitllet ens surt més a compte?
+No sé si fer-me una tarifa plana.
+Quins municipis inclou el de dues zones?
+El d'anada i tornada s'ha de fer servir el mateix dia?
+Vull canviar l'idioma a català.
+Vull que m'atenguin en català.
+On és el meu paquet?
+Vull saber quan arriba el paquet.
+Saps quan s'acaba el contracte?
+Necessito dades sobre el cotxe.
+Heu solucionat el problema amb la subscripció?
+El compte és de la meva mare, Maria Sandoval.
+Crec que el codi numèric és cent trenta-quatre.
+Fa hores que no funciona el servidor.
+Per què no funciona el servidor?
+Han de venir a reparar la caldera.
+Li passa alguna cosa al router.
+Crec que m'he carregat el rellotge.
+Em vull passar a Orange.
+Hem de canviar la subscripció.
+He vist que teniu una tarifa més barata.
+És possible canviar-nos a aquest contracte?
+Em pots recordar les condicions del contracte?
+Quin era el tipus de contracte?
+Quins beneficis té el nostre contracte?
+Hem de rescindir el contracte.
+Vull renunciar a aquest contracte.
+No, no necessito aquests beneficis.
+Trucava per cancel·lar el compte.
+Ho sento, em canvio a una altra companyia.
+Quins beneficis té aquest contracte?
+Explica'm en què consisteix, si us plau.
+Em pots donar més informació?
+Ja no està a aquest nom.
+Vull canviar les dades de contacte.
+Parlo amb un robot, oi?
+És molt difícil, la teva feina?
+Suposo que respons moltes trucades cada dia, en deus estar fart.
+Espero que no t'hagi donat molts problemes.
+Ja saps com va, ets el tercer agent amb qui parlo.
+Espera, que agafo un bolígraf.
+Crec que ho prefereixo així.
+Merci per l'ajuda, ho he aconseguit!
+Que t'apugin el sou!
+Per ser un bot, ho fas molt bé.
+Millor que una persona, crec.
+No, vull parlar amb una persona.
+No vull parlar amb un bot.
+Amb qui parlo? Ets real?
+Jo no vull parlar amb més màquines, eh?
+Volia reservar una taula per tres.
+Teniu lloc per dos demà?
+Seríem quatre, un amb cadira de rodes.
+I a les nou, tindríeu lloc a la terrassa?
+Vull reservar pel mes que ve. Serem deu.
+Et va agradar el Bulli?
+És millor que la Tagliatella?
+No em convenç, a tu què et sembla?
+Com són els esmorzars del restaurant de l'hotel?
+Vas sortir amb gana de La granja?
+Què em recomanaries per sopar per aquesta zona?
+A tu, on t'agrada anar a esmorzar?
+Pensava en un menú de migdia d'uns deu euros.
+Quin és el teu japonès preferit?
+De tots els mexicans del carrer, és el millor.
+Ho sento, hem d'anul·lar la reserva.
+Al final demà no vindrem.
+Hem de cancel·lar el sopar de divendres.
+És possible consultar la carta online?
+No trobo la carta de còctels.
+Passa'm la llista de pizzes, si us plau.
+Quin tipus de cuina feu?
+Segur que ho és, de fusió?
+Busco un restaurant italià per la zona.
+Serviu sushi, o només ramen?
+A l'Udon fan menjar japonès, oi?
+Com queda amb la rebaixa?
+I tot junt, com surt?
+Es pot portar en avió?
+Però es pot ficar a la rentadora, no?
+És possible pagar amb Paypal?
+Hi ha mínim per pagar amb targeta?
+Necessito ajuda amb el pagament.
+Només puc pagar per Paypal.
+Us he de fer una transferència.
+Sí, vull procedir al pagament!
+Necessito la factura per l'empresa.
+I la factura, la podeu fer?
+Feu-me un rebut, si us plau.
+Vull factura i còpia per mail.
+He de modificar la comanda.
+Al final vull l'altre model.
+Puc canviar la talla del jersei?
+Cancel·lar un paquet, mantenir l'altre.
+Quant he comprat fins ara?
+Al final, la samarreta verda l'havia seleccionat o no?
+Revervar una taula per a demà a les tres al Centfocs.
+Vull anar a dinar a la Tagliatella demà a les tres.
+Què et sembla el restaurant Buenas Migas?
+Què tal és La Tagliatella de la Maquinista?
+Quina és la valoració del restaurant Tres Chiles de Barcelona?
+Mostra'm la valoració del restaurant Casa Carmen.
+Mostra'm opinions del restaurant Centfocs.
+Vull llegir els comentaris del restaurant Bacoa.
+Hi ha algun restaurant japonès econòmic a Barcelona?
+On puc trobar un restaurant hindú a Castelló de la Plana?
+Vull menjar en un restaurant de cuina mediterrània a Barcelona.
+Em ve de gust menjar asiàtic prop d'Urquinaona.
+Menjar per emportar a Ciutat Vella.
+Anul·la la meva reserva de demà a les tres.
+Tenia una reserva a Grosso Napoletano per dissabte i vull anul·lar-la.
+Cancel·lar reserva de demà a les quatre.
+No podré anar a la Tagliatella demà a les dues.
+Anul·la'm la reserva que tenia al Bacoa.
+Què hi ha al menú de Casa Carmen?
+Quins plats hi ha disponibles en el menú del bar Manolo?
+Què inclou el menú del restaurant Centfocs?
+Vull saber quin és el menú d'avui del Vapiano.
+Al Hanabishi del carrer de Balmes fan menjar japonés?
+Quin tipus de menjar fan al Centfocs?
+Fan menjar italià a la Tagliatella?
+Vull saber quin menjar fan en el Bacoa.
+El Hanabishi és un restaurant japonès?
+El Foster Hollywood quin menjar fa?
+Espero que estiguis tenint una bona tarda.
+Acaba de passar un bon dia.
+Et dono les gràcies per tot el que has fet per mi.
+No sé què faria sense tu.
+Ets un robot o ets humà?
+Pots llegir els meus pensaments?
+Qui és el teu creador?
+Qui és la teva mare?
+El teu creador, qui és?
+No serveixes per a res.
+Ets una merda de xatbot.
+No vull saber res més de tu.
+Ets el xatbol més inútil amb qui he parlat mai.
+Espero que tot vagi molt bé.
+Deixa de parlar un moment.
+No m'agrada que em diguis això.
+Això em fereix els sentiments.
+Em sento molt còmode parlant amb tu.
+Pots passar-me amb un humà?
+Com puc contactar a una persona?
+Em passes amb un agent?
+Vull parlar amb un humà.
+Quant valen les botes negres?
+Quin és el preu de la gorra de color rosa?
+Quant costen les tisores de dibuixos?
+Vull saber el preu del pijama de flors.
+Digue'm el preu de la crema de mans.
+Es pot rentar el vestit amb la rentadora?
+Es poden posar les espardenyes a l'assecadora?
+Quines són les característiques d'aquest mòbil?
+Em pots dir les característiques d'aquest dispositiu?
+Quines dimensions té la funda nòrdica?
+Aquest producte és resistent a l'aigua?
+Digue'm com pagar el producte.
+Com puc pagar el pijama?
+Vull pagar amb targeta de crèdit.
+Voldria factura, si us plau.
+Necessito una factura per aquesta compra.
+Com puc modificar la comanda?
+Em pots enviar un resum de la meva comanda?
+Com queda la meva comanda?
+Fes un resum de la meva compra.
+Vull saber què he comprat.
+He de fer algun tràmit per demanar la targeta rosa?
+Com puc demanar informació sobre l'empadronament?
+Necessito informació per fer unes gestions.
+Informació sobre els tràmits necessaris per demanar una llicència d'obres.
+Tràmits per tenir un gos.
+Vull saber com obtenir la targeta rosa.
+Com està la sol·licitud de la targeta rosa?
+Vull saber l'estat de la meva sol·licitut sobre el visat.
+Com puc consultar l'estat dels meus tràmits?
+Mostra'm l'estat del meu visat.
+Com van els tràmits per poder obtenir el visat?
+Voldria demanar hora per donar-me d'alta a la seguretat social.
+Demanar cita prèvia per fer-me el passaport.
+Cita prèvia per fer la declaració de la renda.
+Hora per fer-me el passaport.
+Vull modificar la meva cita a la policia.
+Tinc cita pel dimarts, però no puc assistir-hi.
+Modificar l'hora de la cita del dimecres.
+On he de presentar la documentació per matricular-me al grau de la universitat?
+Quina és l'oficina de la caixa més propera per fer-me una targeta de dèbit?
+On puc anar a empadronar-me?
+On puc tramitar el meu carnet jove?
+On fer-me el carnet jove?
+On matricular-me a la universitat?
+Quins documents he de presentar per matricular-me al curs?
+Documents que haig de portar per una llicència d'obres.
+Requisits per presentar-me a les oposicions.
+Quins requisits demanen per sol·licitar la targeta rosa?
+Vull saber què es necessita per demanar el visat.
+Què es demana per fer un visat?
+Quin horari fan a l'Ajuntament?
+Quin és l'horari d'obertura de la policia?
+A quina hora obre l'oficina de la Caixa?
+Quan tanca l'oficina de correus?
+Fins a quina hora està obert l'Ajuntament de Sitges?
+Com ho he de fer per sol·licitar una plaça de parking per a minusvàlids?
+Com sol·licitar la targeta de resident.
+Maneres d'obtenir el permís de treball a Espanya.
+Quins tràmits necessito fer per poder matricular-me a la universitat?
+Què haig de portar a l'Ajuntament per empadronar-me?
+Quines són les condicions per poder donar-me d'alta com a autònom?
+Condicions per obtenir la targeta menjador.
+Vull saber els requisits per tramitar la targeta sanitaria europea.
+Informació sobre els requisits per demanar pisos de protecció oficial.
+Què necessito per fer-me la targeta rosa?
+Quina documentación em poden demanar per donar-me d'alta com a autònoma?
+Requisits per donar-me d'alta com a autònom.
+Vull ser atés en català.
+El meu idioma de preferència és el català.
+Quina és la data de finalització del contracte?
+Quina és la duració del meu contracte?
+Quan vaig donar d'alta el subministrament d'aigua en el meu habitatge?
+Quan em caduca el contracte?
+El meu usuari és: tortu.
+El número de telèfon és: sis-cents vint quatre-cents cinquanta-sis set-cents vuitanta.
+El titular és Rodrigo Fuentes.
+El contracte està a nom de Montserrat.
+El meu mòvil és: sis-cents vint quatre-cents cinquanta-sis set-cents vuitanta.
+El meu nom és Rubén.
+El contracte de telefonia no és el que m'esperava.
+Tinc problemes amb el contracte de telefonia.
+No puc utilitzar la línia de telèfon contractada.
+El servei de l'aigua m'està donant problemes.
+Havia sol·licitat serveis de manteniment, però no ha vingut ningú.
+Tinc problemes amb el servei contractat de llum i no puc contactar amb ningú.
+El subministrament elèctric no funciona correctament.
+Vull passar-me al contracte Movistar Fusión.
+Vull fer un canvi de contracte.
+Modificar els serveis contractats a Endesa.
+Fer una modificació en el contracte de telefonia de Vodafone.
+Quins serveis inclou el meu contracte de telefonia?
+Amb qui puc contactar si tinc problemes amb el contracte?
+Vull més detalls sobre els serveis contractats a Facsa.
+A quin nom està contractat el subministrament elèctric?
+Vull revisar el contracte de telefonia que tinc amb Orange.
+Vull tancar el meu compte de La Caixa.
+Vull donar de baixa la meva línia de telèfon.
+Anul·lar el contracte de telefonia.
+Estic interessat en donar de baixa l'aigua del meu habitatge.
+Vull anul·lar el meu contracte de telefonia.
+Puc tenir dades il·limitades contractant el Movistar Fusión?
+Em millorarien les condicions del contracte si contracto una altra línia de telèfon?
+Quina opció em sortiria més econòmica si contracto els serveis amb vosaltres?
+Vull més informació sobre Movistar Fusión.
+Em pots donar més informació sobre el compte Estrella de La Caixa?
+Vull sol·licitar un canvi d'adreça.
+Rectificar el nom del titular de la línia de telèfon.
+Modificar la domiciliació dels meus pagaments a Facsa.
+Neccessito canviar el meu número de telèfon.
+A quina hora surt el bus cap a Girona?
+Quan passa el proper tren direcció Sitges?
+Quin és l'últim tren de Tarragona?
+A quina hora tanca l'estació de tren de Salou?
+Quan és el primer tren de Torredembarra?
+Quins trens passen pel Masnou a les vuit del matí?
+A quina hora ve l'últim tren de Calafell?
+Quin és l'horari del bus nocturn de Barcelona?
+Soc a la parada de tren de Sitges.
+Soc a l'estació de rodalies de Tarragona.
+Soc al metro de Plaça Catalunya.
+Anar a l'estació de Chamartín.
+Vull anar amb bus a Galícia.
+Vull anar a la parada de metro més propera.
+Mostra'm com arribar a Castelló de la Plana.
+Han trobat algun objecte perdut a l'autobús que va de Montgat a Barcelona?
+He perdut una motxilla verda en el tren de Cambrils.
+Algú ha deixat unes claus d'un cotxe a l'oficina d'objectes perduts de l'estació d'Alacant?
+Fa quinze minuts que espero el tren a Vilafranca del Penedès i no passa.
+Estava esperant el tren de Calafell i sembla que s'ha endarrerit.
+El tren de les nou de Lleida no ha vingut.
+El tren que passa per Mataró no ve.
+El tren fa quinze minuts que està aturat a Clot-Aragó.
+Anava a agafar el tren a Mataró i diuen que avui no circula.
+Com puc anar a Cambrils?
+Vull anar de Madrid a València en tren.
+Quin metro puc agafar per anar a Plaça Espanya?
+Quin transport és el més ràpid per anar de Barcelona a Andorra?
+Quin és el següent pas?
+On puc comprar els bitllets de tren?
+Puc anul·lar o bescanviar un bitllet de metro?
+Puc comprar els bitllets de metro amb targeta?
+Quins tipus de bitllets de bus hi ha?
+Quin és el preu del bitllet senzill de tren?
+Es poden sol·licitar els bitllets de tren a través d'internet?
+Vull comprar bitllets de metro a l'estació d'Arc de Triomf.
+Bon dia. En què et puc ajudar?
+Es pot fer, sí. 
+Cal que m'indiquis el teu número de telèfon.
+Cap problema, és el sis nou vuit sis tres dos u set vuit.
+Perfecte. Indica'm ara el nom i cognoms de la persona que vols assegurar.
+El nom d'ella és Anna Ramon Albert.
+A veure que el busco.
+El seu mòbil és sis quatre tres dos nou vuit set u tres.
+Perfecte. Indica'm un correu electrònic.
+El meu correu, et puc donar, o ha de ser el seu?
+Indica'm el correu electrònic que tenim registrat a la nostra base de dades.
+Rebràs un correu electrònic amb les modificacions a la teva pòlissa.
+Vols que t'ajudi en alguna cosa més?
+No necessito res més, gràcies.
+Hola! Què puc fer per tu?
+Puc fer alguna cosa més per tu?
+Hola! Com et puc ajudar?
+Indica'm el teu número de telèfon, si us plau.
+Ara cal que em diguis el teu nom i cognoms.
+Sí mira soc el Jaume Sants Roma.
+Indica'm el número de la teva pòlissa, si ets tan amable.
+Ui no sé on ho tinc, això, ara ho miro.
+Tinc uns papers i apareix aquest numero: tres quatre dos sis set vuit nou, no sé si és això.
+I ara em trucaran per vindre, o com ho fem?
+Et puc ajudar en alguna cosa més?
+No no ja està tot.
+Entesos. Que tinguis bon dia!
+Bona tarda. En què et puc ajudar?
+Ara t'arribarà un correu electrònic amb la teva nova pòlissa.
+Bon dia! En què et puc ajudar?
+I tant, quines condicions teniu, el preu quin és?
+Aquesta assegurança cobreix danys a tercers, atropellaments i controls rutinaris.
+El preu és de cinquanta euros al mes.
+Ah d'acord, i no hi ha res més econòmic.
+Em sembla un poc car.
+Malauradament, aquesta és l'única assegurança que tenim.
+Indica'm el teu nom i cognoms.
+I visc al carrer Tarragona quaranta-cinc.
+Ara necessito que em diguis la raça de la teva mascota.
+Cal que m'indiquis ara el pes de la teva mascota.
+El darrer cop que el vaig portar al veterinari pesava uns quaranta quilos, crec.
+Indica'm un correu electrònic, si us plau.
+Rebràs un correu electrònic amb l'alta de la pòlissa.
+No necessito res més, merci.
+Sí, necessito canviar una dada de l'assegurança de salut.
+Em sap greu, però no ho podem fer d'una altra forma.
+Si us plau, indica'm el teu nom i cognoms.
+Ara indica'm un número de telèfon.
+Tens una pòlissa de la llar estàndard, és correcte?
+Bona tarda, digues-me en què et puc ajudar.
+Sí, és que escric perquè ningú m'agafa el telèfon. 
+Que esteu tancats, o què?
+Sí, què és el que necessites?
+El preu de l'assegurança regular és de trenta euros mensuals.
+Es un preu molt raonable.
+Soc el Miquel Grau Ribas.
+Ara digues-me el número de pòlissa i companyia actuals.
+Ara indica'm un correu electrònic, si ets tan amable.
+Rebràs un correu amb la confirmació de la teva alta.
+No vull res més, no.
+Indica'm on ha succeït l'accident.
+Ara tramitaré el document de la declaració responsable.
+Correcte, està inclòs en la teva pòlissa.
+Volia activar el meu compte de banca online.
+Però no veig on fer-ho.
+Em demana el nom d'usuari i contrasenya.
+Digui'm si té problemes per activar el compte.
+Truco per sol·licitar una targeta de dèbit virtual.
+El meu nom és Cassandra Hernán.
+Ha tingut més targetes prèviament amb nosaltres?
+Sí, tinc una targeta de dèbit i una de crèdit.
+Vol traspassar diners d'alguna d'aquestes targetes a la nova?
+Ho puc fer online més endavant?
+He de fer alguna cosa més per activar la targeta virtual?
+Si té problemes per activar-la, digui-ho.
+No, ja està, tot bé.
+Voldria contractar un compte d'estalvis, si us plau.
+Podria dir-me si ja té un compte amb nosaltres?
+Sí, tinc un compte des de fa tres anys.
+Voldria utilitzar les mateixes dades d'usuari per aquest compte?
+Sí, un segon que ho miro.
+Vol un compte d'estalvis mensual o anual?
+Quants diners vol que se li transfereixin al compte anualment?
+Anualment se li transferirà el quinze per cent del seu sou.
+Vull reportar el robatori de la meva targeta.
+És una targeta de crèdit o de dèbit?
+Sí, el nom és Berta Andrade.
+I el numero de targeta és quatre mil cinc-cents setanta-tres quatre mil cinc-cents seixanta-dos cinc mil sis-cents quaranta-tres nou mil cent setanta-tres.
+Sí, em sembla que he fet un pagament online per error i voldria cancelar-lo.
+A través de quin compte ha fet el pagament?
+Escrigui el seu número de compte corrent, si us plau.
+Em podries confirmar la quantitat?
+Sí, és aquest el que vull cancel·lar.
+T'he de donar algun codi?
+Sí, això és tot.
+Sí, volia més informació sobre els vostres plans d'inversió.
+Ah doncs el d'autònoms m'interessaria molt.
+Perfecte, els meus ingressos són superiors a set-cents euros.
+Doncs quina documentació necessiteu per contractar el pla ara?
+A on us ho puc enviar?
+Ja ho he fet.
+Voldria preguntar si teniu alguna assegurança de la llar.
+Sí, el codi és: set vuit zero zero u dos quatre.
+Voldria tancar tots els meus comptes amb el vostre banc.
+Per quin motiu vol tancar els seus comptes?
+No estic satisfeta i vull canviar de banc.
+Em pot dir els números de compte?
+Digui'm els dos números de compte.
+Esta segura que vol anul·lar els següents comptes?
+Els seus comptes haurien d'estar anul·lats.
+Vull parlar amb un representant humà.
+Jo sóc com un representant humà. 
+No em falta intel·ligència.
+Prefereixo parlar amb un representant humà.
+Em pots passar amb un agent real?
+Redirigint amb l'agent humà.
+Voldria incrementar les mesures de seguretat de la meva banca online.
+I el meu telèfon és el sis u set dos dos zero quatre sis nou.
+Sol·licitant la verificació de dos passos pel compte.
+Sí, ja està tot.
+Necessita alguna cosa més?
+En què et puc ajudar?
+Bon dia, mira volia llogar un cotxe aquest cap de setmana.
+Em pots ajudar, si us plau?
+Indica'm el nom i cognoms.
+A veure, em dic Pere Bonet Fernández.
+Per a quantes persones és el vehicle?
+El més econòmic que tingueu, si pot ser.
+I quin d'aquests sortiria més barat?
+No, gràcies, no fa falta.
+Vols incloure una assegurança extra a tota cobertura?
+Doncs mira, això sí que m'interessa.
+Indica'm el nom del segon acompanyant, si us plau.
+És el meu fill, es diu Joan Bonet Campos.
+Et puc ajudar en alguna cosa?
+Doncs seguim tenint disponible aquest model i la tarifa no varia.
+Ho sento, amb tan poca antel·lació no podem fer modificacions en el preu.
+Què puc fer per tu?
+Tenim motos disponibles a partir del vint-i-tres d'octubre.
+A veure, quina diferència hi ha?
+Quin tipus de motocicleta prefereixes?
+Ah d'acord, doncs mira, no necessito res de l'altre món.
+Crec que amb la més bàsica m'anirà bé.
+Confirmes que vols la tarifa econòmica?
+Això no fa falta, merci, ja en tinc jo un.
+Indica'm el teu nom i cognoms per a fer la reserva.
+Sí clar, el meu nom és Júlia Prats Ferrer.
+Ara indica'm un correu electrònic per fer arribar-te la confirmació de la reserva.
+A veure que ho miro, que no recordo com era.
+Necessites que t'ajudi en alguna cosa més?
+No necessito res més.
+Molt bé, que tinguis bon dia!
+Ingressarem els diners en el compte de la targeta amb què vas pagar, d'acord?
+Teniu cap oferta ara mateix?
+Tens fitxa oberta a la nostra empresa?
+No, és el primer cop que vull llogar un cotxe.
+Ara mateix tenim una oferta amb models de gamma econòmica.
+Val, i quina seria la tarifa?
+Doncs mira, cap problema, me'l vaig treure amb dinou anys.
+I ara n'acabo de fer vint-i-cinc.
+La tarifa seria de quinze euros al dia.
+Confirmes que vols aquesta oferta?
+Està molt bé de preu, la veritat.
+Soc la Carla Colom Tous.
+Vols afegir-hi cap acompanyant?
+Digues-me en què et puc ajudar.
+Necessites que t'enviem una nova factura amb les dades actualitzades?
+Bones tardes, mira: volia preguntar una cosa.
+Indica'm el teu nom i cognoms i número de reserva, si us plau.
+Indica'm el teu número de telèfon.
+El meu mòbil és el sis u vuit set sis quatre tres nou zero.
+Estigues pendent del mòbil.
+Un agent et contactarà en uns minuts.
+No necessito res més, adéu!
+Que tinguis molt bon dia!
+Digues el teu nom i cognoms i el número de reserva, si us plau.
+Quin tipus d'assegurança voldries? 
+Pots triar entre a tercers o cobertura total.
+La de cobertura total m'interessa, per favor.
+Indica'm el teu correu electrònic, si us plau.
+Rebràs un correu amb la modificació de la reserva.
+Et puc ajudar en alguna cosa?
+Tenim tres tipus d'autocaravanes i, segons la mida i les prestacions, el preu varia.
+En quines dates la voldria llogar?
+No, ara ja està.
+Quina és la seva consulta?
+Voldria saber fins a quina hora va el metro els divendres?
+Moltes gràcies a vostè.
+Contacti amb nosaltres si necessita alguna cosa més.
+Ho puc fer per telèfon?
+Voldria llogar un cotxe per una setmana, del quinze al vint-i-dos de novembre.
+Quina mida de cotxe està buscant?
+Un cotxe de cinc places, ja esta bé.
+Aleshores vol un cotxe de cinc places del quinze al vint-i-dos de novembre?
+Tenim un Intira de color gris disponible.
+Li interessa llogar-lo?
+Quin seria el preu final per una setmana?
+El preu total per una setmana seria tres-cents vint-i-quatre coma cinquanta euros.
+A quina hora recollirà el cotxe?
+El pot venir a buscar a l'aeroport.
+A les dotze del migdia vindria a recollir-lo, correcte?
+Acabo d'enviar el correu, tot correcte?
+Hola bona tarda, voldria fer-me el carnet de bicing.
+Pot demanar el carnet de bicing amb nosaltres.
+Ens podria dir el seu nom i de ena i?
+Sí, el meu nom és Alma Olivares.
+Vol continuar amb el pagament online?
+Molt bé, perfecte. 
+Continuant amb el pagament. 
+El carnet jove té descompte. 
+Vol utilitzar-lo?
+Ara rebrà les instruccions al correu.
+Moltes gràcies per confiar en nosaltres.
+Voldria fer una reserva per una furgoneta.
+Aleshores vol llogar una furgoneta del set al deu de gener, oi?
+A quina hora la recolliria?
+A les nou del matí si esteu oberts.
+Sí, el nom del conductor és Magdalena Padilla.
+Seria un total de dos-cents euros pel lloguer.
+Vol pagar en recollir el vehicle o amb transferència online?
+En recollir el vehicle, si pot ser.
+Vol saber els horaris de tren del trajecte Madrid Atocha - Barcelona Sants?
+Gràcies per confiar en nosaltres.
+Hola, en què et puc ajudar?
+El meu nom és Angel Montero.
+Pot indicar la seva edat, si us plau?
+No, perdona: l'edat és trenta-cinc anys.
+Moltes gràcies per confirmar.
+Li arribarà un correu per confirmar la reserva.
+Vol saber alguna cosa més?
+Sí, hi ha algun descompte d'estudiants per als bitllets de metro?
+I són aplicables a tots els bitllets?
+Són aplicables a tots els bitllets, excepte per a Rodalies.
+Adéu, acabi de passar un bon dia.
+Hola bones, us escric perquè m'agradaria reservar una caravana per cinc dies.
+Seria per anar fins a França.
+Una caravana per a cinc dies per anar fins a França, doncs.
+Quins dies la voldria llogar?
+Quin seria el preu total, amb assegurança a tot risc?
+El preu total amb assegurança de tot risc seria de quatre-cents euros.
+Molt bé, doncs m'agradaria reservar.
+Entri a aquest link i ompli el formulari amb les seves dades personals.
+Ja he completat les dades.
+Aviat rebrà una resposta per part nostra confirmant la reserva.
+Podries comprovar si s'ha reservat correctament o no?
+Em pots indicar el número de compra, si us plau?
+Vol una devolució dels diners?
+Voldria efectuar la compra per aquí també.
+Per quin dia vol el bitllet?
+Ja l'he realitzat.
+Podries comprovar que estigui tot bé?
+Bon dia, voldria obtenir el sistema de telepeatge pel meu cotxe.
+Millor que m'ho envieu a casa.
+Molt bé, ja l'he fet.
+En aquest segon cas, caldria que em digués el seu codi postal.
+Si és aprop de Passeig de gràcia, millor.
+Quina documentació hauria de portar a la cita?
+El tràmit triga uns deu dies.
+Serà notificada per correu postal.
+Bon dia, com el puc ajudar?
+Doncs volia apuntar-me als pisos de lloguer social de l'ajuntament.
+Està empadronat a la ciutat de Barcelona?
+Quins són els seus ingressos familiars anuals?
+Em podria dir tres zones de preferència per la sol·licitud d'habitatge?
+Pot trobar més informació a la pàgina web de l'Ajuntament.
+El puc ajudar amb alguna cosa més?
+Que tingui un bon dia.
+Hola, què he de fer per sol·licitar la beca per la universitat?
+Em podria donar el correu on enviar la documentació?
+Cal que faci algun tràmit més, a part d'enviar la documentació?
+Moltes gràcies i que tingui un bon dia.
+Lamentem aquesta situació i esperem que s'arregli aviat.
+Què hauria de fer per casar-me?
+Bona tarda, primer de tot, voldrà casar-se mitjançant l'església o el jutjat?
+Malauradament, no tenim disponibilitat per aquesta data.
+Què li sembla el dia vuit d'agost?
+Val, ja em va bé.
+Bona tarda, com el podem ajudar?
+Volia apuntar-me al parking de les zones verdes de Barcelona, però no sé com.
+Sí, i visc al barri de Gràcia.
+Ha sol·licitat ja el servei per algun altre vehicle?
+Hauria de demanar cita prèvia en cas de voler fer-ho presencialment.
+Si teniu dubtes, podeu resoldre'ls al telèfon noranta-tres vuit-cents vuitanta-set cinquanta trenta-quatre.
+No, amb aquesta informació és suficient. 
+Moltes gràcies pel servei!
+Que he de fer per demanar l'ajuda pel lloguer?
+Bona tarda, està apuntada al programa Lloguer per Barcelona?
+Volia saber quines son les activitats culturals a Barcelona durant el mes de novembre.
+Hi ha alguna cosa més amb la que el pugui ajudar?
+Sí, totes les obres tenen opció de comprar les entrades amb antel·lacio online.
+Que tingui molt bon dia!
+Quina és la seva edat?
+En aquest edifici podrà demanar la targeta i la hi faran al moment.
+Quantes habitacions i nits voldrien?
+Son dos nens i un matrimoni.
+Dues habitacions, si us plau.
+Em podria donar un correu per enviar-li una proposta?
+Podria comprovar si ha rebut el document amb les diferents opcions, si us plau?
+Triï la que més s'ajusti i li tramitarem la reserva.
+Sí, he rebut el missatge!
+Estarem a l'espera de la seva resposta.
+Moltes gràcies per contactar-nos.
+Tinc una comanda amb vosaltres però esta trigant molt a arribar.
+Quanta estona fa que l'ha realitzat, la comanda?
+Em podria dir l'adreça, si us plau?
+Moltes gràcies per la seva resposta.
+Em podria dir el número de comanda?
+Sí, un segon que miro.
+La comanda sembla que no ha sortit del restaurant.
+En vol realitzar una altra o prefereix una devolució dels diners?
+No, prefereixo que em torneu els diners, si us plau.
+Voldria fer una comanda a domicili, si us plau.
+Em pot dir, si us plau, què és el que vol demanar?
+Sí, voldria una pizza Margarita tamany familiar.
+Ah no perdona, enlloc de dues coca-coles, voldria una coca-cola i un Nestea.
+Em pot dir la seva adreça, si us plau?
+Aleshores, Carrer Girona quatre-cents cinquanta-nou, primer tercera.
+És l'adreça correcta?
+Millor en efectiu, si pot ser.
+Cap problema.
+Aleshores s'efectuarà el pagament en el moment de l'entrega.
+Això és correcte?
+Ara mateix enviarem un repartidor al Carrer Girona quatre-cents cinquanta-nou, primer tercera.
+La comanda trigarà aproximadament trenta minuts.
+Si hi ha qualsevol incidència ens posarem en contacte amb vostè.
+Volia preguntar si teniu arròs tres delicies?
+Doncs sí, voldria una porció mitjana.
+I de postres què teniu?
+Afegida una porció mitjana d'arròs amb verdures a la comanda.
+Perfecte doncs afegeix també una porció de macarrons, i un tiramisú.
+Res més, això es tot.
+De fet, posa'm dues racions d'arròs, millor.
+Però la resta és correcta.
+Encara teniu la cuina oberta?
+Perfecte, doncs voldria dues hamburgueses Tex Mex.
+No, ja està tot, gràcies.
+Quin mètode de pagament vol utilitzar?
+Comprovant que el pagament s'hagi realitzat correctament.
+El seu número de comanda és el tres-cents vint-i-quatre.
+Vola demanar dos cafès amb llet grans.
+Pot indicar-nos una adreça d'entrega per la comanda?
+Ens pot dir el seu nom, si us plau, per poder efectuar-li l'entrega?
+Ha estat un plaer.
+Voldria fer una comanda per aquesta nit.
+Moltes gràcies per fer una comanda amb nosaltres.
+A quina hora voldria la comanda per aquesta nit?
+Per les nou trenta, si pot ser.
+Indiqui una adreça, si us plau.
+La comanda es realitzarà a Via Augusta dos-cents cinquanta-quatre, segon primera.
+Ara mateix enviem un repartidor.
+Moltes gràcies per comptar amb nosaltres.
+Volia preguntar si feu comandes a domicili per Santa Coloma?
+Actualment el nostre restaurant entrega a domicili a Santa Coloma.
+Vol realitzar una comanda?
+Vol una pizza napolitana i una pizza vegetariana al carrer Can Borràs trenta-u?
+Gràcies, quant triga més o menys?
+Bona nit, volia fer una comanda a domicili.
+Digui una adreça per a enviar-li la comanda.
+Volia preguntar el preu de la ració gran d'espaguetis a la carbonara.
+El preu de la ració gran d'espaguetis a la carbonara és de catorze euros i mig.
+Doncs preferiria pagar en efectiu, si pot ser?
+Bon dia, esteu oberts ja?
+De quina mida vol l'entrepà? 
+Tenim petit, mitjà o gran.
+Perfecte, puc pagar amb targeta?
+Ja he completat el pagament.
+Escrigui el seu nom i l'adreça d'entrega per finalitzar la comanda.
+Si vol afegir una assegurança, el preu d'aquesta és de cinquanta euros l'any.
+Es podria cancel·lar en qualsevol moment o té compromís de permanència?
+Sí, l'assegurança es pot cancel·lar en qualsevol moment.
+Es podria comprar online o hauria d'anar a la botiga?
+Teniu l'iPhone tretze pro max negre en stock ara mateix?
+Doncs m'agradaria fer la comanda, si us plau.
+Quant triga a arribar a casa?
+Ja he rebut el correu de confirmació.
+Gràcies per confiar en nosaltres!
+Bona tarda, com el puc ajudar?
+Em podria facilitar la referència de la compra, si us plau?
+El numero és: cent vint-i-tres mil quatre-cents cinquanta-cinc.
+Segons les dades registrades, la compra es va fer fa dos mesos, cert?
+Em podria descriure el problema del portàtil?
+I no m'ha caigut ni res.
+El telèfon de la botiga és el nou-cents trenta-u sis-cents setanta-nou vuit-cents setanta-quatre.
+Gràcies per contactar amb l'atenció al client.
+Hola, m'agradaria fer una devolució.
+Puc enviar-los o cal que vagi a tenda?
+En aquest cas és necessari retornar-los a la botiga.
+No recollim les devolucions.
+Quina botiga em queda més aprop?
+El meu codi postal és el zero vuit zero dos sis.
+Que vagi bé la tarda.
+Que tingui un bon dia!
+Té algun requeriment en ment?
+Prefereix alguna marca en concret?
+Doncs, en aquest sentit, no tinc cap preferència.
+Em podria facilitar una direcció de correu?
+Un cop hagi triat podem fer la comanda.
+Me'l podrien portar a casa?
+Tindria algun cost?
+Moltes gràcies per confiar en nosaltres.
+Bon dia, què li agradaria canviar?
+Vaig comprar l'iPhone onze però ha sortit el tretze i m'agradaria canviar-lo.
+Quina seria l'oficina més propera a mi?
+L'oficina més propera a casa seva és la de plaça de Sants.
+Perfecte, m'aproparé demà a la tarda.
+Quin seria el seu pressupost?
+Ha tingut ja alguna experiència amb algun equip de música?
+voldria una nova tele.
+No n'hi ha cap en oferta?
+Tenim un altre televisor d'oferta per set-cents vuitanta-nou coma noranta-nou euros.
+Hauria d'anar en persona a comprar-lo, o puc fer la comanda online?
+Podria facilitar-me la seva adreça?
+Em podria dir la seva direcció, si us plau?
+Sí, visc a carrer Salamanca, trenta-quatre.
+Hauria de demanar hora per la botiga del carrer Doctor Aiguader quinze.
+Vull saber quin preu aproximat tindrà la reparació.
+Estic treballant i les icones dels programes es començen a moure.
+El pressupost li faran a la botiga quan hi vagi presencialment i mirin el dany.
+Vaig comprar un Mac però encara no m'ha arribat.
+Quant fa que el va comprar?
+A vegades, els productes poden trigar una setmana a arribar.
+Podria dir-me el codi de la comanda?
+Em retornen l'import de l'entrega a domicili expres?
+En uns minuts hauria de rebre l'import.
+Vull comprar un robot de cuina.
+Quin és el seu pressupost?
+Tenia pensat gastar-me uns cent euros.
+Però puc gastar-me'n una mica més, si un producte val la pena.
+Sí, el servei d'entrega és gratuït.
+En aquest cas vull que me'l portin a casa.
+Ja tenim la seva factura, voldria que li enviéssim aquest document per correu electrònic?
+També volia preguntar com és que val deu euros més del previst aquest mes.
+No pot ser que em cobrin a la babalà cada mes!
+Si seguim així em canviaré de companyia i au.
+Doncs, bé, no em serveix de gaire, aquesta resposta.
+Lamentem que no estigui a gust amb el nostre servei.
+En aquest cas, li recomanem apropar-se a les nostres oficines.
+Voldria més informació sobre aquest servei.
+Així no he destar pendent d'una i l'altra, i ho tinc tot junt.
+Sí, em preocupa si el preu pot pujar de sobte.
+En aquest cas, m'agradaria saber si hi ha un temps de permanència.
+No hi ha compromís de permanència.
+Podria afegir una línia mòbil a la meva tarifa?
+Preferiria pagar una mica menys.
+Sí, això s'ajusta més a les meves necessitats.
+Esperem que gaudexi del seu nou producte.
+Em podria comunicar el seu codi postal, si us plau?
+La nostra empresa té cobertura a la seva localització.
+No teniu una opció amb més ample de banda?
+Quines passes hauria de seguir per fer la compra del servei?
+Em podríeu enviar un duplicat de la meva targeta?
+En una setmana li arribarà la nova targeta a casa.
+Moltes gràcies per confiar en la nostra companyia.
+Doncs volia donar-me de baixa.
+Quin seria el motiu de la baixa?
+Li podem oferir alguna alternativa més econòmica.
+Rebrà un correu confirmant la seva sol·licitud.
+Moltes gràcies per contactar-nos.
+Ui, em sembla massa car.
+Què hauria de fer per demanar-la?
+Com la puc activar?
+Entrarà en vigència en vint-i-quatre hores.
+Vull instal·lar la fibra òptica a casa meva.
+Com funciona això de la fibra òptica?
+Em podria proporcionar la seva adreça i el codi postal, si us plau?
+Quines condicions inclou aquest preu?
+Què hauria de fer per contractar aquesta nova línia?
+Necessitaré el seu nom complert i el seu correu electrònic.
+Li hem enviat un codi al seu mail.
+El pot escriure pel xat?
+La nova línia ja està disponible.
+Gràcies per confiar en nosaltres.
+Té alguna preferència per algún model o alguna marca en concret?
+Quin model de Sunsgang seria?
+Aquest telèfon permet l'ús dels punts acumulats.
+Voldria fer servir tots els seus punts?
+Hola bon dia, mira trucava per demanar hora.
+Per quan voldries demanar la cita?
+A les cinc m'aniria bé.
+Malauradament, aquesta hora no està disponible.
+Si us plau, indica'm una altra opció.
+Uf, ara no ho sé.
+Al voltant de les set tinc una estona lliure.
+Ho confirmo, gràcies per l'atenció.
+Et puc ajudar en alguna cosa més?
+Bona tarda, et puc ajudar en alguna cosa?
+Et puc fer lloc, però hauria de ser amb un altre especialista.
+Vols parlar amb un dels nostres agents?
+Però que em truquin aviat, si us plau!
+Molt bé, Pep, ara series tan amable d'indicar-me el teu nou número de telèfon?
+Hola, a veure, volia demanar informació sobre una una cosa.
+Vull saber quin dia arribaran, i així poder demar-li una cita.
+Indica'm el número d'usuari i número de telèfon, si us plau.
+Mira el número és el sis dos tres u cinc nou vuit set quatre.
+El número d'usuari no el tinc, faria falta?
+Et truco en un moment, si el necessites.
+Indica'm el número d'usuari.
+Quina sort, l'he trobat aquí.
+Quin és el nom i cognom?
+Les pròtesis dentals arriben el vint-i-cinc de novembre.
+Espera, que et passo amb un agent.
+Hola, et puc ajudar en alguna cosa?
+Necessites ajuda amb alguna cosa més?
+Indica'm el número de telèfon i d'usuari, si us plau.
+El meu telèfon és el sis nou zero vuit cinc quatre tres dos tres.
+Quin és el teu cognom?
+Quin és el teu nom?
+Val, gràcies, eh?, no sabia què fer.
+Bona tarda, en què et puc ajudar?
+Molt bé, Marc, ja he tramitat la teva baixa.
+Durant aquests dies t'arribarà un missatge al mòbil amb la confirmació.
+Gràcies per haver confiat en els nostres serveis, bon dia.
+Bon dia, en què et puc ajudar?
+Hola, sí, vull posar una reclamació, ho puc fer per aquí?
+Si us plau, indica'm el teu número de telèfon.
+Digues el teu nom i cognoms complets, si us plau.
+Ara et derivo al departament corresponent.
+Estigues a l'espera, si us plau.
+Espero que no triguin gaire.
+Necessito un telèfon de contacte, si us plau.
+No, això es tot, gracies!

@@ -1,0 +1,2991 @@
+He d'anar al carrer d'Ausiàs Marc amb autobús.
+He d'anar al passatge de Carlota de Mena amb trasport públic.
+Quina és la millor manera d'arribar al carrer de la Jota?
+Quina és la millor manera d'arribar al carrer de Santa Magdalena?
+Quina és la millor manera d'arribar a la avinguda de Martí-Codolar?
+Quina és la millor manera d'arribar al carrer del Ferro?
+Quina és la millor manera d'arribar a la plaça de Sant Galderic?
+Quina és la millor manera d'arribar a la avinguda Diagonal?
+Quina és la millor manera d'arribar al carrer d'Aldana?
+Quina és la millor manera d'arribar al passatge d'Aral?
+Quina és la millor manera d'arribar al passatge de Ministral?
+Quina és la millor manera d'arribar al carrer de Pruit?
+Quina és la millor manera d'arribar al carrer d'Antoni Gilabert i Bonet?
+Quina és la millor manera d'arribar al carrer de la Caravel·la La Niña?
+Quina és la millor manera d'arribar a la carrer de Guillem Sagrera?
+Quina és la millor manera d'arribar al carrer de la Tramuntana?
+He d'anar al carrer del Veguer amb tren.
+He d'anar a la plaça d'Emili Vilanova amb trasport públic.
+He d'anar al passatge de Gabarnet amb trasport públic.
+He d'anar al carrer del Vidre amb tren.
+He d'anar al camí de la Reineta amb tren.
+He d'anar al carrer de Vehils amb trasport públic.
+Hi ha algun lampista al carrer de l'Espiga?
+Hi ha algun lampista als jardins de Virginia Woolf?
+Hi ha algun lampista als jardins de Villa Clara?
+Hi ha algun lampista al carrer de la Granadella?
+Hi ha algun lampista als jardins de Dorotea Chopitea?
+Hi ha algun lampista al carrer de l'Església?
+Hi ha algun lampista al carrer de la Granja Vella?
+Hi ha algun lampista al carrer de Pineda?
+Hi ha algun lampista al jardí de Salvador Escamilla?
+Hi ha algun lampista a la plaça del Canonge Colom?
+Hi ha algun lampista a la placeta de Luis Buñuel?
+Hi ha algun lampista a la ronda del Mig?
+Hi ha algun lampista al carrer de Xavier Nogués?
+Hi ha algun lampista al torrent de Can Caralleu?
+Hi ha algun lampista al pla de Palau?
+Hi ha algun lampista al carrer de la Vitrària?
+Hi ha algun lampista al carrer de Pere Costa?
+Hi ha algun lampista al parc Central de Nou Barris?
+Hi ha algun lampista al passeig d'Anna Rúbies?
+Hi ha algun lampista al carrer de Sants?
+Hi ha algun lampista al carrer de Novelles?
+Hi ha algun lampista al carrer de la Mare de Déu del Carmel?
+Hi ha algun lampista al carrer de la Duquessa d'Orleans?
+Hi ha algun lampista a la plaça de la Barceloneta?
+Hi ha algun lampista al carrer de Cordelles?
+Hi ha algun lampista al carrer de Portbou?
+Hi ha algun lampista a la carrer de La Traviata?
+Hi ha algun lampista a la plaça de Portocristo?
+Hi ha algun lampista a la plaça del Transvaal?
+Hi ha algun lampista al passatge de Prim?
+Hi ha algun lampista al carrer del Doctor Balari i Jovany?
+Hi ha algun lampista al moll de Llevant?
+Hi ha algun lampista al carrer de Modest Urgell?
+Hi ha algun lampista al carrer de Guadalajara?
+Hi ha algun lampista al passatge de Ferrer i Vidal?
+Hi ha algun lampista al carrer de Massanet?
+Hi ha algun lampista al carrer d'Ardèvol?
+Hi ha algun lampista al carrer de Marc Aureli?
+Hi ha algun lampista al carrer del Pou de la Figuereta?
+Hi ha algun lampista al carrer de Tirso de Molina?
+He d'anar al carrer del Cinca a peu.
+Quina és la millor manera d'arribar a la plaça de Vázquez de Mella?
+Quina és la millor manera d'arribar al moll d'Álvarez de la Campa?
+Quina és la millor manera d'arribar al carrer de la Verge?
+Quina és la millor manera d'arribar al carrer del Turó de la Rovira?
+Quina és la millor manera d'arribar al carrer del Mestre Aloi?
+Quina és la millor manera d'arribar a la plaça de Tirant lo Blanc?
+Com ho puc fer per anar al carrer de l'Arc de Sant Agustí?
+Vaig al carrer de Sant Pere Mitjà.
+Vaig al carrer de Rialb.
+Vaig al carrer del Penyal.
+Mira'm quina és la millor manera d'anar del carrer de la Marquesa de Vilallonga al carrer de Ramon Rocafull.
+Mira'm quina és la millor manera d'anar del carrer del Roser al carrer de Rivero.
+Vull anar al carrer de la Nació amb tren.
+M'agradaria anar al carrer d'en Xuclà amb tren.
+M'agradaria anar al carrer d'Ignasi de Solà-Morales i Rubió sense agafar el metro.
+M'agradaria anar al passatge del Tinent Costa amb tren.
+M'agradaria anar al passatge de Clip amb autobús.
+M'agradaria anar al passatge de Fontanelles amb autobús.
+M'agradaria anar al carrer de Calders sense agafar el cotxe.
+M'agradaria anar al carrer de Madame Butterfly a peu.
+M'agradaria anar al carrer d'en Robador sense agafar el cotxe.
+Vull anar al carrer de Jaume Càncer sense agafar el metro.
+Vull anar al carrer de la Gasela sense agafar el metro.
+Vull anar al carrer de Bassegoda amb autobús.
+Vull anar al carrer de l'Aldea amb cotxe.
+Vull anar a la plaça dels Països Catalans a peu.
+Vull anar al carrer dels Avellà amb autobús.
+Vull anar al carrer de Costabona amb tren.
+He d'anar de la passatge de la Cadernera al passatge d'Espiell.
+He d'anar del carrer de Francesc Tàrrega al carrer de Negrevernís.
+He d'anar del carrer de Neus Bouzá al carrer de Cal Cisó.
+He d'anar del carrer de Verntallat al carrer del Turó de la Rovira.
+He d'anar del carrer del Naranjo de Bulnes al moll de Catalunya.
+He d'anar del carrer de Mallorca al pas de Fructuós Gelabert.
+He d'anar del carrer de l'Hortal al passatge de Domingo.
+He d'anar del carrer d'Oliana a la plaça de la Torre.
+He d'anar dels jardins d'Alícia de Larrocha al carrer d'Ortigosa.
+He d'anar del carrer de Cadaqués al carrer de la República Dominicana.
+He d'anar del carrer del Pare Manjón a la placeta de Miquel Pallés.
+He d'anar del carrer del Topazi al carrer de la Galla.
+He d'anar de la plaça d'Henry Dunant al carrer de Balenyà.
+Com es fa per anar del carrer de Gutenberg a la carrer de Porrera?
+Com es fa per anar del carrer de Logronyo al carrer de Pineda?
+Com es fa per anar del carrer de la Llosa al carrer de Francesc Pedra?
+Com es fa per anar del carrer de Jaume Piquet al moll de la Zona Sud?
+Com es fa per anar del carrer d'Andorra a la plaça de Sant Cristòfol?
+He d'anar del passatge de Serra i Arola a la plaça del Mig de Can Clos.
+He d'anar dels jardins de Victoria de los Ángeles al carrer de Pere Terré i Domènech.
+He d'anar del carrer de l'Estació al carrer de la Guarderia.
+He d'anar de la plaça de la Clota al passatge del Regent Mendieta.
+Vull anar a la plaça de Sant Genís sense agafar el metro.
+Vull anar a la camí de Vallvidrera al Tibidabo sense agafar el cotxe.
+Vull anar als jardins de Can Batllori amb tren.
+He d'anar del carrer de Fenals al carrer de Carrencà.
+He d'anar del jardí dels Tarongers al carrer de Batista.
+He d'anar del carrer de Guifré al carrer d'en Groc.
+He d'anar de la carrer de la Ginestera al carrer de Gandesa.
+Com es fa per anar del carrer del Malcuinat a la carrer del Torrent de Perera?
+Quina és la millor manera d'anar del carrer de Puigcerdà al carrer de Bonveí?
+Quina és la millor manera d'anar del carrer del Vidriol a la camí de Vallvidrera al Tibidabo?
+Quina és la millor manera d'anar del carrer de la Canuda al carrer de Simó Ferrer?
+Quina és la millor manera d'anar del moll de Gregal al passatge de Vicent Martín?
+Quina és la millor manera d'anar del moll de Xaloc a la avinguda de Rio de Janeiro?
+Quina és la millor manera d'anar de la plaça de Rafael Campalans al passatge de Colomer?
+Com ho faig per anar a la avinguda del Marquès de l'Argentera número trenta-dos?
+Quin és el camtí més curt per anar als jardins de Fabià Puigserver número cinquanta-quatre?
+Com ho puc fer per anar al carrer Pascual i Vila cantonada Francesc Pujols?
+Com ho puc fer per anar al carrer Àngel Guimerà cantonada Sant Pacià?
+Com ho puc fer per anar al carrer Tigre cantonada Hostal de Sant Antoni?
+Quan passa l'autobús pel carrer Cortada?
+Quan passa l'autobús pel carrer Antic de Sant Joan?
+Quan passa l'autobús pel carrer Salvador Alarma?
+Quan passa l'autobús pel carrer Sant Llàtzer?
+Quan passa l'autobús pel carrer Los Castillejos?
+Què hi ha a la plaça de Jaume Sabartés número setanta-u?
+Què hi ha als jardins de Santa Rosalia número trenta-cinc?
+Què hi ha al carrer de Besiers número vint-i-u?
+Quina botiga hi ha a la avinguda d'Espasa número quaranta-tres?
+Quina botiga hi ha al carrer de Jaume Puigvert número vuitanta-vuit?
+Què venen al carrer del Monestir número seixanta-sis?
+Què venen al carrer de Fra Juníper Serra número set?
+Què venen a la avinguda de la Mare de Déu de Montserrat número quaranta-dos?
+Què venen a la camí del Molí de Vallvidrera número vuitanta-tres?
+Què venen al carrer de les Caputxes número quaranta?
+Què venen al carrer dels Dominics número cinquanta-vuit?
+Què venen a la plaça dels Campions número setanta-cinc?
+Qui viu al camí de Bellavista número noranta-nou?
+Qui viu al carrer de Cal Cisó número dos?
+Què hi ha al carrer Joaquim Molins cantonada Jaume Pinent?
+Hi ha algun negoci al carrer Baldiri Reixac cantonada Baldiri Reixac?
+Quines botigues hi ha al carrer de Can Falgàs?
+Hi ha algun lampista al carrer de Robert Gerhard?
+Hi ha algun lampista al carrer de Montornès?
+Hi ha algun lampista a la plaça de Las Navas?
+Quina és la millor manera d'arribar al carrer de Constança?
+Com ho puc fer per anar al carrer del Maestrat?
+Com ho puc fer per anar al carrer de Picó i Campamar?
+Com ho puc fer per anar al carrer dels Tallers?
+Vaig a la platja del Llevant.
+Mira'm quina és la millor manera d'anar del carrer de Bellprat al carrer dels Morabos.
+Vaig al carrer de Mirallers.
+Mira'm quina és la millor manera d'anar del carrer de Cal Cisó a la plaça del Baró de Viver.
+Hauria d'anar al passatge de Graziella Pareto número vuitanta-cinc.
+M'agradaria anar al passatge de Gutenberg amb tren.
+M'agradaria anar al carrer de la Marquesa amb tren.
+Vull anar al passatge de Batlló amb cotxe.
+Vull anar a la carrer de la Ribera amb tren.
+He d'anar del carrer de la Selva de Mar al carrer de Cabestany.
+He d'anar de la plaça de Trilla al carrer de Sants.
+He d'anar del carrer de la Muntanya al carrer de Montagut.
+He d'anar del carrer de Bertran al carrer del Foc.
+Com es fa per anar del passatge de la Costa del Putxet al espigó del Bogatell?
+Quina és la millor manera d'anar del carrer de Rovira i Virgili al passeig de Turull?
+Com ho faig per anar al carrer de Constantinoble número cinquanta-tres?
+Com ho faig per anar al carrer del Cobalt número trenta-u?
+Com ho faig per anar a la camí de Santa Creu d'Olorda a Vallvidrera número quaranta-vuit?
+Quin és el camtí més curt per anar a la plaça d'en Joanic número cinquanta-set?
+Quin és el camtí més curt per anar al carrer de Bermejo número setanta?
+Quin és el camtí més curt per anar a la carretera de la Bordeta número trenta-u?
+Quin és el camtí més curt per anar al carrer de les Alberes número noranta-nou?
+Quin és el camtí més curt per anar al carrer de l'Agricultura número quaranta?
+Com puc arribar al passatge de Ricard Zamora número noranta-sis?
+Com puc arribar als jardins d'Olga Sacharoff número vuitanta-vuit?
+Com puc arribar al carrer del Consell de Cent número noranta-u?
+Com ho puc fer per anar al carrer Sant Oleguer cantonada Beates?
+Com ho puc fer per anar al carrer Desert cantonada Begònia?
+Com ho puc fer per anar al carrer Vigatans cantonada Lluna?
+Com ho puc fer per anar al carrer Verdi cantonada Gombau?
+Com ho puc fer per anar al carrer Panses cantonada Marquesa?
+Com ho puc fer per anar al carrer Lafont cantonada Tort?
+Què hi ha al carrer de Monistrol número u?
+Què hi ha al carrer de Teodor Roviralta número vint-i-nou?
+Què hi ha als jardins d'Oriol Martorell número noranta-set?
+Quina botiga hi ha a la plaça de Mossèn Ferran Palau número cinc?
+Quina botiga hi ha al carrer de les Escales de Can Caralleu número quaranta?
+Quina botiga hi ha a la plaça de Carmen Tórtola Valencia número cinquanta-set?
+Quina botiga hi ha a la placeta de Daniel Dalmases número seixanta?
+Què venen al passatge de Catalunya número vuitanta-tres?
+Qui viu al carrer de la Manigua número quaranta-vuit?
+Qui viu als jardins de Caterina Albert número vint-i-set?
+Qui viu a la plaça de Jacint Reventós número trenta?
+Qui viu als jardins de Ma. Lluïsa Algarra número seixanta-sis?
+Qui viu al carrer d'Euterpe número vuit?
+Qui viu al passatge de Tona número noranta-dos?
+Què hi ha al carrer Clot cantonada Folc?
+Hi ha algun negoci al carrer Vallhonrat cantonada Vallhonrat?
+Hi ha algun negoci al carrer Sant Cristòfol cantonada Sant Cristòfol?
+Hi ha algun negoci al carrer Acàcies cantonada Acàcies?
+Què hi ha al carrer Clarà Ayats cantonada Farell?
+Hi ha algun lampista al carrer d'Elisa?
+He d'anar al carrer D amb tren.
+He d'anar al passatge de Pla amb cotxe.
+Quina és la millor manera d'arribar al camí del Fredolic?
+Quina és la millor manera d'arribar al carrer de Manila?
+Com ho puc fer per anar al carrer de Felip de Malla?
+Mira'm quina és la millor manera d'anar del passatge del Coll del Portell al carrer de la Formatgeria.
+Mira'm quina és la millor manera d'anar de la plaça de Joan Llongueras al passatge de la Igualtat.
+Hauria d'anar al carrer de Gratallops número vint-i-sis.
+Hauria d'anar al carrer de les Camèlies número u.
+Hauria d'anar al carrer de Can Basseda número quaranta-quatre.
+Hauria d'anar al passatge de Mariné número quaranta-tres.
+Hauria d'anar al carrer de la Costa número vint-i-cinc.
+M'agradaria anar a la carrer de Llobera amb tren.
+Vull anar al carrer de Joan Alcover amb autobús.
+Vull anar al carrer de l'Isard sense agafar el metro.
+M'agradaria anar al passatge de Mossèn Carles Oller sense agafar el metro.
+M'agradaria anar a la avinguda del Tibidabo amb moto.
+Vull anar al carrer del Pintor Pradilla amb bicicleta.
+Vull anar al parc Forestal de Can Castellví de Dalt amb tren.
+Vull anar al carrer de Pau Alcover amb moto.
+He d'anar del carrer de Munic a la plaça d'Ovidi Montllor.
+Com es fa per anar del carrer de Piquer al passatge de Capdevila?
+Com es fa per anar del carrer de l'Arc de Sant Sever al carrer de Tòquio?
+Com es fa per anar del carrer de Josefa Rosich al carrer de Torrevieja?
+Com es fa per anar del carrer del Comandant Llança al carrer de Sant Medir?
+Com es fa per anar de la plaça de Ramon Riera a la parc Forestal de Vallvidrera?
+Com es fa per anar de la placeta de Sant Francesc al carrer del Pare Pérez del Pulgar?
+Com es fa per anar del carrer de l'Almirall Aixada al carrer de Joan B. Cendrós?
+Com es fa per anar del carrer de Jaume Cascalls al carrer de Santa Marta?
+Quina és la millor manera d'anar dels jardins de Santa Rosalia al carrer de la Indústria?
+Quina és la millor manera d'anar del carrer del Palau de la Música al carrer de Lohengrin?
+Quina és la millor manera d'anar del passatge de Julià al carrer dels Ferrocarrils Catalans?
+Quina és la millor manera d'anar del passatge H al carrer de Tànger?
+Quina és la millor manera d'anar dels jardins del Doctor Fleming al carrer de la Torre Vella?
+Quina és la millor manera d'anar del carrer de Gallecs al carrer de Montserrat de Casanovas?
+Quina és la millor manera d'anar del carrer de la Vall d'Ordesa al carrer de Judea?
+Com ho faig per anar al carrer dels Mariners número setanta?
+Com ho faig per anar a la plaça Catalana número quatre?
+Quin és el camtí més curt per anar a la plaça de Victòria Kent número cinquanta-cinc?
+Com puc anar al passatge d'Irlanda número cinquanta-set?
+Com puc anar al passatge de Quintana número quaranta-u?
+Com puc anar al carrer d'Amílcar número cinquanta-quatre?
+Com puc anar al carrer del Pas de l'Ensenyança número quaranta-set?
+Com puc anar al passeig de Don Quixot número divuit?
+Com puc anar al carrer del Tonell número quatre?
+Com ho puc fer per anar al carrer Galtés cantonada Albert Llanas?
+Quan passa l'autobús pel carrer París?
+Què hi ha al carrer de Vinaròs número seixanta-cinc?
+Quina botiga hi ha al passatge de Sant Bernat número trenta-quatre?
+Quina botiga hi ha al carrer de Can Xirot número seixanta-set?
+Qui viu al carrer de les Caputxes número cinquanta-tres?
+Què hi ha al carrer Bisbe Sivilla cantonada Bonveí?
+Què hi ha al carrer Sant Mateu cantonada Tarba?
+Què hi ha al carrer Agustí Duran i Sanpere cantonada Plom?
+Hi ha algun negoci al carrer Cuba cantonada Cuba?
+Quines botigues hi ha a la avinguda d'Icària?
+He d'anar al passatge de Trullàs amb trasport públic.
+He d'anar al carrer del Tragí amb autobús.
+Com ho puc fer per anar a la carretera de Mataró?
+Com ho puc fer per anar al passeig de Sant Francesc?
+Com ho puc fer per anar al passatge d'Aymar?
+Com ho puc fer per anar al carrer de Sant Bernabé?
+Com ho puc fer per anar al carrer de Musitu?
+Hauria d'anar al carrer de Farnés número trenta-nou.
+M'agradaria anar al carrer de Bascònia sense agafar el metro.
+M'agradaria anar al passeig de Montjuïc amb autobús.
+He d'anar del carrer de Castellnou al carrer del Comte de Santa Clara.
+He d'anar del carrer del Vent al carrer Antic de Sant Joan.
+Com es fa per anar del carrer de Graus a la plaça de Sant Gregori Taumaturg?
+Com es fa per anar del carrer de Carroç al carrer de l'Esparver?
+Com es fa per anar del carrer de John M. Keynes al carrer d'Evarist Arnús?
+Com ho faig per anar a la rambla de l'Onze de Setembre número seixanta-tres?
+Com ho faig per anar al carrer d'Artesa de Segre número trenta-nou?
+Quin és el camtí més curt per anar al carrer d'Ercilla número quaranta-sis?
+Quin és el camtí més curt per anar a la passatge de la Primavera número cinquanta-quatre?
+Quin és el camtí més curt per anar al carrer de l'Encuny número seixanta-quatre?
+Quin és el camtí més curt per anar al carrer de Palomar número seixanta?
+Com puc arribar al carrer de Dalmau número setze?
+Com puc arribar al carrer del Farell número dotze?
+Com puc arribar al carrer de Joan de Palomar número trenta-cinc?
+Què hi ha al carrer de Sagués número vint-i-u?
+Què hi ha als jardins de la Sedeta número vint-i-cinc?
+Què hi ha a la via Laietana número seixanta-nou?
+Quina botiga hi ha al passatge de Garcini número seixanta-nou?
+Quina botiga hi ha a la ronda de Sant Antoni número setze?
+Quina botiga hi ha a la plaça de Josep Andreu i Abelló número quaranta?
+Quina botiga hi ha a la plaça d'Alfons el Savi número setze?
+Què venen al carrer de Mendel número quaranta-set?
+Qui viu als jardins de Rosa Luxemburg número vint-i-tres?
+Qui viu al passatge d'Arenys número cinquanta-nou?
+Qui viu al carrer de la Selva del Camp número seixanta-sis?
+Qui viu al carrer de Bernat Martorell número sis?
+Què hi ha al carrer Canàries cantonada Cistellet?
+Què hi ha al carrer Sanpere i Miquel cantonada Guarderia?
+Què hi ha al carrer Palafox cantonada Cabestany?
+Què hi ha al carrer Doctor Ribas i Perdigó cantonada Espinauga?
+Què hi ha al carrer Corçà cantonada Port de Haifa?
+Quines botigues hi ha al carrer de Modest Urgell?
+Quines botigues hi ha al carrer del Besòs?
+Quines botigues hi ha al carrer de Carles Ferrer Salat?
+Quines botigues hi ha al carrer de Teodor Llorente?
+Vaig al carrer de Sant Honorat.
+Mira'm quina és la millor manera d'anar del carrer d'Alí Bei a la plaça de l'Àngel.
+Hauria d'anar al carrer del Miracle número noranta-sis.
+Hauria d'anar al carrer de Jaume Fabra número quaranta-u.
+M'agradaria anar al carrer del Doctor Ibáñez amb tren.
+M'agradaria anar al carrer de Jesús amb tren.
+He d'anar del carrer de Rubén Darío al carrer d'Albània.
+Com es fa per anar de la plaça d'Espronceda al carrer de Figueres?
+Com es fa per anar dels jardins de Can Batllori als jardins de l'Amistat?
+Com es fa per anar del carrer de les Guilleries al passatge del Treball?
+Com es fa per anar de la placeta de Daniel Dalmases al carrer d'Albert Llanas?
+Quina és la millor manera d'anar del carrer de Hartzenbusch al carrer de Vicent López?
+Quina és la millor manera d'anar del carrer del Pintor Mir a la plaça d'Emili Mira?
+Quina és la millor manera d'anar de la plaça del Rei al passeig del Migdia?
+Com ho faig per anar al carrer de Tenerife número vuitanta-cinc?
+Com ho faig per anar a la carrer de Gerard Piera número dotze?
+Quina és la millor manera d'anar del carrer de Monegal a les escales d'Albarrasí?
+Quina és la millor manera d'anar del carrer de Dolors Lleonart a la drecera de Vallvidrera?
+Com ho faig per anar al carrer del Turó Blau número vint-i-sis?
+Com ho faig per anar al carrer d'Olzinelles número quaranta-sis?
+Com ho faig per anar al carrer de Badia número quaranta-nou?
+Quin és el camtí més curt per anar al carrer del Mestre Alfonso número setanta-quatre?
+Quin és el camtí més curt per anar als jardins de Leonor Serrano número setanta?
+Quin és el camtí més curt per anar al carrer de les Carretes número nou?
+Com puc anar al carrer de l'Arc de Sant Ramon del Call número seixanta-nou?
+Com puc anar al carrer d'Enric Giménez número vuitanta-vuit?
+Com puc anar als jardins de Joaquim Ruyra número vint-i-vuit?
+Com puc arribar al carrer dels Germans Desvalls número vint-i-set?
+Com puc arribar al carrer d'Osi número seixanta-sis?
+Com puc arribar al carrer de Lluc número vint-i-nou?
+Com ho puc fer per anar al carrer Roser cantonada Vayreda?
+Què hi ha al carrer de Sant Sever número vint?
+Què hi ha a la carrer de la Riera Baixa número disset?
+Què hi ha al carrer del Rector Ubach número nou?
+Quina botiga hi ha al carrer de Cerdà número catorze?
+Quina botiga hi ha al carrer de Sant Cristòfol número u?
+Quina botiga hi ha al carrer de Coroleu número cinc?
+Quina botiga hi ha al passatge de Gomis número vint?
+Qui viu al carrer dels Carders número trenta-vuit?
+Qui viu als jardins del Doctor Duran i Reynals número vint-i-dos?
+Què hi ha al carrer Jiménez i Iglesias cantonada Bronze?
+Què hi ha al carrer Viladrosa cantonada Coll?
+Hi ha algun negoci al carrer Baltasar Gracián cantonada Baltasar Gracián?
+Quines botigues hi ha al carrer de Robert Robert?
+Quines botigues hi ha al carrer del Xiprer?
+Quines botigues hi ha al carrer de Sant Liguori?
+Quines botigues hi ha al carrer de Ventura Rodríguez?
+Hi ha algun lampista a la plaça de Jean Genet?
+He d'anar als jardins de Dorotea Chopitea amb bicicleta.
+Quina és la millor manera d'arribar a la plaça de Teresa Claramunt?
+Com ho puc fer per anar al carrer de Roma?
+Com ho puc fer per anar al carrer de Gallecs?
+Com ho puc fer per anar al passatge de Klein?
+Mira'm quina és la millor manera d'anar del carrer de Pujades al carrer de Santpedor.
+Hauria d'anar al carrer del Mogent número vuitanta-tres.
+M'agradaria anar al carrer de Clara Zetkin amb moto.
+M'agradaria anar al carrer d'en Paixalet amb bicicleta.
+Vull anar al carrer d'Arimon amb moto.
+Com es fa per anar del carrer del Gessamí al passatge de Comas d'Argemí?
+Com ho faig per anar al passatge de Maria Vila número tretze?
+Com ho faig per anar al passatge de Saturn número vuitanta-cinc?
+Com ho faig per anar al carrer de Joan Alcover número cinquanta-vuit?
+Com puc anar al camí de la Torre de Sansalvador número noranta-sis?
+Com puc arribar al carrer del Regomir número setanta-quatre?
+Com puc arribar a la carrer de Fèlix Martí Alpera número vuitanta-set?
+Com puc arribar als jardins de Mercè Rodoreda número quaranta?
+Com puc arribar al carrer de Llull número trenta-nou?
+Com puc arribar al carrer de Puigmartí número setanta-cinc?
+Com ho puc fer per anar al carrer Peris i Mencheta cantonada Bartrina?
+Quan passa l'autobús pel carrer Galtés?
+Quina botiga hi ha al carrer de Sant Paulí de Nola número cinquanta?
+Què venen al carrer de l'Alcalde de Zalamea número noranta-quatre?
+Qui viu al parc de la Ciutadella número noranta-nou?
+Qui viu al carrer de la Vall d'Aro número trenta-cinc?
+Què hi ha al carrer Duana cantonada Vilamur?
+Què hi ha al carrer Nicaragua cantonada Aiguallonga?
+Hi ha algun lampista al carrer de Rosés?
+He d'anar al carrer de Sant Paulí de Nola amb bicicleta.
+Com ho puc fer per anar al passeig de Claudi Güell?
+Com ho puc fer per anar al parc del Centre del Poblenou?
+Com ho puc fer per anar al carrer de Coïmbra?
+Vaig al carrer d'Ascó.
+Vaig al passeig de la Zona Franca.
+Vaig al carrer de La Maquinista.
+Mira'm quina és la millor manera d'anar de la plaça de Carmen Laforet al carrer de Llucena.
+Mira'm quina és la millor manera d'anar del carrer de Borriana al carrer de Pelfort.
+Mira'm quina és la millor manera d'anar del carrer dels Agudells al carrer de Maspons i Labrós.
+.
+Mira'm quina és la millor manera d'anar dels jardins de Montserrat al carrer de Santa Eulàlia.
+M'agradaria anar al carrer de Seül amb trasport públic.
+M'agradaria anar al carrer de Vila i Vilà sense agafar el metro.
+Com es fa per anar del carrer del Judici al carrer de l'Escala?
+Com es fa per anar del camí de Sant Genís a Horta al carrer de Maria Reina?
+Com es fa per anar de la plaça de Garrigó al carrer del Pou de l'Estanc?
+Quina és la millor manera d'anar de la plaça d'Herta Frankel al carrer d'August Font?
+Quina és la millor manera d'anar del carrer Major de Sarrià al carrer de Solà?
+Quin és el camtí més curt per anar al carrer de Tomàs Mieres número trenta-dos?
+Quin és el camtí més curt per anar al carrer de Liuva número seixanta-tres?
+Com puc arribar al carrer de la Ciutat d'Asunción número vuitanta-sis?
+Quan passa l'autobús pel carrer Pare Pérez del Pulgar?
+Què hi ha al carrer de Ramon Turró número trenta-set?
+Què venen a la plaça de Víctor Balaguer número vint-i-vuit?
+Què hi ha al carrer Forn de la Fonda cantonada Alberes?
+Quines botigues hi ha a la baixada de Viladecols?
+He d'anar al parc de la Vall d'Hebron amb trasport públic.
+He d'anar a la carrer de Peracamps amb bicicleta.
+He d'anar a la plaça del Doctor Cararach Mauri amb cotxe.
+Quina és la millor manera d'arribar al carrer d'en Bot?
+Com ho puc fer per anar al carrer de Rocabertí?
+Com ho puc fer per anar a la avinguda de la Reina Maria Cristina?
+Com ho puc fer per anar a les escales de la Gatosa?
+Com ho puc fer per anar al carrer de Sant Cugat del Vallès?
+Com ho puc fer per anar al carrer d'Antonio Ricardos?
+Mira'm quina és la millor manera d'anar del carrer d'Albacete al carrer de la Mare de Déu de Gràcia.
+Hauria d'anar al mirador del Poble Sec número vint-i-nou.
+Hauria d'anar al carrer de Naïm número vint-i-quatre.
+M'agradaria anar al carrer de Sant Hipòlit sense agafar el cotxe.
+M'agradaria anar al carrer de Montmany a peu.
+Vull anar al carrer de la Galla sense agafar el cotxe.
+He d'anar de la plaça de Ca n'Ensenya a la avinguda de les Drassanes.
+Com es fa per anar del carrer de les Ramelleres a la plaça d'Anna Frank?
+Com es fa per anar del camí del Cementiri de Sarrià a la travessia de Castellfollit?
+Quina és la millor manera d'anar del carrer del Cardenal Vives i Tutó a la plaça de l'Armada?
+Quin és el camtí més curt per anar al carrer de Galícia número setanta-sis?
+Quin és el camtí més curt per anar al carrer d'Eugeni d'Ors número vint-i-cinc?
+Com puc anar al passatge dels Garrofers número vuitanta?
+Com puc arribar al carrer del Pas de l'Ensenyança número vint-i-sis?
+Com ho puc fer per anar al carrer Bosch i Gimpera cantonada Mossèn Amadeu Oller?
+Quan passa l'autobús pel carrer Enric Casanovas?
+Quina botiga hi ha al carrer del Doctor Coll número cinquanta-cinc?
+Què venen al passatge de Guillem Abiell número quaranta-u?
+Qui viu al carrer d'Aigüesmortes número seixanta-vuit?
+Hi ha algun negoci al carrer Verntallat cantonada Verntallat?
+Hi ha algun negoci al carrer Font de Sant Miquel cantonada Font de Sant Miquel?
+Quines botigues hi ha al moll de la Zona Sud?
+Hi ha algun lampista a la plaça de les Arts?
+He d'anar al carrer de la Guàrdia Urbana amb bicicleta.
+Com ho puc fer per anar al carrer de Rosselló i Porcel?
+Vaig al carrer de l'Arquitecte Moragas.
+Mira'm quina és la millor manera d'anar del camí del Cama-sec al carrer de Verntallat.
+M'agradaria anar al carrer de Ramon Batlle amb autobús.
+Com es fa per anar del carrer de Mariana Pineda a la carrer de Fèlix Martí Alpera?
+Quin és el camtí més curt per anar a la baixada de Caçador número seixanta-vuit?
+Com puc anar al passatge de Coello número cinquanta?
+Com puc anar al pas de Sant Tarsici número seixanta-quatre?
+Com puc anar al carrer del Turó de Monterols número trenta-vuit?
+Com puc anar al carrer de Santa Fe de Nou Mèxic número trenta-tres?
+Com ho puc fer per anar al carrer Hostal de Sant Antoni cantonada Hortènsia?
+Què venen al carrer de Flix número quaranta-quatre?
+Què venen al carrer Gíriti número vuitanta-u?
+Què hi ha al carrer Sant Vicenç cantonada São Paulo?
+Hi ha algun negoci al carrer Gandesa cantonada Gandesa?
+Quines botigues hi ha al carrer de Trilla?
+Hi ha algun lampista a la plaça de l'Alcalde Baró de Viver?
+Quina és la millor manera d'arribar al carrer de Santa Otília?
+Com ho puc fer per anar al carrer de Clotés?
+Com ho puc fer per anar al carrer de Luis Antúnez?
+Mira'm quina és la millor manera d'anar del carrer de Joan I al carrer d'Espiell.
+Mira'm quina és la millor manera d'anar de la baixada del Passerell a la plaça de Calvó.
+Mira'm quina és la millor manera d'anar del carrer de Santa Albina al passatge d'Alfonso Lafuente.
+Hauria d'anar al jardí de Petra Kelly número onze.
+M'agradaria anar al passatge de Planell amb cotxe.
+M'agradaria anar al carrer de la Colònia del Tibidabo a peu.
+Vull anar al carrer de Munic amb tren.
+Com es fa per anar de la carrer de Porrera al carrer de Josep Soldevila?
+Quina és la millor manera d'anar del passatge d'Ureña a la gran via de Carles III?
+Quin és el camtí més curt per anar al carrer d'Antoni Alberdi número cinc?
+Com puc anar al passeig de Claudi Güell número vint-i-quatre?
+Com puc arribar al carrer del Sol número vuitanta-sis?
+Quan passa l'autobús pel carrer Joaquín Costa?
+Què hi ha al carrer de Santa Elena número quinze?
+Quina botiga hi ha al carrer de Cifuentes número seixanta?
+Què venen al carrer de Mirallers número vint-i-tres?
+Què hi ha al carrer Plegamans cantonada Berenguer Mallol?
+Què hi ha al carrer Josep Narcís Roca cantonada Sabateret?
+Hi ha algun lampista al carrer del Pont de Sant Martí?
+Hi ha algun lampista al carrer d'Arbúcies?
+Vaig als jardins de Can Verdaguer.
+Mira'm quina és la millor manera d'anar del carrer de Legazpi a la plaça d'Eguilaz.
+Mira'm quina és la millor manera d'anar del carrer del Remei al carrer de Hartzenbusch.
+Hauria d'anar als jardins de Can Miralletes número vint-i-dos.
+M'agradaria anar al carrer de Vila-rodona amb moto.
+M'agradaria anar al carrer d'Almacelles amb cotxe.
+M'agradaria anar a la plaça d'Isop sense agafar el metro.
+M'agradaria anar al carrer de Cariteo amb autobús.
+Quina és la millor manera d'anar del passatge del Redemptor al carrer de Frederic Mompou?
+Com ho faig per anar al passatge de Mart número setanta-dos?
+Com ho faig per anar a la via Laietana número setanta-u?
+Quin és el camtí més curt per anar al carrer de l'Almirall Okendo número quaranta?
+Com puc anar a la plaça de Mañé i Flaquer número dinou?
+Com puc anar al carrer de Sant Francesc Xavier número quaranta-u?
+Com ho puc fer per anar al carrer Queixans cantonada Santa Margarida?
+Què hi ha al carrer de Campo Florido número vint-i-set?
+Què venen al carrer de Josefa Rosich número vint-i-dos?
+Què hi ha al carrer Velázquez cantonada Doctor August Pi i Sunyer?
+Hi ha algun negoci al carrer Dalmàcia cantonada Dalmàcia?
+Hi ha algun negoci al carrer Foradada cantonada Foradada?
+Hi ha algun lampista al carrer d'Emèrita Augusta?
+Hi ha algun lampista al carrer d'Artesa de Segre?
+Quina és la millor manera d'arribar als jardins de Tete Montoliu?
+Vaig al carrer de Pau Romeva.
+Vaig al carrer de Sa Tuna.
+He d'anar del passatge de Mas de Roda a la plaça de Tetuan.
+Quina és la millor manera d'anar del carrer de Sant Pere Més Baix a la placeta de Lugo?
+Quina és la millor manera d'anar del carrer de Jaume Roig al carrer U?
+Quin és el camtí més curt per anar al carrer de Pierola número noranta-u?
+Quin és el camtí més curt per anar al carrer d'Eugeni d'Ors número trenta?
+Quin és el camtí més curt per anar al carrer d'en Quintana número quaranta-tres?
+Quin és el camtí més curt per anar al carrer de la Menta número noranta-dos?
+Quin és el camtí més curt per anar al passatge d'Arenys número quaranta-nou?
+Com puc arribar al carrer de Can Ràbia número deu?
+Com ho puc fer per anar al carrer Bretón de los Herreros cantonada Ramón y Cajal?
+Com ho puc fer per anar al carrer Pintor Pradilla cantonada Marí?
+Quan passa l'autobús pel carrer Arai?
+Quina botiga hi ha al carrer de l'Emancipació número noranta-set?
+Quina botiga hi ha al carrer d'Alloza número dinou?
+Què venen als jardins de Margarida Comas número u?
+Què venen al carrer de les Portadores número cinquanta-sis?
+Qui viu a la plaça d'Amich número vuitanta-quatre?
+Què hi ha al carrer Agustí Duran i Sanpere cantonada Granada del Penedès?
+Hi ha algun negoci al carrer Malva cantonada Malva?
+Quines botigues hi ha als jardins de Santa Rosalia?
+Quines botigues hi ha al camí de Finestrelles?
+Hi ha algun lampista al carrer de Móra d'Ebre?
+He d'anar al carrer de les Flors de Maig amb cotxe.
+He d'anar al carrer de la Muntanya amb tren.
+He d'anar al carrer d'Hipàtia d'Alexandria amb tren.
+Quina és la millor manera d'arribar al carrer K?
+Quina és la millor manera d'arribar al carrer d'Argimon?
+Quina és la millor manera d'arribar al carrer de Marco Polo?
+Vaig al carrer de Manuel Muñoz.
+Vaig als jardins de Josep Pous i Pagès.
+Vaig a la carretera de les Aigües.
+Mira'm quina és la millor manera d'anar de la plaça de la Vidriera al carrer del Poliol.
+Mira'm quina és la millor manera d'anar de la carrer del General Vives al carrer de Vila-rodona.
+Hauria d'anar al carrer de Campreciós número trenta-set.
+Hauria d'anar al carrer de Cermeño número setanta-quatre.
+M'agradaria anar al carrer de la Llebre sense agafar el metro.
+Vull anar al carrer de Lope de Vega amb tren.
+Quina és la millor manera d'anar de la plaça de Martí Llauradó al carrer de Valldoreix?
+Com ho faig per anar al carrer de Pedro i Pons número quaranta?
+Quin és el camtí més curt per anar a la plaça de Pablo Neruda número vuit?
+Com puc anar al passeig de Don Quixot número cinquanta-dos?
+Com ho puc fer per anar al carrer Ignasi de Solà-Morales i Rubió cantonada Bartomeu Pi?
+Què hi ha al carrer de la Granja número noranta-cinc?
+Què hi ha al carrer del Dos de Maig número noranta-vuit?
+Quina botiga hi ha al carrer de Castelldefels número vuitanta-cinc?
+Què venen al carrer d'Agustí i Milà número vint?
+Què hi ha al carrer Bonsoms cantonada Can Valero?
+Què hi ha al carrer Mar Groga cantonada Arc de Sant Pau?
+Quines botigues hi ha al carrer de la Química?
+Hi ha algun lampista als jardins de Magalí?
+He d'anar al carrer de Felip Gil sense agafar el metro.
+Com ho puc fer per anar al camí de la Múrgola?
+Vaig al carrer de Salvador Aulet.
+Mira'm quina és la millor manera d'anar del moll de Barcelona al carrer de les Tres Creus.
+M'agradaria anar al carrer dels Alts Forns amb autobús.
+M'agradaria anar al passeig de l'Argentinita sense agafar el metro.
+He d'anar del carrer d'Alarcón al carrer de la Flor de Neu.
+Quina és la millor manera d'anar del carrer de Besiers al passeig de Joaquim Renart?
+Com ho faig per anar al carrer del Teide número quaranta-nou?
+Com puc anar al pas de Fructuós Gelabert número noranta-u?
+Com puc arribar als jardins de Miquel Martí i Pol número cinquanta-cinc?
+Com puc arribar a la plaça de Figuerola número vint-i-vuit?
+Què hi ha al carrer dels Tres Llits número trenta-vuit?
+Què hi ha al carrer d'Andrade número sis?
+Què hi ha al carrer de Ginebra número trenta?
+Quina botiga hi ha a la plaça del Pi número noranta-dos?
+Què venen als jardins de Maria Mercè Marçal número trenta-set?
+Qui viu al carrer de Copèrnic número noranta-u?
+Qui viu al parc Esportiu de Can Dragó número deu?
+Què hi ha al carrer Tànger cantonada Llobet?
+Què hi ha al carrer Basea cantonada Jules Verne?
+Hi ha algun negoci al carrer Índic cantonada Índic?
+Hi ha algun negoci al carrer Potosí cantonada Potosí?
+Hi ha algun negoci al carrer Puig-reig cantonada Puig-reig?
+Hi ha algun negoci al carrer Barra de Ferro cantonada Barra de Ferro?
+Hi ha algun negoci al carrer Palafolls cantonada Palafolls?
+Quines botigues hi ha al carrer de Ferran Valentí?
+Quines botigues hi ha al carrer d'Aiguafreda?
+Quines botigues hi ha al moll de Xaloc?
+Quines botigues hi ha al carrer del Cap del Món?
+He d'anar al carrer de l'Escultor Ordóñez amb moto.
+Quina és la millor manera d'arribar als jardins d'Ada Byron?
+Quina és la millor manera d'arribar al carrer de Gràcia?
+Vaig al passatge de Cantí.
+Vull anar al passatge de Bacardí amb cotxe.
+Vull anar al carrer d'Anselm Turmeda amb trasport públic.
+Com es fa per anar del  la Rambla al parc de La Pegaso?
+Quina és la millor manera d'anar del carrer d'Albània a la plaça de Carles Pi i Sunyer?
+Quina és la millor manera d'anar del carrer de l'Escorial al jardí de Margarita Wirsing i Bordas?
+Quin és el camtí més curt per anar al carrer de Tirso número quinze?
+Com puc anar al carrer d'August Font número noranta-quatre?
+Com puc anar a la passatge de Camil Oliveras número vuit?
+Com puc arribar al carrer de Josep M. Lladó número vint-i-sis?
+Què hi ha al carrer de Roca i Batlle número sis?
+Quina botiga hi ha a la passatge de la Primavera número vuitanta-quatre?
+Quina botiga hi ha als jardins dels Tres Tombs número trenta-vuit?
+Què venen al carrer de Joana Alemany número dotze?
+Qui viu al carrer d'Alvarado número seixanta-u?
+Qui viu a la plaça de Joaquim Serra número vuitanta?
+Quines botigues hi ha al carrer de Roger de Flor?
+He d'anar al carrer de Calatrava sense agafar el cotxe.
+Quina és la millor manera d'arribar al carrer de Joan Obiols?
+Vaig al carrer de Can Móra.
+Vaig al carrer del Cistellet.
+Mira'm quina és la millor manera d'anar del carrer de Santa Úrsula al carrer del Baluard.
+Vull anar al carrer de Benavent sense agafar el metro.
+Vull anar al carrer del Cometa a peu.
+Com es fa per anar del carrer de Collblanc als jardins de Maria Dolors Bargalló i Serra?
+Com ho faig per anar al passatge de Méndez Vigo número setanta-dos?
+Com ho faig per anar al carrer de la Bòbila número quaranta-quatre?
+Com ho faig per anar al carrer de Miguel Hernández número noranta-quatre?
+Quin és el camtí més curt per anar a la plaça de Ferran Reyes número vint-i-tres?
+Com puc anar al carrer de Pablo Iglesias número vint-i-tres?
+Quan passa l'autobús pel carrer Prats de Molló?
+Quina botiga hi ha al carrer de Santa Joana d'Arc número vint-i-sis?
+Què venen a la plaça de Celestí Boada Salvador número vint-i-vuit?
+Què venen al carrer de la Princesa número noranta-vuit?
+Qui viu al carrer de Martí i Franquès número dotze?
+Hi ha algun negoci al carrer Josep Irla i Bosch cantonada Josep Irla i Bosch?
+Hi ha algun lampista al carrer de la Mecànica?
+Hi ha algun lampista al carrer d'Artà?
+Quines botigues hi ha al carrer de Pau Claris?
+Quines botigues hi ha a la avinguda de Sant Ramon Nonat?
+Hi ha algun lampista al carrer de Santa Llúcia?
+Com ho puc fer per anar al carrer de Súria?
+Com ho puc fer per anar al torrent de la Carabassa?
+M'agradaria anar a la avinguda del Jordà amb cotxe.
+He d'anar de la plaça de Montserrat Roca i Baltà al carrer de Queixans.
+Com es fa per anar de la avinguda de Miramar als jardins de Salvador Espriu?
+Com ho faig per anar al carrer de Tavern número cinquanta-sis?
+Com puc arribar al carrer de Federico García Lorca número sis?
+Com ho puc fer per anar al carrer Tripó cantonada Valladolid?
+Quan passa l'autobús pel carrer Moratín?
+Què venen a la plaça dels Germans Serra número noranta-tres?
+Qui viu al carrer del Canonge Pibernat número noranta?
+Hi ha algun negoci al carrer Arc de Sant Ramon del Call cantonada Arc de Sant Ramon del Call?
+Quines botigues hi ha al passatge de Bering?
+He d'anar al carrer de Sant Simplici amb moto.
+Quina és la millor manera d'arribar a la plaça del Carme?
+Com ho puc fer per anar a la placeta del Roser?
+Vaig al carrer de la Santíssima Trinitat del Mont.
+Vaig al carrer de Chopin.
+Mira'm quina és la millor manera d'anar del torrent del Rovelló al carrer de Santiago Rusiñol.
+Hauria d'anar al carrer del Doctor Francesc Darder número vint-i-dos.
+Hauria d'anar al carrer del Beat Domènec Savio número nou.
+M'agradaria anar al carrer del Platí amb tren.
+Vull anar al carrer del Segle XX sense agafar el metro.
+Vull anar a la plaça de Ca n'Ensenya amb tren.
+Com es fa per anar del passatge de la Pau al carrer de Collserola?
+Quina és la millor manera d'anar del carrer d'en Grassot al camí de Cal Notari?
+Quina és la millor manera d'anar del carrer de Pomaret a la riera de Marcel·lí?
+Com ho faig per anar al carrer de Finestrelles número seixanta-set?
+Com puc anar al carrer de Tubella número setanta-dos?
+Què hi ha a la avinguda de la República Argentina número noranta-vuit?
+Què venen al carrer de Pere Oller número quaranta-nou?
+Hi ha algun negoci al carrer Arc de Sant Sever cantonada Arc de Sant Sever?
+Quines botigues hi ha al carrer del Turó Blau?
+He d'anar al carrer de l'Arc de Santa Eulàlia amb moto.
+He d'anar a la carrer de Llobet i Vall-llosera amb tren.
+Mira'm quina és la millor manera d'anar del parc Esportiu de la Mar Bella al carrer de les Coves d'en Cimany.
+M'agradaria anar al passeig Marítim del Bogatell a peu.
+M'agradaria anar al carrer de Salern amb cotxe.
+Com es fa per anar de la avinguda de la Reina Maria Cristina als jardins de la Vil·la Cecília?
+Com puc anar al carrer de les Carretes número setanta-vuit?
+Quan passa l'autobús pel carrer Hort de la Bomba?
+Què hi ha al passeig de Salvat Papasseit número trenta-sis?
+Quina botiga hi ha al carrer de la República Dominicana número setanta-cinc?
+Qui viu al carrer del Ritme número quaranta-vuit?
+Què hi ha al carrer Àliga cantonada Banyoles?
+Hi ha algun negoci al carrer Tessàlia cantonada Tessàlia?
+Hi ha algun negoci al carrer Mare de Déu del Remei cantonada Mare de Déu del Remei?
+He d'anar al carrer de Jorba amb cotxe.
+Quina és la millor manera d'arribar al carrer de la Florida?
+Quina és la millor manera d'arribar al passeig de l'Havana?
+Vaig al carrer de Moscou.
+Hauria d'anar al carrer d'en Serra número noranta-tres.
+Vull anar al carrer de Terrassa amb trasport públic.
+Com es fa per anar del passatge d'Antoni Gassol al carrer de Canaan?
+Com ho faig per anar al carrer de Sardenya número setanta-sis?
+Quin és el camtí més curt per anar al camí Mig de Can Balasc número vint-i-u?
+Com puc anar al carrer de l'Espinagosa número vint-i-vuit?
+Com ho puc fer per anar al carrer Nou Barris cantonada Coves d'en Cimany?
+Com ho puc fer per anar al carrer Vallès cantonada Flos i Calcat?
+Quina botiga hi ha al carrer de Josep Estalella número seixanta-dos?
+Quina botiga hi ha al passeig de Maragall número dotze?
+Què hi ha al carrer Pedreres de Can Baró
+Qui viu al carrer de Borrell i Soler número vint-i-cinc?
+Qui viu als jardins de Beatriu de Provença número setanta-sis?
+Hi ha algun negoci al carrer Veguer cantonada Veguer?
+Quina és la millor manera d'arribar al carrer de Ramón y Cajal?
+Com ho puc fer per anar al carrer dels Satèl·lits?
+Mira'm quina és la millor manera d'anar del passatge del Doctor Pi i Molist a la viaducte de Vallcarca.
+Hauria d'anar al carrer del Baró de Sant Lluís número vint-i-quatre.
+M'agradaria anar al carrer de Marc Aureli a peu.
+He d'anar del carrer de la Llibertat al carrer de Cuyàs.
+Com es fa per anar del carrer de Munner a la baixada del Passerell?
+Quin és el camtí més curt per anar a la plaça de la Mare Nazaria March número vuitanta-u?
+Com puc anar al carrer de les Arenes de Sant Pere número cinquanta-tres?
+Com puc arribar al carrer de Pelai número noranta-quatre?
+Què hi ha al carrer dels Garrofers número noranta-dos?
+Qui viu a la plaça de Vista Park número quaranta-set?
+Hi ha algun negoci al carrer Hostal de Sant Antoni cantonada Hostal de Sant Antoni?
+He d'anar al carrer de Greenwich amb moto.
+Quina és la millor manera d'arribar al carrer d'Astúries?
+Vaig a la plaça de Sants.
+Hauria d'anar al carrer de Jericó número seixanta-u.
+Vull anar al passatge de Vallseca sense agafar el metro.
+Vull anar a la baixada del Mercat sense agafar el cotxe.
+Com es fa per anar del carrer del Mestre Dalmau al carrer de Bernat Bransi?
+Quina és la millor manera d'anar del carrer de l'Ebre al carrer de Colònia?
+Quina és la millor manera d'anar del passeig del Bosc de Roquetes a la plaça de Flandes?
+Quina és la millor manera d'anar del passatge de Palau al carrer de Prada?
+Com ho faig per anar al passeig de la Bonanova número cinquanta-cinc?
+Com puc anar a la plaça de Sant Cugat número quaranta-quatre?
+Com puc anar al carrer de Mèxic número cinquanta-u?
+Com ho puc fer per anar al carrer Comte de Sert cantonada Lotus?
+Què hi ha al carrer de Getsemaní número vuitanta-u?
+Què hi ha al passatge de Lugo número setanta-sis?
+Qui viu al carrer de la Mare de Déu de les Neus número vuitanta-nou?
+Què hi ha al carrer Descans cantonada Monjo?
+Hi ha algun lampista al carrer de Montjuïc del Carme?
+Quina és la millor manera d'arribar al carrer del Marquès de Sentmenat?
+Mira'm quina és la millor manera d'anar del carrer dels Argensola al carrer de Camprodon.
+Hauria d'anar al passatge de Simó número trenta-sis.
+Vull anar a la plaça de Rafael Benet amb trasport públic.
+Quina és la millor manera d'anar de la carrer de Bruguera al carrer de Matamala?
+Quina és la millor manera d'anar del carrer de l'Hostal de Sant Antoni a la plaça del Camp?
+Quin és el camtí més curt per anar a la plaça de Conxita Badia número quaranta-vuit?
+Quin és el camtí més curt per anar al carrer de Gualbes número vint-i-nou?
+Quin és el camtí més curt per anar a la plaça de la Reina Maria Cristina número noranta-cinc?
+Quin és el camtí més curt per anar al moll Adossat número trenta-sis?
+Com puc anar al carrer de Pontons número quinze?
+Què hi ha al carrer de Daoíz i Velarde número trenta-dos?
+Quina botiga hi ha a la plaça de Sant Agustí Vell número cinquanta-nou?
+Quina botiga hi ha a la passatge de Piera número quaranta-cinc?
+Què venen al passeig de l'Havana número noranta-cinc?
+Qui viu a la jardins d'Ana Figuera número vint-i-sis?
+Qui viu al carrer de Sant Miquel número catorze?
+Què hi ha al carrer Barri Vermell cantonada Empúries?
+He d'anar a la riera de Marcel·lí a peu.
+He d'anar al carrer dels Bohemis amb autobús.
+He d'anar als jardins de Pedro Muñoz Seca sense agafar el cotxe.
+Quina és la millor manera d'arribar al carrer de la Sal?
+Vaig a la plaça de Mossèn Eduard Piquer.
+M'agradaria anar al carrer de les Canàries sense agafar el cotxe.
+He d'anar del carrer de Marçà al carrer de Grífols.
+He d'anar del carrer de l'Ave Maria al passatge de Napoleó.
+Com ho faig per anar al carrer de Josep Ciurana número vuit?
+Quin és el camtí més curt per anar al carrer de la Fruita número trenta-tres?
+Quin és el camtí més curt per anar a la plaça de Santes Creus número quaranta-set?
+Com puc arribar al carrer de la Maternitat d'Elna número nou?
+Com puc arribar al carrer de Cermeño número quaranta?
+Com puc arribar al carrer de Sant Simplici número quaranta-vuit?
+Quan passa l'autobús pel carrer Gabriel Ferrater?
+Què venen al carrer de Chopin número vuitanta-dos?
+Què hi ha al carrer Rosella cantonada Boix?
+Què hi ha al carrer Besalú cantonada Manso?
+Hi ha algun lampista al moll de Ponent?
+Hi ha algun lampista al carrer del Saüc?
+Com ho puc fer per anar a la plaça d'Haya de la Torre?
+Vaig al carrer de la Reina Cristina.
+Mira'm quina és la millor manera d'anar del carrer d'Eduard Toldrà al carrer de Chopin.
+Mira'm quina és la millor manera d'anar del moll de la Costa al carrer dels Paletes.
+Mira'm quina és la millor manera d'anar de la platja del Llevant al carrer de Casp.
+Vull anar al espigó del Gas amb bicicleta.
+Com es fa per anar de la baixada del Mercat al carrer d'Àngel Guimerà?
+Quina és la millor manera d'anar del carrer de Pere Moragues als jardins de Marià Manent?
+Com ho faig per anar al carrer d'Almagro número trenta-dos?
+Com ho faig per anar a la plaça de la Font d'en Fargues número cinquanta-nou?
+Com puc anar al carrer de Sant Gaudenci número seixanta-cinc?
+Com puc arribar al carrer del Robí número vint-i-vuit?
+Què hi ha al carrer de l'Escultor Ordóñez número seixanta-cinc?
+Quina botiga hi ha als jardins de Ca l'Aranyó número catorze?
+Quina botiga hi ha al carrer de Juan de Mena número quaranta-cinc?
+Quina botiga hi ha al carrer d'Estefania de Requesens número setanta-sis?
+Qui viu al passeig de Mollerussa número set?
+Hi ha algun negoci al carrer Rector Triadó cantonada Rector Triadó?
+Hi ha algun lampista al carrer de Molist?
+Quina és la millor manera d'arribar al carrer d'Alcalá de Guadaira?
+Vaig al carrer de Cardó.
+Mira'm quina és la millor manera d'anar del camí del Mas Guimbau al carrer de Pere Pau.
+M'agradaria anar al carrer del Judici a peu.
+M'agradaria anar a la plaça de la Pau sense agafar el metro.
+Vull anar al carrer de Buxó a peu.
+Vull anar al carrer del Pare Secchi amb trasport públic.
+Quina és la millor manera d'anar de la plaça de Francesc Layret a la plaça de Josep Puig i Cadafalch?
+Com ho faig per anar al carrer d'Alí Bei número vuitanta-vuit?
+Com puc anar al carrer de la Mare de Déu de les Neus número setanta-quatre?
+Com puc arribar al carrer de Felip Gil número disset?
+Com ho puc fer per anar al carrer Portugalete cantonada Santa Teresa?
+Quan passa l'autobús pel carrer Siurana?
+Quan passa l'autobús pel carrer Via Làctia?
+Què venen al passeig de la Reina Elisenda de Montcada número vint-i-set?
+Qui viu al carrer d'Eusebi Planas número trenta-nou?
+Quines botigues hi ha al carrer de l'Hort de Sant Pau?
+He d'anar a la plaça de les Ceràmiques Vicens amb bicicleta.
+Quina és la millor manera d'arribar al carrer d'Arizala?
+Com ho puc fer per anar al passatge de Ricard Zamora?
+Vaig al carrer de Grau i Torras.
+Vaig a la plaça de Jean Genet.
+Vaig al carrer de Casteràs.
+Mira'm quina és la millor manera d'anar del carrer dels Afores al carrer del Maduixer.
+M'agradaria anar al carrer de Septimània amb bicicleta.
+He d'anar del carrer dels Corders al carrer de la Foradada.
+Com es fa per anar dels jardins de Can Batllori a la plaça de Caba?
+Quina és la millor manera d'anar del carrer de Jordà al passatge de Mercader?
+Quina és la millor manera d'anar del carrer de Francesc Pujols als jardins de Violant de Bar?
+Quina és la millor manera d'anar del carrer Alt de Mariner a la avinguda de Pedralbes?
+Quina és la millor manera d'anar del passatge del Dipòsit al carrer del Degà Bahí?
+Com ho faig per anar al carrer de Gaspar Cassadó número vint-i-quatre?
+Quin és el camtí més curt per anar al carrer de Celrà número sis?
+Quan passa l'autobús pel carrer Grau i Torras?
+Quan passa l'autobús pel carrer Santa Marta?
+Què hi ha al carrer de Pruit número noranta-dos?
+Qui viu al camí del Cel del Tibidabo número trenta-vuit?
+Què hi ha al carrer Coïmbra cantonada Taquígraf Martí?
+Quines botigues hi ha al carrer de Morales?
+Quines botigues hi ha als jardins de Can Mantega?
+Hi ha algun lampista als jardins de Safo?
+Quina és la millor manera d'arribar al carrer dels Llebrencs?
+Mira'm quina és la millor manera d'anar del carrer de Sant Salvador al carrer de Pere Blai.
+Mira'm quina és la millor manera d'anar del carrer de Miquel Àngel a la plaça de Puigcerdà.
+Vull anar al carrer de la Farigola amb trasport públic.
+He d'anar del carrer d'Ercilla al carrer de les Cabres.
+Com es fa per anar del carrer d'Àngel Guimerà al carrer de Sant Josep?
+Com ho faig per anar al carrer de Joanot Martorell número vint-i-dos?
+Quin és el camtí més curt per anar als jardins de Casa Bloc número vint-i-set?
+Com ho puc fer per anar al carrer Ocata cantonada Dàlia?
+Com ho puc fer per anar al carrer Artés cantonada Alcamo?
+Quan passa l'autobús pel carrer Vilalba dels Arcs?
+Quina botiga hi ha a la plaça de Can Rosés número vuitanta-nou?
+Què venen al carrer de la Colònia del Tibidabo número cinquanta?
+Què hi ha al carrer Luis Antúnez cantonada Pietat?
+Hi ha algun negoci al carrer Pere Costa cantonada Pere Costa?
+Quines botigues hi ha al carrer de Montmany?
+He d'anar a la carretera de Santa Creu d'Olorda a Sarrià amb autobús.
+Quina és la millor manera d'arribar al passatge de Pruit?
+Vaig al TIPUS_VIA PARTICULES NOM.
+Mira'm quina és la millor manera d'anar del carrer de Josep Bertrand al carrer de Viladecans.
+M'agradaria anar al passatge del Canonge Cuffí amb tren.
+He d'anar dels jardins de Sarrià Vell al carrer dels Almogàvers.
+Quina és la millor manera d'anar dels jardins de Magalí a la plaça Comercial?
+Quin és el camtí més curt per anar al carrer de Bacardí número vint-i-tres?
+Quin és el camtí més curt per anar a la plaça de Víctor Balaguer número setanta?
+Quan passa l'autobús pel carrer Demòstenes?
+Què hi ha al carrer de Bernat Desclot número setanta-quatre?
+Quina botiga hi ha al carrer de l'Esparteria número disset?
+Què hi ha al carrer Natzaret cantonada Vila de Roses?
+Hi ha algun lampista al carrer de Tànger?
+He d'anar al carrer dels Algarves amb tren.
+Quina és la millor manera d'arribar al carrer d'Arlet?
+Mira'm quina és la millor manera d'anar del carrer del Pintor Fortuny al carrer del Baró de la Barre.
+Vull anar a la carrer de la Morera amb trasport públic.
+Quina és la millor manera d'anar de la plaça de la Rosa dels Vents al carrer del Bisbe Caçador?
+Com puc anar als jardins d'Enric Sagnier número vuitanta-dos?
+Com puc arribar al carrer de Logronyo número quaranta-quatre?
+Com puc arribar al carrer de Foix número cinquanta?
+Quan passa l'autobús pel carrer Pau Alcover?
+Què hi ha al camí del Cel del Tibidabo número noranta-sis?
+Què hi ha a la plaça de Lola Anglada número vint-i-tres?
+Què venen al camí de Sant Genís a Horta número noranta-sis?
+Hi ha algun negoci al carrer Torné cantonada Torné?
+Quines botigues hi ha al carrer de la Independència?
+Com ho puc fer per anar a la plaça de la Vila de Gràcia?
+Mira'm quina és la millor manera d'anar del carrer de la Ciutat al carrer de Jaume Martí.
+Mira'm quina és la millor manera d'anar del camí de Ca l'Isidret al carrer de Lleó XIII.
+Mira'm quina és la millor manera d'anar de la carrer de Jaume Cabrera al passatge de Vicent Martín.
+Hauria d'anar al carrer del Baró de Sant Lluís número cinquanta-quatre.
+M'agradaria anar al carrer A amb cotxe.
+He d'anar del passatge del Garric al passatge de Chapí.
+Com es fa per anar del carrer de Sant Alexandre al carrer de la Gasela?
+Quina és la millor manera d'anar de la via Augusta a la carrer de Joan Comorera?
+Com puc anar al carrer de Cardona número vuitanta?
+Quan passa l'autobús pel carrer Eduard Fontserè?
+Què venen al carrer del Barri Vermell número vuitanta-cinc?
+Qui viu al carrer de Sant Pacià número vuitanta-vuit?
+Què hi ha al carrer Jaume Vicens i Vives cantonada Roger?
+Hi ha algun negoci al carrer Antoni Santiburcio cantonada Antoni Santiburcio?
+Hi ha algun lampista al carrer de les Corts?
+Quina és la millor manera d'arribar al carrer de les Antilles?
+Vaig al passatge de Carlota de Mena.
+Mira'm quina és la millor manera d'anar de la plaça de Salvador Puig i Antich al carrer de la Sèquia.
+Hauria d'anar al carrer d'en Gignàs número cinquanta-set.
+Vull anar al carrer del Progrés amb trasport públic.
+Quina és la millor manera d'anar del carrer d'Aribau a la plaça d'Espanya?
+Quin és el camtí més curt per anar al passatge de Cantí número vuitanta-tres?
+Com puc anar al carrer de Santa Dorotea número cinquanta-tres?
+Quan passa l'autobús pel carrer Gravina?
+Qui viu al carrer de Francesc Alegre número setanta-vuit?
+Què hi ha al carrer Nulles cantonada Llebre?
+Quines botigues hi ha al carrer del Baluard?
+Hi ha algun lampista al carrer de Flassaders?
+Hi ha algun lampista al passatge de la Plana?
+He d'anar a la carrer de la Cantera amb bicicleta.
+Vaig al carrer de la Cançó.
+Vull anar al carrer de l'Espinoi amb tren.
+Com es fa per anar del carrer de Teodor Llorente a la plaça del Carril?
+Quina és la millor manera d'anar de la avinguda del Litoral al carrer del Taquígraf Serra?
+Com ho faig per anar al carrer d'Agustí Duran i Sanpere número setanta-cinc?
+Com puc anar al carrer d'Iradier número vuitanta-sis?
+Com puc arribar a la plaça de Numen Mestre número noranta-set?
+Quina botiga hi ha a la plaça de Madrona Prat número cinquanta-quatre?
+Què venen a la plaça de Lluís Casassas número vuitanta-vuit?
+Què venen a la jardins d'Elvira Farreras Valentí número cinquanta-vuit?
+Què hi ha al carrer Pedrell cantonada Pins de Can Caralleu?
+Què hi ha al carrer Tarongers cantonada Ojeda?
+Quina és la millor manera d'arribar a la plaça d'Hilari Salvadó?
+Quina és la millor manera d'arribar al carrer de les Arenes de Sant Pere?
+Quina és la millor manera d'arribar al carrer d'August Font?
+ amb tren.
+Com ho puc fer per anar al carreró de Ca l'Iglésies?
+Vaig a la plaça de Veracruz.
+Mira'm quina és la millor manera d'anar del carrer del Comandant Llança al carrer de la Creu dels Molers.
+Vull anar al carrer de Víctor Colomer sense agafar el cotxe.
+Com es fa per anar del carrer de Sant Joaquim al carrer d'Alexandre de Torrelles?
+Quina és la millor manera d'anar del passatge del Mont de Pietat al carrer de Rocafort?
+Com ho faig per anar a la plaça de l'Óssa Menor número seixanta-set?
+Quin és el camtí més curt per anar al carrer de Lluís Vives número cinquanta?
+Com puc arribar a la carretera del Cementiri de Collserola número quaranta-cinc?
+Quina botiga hi ha al carrer de Montpeller número vint-i-cinc?
+Qui viu al carrer de la Foneria número quaranta-nou?
+Hi ha algun negoci al carrer Lluís Muntadas cantonada Lluís Muntadas?
+He d'anar al passatge de Guardiola amb moto.
+Quina és la millor manera d'arribar al carrer del Monestir?
+Com ho puc fer per anar al carrer dels Enamorats?
+Com ho puc fer per anar al carrer del Torrent de Can Piquer?
+Hauria d'anar al carrer de Campo Florido número vuitanta.
+Vull anar al carrer dels Metges a peu.
+Vull anar al moll d'Inflamables amb autobús.
+He d'anar del carrer de la Paloma a la plaça de Mossèn Joan Cortinas.
+Quina és la millor manera d'anar del carrer del Civader al carrer d'Altafulla?
+Com puc anar al carrer del Radi número trenta-nou?
+Com ho puc fer per anar al carrer Virgili cantonada Sant Hipòlit?
+Quina botiga hi ha al passatge de Sant Pau número trenta-tres?
+Qui viu al carrer de Pàdua número vuitanta-u?
+Hi ha algun negoci al carrer Puig i Valls cantonada Puig i Valls?
+Hi ha algun negoci al carrer Taulat cantonada Taulat?
+He d'anar al passatge de Maria Canals sense agafar el cotxe.
+Com ho puc fer per anar al passatge de Casamitjana?
+He d'anar de la plaça de Madrona Prat al passatge de Pau Hernández.
+He d'anar del carrer de l'Empordà al passatge de Magarola.
+Quina és la millor manera d'anar del carrer d'Esteràs a la avinguda d'Eduard Maristany?
+Com ho faig per anar a la platja Sant Sebastià número vint-i-set?
+Com puc anar a la rambla de Mar número quaranta-quatre?
+Com puc arribar al carrer de Marco Polo número cinquanta-sis?
+Com ho puc fer per anar al carrer Joan Orpí cantonada Baldiri Reixac?
+Què hi ha al carrer d'Alcanar número trenta-sis?
+Quina botiga hi ha al carrer del Mas Duran número cinquanta-set?
+Què hi ha al carrer Massanet cantonada Castelladral?
+Hi ha algun negoci al carrer Carles Collet cantonada Carles Collet?
+Quina és la millor manera d'arribar al carrer del Mercat?
+Vaig al passatge dels Garrofers.
+Hauria d'anar al carrer de Josep Bertrand número seixanta-tres.
+Vull anar al carrer de Pau amb moto.
+Com es fa per anar de la plaça de la Mare de Déu de la Pau al carrer d'Espaseria?
+Com es fa per anar del carrer de Virgili al passatge de la Banca?
+Com puc arribar al carrer de Mediona número vuitanta-tres?
+Com ho puc fer per anar al carrer Ferrer Bassa cantonada Xiquets de Valls?
+Què hi ha al carrer de Piquer número quaranta-quatre?
+Què venen al carrer de Sant Isidre número trenta?
+Què hi ha al carrer Lluís Solé i Sabarís cantonada Arquitecte Sert?
+Hi ha algun negoci al carrer Gelabert cantonada Gelabert?
+Hi ha algun lampista al passatge de Casamitjana?
+He d'anar a la carretera del Carmel amb cotxe.
+Com ho puc fer per anar a la plaça de la Font del Mont?
+Vaig al passeig de Torras i Bages.
+Vaig al carrer del Pare Fidel Fita.
+Hauria d'anar al carrer del Turó de les Roquetes número noranta-sis.
+M'agradaria anar al carrer de Torroella de Montgrí amb trasport públic.
+Vull anar als jardins de Manuel J. Arnalot amb moto.
+Quina és la millor manera d'anar del passatge de Martras al parc de Bederrida?
+Com ho faig per anar a la plaça del Monestir número divuit?
+Quin és el camtí més curt per anar al carrer de Camps i Fabrés número noranta?
+Com puc anar al carrer del Trèmol número vuitanta-cinc?
+Com puc arribar al carrer de Rubió i Balaguer número setanta-set?
+Quina botiga hi ha al passeig de Sant Joan Bosco número trenta-nou?
+Què venen a la plaça de Willy Brandt número noranta-cinc?
+Qui viu al passatge de Saladrigas número u?
+Quines botigues hi ha a la plaça del Gas?
+Hi ha algun lampista al carrer dels Vivers?
+Com ho puc fer per anar a la plaça de Sant Jaume?
+Hauria d'anar al passatge d'en Pujolet número cinquanta-sis.
+He d'anar del carrer de Tessàlia a la carrer de Carrasco i Formiguera.
+Com es fa per anar del carrer del Pollancre al carrer de Narbona?
+Quina és la millor manera d'anar del passatge de Canet al carrer de Mossèn Epifani Lorda?
+Quina és la millor manera d'anar del carrer d'Enric Giménez als jardins de Flora Tristán?
+Quin és el camtí més curt per anar al carrer de Briquets número set?
+Quin és el camtí més curt per anar al carrer de Berna número catorze?
+Com puc anar al carrer de Rosario Pi número quaranta-dos?
+Com puc arribar a la carrer de Formentera número deu?
+Com puc arribar a la avinguda de Can Baró número setanta-sis?
+Com ho puc fer per anar al carrer Vesc cantonada Candeles?
+Què venen al carrer del Roser número cinquanta-u?
+He d'anar a la platja del Bogatell amb cotxe.
+Quina és la millor manera d'arribar a la plaça de la Mainada?
+Mira'm quina és la millor manera d'anar del parc dels Garrofers al carrer d'Arnús i de Garí.
+Hauria d'anar al carrer de Suñol i Gros número sis.
+He d'anar del carrer del Lotus al carrer de Burgos.
+Quina és la millor manera d'anar dels jardins dels Horts de Sant Pau al carrer de Veneçuela?
+Quin és el camtí més curt per anar al carrer dels Tres Reis número nou?
+Com puc arribar al passatge de Casa Llarga número setanta-set?
+Què venen a la plaça de Conxita Badia número seixanta-quatre?
+Què venen al passatge de la Blada número quaranta-dos?
+Qui viu al carrer d'en Fontrodona número deu?
+He d'anar al carrer de Joaquim Puig i Pidemunt amb bicicleta.
+Hauria d'anar al carrer de Corint número seixanta-dos.
+Hauria d'anar al carrer de la Indústria número vint-i-dos.
+Vull anar al carrer del Cardenal Reig sense agafar el cotxe.
+Com es fa per anar del carrer del Taquígraf Garriga a la carrer dels Geranis?
+Com ho faig per anar al carrer del Torrent de les Flors número cinquanta-cinc?
+Com puc arribar al carrer del Marquès de la Quadra número vuitanta-quatre?
+Què hi ha al carrer de Sant Ignasi número vuitanta-sis?
+Quina botiga hi ha als jardins de la Vil·la Amèlia número trenta-tres?
+Qui viu al carrer de Can Segalar número quaranta-u?
+Qui viu al passatge d'Espíria número nou?
+Quines botigues hi ha al passatge de Moçambic?
+Quines botigues hi ha al carrer de Serra i Hunter?
+Quines botigues hi ha al carrer de Josep Anselm Clavé?
+Quina és la millor manera d'arribar al carrer de Lope de Vega?
+Quina és la millor manera d'arribar al carrer del Davant del Portal Nou?
+Vaig al carrer dels Metges.
+Hauria d'anar al carrer de n'Amargós número vuitanta.
+M'agradaria anar al carrer de Santa Úrsula amb moto.
+Vull anar a la plaça de Maragall amb tren.
+Com es fa per anar del carrer de les Heures al carrer de Comas i Solà?
+Com es fa per anar del carrer de la Rectoria als jardins de Rosa Deulofeu?
+Com es fa per anar del carrer de Cal Cisó al carrer de Mossèn Masdexexart?
+Quina és la millor manera d'anar del espigó de la Mar Bella al carrer de Ferlandina?
+Quin és el camtí més curt per anar al carrer del Castell d'Argençola número seixanta-dos?
+Com puc arribar al carrer de Garcilaso número quaranta-tres?
+Com puc arribar a la plaça de Lesseps número noranta-set?
+Com puc arribar a la carrer de Bolívia número quaranta-sis?
+Com ho puc fer per anar al carrer Guatemala cantonada Josep M. de Sagarra?
+Què hi ha a la platja de la Nova Mar Bella número dinou?
+Quina botiga hi ha al carrer de Jaume Roig número seixanta-cinc?
+Què venen a la riera d'Escuder número seixanta-vuit?
+Qui viu al passatge de Massaguer número noranta-set?
+Què hi ha al carrer Solà cantonada Malva?
+Hi ha algun lampista al moll d'Evaristo Fernández?
+Hauria d'anar al carrer dels Tres Llits número trenta-vuit.
+Com es fa per anar del carrer de les Salines al carrer de Gelida?
+Com puc anar al camí de Sant Genís a Horta número setanta?
+Quan passa l'autobús pel carrer Argentera?
+Quina botiga hi ha al parc del Camp de la Bota número tres?
+Qui viu al carreró de les Ànimes número vuitanta-set?
+Hi ha algun negoci al carrer Font Florida cantonada Font Florida?
+He d'anar al passatge de l'Ordi amb trasport públic.
+Com ho puc fer per anar al passatge del Violer?
+Com ho puc fer per anar al carrer del Diluvi?
+Mira'm quina és la millor manera d'anar de la plaça d'en Taxonera al passatge de Klein.
+M'agradaria anar al carrer del Clavell a peu.
+He d'anar de la plaça de l'Estació als jardins dels Tres Tombs.
+Com es fa per anar del carrer de Sant Gaudenci al carrer de Jaume Huguet?
+Com es fa per anar del carrer de Conca al carrer de Plegamans?
+Com ho faig per anar al camí de la Cadena número setanta-dos?
+Com ho faig per anar al carrer de la Selva del Camp número vuitanta-sis?
+Què hi ha al passatge de l'Arquitecte Millàs número trenta-cinc?
+Quina botiga hi ha al carrer de Dolors Masferrer i Bosch número quaranta-tres?
+Qui viu al passatge de Maluquer número vuit?
+Hi ha algun negoci al carrer Alfons XII cantonada Alfons XII?
+Quines botigues hi ha al carrer dels Cavallers?
+He d'anar al carrer del Juliol amb tren.
+Vaig al carrer de Bacardí.
+Hauria d'anar al carrer del Cardenal Casañas número trenta-quatre.
+Vull anar al carrer de Sancho de Ávila amb bicicleta.
+Com es fa per anar del carrer del Duc al carrer del Plom?
+Com es fa per anar del passatge d'Antoni Gassol a la avinguda del Portal de l'Àngel?
+Com puc anar al carrer de Gombau número cinquanta-vuit?
+Quina botiga hi ha al carrer de Batista i Roca número cinquanta-tres?
+Què hi ha al carrer Morell cantonada Beethoven?
+Quines botigues hi ha al carrer de Palerm?
+Com ho puc fer per anar al carrer de Viver?
+Mira'm quina és la millor manera d'anar del passatge d'Andalet a la plaça del Mirall de Pedralbes.
+M'agradaria anar als jardins de Sarrià Vell amb tren.
+Vull anar al carrer de la Infanta Isabel a peu.
+He d'anar del carrer del Ripollès a la plaça del Xiprer.
+Quina és la millor manera d'anar del passatge dels Garrofers al camí de la Reineta?
+Quin és el camtí més curt per anar al carrer de l'Arc de Sant Martí número trenta?
+Com puc arribar al carrer de Judea número onze?
+Com puc arribar al passeig d'Enric Sanchis número seixanta-cinc?
+Com ho puc fer per anar al carrer Comte Borrell cantonada Taquígraf Garriga?
+Quina botiga hi ha al carrer de la Seca número vint-i-set?
+Quina botiga hi ha al carrer del Segre número nou?
+Quina botiga hi ha al carrer d'Hipòlit Lázaro número cinquanta-tres?
+Què hi ha al carrer Cànem cantonada Puig Castellar?
+Quina és la millor manera d'arribar al carrer de Rodríguez?
+Com ho puc fer per anar al carrer de Costa Rica?
+Vaig al carrer de Pierre Vilar.
+Hauria d'anar a la plaça de Rafael Campalans número seixanta-dos.
+Vull anar al passatge de Prim amb moto.
+He d'anar del passatge de la Llacuna al carrer de l'Or.
+Quina és la millor manera d'anar del carrer d'Ausiàs Marc al carrer de la Poesia?
+Quina és la millor manera d'anar del passatge de Trullàs al carrer de Claravall?
+Quin és el camtí més curt per anar a la plaça Major de Nou Barris número vuitanta-set?
+Quin és el camtí més curt per anar al carrer d'en Tarròs número trenta-set?
+Com puc arribar al carrer del Ferro número setanta-nou?
+Quina botiga hi ha al carrer de Pere II de Montcada número vuitanta-vuit?
+Qui viu a la placeta d'Angelina Alòs i Tormos número quaranta-vuit?
+Què hi ha al carrer Puerto Príncipe cantonada Jaume Giralt?
+Hi ha algun lampista als jardins de les Sufragistes Catalanes?
+Com ho puc fer per anar al passatge de Marimon?
+M'agradaria anar al carrer de Ganduxer amb tren.
+Com es fa per anar del carrer de Prada al carrer de Francesca Bonnemaison?
+Com puc anar al passatge de la Blada número vuitanta-set?
+Com puc arribar al carrer de Tortosa número setanta-quatre?
+Quina botiga hi ha al moll Occidental número quaranta-vuit?
+Qui viu al carrer de Sant Guillem número vint-i-nou?
+Hi ha algun negoci al carrer Rosselló i Porcel cantonada Rosselló i Porcel?
+He d'anar al carrer dels Capellans amb cotxe.
+Quina és la millor manera d'arribar al carrer de la Llebre?
+Com ho puc fer per anar al carrer de l'Esparteria?
+Hauria d'anar a la placeta dels Avis número catorze.
+M'agradaria anar al carrer de Ramiro de Maeztu amb moto.
+He d'anar de la plaça dels Traginers al carrer de Pere Tarrés.
+Com puc anar a la plaça de Maria Espinalt i Font número divuit?
+Què hi ha al carrer de Sant Eudald número vint-i-sis?
+Qui viu a la placeta de Martina Castells número vuitanta-u?
+Què hi ha al carrer Pare Jacint Alegre cantonada Regent Mendieta?
+Quines botigues hi ha al carrer de Sas?
+Com ho puc fer per anar al carrer de la Pietat?
+Hauria d'anar al carrer de l'Institut Frenopàtic número trenta-nou.
+Vull anar al passatge del Negociant amb bicicleta.
+Com es fa per anar del carrer de Clarà al carrer d'Aribau?
+Quina és la millor manera d'anar del passatge dels Bofarull al carrer de Carles Riba?
+Quina és la millor manera d'anar del carrer de Vicent López al carrer de Palafrugell?
+Quin és el camtí més curt per anar al carrer del Penedès número vuitanta-dos?
+Com puc anar al passatge de Lluïsa Vidal número setanta-tres?
+Què hi ha al carrer de Maspons número vint-i-quatre?
+Quina botiga hi ha a la baixada de Palautordera número catorze?
+Qui viu als jardins de Piscines i Esports número trenta?
+Quines botigues hi ha al carrer del Bedoll?
+Quina és la millor manera d'arribar al carrer del Sena?
+Mira'm quina és la millor manera d'anar del carrer de Demestre al carrer dels Paletes.
+Vull anar al carrer de Trilla a peu.
+Com ho faig per anar als jardins de la Mediterrània número seixanta-cinc?
+Com puc anar al carrer de Tortellà número quaranta-quatre?
+Quina botiga hi ha al carrer de la Vall d'Aro número noranta-set?
+Què venen al carrer de les Escoles número vint-i-quatre?
+Hi ha algun negoci al carrer Vallès i Ribot cantonada Vallès i Ribot?
+Quines botigues hi ha al carrer de l'Allada-Vermell?
+Mira'm quina és la millor manera d'anar del carrer de Rogent al carrer d'Emília Coranty.
+He d'anar del carrer de l'Arc de Sant Agustí al carrer d'Amadeu Vives.
+Quina és la millor manera d'anar del carrer del Poliol al carrer del Cometa?
+Com puc anar al carrer de Batista número seixanta-set?
+Quina botiga hi ha al carrer d'en Tripó número vint-i-sis?
+Quines botigues hi ha al passatge de Porta?
+He d'anar al passatge del Tinent Costa sense agafar el cotxe.
+Com ho puc fer per anar al carrer de Francesc Boix i Campo?
+Hauria d'anar als jardins de Ca l'Alena número cinquanta.
+He d'anar del carrer de Castellbell a la plaça de la Font d'en Fargues.
+Com es fa per anar del carrer de Calvet a la plaça de Soledad Gustavo?
+Quin és el camtí més curt per anar al camí del Pebràs número dinou?
+Com ho puc fer per anar al carrer Volta d'en Dusai cantonada Rodes?
+Què hi ha al carrer del Torrent de Can Piquer número nou?
+Quina botiga hi ha al carrer de Carrencà número vuitanta-set?
+Què venen al carrer de Maó número tretze?
+He d'anar al carrer de Grunyí a peu.
+Quina és la millor manera d'arribar al passatge de Bellavista?
+Com ho puc fer per anar a la carretera de Vallvidrera al Tibidabo?
+Vaig al carrer de Josep M. Lladó.
+Hauria d'anar a la carrer de Guillem Sagrera número setanta-tres.
+He d'anar de la rambla del Brasil al carrer de la Reina Victòria.
+Quina és la millor manera d'anar del carrer Antic de Bofarull a la plaça de Martí Llauradó?
+Com ho faig per anar al carrer de Topete número vuitanta-vuit?
+Com ho puc fer per anar al carrer Còrdova cantonada Escales de Can Caralleu?
+Quan passa l'autobús pel carrer Massens?
+Quina botiga hi ha al carrer d'Irlanda número setanta-cinc?
+Què hi ha al carrer Maladeta cantonada Gualbes?
+Hi ha algun lampista al carrer del Danubi?
+Com ho puc fer per anar al carrer de Casp?
+Mira'm quina és la millor manera d'anar dels jardins de Jaume Planas i Alemany al carrer de Castellet.
+Hauria d'anar al carrer de les Acàcies número quaranta-u.
+Vull anar al carrer de Mercè Rodoreda amb bicicleta.
+He d'anar del carrer de la Mecànica a la plaça de l'Estació.
+Quina és la millor manera d'anar del carrer de Rubinstein al carrer de Sant Magí?
+Com ho faig per anar al carrer del Quetzal número vint-i-sis?
+Quin és el camtí més curt per anar al passatge de Bering número trenta-sis?
+Com puc arribar al carrer dels Germans Serra número vuitanta?
+Qui viu al carrer de Campeny número trenta-tres?
+Quines botigues hi ha al passeig de Fabra i Puig?
+Com ho puc fer per anar al carrer de Judea?
+Vaig al carrer de la Metal·lúrgia.
+Mira'm quina és la millor manera d'anar del passatge de Centelles al passatge de Casamitjana.
+Hauria d'anar al carrer del Judici número cinquanta-vuit.
+M'agradaria anar a la plaça de Sant Pol de Mar sense agafar el metro.
+Quina és la millor manera d'anar de la plaça de Falset al carrer de Lluís Pericot?
+Com ho faig per anar al carrer del Brosolí número noranta-set?
+Quin és el camtí més curt per anar al carrer d'en Bot número nou?
+Com ho puc fer per anar al carrer Pere Blai cantonada Cotoners?
+Quina botiga hi ha al carrer de Dolors Monserdà número cinquanta-set?
+Qui viu al carrer de Flaçà número quaranta-sis?
+Hi ha algun lampista a la plaça d'André Malraux?
+Quina és la millor manera d'arribar al carrer de l'Abat Odó?
+Mira'm quina és la millor manera d'anar de les escales dels Canadencs al passatge de Carme Aymerich.
+M'agradaria anar al carrer de la Lluna sense agafar el cotxe.
+He d'anar del carrer de Lope de Vega a la carrer dels Masriera.
+Com puc anar al carrer de la Font de Sant Miquel número cinquanta-sis?
+Com ho puc fer per anar al carrer Misser Ferrer cantonada Arnau?
+Què hi ha al carrer de Massanet número quaranta-tres?
+Qui viu al carrer de les Guilleries número trenta-set?
+Què hi ha al carrer Mas Casanovas cantonada Anisadeta?
+Què hi ha al carrer Portal de Santa Madrona cantonada Sant Jordi?
+Hi ha algun lampista al carrer de Vicent López?
+Com ho puc fer per anar al carrer de Josep Bertrand?
+Hauria d'anar a la plaça d'Artur Martorell número noranta-vuit.
+M'agradaria anar a la avinguda d'Esplugues amb tren.
+He d'anar del carrer d'Anna M. Martínez Sagi al carrer d'Adrall.
+Com puc anar al parc Forestal de Can Castellví de Dalt número seixanta-quatre?
+Com puc arribar al carrer de la Colònia del Tibidabo número vint-i-sis?
+Quan passa l'autobús pel carrer Santíssima Trinitat del Mont?
+Què venen al carrer de la Muntanya de Montserrat número tretze?
+Qui viu a la plaça de Cal Muns número sis?
+Hi ha algun negoci al carrer Benlliure cantonada Benlliure?
+Quines botigues hi ha al carrer de la Mar Groga?
+Hi ha algun lampista al carrer de Muntaner?
+Quina és la millor manera d'arribar al carrer del Torrent de Can Mariner?
+M'agradaria anar a la passatge del Rector Oliveras amb moto.
+Vull anar als jardins de la Font dels Ocellets sense agafar el cotxe.
+Vull anar a la plaça de les Drassanes amb tren.
+Com ho faig per anar al carrer de Bellprat número vint?
+Com puc arribar al carrer d'Auger número vuitanta-quatre?
+Quan passa l'autobús pel carrer Gespa?
+Quina botiga hi ha al carrer del Paraguai número trenta-dos?
+Qui viu al carrer de Sant Llàtzer número noranta-set?
+Qui viu al carrer de Zuloaga número vint-i-dos?
+Hi ha algun negoci al carrer Josep Sunyol i Garriga cantonada Josep Sunyol i Garriga?
+Engega l'aspiradora a les dues.
+Engega la ràdio a les dotze.
+Engega la tele al vespre.
+Engega el televisor a les set.
+Engega la rentadora a les onze.
+Engega el forn a la nit.
+Apaga el rentaplats a les deu.
+Apaga l'aspiradora a dos quarts de tres.
+Apaga l'aire condicionat a les tres.
+Apaga la tele a les dotze.
+Apaga la rentadora al migdia.
+Apaga el microones a les nou.
+Apaga el forn a un quart de deu.
+Programa l'aspiradora per a la una.
+Programa la ràdio per a les onze.
+Programa la tele per a la tarda.
+Programa el televisor per a les cinc.
+Programa la rentadora per a les deu.
+Programa el forn per al vespre.
+Programa el rentaplats de la sala.
+Programa l'aire condicionat de la biblioteca.
+Programa la rentadora de l'habitació.
+Programa el forn del garatge.
+Avui al vespre no engeguis l'aspiradora.
+Avui a les deu no engeguis la ràdio.
+Avui a un quart de deu no engeguis l'aire condicionat.
+Avui al vespre no engeguis el televisor.
+Avui a les cinc no engeguis la rentadora.
+Avui a tres quarts de dotze no engeguis el microones.
+Apaga el llum
+Afegeix a l'agenda el número de l'Ander Solis: sis, cinquanta-dos, noranta-cinc, onze, noranta-cinc.
+Truca al sis, setanta-sis, dinou, cinquanta, disset.
+Afegeix a l'agenda el número de l'Aram Serrato: sis, vuitanta-u, noranta-quatre, setanta-set, trenta-set.
+Truca al sis, vint-i-nou, quaranta-vuit, dinou, quaranta-tres.
+Afegeix a l'agenda el número de la Jannat Guitian: sis, onze, noranta, vint-i-tres, quaranta-dos.
+Truca al sis, zero, tres, cinquanta-set, vuitanta-set, seixanta-tres.
+Afegeix a l'agenda el número del Dan Llinares: sis, cinquanta-nou, cinquanta-tres, cinquanta-tres, cinquanta.
+Truca al sis, setanta-dos, noranta-quatre, seixanta-sis, cinquanta-sis.
+Afegeix a l'agenda el número del Mohammed Chen: sis, trenta, trenta-nou, vuitanta-set, seixanta-dos.
+Truca al sis, cinquanta-sis, quaranta-tres, dinou, quaranta-tres.
+Afegeix a l'agenda el número de la Kira Vaz: sis, noranta, trenta-tres, trenta-quatre, vint-i-tres.
+Truca al sis, quaranta-dos, cinquanta-u, noranta-vuit, quaranta-dos.
+Afegeix a l'agenda el número de l'Anastàsia Madrid: sis, setanta-tres, dinou, zero, tres, vuitanta-tres.
+Truca al set, onze, trenta-sis, trenta-cinc, zero.
+Afegeix a l'agenda el número del Jordi Risueño: sis, trenta-vuit, setanta-dos, seixanta-u, vuitanta-quatre.
+Truca al set, vint-i-dos, disset, vuitanta-quatre, cinquanta-quatre.
+Afegeix a l'agenda el número de la Matilda Sans: sis, setanta-u, vint-i-dos, vint-i-set, noranta-dos.
+Truca al sis, zero, u, zero, vuitanta-dos, trenta-set.
+Afegeix a l'agenda el número del Máximo Caba: sis, noranta-tres, vint-i-u, quinze, vuitanta-set.
+Truca al sis, trenta-sis, noranta-set, tretze, noranta-tres.
+Afegeix a l'agenda el número del Jonathan Mendoza: sis, vint-i-tres, trenta-cinc, quaranta-vuit, zero, nou.
+Truca al set, vint-i-dos, vint-i-cinc, trenta-vuit, trenta-vuit.
+Afegeix a l'agenda el número de l'Iria Roca: sis, setanta-tres, seixanta-quatre, vuitanta, vuitanta-vuit.
+Truca al sis, setanta-u, noranta-sis, setanta-u, vuitanta-set.
+Afegeix a l'agenda el número de l'Abba Pereda: sis, quaranta, tretze, quaranta-sis, zero.
+Truca al sis, setanta-vuit, setanta-tres, trenta-set, vint-i-dos.
+Afegeix a l'agenda el número del Nico Salido: sis, trenta-dos, quaranta-quatre, quaranta-cinc, cinquanta-dos.
+Truca al sis, noranta, seixanta-vuit, quaranta-dos, onze.
+Afegeix a l'agenda el número de l'Amèlia Pajares: sis, seixanta-nou, trenta-set, vint-i-tres, cinquanta-tres.
+Truca al sis, noranta-set, setanta-set, setze, quaranta-nou.
+Afegeix a l'agenda el número del Bosco Cedeño: sis, trenta-vuit, noranta-u, cinquanta-dos, zero, set.
+Truca al sis, noranta-sis, quaranta-set, cinquanta-tres, cinquanta-vuit.
+Afegeix a l'agenda el número de l'Ares Javier: sis, cinquanta-set, seixanta-cinc, vint-i-cinc, noranta-nou.
+Truca al sis, vint-i-dos, quaranta-dos, vuitanta-dos, quaranta-set.
+Afegeix a l'agenda el número de l'Alana Membrives: sis, cinquanta-sis, dotze, cinquanta-set, disset.
+Truca al sis, dinou, tretze, deu, quaranta-vuit.
+Afegeix a l'agenda el número de la Gina Guijarro: sis, setanta-dos, trenta-tres, zero, tres, quaranta.
+Truca al sis, seixanta-u, setanta-cinc, cinquanta-tres, vint-i-sis.
+Afegeix a l'agenda el número de l'Alaa Reguero: sis, quinze, vuitanta-dos, zero, setanta-quatre.
+Truca al sis, zero, u, quaranta, vint-i-u, trenta-vuit.
+Afegeix a l'agenda el número del Darek Quero: sis, noranta-vuit, quaranta-tres, cinquanta-quatre, trenta-sis.
+Truca al sis, seixanta-quatre, trenta-sis, seixanta-tres, quaranta.
+Afegeix a l'agenda el número de l'Abraham Diaby: sis, trenta-u, trenta-cinc, cinquanta-cinc, dinou.
+Truca al sis, zero, tres, seixanta-set, trenta, dotze.
+Afegeix a l'agenda el número de la Sophie De Vicente: sis, cinquanta-quatre, noranta-u, noranta-dos, quaranta-cinc.
+Truca al sis, cinquanta-quatre, cinquanta-sis, divuit, zero, quatre.
+Afegeix a l'agenda el número del Zaid Iglesia: sis, seixanta-set, setanta-set, trenta, cinquanta-cinc.
+Truca al sis, trenta-dos, cinquanta, seixanta-quatre, noranta-cinc.
+Afegeix a l'agenda el número de la Yasmine Bocanegra: sis, setze, dotze, cinquanta-set, trenta-set.
+Truca al sis, seixanta-quatre, vuitanta-quatre, dinou, noranta-nou.
+Afegeix a l'agenda el número de l'Íngrid Saravia: sis, vuitanta-quatre, quaranta-sis, seixanta-quatre, trenta-sis.
+Truca al set, disset, catorze, vint-i-tres, cinquanta-vuit.
+Afegeix a l'agenda el número de l'Ènia Lastra: sis, cinquanta-vuit, vint-i-sis, noranta-cinc, setanta-cinc.
+Truca al sis, noranta-quatre, setanta-sis, vint-i-nou, seixanta.
+Afegeix a l'agenda el número de l'Antonio Cots: sis, vuitanta-u, vuitanta-vuit, trenta-u, seixanta-dos.
+Truca al sis, quaranta-cinc, trenta-set, onze, zero, quatre.
+Afegeix a l'agenda el número de la Timburguera Villoslada: sis, cinquanta, seixanta-cinc, onze, deu.
+Truca al sis, vint-i-dos, quaranta-tres, seixanta, divuit.
+Afegeix a l'agenda el número de l'Indara Cedres: set, quaranta-vuit, setanta-nou, seixanta-u, trenta-nou.
+Truca al sis, cinquanta-tres, vint-i-u, vuitanta-u, zero, sis.
+Afegeix a l'agenda el número de la Neus Muiños: sis, vint-i-vuit, setanta-vuit, seixanta-u, setanta-vuit.
+Truca al sis, cinquanta-vuit, noranta-cinc, cinquanta-u, vint-i-cinc.
+Afegeix a l'agenda el número del Roc Fonseca: set, disset, quaranta-dos, vint, cinquanta-u.
+Truca al sis, vint-i-sis, onze, zero, tres, vuitanta-sis.
+Afegeix a l'agenda el número de l'Eider Rial: sis, onze, vint-i-cinc, quaranta-u, trenta-cinc.
+Truca al sis, quaranta-sis, deu, trenta-quatre, setanta-quatre.
+Afegeix a l'agenda el número de l'Anwar Alaez: sis, trenta-dos, vint-i-cinc, setanta-cinc, trenta-quatre.
+Truca al sis, trenta, quaranta, vuitanta-u, cinquanta-vuit.
+Afegeix a l'agenda el número de la Vinyet Llana: sis, noranta-u, seixanta-dos, zero, sis, cinquanta-quatre.
+Truca al sis, cinquanta-nou, vuitanta-vuit, vint-i-tres, cinquanta-cinc.
+Afegeix a l'agenda el número del José luis Triano: sis, seixanta-cinc, quaranta-dos, cinquanta-u, noranta-set.
+Truca al sis, setanta-quatre, catorze, zero, sis, vuitanta-sis.
+Afegeix a l'agenda el número de la Danna Campo: sis, cinquanta-sis, noranta-set, dotze, noranta-vuit.
+Truca al sis, vuitanta-nou, cinquanta, vint-i-cinc, trenta-dos.
+Afegeix a l'agenda el número de la Neida Plazas: sis, vuitanta-set, setanta-sis, cinquanta-set, trenta-u.
+Truca al sis, cinquanta-u, noranta-cinc, cinquanta, noranta-nou.
+Afegeix a l'agenda el número de la Gisela Amezcua: sis, zero, tres, noranta-set, seixanta-tres, zero, u.
+Truca al sis, seixanta-quatre, noranta-vuit, seixanta-u, seixanta-cinc.
+Afegeix a l'agenda el número de l'Isabel Monedero: sis, trenta-nou, vuitanta-tres, noranta-nou, vuitanta-tres.
+Truca al sis, vint-i-nou, trenta-nou, setanta-vuit, vuitanta-u.
+Afegeix a l'agenda el número del Cesc Alamo: sis, noranta-set, setanta-vuit, noranta-set, noranta-quatre.
+Truca al sis, trenta-tres, vuitanta-u, setanta, vuitanta-dos.
+Afegeix a l'agenda el número de la Dània Fortes: sis, seixanta-dos, vuitanta-set, seixanta-dos, vint-i-tres.
+Truca al sis, dinou, catorze, noranta-vuit, vuitanta-quatre.
+Afegeix a l'agenda el número del Mikel Morais: sis, noranta-u, setanta-nou, setanta-dos, setanta-sis.
+Truca al sis, vint-i-set, deu, vuitanta-vuit, vint-i-nou.
+Afegeix a l'agenda el número de l'Edgar Sañudo: sis, zero, sis, noranta-tres, noranta-set, noranta-quatre.
+Truca al sis, trenta-vuit, quaranta-set, vint-i-quatre, vuitanta-set.
+Afegeix a l'agenda el número de la Matilda Diop: sis, noranta-nou, cinquanta-u, trenta-quatre, quinze.
+Truca al sis, quaranta-tres, seixanta-dos, vuitanta-cinc, seixanta-sis.
+Afegeix a l'agenda el número de l'Ismael Iraola: sis, cinquanta-tres, seixanta-set, trenta-cinc, trenta-tres.
+Truca al sis, vuitanta-nou, dotze, setanta, setanta-u.
+Afegeix a l'agenda el número de l'Arianna Barquin: sis, setanta-cinc, vuitanta-quatre, seixanta-sis, vint-i-sis.
+Truca al sis, seixanta, trenta-cinc, quaranta-u, dinou.
+Afegeix a l'agenda el número de la Gabriela Rus: sis, seixanta-cinc, cinquanta-set, seixanta-cinc, noranta-set.
+Truca al sis, setanta, vint, zero, set, dotze.
+Afegeix a l'agenda el número del Roger Monclus: sis, noranta-vuit, setanta, noranta-quatre, seixanta.
+Truca al sis, noranta-cinc, quaranta, setanta-set, zero, vuit.
+Afegeix a l'agenda el número de l'Adán Llamas: sis, vuitanta-sis, quaranta-set, vuitanta-nou, setanta-nou.
+Truca al sis, quaranta-dos, vuitanta-dos, quaranta-tres, setanta-u.
+Afegeix a l'agenda el número del David Bugallo: sis, zero, nou, cinquanta-u, noranta-nou, vint-i-nou.
+Truca al sis, trenta, seixanta-set, cinquanta-sis, quaranta-tres.
+Afegeix a l'agenda el número de l'Àyoub Evangelista: sis, zero, set, noranta-vuit, trenta-tres, divuit.
+Truca al sis, vuitanta-vuit, noranta-nou, seixanta-sis, seixanta-dos.
+Afegeix a l'agenda el número de l'Ilyan Dieng: sis, vuitanta-set, vuitanta-sis, noranta, seixanta.
+Truca al sis, trenta-u, dinou, vuitanta-set, onze.
+Afegeix a l'agenda el número del Maher Andreo: sis, cinquanta-set, noranta-dos, deu, seixanta-quatre.
+Truca al sis, vuitanta-u, vint-i-dos, vint-i-set, zero, u.
+Afegeix a l'agenda el número del Mohamed amir Rojano: sis, noranta, cinquanta-vuit, quaranta-nou, quaranta-set.
+Truca al sis, seixanta-sis, vint-i-sis, noranta, noranta.
+Afegeix a l'agenda el número de la Cristina Carmona: sis, seixanta-cinc, trenta-vuit, vuitanta-dos, zero, tres.
+Truca al sis, divuit, zero, u, quaranta-quatre, quaranta-u.
+Afegeix a l'agenda el número del Santiago Lora: sis, trenta-vuit, disset, dinou, trenta-cinc.
+Truca al sis, trenta-cinc, divuit, vint-i-tres, cinquanta-cinc.
+Afegeix a l'agenda el número de l'Abigaïl Blanquez: sis, vuitanta-nou, quaranta-cinc, trenta-cinc, setanta-set.
+Truca al sis, setanta-dos, vint-i-u, vuitanta-tres, seixanta-quatre.
+Afegeix a l'agenda el número del Martí Huesca: sis, setanta-set, seixanta-tres, vint-i-set, deu.
+Truca al sis, quaranta-tres, seixanta-set, seixanta-cinc, setanta-u.
+Afegeix a l'agenda el número de la Rosa Carmona: sis, quaranta-u, vint-i-sis, zero, cinc, noranta-sis.
+Truca al sis, seixanta, seixanta-set, trenta-nou, onze.
+Afegeix a l'agenda el número de l'Estel Couso: sis, noranta-nou, noranta-quatre, vint-i-nou, trenta-sis.
+Truca al sis, seixanta-dos, quinze, trenta-u, vint.
+Afegeix a l'agenda el número de l'Albà Alvarado: sis, zero, sis, quaranta-nou, cinquanta-vuit, zero, set.
+Truca al sis, setanta-tres, quaranta-vuit, seixanta-quatre, zero, sis.
+Afegeix a l'agenda el número del Neizan Chen: sis, vuitanta-sis, deu, vuitanta-cinc, setanta-quatre.
+Truca al sis, noranta-nou, quaranta-dos, dinou, vuitanta-vuit.
+Afegeix a l'agenda el número de la Neida Camus: sis, seixanta-cinc, setanta-set, zero, sis, quaranta-quatre.
+Truca al sis, cinquanta, quaranta-set, seixanta-nou, trenta-nou.
+Afegeix a l'agenda el número de l'Elian Salmeron: sis, zero, cinc, quaranta-dos, vint-i-vuit, noranta-quatre.
+Truca al sis, seixanta, vuitanta-u, zero, set, vuitanta-sis.
+Afegeix a l'agenda el número de l'Alguer Morato: sis, setanta-dos, setanta-sis, zero, onze.
+Truca al sis, vint-i-set, seixanta-sis, noranta-vuit, cinquanta-u.
+Afegeix a l'agenda el número del Marcel Verano: sis, quaranta, cinquanta-dos, cinquanta-tres, seixanta-nou.
+Truca al sis, zero, quatre, trenta-dos, onze, noranta-tres.
+Afegeix a l'agenda el número de l'Alícia Borjas: sis, vint-i-sis, seixanta-vuit, vint-i-quatre, noranta-set.
+Truca al sis, trenta-tres, vint-i-cinc, trenta-tres, vint-i-vuit.
+Afegeix a l'agenda el número del Yassir Dols: sis, seixanta-nou, setanta, vuitanta-tres, vint-i-vuit.
+Truca al sis, noranta-vuit, setanta-dos, noranta-set, vuitanta-vuit.
+Afegeix a l'agenda el número de l'Eiden Vilardell: sis, seixanta-sis, cinquanta-cinc, noranta-quatre, quinze.
+Truca al sis, vuitanta-cinc, setanta-sis, disset, seixanta-vuit.
+Afegeix a l'agenda el número de l'Iria Vicioso: sis, quaranta-tres, vuitanta-cinc, dinou, vint-i-nou.
+Truca al sis, trenta-cinc, catorze, seixanta-sis, onze.
+Afegeix a l'agenda el número del Saül Vega: sis, vuitanta-sis, cinquanta-dos, cinquanta-sis, zero, vuit.
+Truca al sis, seixanta-quatre, zero, dos, vuitanta-quatre, setanta-u.
+Afegeix a l'agenda el número del Juan Lope: sis, seixanta-set, divuit, setanta-set, quaranta-nou.
+Truca al sis, zero, cinc, trenta-u, vint, vuitanta-sis.
+Afegeix a l'agenda el número de la Yaiza Gene: sis, vuitanta-sis, noranta-vuit, setanta-cinc, zero, vuit.
+Truca al sis, noranta-u, divuit, quaranta-tres, quaranta-tres.
+Afegeix a l'agenda el número del Tom Alferez: sis, vuitanta-nou, deu, trenta-nou, quaranta-vuit.
+Truca al sis, noranta-dos, quaranta-quatre, vuitanta-set, seixanta-vuit.
+Afegeix a l'agenda el número de la Dèlia Gene: sis, seixanta-cinc, vuitanta-set, vuitanta-nou, vuitanta-quatre.
+Truca al sis, quaranta-vuit, quaranta-tres, quaranta-dos, setanta-set.
+Afegeix a l'agenda el número del Lluc Fontan: set, quaranta-vuit, noranta-cinc, quaranta-u, vuitanta-nou.
+Truca al sis, zero, zero, dos, tretze, noranta-nou.
+Afegeix a l'agenda el número del Milan Ordoñez: sis, seixanta-quatre, zero, vint-i-tres, trenta-u.
+Truca al sis, seixanta-tres, noranta-sis, setanta-nou, quaranta.
+Afegeix a l'agenda el número de l'Aseel Ruescas: sis, trenta-sis, disset, setanta-dos, setanta-dos.
+Truca al sis, quaranta-u, vint-i-u, setze, quaranta-quatre.
+Afegeix a l'agenda el número del Bosco Domenech: sis, noranta-set, vint, vint-i-sis, vuitanta-set.
+Truca al sis, onze, noranta-vuit, setanta-sis, seixanta-u.
+Afegeix a l'agenda el número del Yousef Seco: sis, zero, quatre, setanta-quatre, vint-i-set, vuitanta-cinc.
+Truca al sis, trenta-set, vuitanta-set, cinquanta-nou, vint-i-nou.
+Afegeix a l'agenda el número de l'Anouar Cruces: sis, vint-i-vuit, vuitanta-set, cinquanta-sis, trenta-set.
+Truca al sis, quaranta, noranta-tres, noranta-set, vuitanta-vuit.
+Afegeix a l'agenda el número de la Judith De Armas: sis, noranta-cinc, trenta-set, vuitanta-cinc, quaranta-u.
+Truca al sis, vuitanta-tres, trenta-dos, vint-i-tres, vuitanta-dos.
+Afegeix a l'agenda el número de la Sabrina Simal: sis, quaranta-vuit, cinquanta-dos, cinquanta-nou, dotze.
+Truca al sis, setanta-nou, trenta-sis, cinquanta-dos, tretze.
+Afegeix a l'agenda el número de la Candela Mengibar: sis, vint-i-nou, zero, vuit, trenta, zero, sis.
+Truca al sis, seixanta-set, cinquanta-quatre, seixanta-quatre, setanta-u.
+Afegeix a l'agenda el número de la Pilar Magro: sis, divuit, quaranta-nou, vuitanta-sis, zero, set.
+Truca al sis, trenta-cinc, setanta-cinc, setanta-sis, setze.
+Afegeix a l'agenda el número de l'Iago Beteta: sis, quinze, quaranta-vuit, quaranta, onze.
+Truca al sis, vint-i-cinc, tretze, setanta-nou, trenta-cinc.
+Afegeix a l'agenda el número de l'Asia De Los Santos: sis, quaranta-cinc, vint, zero, trenta-sis.
+Truca al sis, seixanta-nou, seixanta, setanta-set, seixanta-nou.
+Afegeix a l'agenda el número de l'Ignacio Soteras: sis, vuitanta-vuit, vint-i-cinc, tretze, setanta-u.
+Truca al sis, seixanta-quatre, divuit, vint-i-cinc, trenta-dos.
+Afegeix a l'agenda el número de l'Alexandra Barrull: set, vint-i-set, zero, tres, dotze, vuitanta-sis.
+Truca al sis, setanta-dos, quaranta-set, vuitanta-dos, quaranta-set.
+Afegeix a l'agenda el número de l'Alejandra Corbera: sis, vuitanta-dos, trenta-dos, quaranta-quatre, seixanta-u.
+Truca al sis, quaranta-vuit, seixanta-nou, quaranta-vuit, seixanta-u.
+Afegeix a l'agenda el número de la Leyre Cambra: sis, seixanta-set, trenta-nou, setanta, noranta-set.
+Truca al sis, seixanta-set, cinquanta-quatre, trenta-tres, seixanta-set.
+Afegeix a l'agenda el número de l'Adriana Mercado: sis, cinquanta-nou, vuitanta-u, vint-i-vuit, setanta-nou.
+Truca al sis, onze, vuitanta, setanta-set, setanta-set.
+Afegeix a l'agenda el número de la Naomi Caballe: sis, seixanta-sis, noranta-set, seixanta-quatre, vuitanta.
+Truca al sis, setanta-vuit, setanta-tres, trenta-sis, noranta-sis.
+Afegeix a l'agenda el número de l'Antonio Salgueiro: sis, setanta-vuit, vint-i-tres, noranta-vuit, quaranta-cinc.
+Truca al sis, trenta-nou, vint-i-quatre, setanta-vuit, vint-i-dos.
+Afegeix a l'agenda el número del Rauric Morente: sis, cinquanta-tres, trenta, cinquanta-quatre, vint-i-dos.
+Truca al sis, noranta-tres, seixanta-set, vuitanta-quatre, noranta-vuit.
+Afegeix a l'agenda el número de l'Eros Marroquin: sis, quaranta, vuitanta, setanta-u, zero.
+Truca al sis, zero, vuit, quinze, setanta-tres, seixanta-vuit.
+Afegeix a l'agenda el número del Walid Llopis: sis, divuit, divuit, noranta-nou, vint-i-cinc.
+Truca al sis, vint-i-set, tretze, vint-i-tres, tretze.
+Afegeix a l'agenda el número del Derek Villasante: sis, vint-i-vuit, cinquanta-vuit, quaranta-set, noranta-nou.
+Truca al sis, divuit, vuitanta-sis, noranta-quatre, noranta-sis.
+Afegeix a l'agenda el número del Rayan Borrell: sis, seixanta-nou, vint-i-quatre, cinquanta-quatre, setanta.
+Truca al sis, cinquanta-cinc, vuitanta-set, trenta-dos, zero, sis.
+Afegeix a l'agenda el número del Jordan Civera: sis, noranta-dos, seixanta-quatre, trenta-cinc, trenta-sis.
+Truca al sis, seixanta-quatre, trenta-sis, vint-i-quatre, noranta-quatre.
+Afegeix a l'agenda el número del León Gaston: sis, onze, setanta-u, vuitanta, trenta-tres.
+Truca al sis, quaranta-tres, seixanta-vuit, zero, set, zero, tres.
+Afegeix a l'agenda el número de la Bayan Maneiro: sis, noranta-tres, vuitanta-dos, dinou, zero.
+Truca al sis, noranta-vuit, vuitanta-sis, vuitanta-nou, dinou.
+Afegeix a l'agenda el número de l'Àfrica Llobet: sis, seixanta-sis, seixanta-vuit, vuitanta-cinc, cinquanta-cinc.
+Truca al sis, onze, trenta-nou, quaranta-vuit, setanta-u.
+Afegeix a l'agenda el número de la Victòria De Torres: set, vint-i-dos, cinquanta-tres, deu, cinquanta-nou.
+Truca al sis, setanta-cinc, setanta-tres, vint-i-set, vint-i-tres.
+Afegeix a l'agenda el número del José Almanza: sis, zero, nou, dinou, quaranta-dos, setanta-dos.
+Truca al sis, cinquanta-tres, trenta-vuit, cinquanta, setanta-cinc.
+Afegeix a l'agenda el número de la Naiara Armendariz: sis, cinquanta, zero, set, setanta-nou, vint-i-quatre.
+Truca al sis, noranta, vint-i-tres, onze, zero.
+Afegeix a l'agenda el número de l'Erica Rufino: sis, trenta-vuit, trenta, trenta-dos, zero, nou.
+Truca al set, quaranta-set, seixanta-u, noranta-set, zero, nou.
+Afegeix a l'agenda el número de l'Azahara Duque: sis, vuitanta-cinc, vuitanta-tres, trenta-cinc, seixanta-dos.
+Truca al set, quaranta-vuit, zero, u, vuitanta-vuit, trenta-quatre.
+Afegeix a l'agenda el número de l'Edurne Peralta: set, vint-i-dos, setanta, quaranta-quatre, setanta-vuit.
+Truca al sis, setanta-vuit, quaranta-u, vuitanta-u, setanta-quatre.
+Afegeix a l'agenda el número de l'Aledis Llado: sis, trenta-dos, noranta-set, deu, noranta-vuit.
+Truca al sis, zero, nou, dotze, zero, vuit, zero, quatre.
+Afegeix a l'agenda el número de la Sandra Cuerda: sis, quaranta-quatre, quaranta-sis, trenta-tres, vuitanta-sis.
+Truca al sis, setanta-dos, catorze, zero, dos, quaranta-dos.
+Afegeix a l'agenda el número de l'Aday Mihai: sis, setanta-tres, vint-i-cinc, cinquanta-sis, quaranta-vuit.
+Truca al sis, zero, u, vint-i-nou, vuitanta-cinc, vint-i-cinc.
+Afegeix a l'agenda el número de l'Israa Fraguas: set, quaranta-set, cinquanta-nou, cinquanta-sis, zero, quatre.
+Truca al sis, vuitanta, setanta-sis, cinquanta-nou, quaranta-set.
+Afegeix a l'agenda el número de l'Artur Zhou: sis, quinze, vuitanta-tres, trenta-sis, seixanta-nou.
+Truca al sis, noranta-sis, seixanta-tres, quaranta-cinc, quaranta-quatre.
+Afegeix a l'agenda el número del Jaume Parente: sis, quaranta-dos, vuitanta-nou, noranta, vint-i-quatre.
+Truca al sis, vuitanta-sis, vuitanta-tres, trenta-nou, cinquanta-u.
+Afegeix a l'agenda el número de la Yasmin Donaire: sis, vint-i-tres, quaranta, seixanta-u, trenta-u.
+Truca al sis, setze, noranta-set, cinquanta-tres, zero.
+Afegeix a l'agenda el número del Sergi Reverte: sis, cinquanta-cinc, deu, deu, noranta-sis.
+Truca al sis, cinquanta-dos, trenta-set, zero, vuit, zero, u.
+Afegeix a l'agenda el número del Noah Rivas: sis, zero, vuit, seixanta-u, cinquanta, seixanta-quatre.
+Truca al sis, zero, set, setanta-cinc, seixanta-vuit, seixanta-set.
+Afegeix a l'agenda el número de la Cora Serrato: sis, vint-i-sis, seixanta, setanta-set, vuitanta-vuit.
+Truca al sis, setanta, trenta-dos, vint, cinquanta-tres.
+Afegeix a l'agenda el número de l'Ivan Taboas: sis, noranta-u, vuitanta, zero, sis, setanta-u.
+Truca al sis, vuitanta-tres, setanta-vuit, trenta, tretze.
+Afegeix a l'agenda el número de la Chams Raso: sis, vuitanta-nou, setanta-vuit, noranta-set, setanta-tres.
+Truca al sis, trenta-dos, trenta-sis, seixanta-vuit, vint-i-dos.
+Afegeix a l'agenda el número del Tom Garrote: sis, noranta-quatre, trenta-tres, seixanta-sis, vuitanta-nou.
+Truca al sis, noranta-set, seixanta-set, zero, vuit, vint-i-dos.
+Afegeix a l'agenda el número de l'Erika Palacin: sis, vint, vuitanta-vuit, cinquanta-quatre, cinquanta-set.
+Truca al sis, quaranta, cinquanta, vuitanta-dos, quaranta-tres.
+Afegeix a l'agenda el número de la Vinyet Bascuñana: set, quaranta-set, setanta-dos, trenta, cinquanta-cinc.
+Truca al sis, cinquanta-tres, trenta-dos, trenta-vuit, cinquanta-dos.
+Afegeix a l'agenda el número del Sasha Gilabert: sis, noranta-quatre, noranta-set, setanta-sis, seixanta-dos.
+Truca al sis, quaranta-quatre, trenta-dos, noranta-u, cinquanta-dos.
+Afegeix a l'agenda el número de l'Evan De Los Reyes: sis, quinze, vuitanta-cinc, vuitanta-vuit, cinquanta.
+Truca al sis, seixanta-set, setze, vint-i-nou, vint-i-quatre.
+Afegeix a l'agenda el número de l'Islam Marban: sis, seixanta-cinc, seixanta-quatre, seixanta-vuit, setanta-quatre.
+Truca al sis, dotze, setanta-dos, noranta-set, catorze.
+Afegeix a l'agenda el número del Jaume Marcet: sis, trenta-vuit, vint-i-quatre, cinquanta-sis, trenta-u.
+Truca al sis, dotze, catorze, seixanta-nou, cinquanta-sis.
+Afegeix a l'agenda el número del Sam Raja: sis, setanta-cinc, seixanta-sis, vint-i-u, trenta-sis.
+Truca al sis, vuitanta-sis, setanta-u, zero, u, cinquanta-nou.
+Afegeix a l'agenda el número del Niko Camus: sis, onze, setze, cinquanta-quatre, vuitanta-vuit.
+Truca al sis, quaranta-u, vint-i-vuit, vint-i-sis, trenta.
+Afegeix a l'agenda el número del Teo Echarri: sis, trenta-tres, seixanta-dos, noranta-sis, vint-i-tres.
+Truca al sis, seixanta-u, vuitanta-cinc, vuitanta-sis, seixanta-u.
+Afegeix a l'agenda el número de la Valentina Ibrahim: sis, quaranta, cinquanta-dos, cinquanta-dos, zero, nou.
+Truca al sis, trenta-sis, vint-i-vuit, setanta-vuit, disset.
+Afegeix a l'agenda el número del Jan Landa: sis, vuitanta-u, cinquanta-quatre, setanta-vuit, noranta-quatre.
+Truca al sis, trenta-tres, trenta-nou, disset, seixanta-tres.
+Afegeix a l'agenda el número de l'Abba Pellicer: sis, zero, vuit, setanta-sis, setanta-set, noranta-set.
+Truca al sis, quaranta-cinc, trenta-tres, catorze, trenta-tres.
+Afegeix a l'agenda el número de la Bianca Reus: sis, setanta-cinc, vint-i-dos, setanta-vuit, vint-i-dos.
+Truca al sis, quaranta-cinc, trenta-sis, tretze, quaranta-vuit.
+Afegeix a l'agenda el número de l'Iona Chapela: set, quaranta-set, setze, vuitanta-vuit, noranta-set.
+Truca al sis, trenta-sis, cinquanta, noranta-set, zero, tres.
+Afegeix a l'agenda el número de l'Amina Melgosa: sis, noranta-u, setanta-sis, trenta-vuit, divuit.
+Truca al sis, zero, vuit, cinquanta-vuit, vint-i-tres, zero, quatre.
+Afegeix a l'agenda el número de l'Ànnia Drammeh: sis, vint-i-dos, quaranta-vuit, deu, setze.
+Truca al sis, quinze, cinquanta-cinc, noranta-tres, cinquanta-tres.
+Afegeix a l'agenda el número de la Judit Portugues: sis, setanta-sis, vint-i-u, noranta-quatre, seixanta-tres.
+Truca al sis, setanta-sis, trenta-vuit, noranta-set, setze.
+Afegeix a l'agenda el número del Nizar Saborido: sis, setanta-cinc, seixanta-dos, zero, cinc, vuitanta-u.
+Truca al sis, trenta-u, setanta-quatre, noranta-cinc, quaranta-sis.
+Afegeix a l'agenda el número de la Juliet Goenaga: sis, vint-i-nou, vint-i-tres, noranta-nou, cinquanta-nou.
+Truca al sis, quaranta-u, vint-i-set, setanta-sis, trenta-quatre.
+Afegeix a l'agenda el número del Quirze Movilla: sis, trenta-u, quaranta-sis, catorze, setanta-vuit.
+Truca al sis, noranta-quatre, quaranta-tres, vuitanta-set, trenta-sis.
+Afegeix a l'agenda el número del José antonio Cercos: sis, zero, cinc, cinquanta, seixanta-sis, vint-i-quatre.
+Truca al sis, trenta, vuitanta-nou, vint-i-vuit, vint-i-dos.
+Afegeix a l'agenda el número de la Fàtima Altamirano: sis, cinquanta-vuit, seixanta-dos, deu, cinquanta-sis.
+Truca al sis, trenta-cinc, trenta-nou, catorze, quaranta-cinc.
+Afegeix a l'agenda el número de l'Acfred Torra: sis, noranta-dos, seixanta-sis, seixanta-cinc, vuitanta-set.
+Truca al sis, noranta-u, quaranta, onze, vint.
+Afegeix a l'agenda el número de l'Adhara Bono: sis, dinou, vint-i-set, seixanta-nou, quaranta-vuit.
+Truca al sis, vint-i-tres, trenta-u, trenta-set, setanta-set.
+Afegeix a l'agenda el número de l'Adonay Muela: sis, noranta-quatre, cinquanta-nou, trenta, seixanta-cinc.
+Truca al sis, quaranta, disset, cinquanta-dos, cinquanta-dos.
+Afegeix a l'agenda el número de l'Einar Abelenda: sis, zero, tres, noranta, vuitanta-cinc, zero, u.
+Truca al sis, vuitanta-nou, seixanta, cinquanta-nou, cinquanta-vuit.
+Afegeix a l'agenda el número del Jesús Arriaga: set, quaranta-vuit, vuitanta-cinc, cinquanta-cinc, quaranta-dos.
+Truca al sis, quaranta-sis, zero, set, divuit, noranta-dos.
+Afegeix a l'agenda el número del Xavi Abrante: sis, trenta-quatre, seixanta-u, quaranta-cinc, vint-i-quatre.
+Truca al set, quaranta-vuit, vuitanta-set, vint-i-quatre, zero, u.
+Afegeix a l'agenda el número de l'Artur Leiva: sis, setanta-sis, zero, set, deu, cinquanta-set.
+Truca al sis, cinquanta-nou, seixanta-tres, noranta-set, zero, vuit.
+Afegeix a l'agenda el número de la Nayla De La Morena: sis, noranta-cinc, vuitanta, vuitanta, onze.
+Truca al sis, noranta, quaranta-dos, quaranta-vuit, seixanta.
+Afegeix a l'agenda el número del Badr Manchon: sis, setanta-set, noranta-nou, cinquanta-vuit, tretze.
+Truca al sis, vint-i-cinc, zero, tres, vuitanta, quaranta.
+Afegeix a l'agenda el número del Wasim Moussaoui: sis, trenta-dos, quaranta-tres, seixanta-set, noranta.
+Truca al sis, vuitanta-tres, quaranta-vuit, seixanta-set, zero, u.
+Afegeix a l'agenda el número de l'Abril Loukili: sis, setanta-sis, trenta, trenta-nou, setanta-tres.
+Truca al sis, vint-i-set, cinquanta-quatre, cinquanta-dos, seixanta-nou.
+Afegeix a l'agenda el número del Mohamed amin Fornos: sis, cinquanta-cinc, dinou, cinquanta-set, vint-i-vuit.
+Truca al sis, seixanta-u, setanta-tres, cinquanta-cinc, seixanta-cinc.
+Afegeix a l'agenda el número de la Yasmina Hajji: sis, setanta-tres, setanta-quatre, vint-i-set, vint-i-sis.
+Truca al sis, cinquanta-set, quaranta, vint-i-set, quaranta-sis.
+Afegeix a l'agenda el número de l'Emma Angles: sis, zero, cinc, seixanta-vuit, trenta-nou, vuitanta-nou.
+Truca al sis, vint-i-nou, noranta-u, seixanta-vuit, trenta-dos.
+Afegeix a l'agenda el número de la Maria March: sis, setanta-dos, vuitanta-nou, quaranta-u, cinquanta-vuit.
+Truca al sis, quaranta, cinquanta-nou, vint-i-set, tretze.
+Afegeix a l'agenda el número del Pau Alabau: sis, seixanta-dos, vint, vint, zero.
+Truca al sis, trenta-tres, noranta-vuit, vint-i-dos, noranta-u.
+Afegeix a l'agenda el número de l'Otger Arboleda: sis, seixanta-quatre, noranta-u, divuit, noranta.
+Truca al sis, vuitanta-sis, setanta-u, trenta-quatre, vuitanta-vuit.
+Afegeix a l'agenda el número de l'Afnan Garreta: sis, cinquanta-sis, quaranta-u, trenta-set, noranta-quatre.
+Truca al sis, setanta, zero, set, cinquanta-u, cinquanta-quatre.
+Afegeix a l'agenda el número de la Dèlia Bosch: set, dotze, noranta-cinc, setze, setanta.
+Truca al set, quaranta-set, catorze, setanta, zero, quatre.
+Afegeix a l'agenda el número de la Sarayma Brun: sis, setanta-quatre, vint-i-dos, seixanta-sis, noranta-quatre.
+Truca al sis, seixanta-quatre, cinquanta-set, quaranta-tres, dotze.
+Afegeix a l'agenda el número de la Dana Burguillo: set, disset, dotze, setanta-u, onze.
+Truca al sis, vuitanta, vuitanta-vuit, vuitanta-u, quaranta-cinc.
+Afegeix a l'agenda el número del Max Miño: sis, vint-i-sis, cinquanta-quatre, quaranta-set, seixanta-sis.
+Truca al sis, vint-i-tres, seixanta-nou, noranta-vuit, zero, cinc.
+Afegeix a l'agenda el número de l'Ares Tejero: sis, onze, disset, cinquanta-dos, cinquanta-nou.
+Truca al sis, dotze, vint-i-quatre, quaranta, vuitanta-nou.
+Afegeix a l'agenda el número de la Dèlia Moledo: sis, zero, cinc, trenta-tres, vint-i-quatre, setanta-tres.
+Truca al sis, quaranta-dos, trenta-dos, setanta-tres, zero, quatre.
+Afegeix a l'agenda el número de la Lucía Villamor: sis, noranta-vuit, trenta-cinc, seixanta-u, setanta-sis.
+Truca al sis, cinquanta-sis, quaranta-sis, trenta-tres, trenta-u.
+Afegeix a l'agenda el número del Yael Herreras: sis, vint-i-dos, divuit, setanta-vuit, setanta-tres.
+Truca al sis, noranta-dos, quaranta-set, trenta-vuit, quaranta-u.
+Afegeix a l'agenda el número del Theo Uribarri: sis, zero, tres, vuitanta-vuit, noranta-cinc, noranta-quatre.
+Truca al sis, seixanta-dos, noranta-quatre, cinquanta-vuit, zero, quatre.
+Afegeix a l'agenda el número del Caleb Vilar: sis, vuitanta-dos, setanta-sis, setanta-sis, vuitanta-sis.
+Truca al sis, vuitanta-quatre, quaranta-vuit, setanta-sis, vuitanta-set.
+Afegeix a l'agenda el número de la Saja Pliego: sis, cinquanta, noranta-vuit, setanta-nou, quaranta-sis.
+Truca al sis, trenta-sis, setanta-tres, quaranta-nou, vint-i-cinc.
+Afegeix a l'agenda el número de la Nisrin Bizcocho: sis, cinquanta-dos, quinze, cinquanta-vuit, noranta-sis.
+Truca al sis, vint-i-tres, quaranta-nou, zero, dos, trenta-u.
+Afegeix a l'agenda el número del Rafael Londoño: sis, seixanta-dos, quaranta-set, vuitanta-set, cinquanta-tres.
+Truca al sis, noranta-u, noranta, zero, vuit, cinquanta-dos.
+Afegeix a l'agenda el número del Lucas Viguera: sis, cinquanta-u, setanta-nou, onze, vint-i-u.
+Truca al sis, quaranta-dos, vint-i-u, noranta, setze.
+Afegeix a l'agenda el número de l'Àngela Carrasco: sis, quinze, cinquanta, quaranta-dos, trenta-cinc.
+Truca al sis, seixanta-sis, noranta-tres, quaranta-sis, setanta-tres.
+Afegeix a l'agenda el número de l'Haroun Fontana: sis, vint-i-dos, vint-i-cinc, setanta, cinquanta.
+Truca al sis, zero, set, quaranta-quatre, trenta-u, setanta-tres.
+Afegeix a l'agenda el número del Christian Bejar: sis, cinquanta-quatre, setanta-u, quaranta-quatre, quaranta-dos.
+Truca al sis, trenta-dos, setanta-cinc, tretze, quaranta-vuit.
+Afegeix a l'agenda el número de l'Itziar Merlos: sis, quinze, zero, setanta-tres, vint-i-tres.
+Truca al sis, seixanta-nou, quaranta-vuit, trenta, cinquanta-nou.
+Afegeix a l'agenda el número del Quirze Bocanegra: sis, vint-i-vuit, setanta-cinc, noranta-sis, vuitanta-tres.
+Truca al sis, vint-i-dos, vuitanta-tres, quaranta-quatre, tretze.
+Afegeix a l'agenda el número de la Clàudia Bayona: sis, noranta-vuit, noranta-vuit, noranta-sis, vint-i-vuit.
+Truca al sis, noranta-quatre, cinquanta-dos, vint, zero, set.
+Afegeix a l'agenda el número del Guerau Carreira: sis, quaranta, seixanta, noranta-set, seixanta-tres.
+Truca al sis, disset, vint-i-cinc, noranta-u, quaranta.
+Afegeix a l'agenda el número de l'Aran Villavicencio: sis, noranta-tres, quaranta-vuit, seixanta-set, trenta-dos.
+Truca al sis, vint, setanta-quatre, trenta-u, setanta-dos.
+Afegeix a l'agenda el número de la Mel Riobo: sis, vuitanta-u, quaranta-cinc, setze, vint-i-quatre.
+Truca al sis, zero, nou, seixanta-sis, zero, trenta-sis.
+Afegeix a l'agenda el número de la Brianna Collazos: sis, vuitanta-nou, dotze, zero, vuit, cinquanta-u.
+Truca al sis, seixanta-sis, seixanta-quatre, deu, trenta-quatre.
+Afegeix a l'agenda el número de l'Ibrahima Llopis: sis, quaranta-tres, vint-i-quatre, vint-i-sis, seixanta-vuit.
+Truca al sis, vuitanta-dos, seixanta-u, vuitanta-tres, setanta-sis.
+Afegeix a l'agenda el número del Dante Richart: sis, seixanta, zero, cinc, trenta-quatre, trenta-vuit.
+Truca al sis, noranta-vuit, vint-i-vuit, quaranta-cinc, vuitanta-cinc.
+Afegeix a l'agenda el número de la Saray Lirola: sis, vuitanta-tres, setanta-dos, noranta-dos, noranta-quatre.
+Truca al sis, vuitanta-u, seixanta, seixanta-set, noranta-cinc.
+Afegeix a l'agenda el número de l'Aurora Yin: sis, vint-i-dos, zero, nou, vuitanta-cinc, vint-i-u.
+Truca al sis, vint-i-vuit, onze, seixanta, setanta-tres.
+Afegeix a l'agenda el número del Yahya Callau: sis, setanta, quaranta-dos, quaranta-dos, trenta-set.
+Truca al sis, seixanta-set, zero, dos, trenta-set, seixanta-vuit.
+Afegeix a l'agenda el número de la Naia Santisteban: sis, trenta-dos, cinquanta-cinc, vuitanta, noranta-dos.
+Truca al set, disset, trenta-set, seixanta-set, quaranta-sis.
+Afegeix a l'agenda el número de la Keyla Ursu: sis, vint-i-dos, noranta-dos, trenta-quatre, trenta-cinc.
+Truca al sis, vuitanta-dos, cinquanta-tres, trenta-tres, setanta-sis.
+Afegeix a l'agenda el número de l'Elisabeth Arbelo: sis, quaranta-u, quaranta-dos, vint-i-nou, trenta-u.
+Truca al sis, trenta-u, zero, u, quaranta, noranta.
+Afegeix a l'agenda el número de l'Abril Vigil: sis, setanta, zero, u, setanta-nou, setze.
+Truca al sis, vint-i-set, vint-i-quatre, seixanta-vuit, cinquanta-dos.
+Afegeix a l'agenda el número del Saüc Carrasquilla: sis, quinze, quaranta-vuit, divuit, vint-i-dos.
+Truca al sis, quaranta-u, vint-i-vuit, seixanta-sis, noranta-tres.
+Afegeix a l'agenda el número de l'Ibrahima Barral: sis, vint-i-nou, seixanta-tres, setanta-vuit, zero.
+Truca al set, vint-i-set, noranta-cinc, noranta, divuit.
+Afegeix a l'agenda el número de la Manuela Vilas: sis, trenta-cinc, seixanta-nou, vuitanta-cinc, noranta-cinc.
+Truca al sis, setanta, trenta-nou, catorze, setanta-vuit.
+Afegeix a l'agenda el número de l'Èlia  Andrade: sis, cinquanta-vuit, setanta-u, tretze, trenta-set.
+Truca al sis, zero, sis, cinquanta-vuit, trenta-vuit, noranta-dos.
+Afegeix a l'agenda el número de l'Aseel Gimenez: sis, cinquanta-tres, zero, tres, noranta, noranta-nou.
+Truca al sis, noranta-tres, noranta, quaranta-vuit, seixanta-dos.
+Afegeix a l'agenda el número de l'Aiden Gaona: sis, vint-i-set, catorze, vuitanta-nou, setanta.
+Truca al sis, quaranta-set, quaranta-set, quaranta-dos, trenta-nou.
+Afegeix a l'agenda el número del Liam Ludeña: sis, quaranta, vuitanta-dos, trenta-tres, zero, quatre.
+Truca al set, dotze, zero, setanta-quatre, trenta-nou.
+Afegeix a l'agenda el número de la Cataleya Piñon: sis, vint-i-cinc, trenta-tres, quaranta-cinc, cinquanta-vuit.
+Truca al sis, noranta-dos, vuitanta-tres, zero, u, cinquanta-vuit.
+Afegeix a l'agenda el número de la Natàlia Cabedo: sis, onze, cinquanta-set, cinquanta-quatre, zero, vuit.
+Truca al sis, zero, vuit, setanta-set, noranta-sis, noranta-quatre.
+Afegeix a l'agenda el número de l'Ivette Hortelano: sis, noranta-sis, quaranta-u, vuitanta, vint-i-cinc.
+Truca al sis, divuit, quaranta-cinc, seixanta-tres, zero.
+Afegeix a l'agenda el número del Drac Galdon: sis, quinze, seixanta-dos, quaranta-quatre, quaranta-vuit.
+Truca al sis, cinquanta, vuitanta-nou, deu, seixanta-quatre.
+Afegeix a l'agenda el número del Saad De La Mata: sis, noranta-set, noranta-u, setanta-sis, quaranta-vuit.
+Truca al sis, vint-i-set, vint-i-tres, setanta-set, quaranta-set.
+Afegeix a l'agenda el número de l'Isabel Ruescas: sis, cinquanta-dos, noranta-set, noranta-dos, vint-i-nou.
+Truca al sis, onze, trenta-nou, tretze, seixanta-set.
+Afegeix a l'agenda el número del Cesc Marcos: sis, zero, vuit, trenta-nou, trenta-nou, vuitanta-quatre.
+Truca al sis, zero, tres, setanta-sis, zero, quatre, setanta-vuit.
+Afegeix a l'agenda el número de l'Isabel Estudillo: sis, quaranta, zero, noranta-sis, cinquanta-sis.
+Truca al sis, seixanta-nou, zero, u, noranta-u, trenta-u.
+Afegeix a l'agenda el número de la Leia Saucedo: sis, cinquanta-set, cinquanta-dos, vint-i-dos, tretze.
+Truca al sis, noranta, noranta-u, trenta-dos, trenta-dos.
+Afegeix a l'agenda el número del Raül Rosillo: sis, setze, cinquanta-dos, zero, set, disset.
+Truca al sis, setanta-tres, vint-i-sis, setanta-vuit, quaranta-sis.
+Afegeix a l'agenda el número de l'Erick Civera: sis, onze, seixanta-vuit, vuitanta-nou, seixanta.
+Truca al sis, zero, cinc, seixanta-cinc, setanta-sis, cinquanta-u.
+Afegeix a l'agenda el número del Diego Saorin: sis, quaranta-vuit, vuitanta-sis, vint-i-u, vuitanta-vuit.
+Truca al sis, quaranta-vuit, noranta-tres, setanta-u, vint.
+Afegeix a l'agenda el número de l'Eider Caracuel: sis, noranta-quatre, setanta-sis, cinquanta, seixanta-nou.
+Truca al sis, seixanta-quatre, vint-i-set, setanta-cinc, trenta-set.
+Afegeix a l'agenda el número de la Lena Cea: set, onze, zero, quatre, trenta-u, vuitanta-set.
+Truca al sis, seixanta-u, trenta-tres, vint-i-nou, seixanta-dos.
+Afegeix a l'agenda el número de l'Ahmed Bota: sis, noranta-sis, noranta-u, trenta-sis, seixanta-nou.
+Truca al sis, disset, zero, tres, zero, seixanta-nou.
+Afegeix a l'agenda el número de l'Iker Palomo: sis, vint-i-sis, cinquanta-cinc, seixanta-quatre, cinquanta-quatre.
+Truca al sis, trenta-vuit, noranta-quatre, quaranta-vuit, seixanta-quatre.
+Afegeix a l'agenda el número de l'Ibrahima Cintado: sis, noranta, divuit, setanta-cinc, cinquanta-vuit.
+Truca al sis, cinquanta-cinc, setanta-sis, quinze, vint-i-u.
+Afegeix a l'agenda el número de la Gal·la Morata: sis, vuitanta-cinc, deu, noranta-vuit, vuitanta.
+Truca al sis, zero, u, zero, u, quinze, vint-i-set.
+Afegeix a l'agenda el número de la Blanca Palau: sis, seixanta-nou, vuitanta-u, vint-i-sis, trenta-cinc.
+Truca al sis, zero, vuitanta-nou, vuitanta-tres, noranta-quatre.
+Afegeix a l'agenda el número de l'Oto Orue: sis, setanta-vuit, vint-i-set, cinquanta-sis, cinquanta-dos.
+Truca al sis, noranta-cinc, vint-i-set, zero, nou, noranta-u.
+Afegeix a l'agenda el número de la Brianna Goicoechea: sis, setanta-sis, setanta-sis, trenta-set, setanta-dos.
+Truca al sis, vuitanta, noranta-tres, cinquanta-tres, cinquanta-dos.
+Afegeix a l'agenda el número de l'Amir Castañon: sis, noranta-sis, seixanta-u, setze, vuitanta-dos.
+Truca al sis, seixanta, vuitanta-vuit, quaranta-sis, vuitanta.
+Afegeix a l'agenda el número de l'Alícia Collazo: set, disset, noranta-cinc, vuitanta-sis, setanta-tres.
+Truca al sis, zero, nou, seixanta-dos, seixanta-set, quaranta-nou.
+Afegeix a l'agenda el número del Lluc Moret: sis, trenta-tres, vuitanta-dos, zero, u, zero, u.
+Truca al sis, trenta-tres, trenta-cinc, trenta-sis, seixanta.
+Afegeix a l'agenda el número del Jacobo Belinchon: sis, seixanta-dos, vuitanta-nou, zero, cinc, vint-i-quatre.
+Truca al sis, zero, nou, cinquanta-cinc, vuitanta-nou, vuitanta-dos.
+Afegeix a l'agenda el número del Bilal Marron: sis, seixanta, trenta, vuitanta-cinc, vint.
+Truca al sis, trenta-nou, zero, u, zero, dos, quaranta-vuit.
+Afegeix a l'agenda el número de l'Alfonso Lagar: sis, noranta-tres, zero, cinc, seixanta-nou, cinquanta-vuit.
+Truca al sis, quaranta-sis, zero, nou, setze, setanta-tres.
+Afegeix a l'agenda el número de l'Acfred Bort: sis, trenta-sis, zero, dos, cinquanta-nou, cinquanta-tres.
+Truca al set, vint-i-set, quinze, seixanta, trenta-sis.
+Afegeix a l'agenda el número de la Blanca Del Aguila: sis, onze, vint-i-cinc, quaranta-vuit, setze.
+Truca al sis, cinquanta-quatre, vint-i-set, vuitanta-tres, trenta.
+Afegeix a l'agenda el número de l'Àneu  Cortina: sis, seixanta-set, catorze, trenta, vint-i-u.
+Truca al sis, seixanta-tres, seixanta-sis, setanta-cinc, trenta-nou.
+Afegeix a l'agenda el número del Siraj Vicioso: sis, vuitanta-tres, setanta-vuit, cinquanta-cinc, vint-i-cinc.
+Truca al sis, quaranta-dos, noranta-dos, seixanta-u, setanta-tres.
+Afegeix a l'agenda el número de la Nayeli Feito: sis, trenta-tres, setanta-nou, zero, tres, quinze.
+Truca al set, vint-i-dos, cinquanta, seixanta-nou, setze.
+Afegeix a l'agenda el número del Sergi Antuña: sis, vint-i-dos, trenta-nou, vint-i-set, vuitanta-vuit.
+Truca al sis, vint-i-tres, vint-i-tres, noranta-u, trenta-tres.
+Afegeix a l'agenda el número del Safwan Valerio: sis, zero, cinc, setze, trenta, catorze.
+Truca al sis, vint-i-dos, onze, setanta-set, cinquanta-u.
+Afegeix a l'agenda el número del Nicolàs Franco: sis, quaranta-u, vuitanta-sis, zero, set, dinou.
+Truca al sis, cinquanta-quatre, trenta-vuit, seixanta-set, trenta-quatre.
+Afegeix a l'agenda el número de l'Alaia Pedrosa: sis, vuitanta-cinc, zero, sis, vuitanta-vuit, vint-i-quatre.
+Truca al sis, setanta-dos, seixanta-cinc, quaranta-nou, noranta-tres.
+Afegeix a l'agenda el número de la Sílvia Holguin: sis, quaranta-nou, noranta, vint-i-quatre, zero, sis.
+Truca al sis, quaranta-cinc, cinquanta-u, zero, nou, trenta-sis.
+Afegeix a l'agenda el número de la Triana Bueso: set, vint-i-dos, vuitanta-nou, trenta-u, onze.
+Truca al set, disset, quaranta-dos, quaranta-dos, setanta-dos.
+Afegeix a l'agenda el número del Pablo Ribeiro: sis, noranta-tres, trenta-quatre, cinquanta-tres, zero, set.
+Truca al sis, setanta-nou, trenta-quatre, vint-i-u, zero, set.
+Afegeix a l'agenda el número del Grau Villodres: sis, noranta-sis, quaranta-sis, cinquanta-quatre, vint-i-nou.
+Truca al sis, cinquanta-set, dinou, vuitanta-tres, vint-i-dos.
+Afegeix a l'agenda el número del Gerai Blanco: sis, dinou, trenta-cinc, setanta-tres, noranta-quatre.
+Truca al sis, quaranta-vuit, quaranta-set, trenta-u, onze.
+Afegeix a l'agenda el número de la Triana Cañada: sis, trenta-sis, setanta-sis, vint-i-sis, quaranta-tres.
+Truca al sis, seixanta, noranta-nou, setanta-vuit, cinquanta-sis.
+Afegeix a l'agenda el número de la Sofía Guardiola: set, dotze, setze, cinquanta-dos, seixanta-nou.
+Truca al sis, quaranta-cinc, vint-i-nou, setze, vuitanta-sis.
+Afegeix a l'agenda el número de la Sophie Diez: sis, cinquanta-cinc, setanta-quatre, setanta-sis, vuitanta-vuit.
+Truca al sis, vint-i-dos, quaranta-sis, zero, sis, trenta-dos.
+Afegeix a l'agenda el número de l'Avril Candia: sis, trenta-dos, noranta, setanta-cinc, seixanta.
+Truca al sis, seixanta-cinc, dotze, quaranta-cinc, trenta-nou.
+Afegeix a l'agenda el número de la Mariama Carabias: sis, vint-i-dos, quaranta-sis, zero, u, noranta.
+Truca al sis, vint-i-sis, vint-i-vuit, noranta-quatre, zero, sis.
+Afegeix a l'agenda el número del Ton Villasante: sis, vuitanta-set, dinou, vint-i-quatre, tretze.
+Truca al sis, setze, quaranta-nou, seixanta-vuit, cinquanta-nou.
+Afegeix a l'agenda el número del Miguel Horcajo: sis, trenta-tres, setze, seixanta-vuit, vuitanta-vuit.
+Truca al sis, zero, vuit, cinquanta-cinc, trenta, vint-i-tres.
+Afegeix a l'agenda el número de la Nayra Henriquez: sis, cinquanta, vint-i-dos, setanta-nou, seixanta-quatre.
+Truca al sis, zero, set, vint-i-nou, quaranta-vuit, zero, tres.
+Afegeix a l'agenda el número de la Ruth Galilea: set, quaranta-set, catorze, noranta-sis, zero, tres.
+Truca al set, dotze, quaranta-nou, seixanta-nou, vuitanta-u.
+Afegeix a l'agenda el número de la Damià Basterra: sis, seixanta-nou, cinquanta-vuit, noranta-cinc, quaranta-quatre.
+Truca al sis, quaranta-vuit, cinquanta, zero, sis, zero, sis.
+Afegeix a l'agenda el número de l'Oliver Pubill: sis, noranta-dos, noranta, setanta-tres, setanta-u.
+Truca al sis, quaranta-tres, noranta-nou, zero, nou, trenta-cinc.
+Afegeix a l'agenda el número de l'Adrià Esquinas: sis, noranta-tres, vint-i-dos, catorze, noranta-u.
+Truca al sis, quaranta-cinc, vint, noranta-u, tretze.
+Afegeix a l'agenda el número del Saad Manzanero: sis, setanta-cinc, quaranta-tres, vuitanta-sis, cinquanta.
+Truca al sis, noranta-dos, cinquanta-nou, zero, vuit, vuitanta-u.
+Afegeix a l'agenda el número del Yeray Cepeda: sis, disset, seixanta-u, setanta-set, noranta-sis.
+Truca al sis, trenta, vint, zero, dos, dinou.
+Afegeix a l'agenda el número de la Vinyet Racero: sis, vint-i-dos, setanta-nou, noranta-u, vint.
+Truca al sis, vint-i-nou, zero, sis, quaranta-vuit, trenta-u.
+Afegeix a l'agenda el número de l'Aidé Ferriol: set, dotze, quaranta-sis, setanta-cinc, catorze.
+Truca al sis, setanta-quatre, trenta-u, noranta-quatre, setanta-vuit.
+Reserva'm un bitllet de tren per anar a el Montmell el cinc d'agost a la tarda.
+Quant dura el viatge en autobús fins a Xerta?
+Com ho puc fer per anar a Alguaire amb moto?
+Com ho puc fer per anar a el Pont de Suert dissabte?
+Necessito un bitllet de tren per anar a Nulles dilluns.
+Quant dura el trajecte en autobús fins a Susqueda?
+A quina hora arriba l'autobús de Cardona?
+el vint-i-tres de maig hauria d'anar a Sant Pere Sallavinera.
+dilluns he d'anar a Flix amb autobús.
+Com puc anar a Sant Cugat del Vallès el cinc d'agost al migdia?
+He d'anar a Castellbell i el Vilar sense agafar el cotxe l'onze de juliol a les vuit.
+M'agradaria anar a Riba-roja d'Ebre amb cotxe.
+A quina hora passa el primer autobús per l'Escala el disset d'octubre?
+Com puc arribar a Cabanabona amb bicicleta?
+Quina és la millor manera d'anar a Sant Jaume de Frontanyà sense agafar el metro?
+Vull anar a Palau-solità i Plegamans amb tren.
+Quant dura el viatge en autobús fins a Fontanilles?
+Quan passa l'autobús per les Planes d'Hostoles?
+Mira'm quina és la millor manera d'anar a Queralbs amb bicicleta.
+diumenge he d'anar a Torrefarrera amb autobús.
+Quant dura el trajecte en autobús fins a Castellnou de Seana?
+A quina hora arriba l'autobús de Soses?
+M'agradaria anar a Peramola amb moto.
+A quina hora passa el primer autobús per Ciutadilla l'onze de juliol?
+Com puc arribar a Albanyà amb cotxe?
+Quina és la millor manera d'anar a Vilada amb tren?
+Vull anar a la Guingueta d'Àneu amb tren.
+Quines parades fa l'autobús que va a Avinyó?
+Com puc arribar a Pontons sense agafar el cotxe?
+Quina és la millor manera d'anar a Maldà amb trasport públic?
+Reserva'm un bitllet de tren per anar a Colldejou divendres a les vuit.
+Quant dura el viatge en autobús fins a Botarell?
+Com ho puc fer per anar a Malgrat de Mar amb autobús?
+Mira'm quina és la millor manera d'anar a Fulleda sense agafar el cotxe.
+A quina hora passa el primer autobús per Massoteres dilluns?
+Com puc anar a Passanant i Belltall diumenge a dos quarts de tres?
+Com ho puc fer per anar a Sant Bartomeu del Grau el vint-i-tres de maig?
+Necessito un bitllet de tren per anar a Coll de Nargó dilluns.
+Quantes parades té el trajecte en l'autobús fins a Sant Jordi Desvalls?
+A quina hora arriba l'autobús de Puiggròs?
+M'agradaria anar a Sant Vicenç de Torelló sense agafar el metro.
+A quina hora passa el primer autobús per Garrigoles dijous?
+Com puc anar a Pacs del Penedès el dos de juny a les nou?
+Com ho puc fer per anar a Salou el disset d'octubre?
+dimecres he d'anar a Abrera amb autobús.
+Quant dura el trajecte en autobús fins a el Milà?
+Quina és la millor manera d'anar a Isona i Conca Dellà sense agafar el metro?
+Reserva'm un bitllet de tren per anar a Castellar del Riu el vint-i-tres de maig a les dues.
+Quant dura el viatge en autobús fins a Garrigoles?
+Quan passa l'autobús per Sant Llorenç de la Muga?
+Mira'm quina és la millor manera d'anar a Bot a peu.
+el disset d'octubre he d'anar a Esplugues de Llobregat amb autobús.
+Com puc anar a Ullastrell l'onze de juliol a les deu?
+Quina és la millor manera d'anar a els Alamús a peu?
+Vull anar a Aiguafreda amb bicicleta.
+Quines parades fa l'autobús que va a Castelldefels?
+Quan passa l'autobús per el Port de la Selva?
+Mira'm quina és la millor manera d'anar a Sora amb tren.
+Necessito un bitllet de tren per anar a Matadepera diumenge.
+Com puc arribar a Castellví de la Marca amb trasport públic?
+Mira'm quina és la millor manera d'anar a Torrefarrera a peu.
+Necessito un bitllet de tren per anar a Bassella diumenge.
+Quantes parades té el trajecte en l'autobús fins a el Lloar?
+A quina hora arriba l'autobús de Navàs?
+Vull anar a Castellgalí amb tren.
+Quines parades fa l'autobús que va a Castellbisbal?
+A quina hora arriba l'autobús de Sant Miquel de Campmajor?
+el dos de juny hauria d'anar a Sant Jaume de Frontanyà.
+l'onze de juliol he d'anar a Santa Coloma de Farners amb autobús.
+Com puc arribar a la Vall de Bianya a peu?
+Quina és la millor manera d'anar a Sobremunt amb tren?
+Necessito un bitllet de tren per anar a Guissona el cinc d'agost.
+Com puc anar a Castelló d'Empúries dimecres a la tarda?
+He d'anar a Cabó amb tren el vint-i-tres de maig a les vuit.
+Reserva'm un bitllet de tren per anar a l'Aldea el disset d'octubre a les deu.
+Quantes parades té el trajecte en l'autobús fins a Pedret i Marzà?
+A quina hora arriba l'autobús de Castell-Platja d'Aro?
+Reserva'm un bitllet de tren per anar a Parets del Vallès dijous a tres quarts de dotze.
+Quant dura el trajecte en autobús fins a Salt?
+Quina és la millor manera d'anar a Alió amb tren?
+Reserva'm un bitllet de tren per anar a Cornellà de Llobregat dijous a les cinc.
+Quant dura el viatge en autobús fins a Sant Martí de Riucorb?
+Com ho puc fer per anar a Campdevànol amb tren?
+Com ho puc fer per anar a Passanant i Belltall el vint-i-tres de maig?
+Reserva'm un bitllet de tren per anar a Gelida dijous a dos quarts i cinc de set.
+Quantes parades té el trajecte en l'autobús fins a Ventalló?
+Quina és la millor manera d'anar a les Masies de Roda amb cotxe?
+Vull anar a Llanars sense agafar el cotxe.
+Quant dura el viatge en autobús fins a Granyanella?
+A quina hora arriba l'autobús de Lloret de Mar?
+Vull anar a Santa Maria d'Oló sense agafar el metro.
+Quant dura el viatge en autobús fins a Regencós?
+Com ho puc fer per anar a Cabanelles amb bicicleta?
+Mira'm quina és la millor manera d'anar a Premià de Mar sense agafar el metro.
+dimecres he d'anar a Sidamon amb autobús.
+Quan passa l'autobús per Farrera?
+dimarts hauria d'anar a Santa Cecília de Voltregà.
+A quina hora passa el primer autobús per Santa Pau dimarts?
+Com ho puc fer per anar a Torrelles de Llobregat a peu?
+Mira'm quina és la millor manera d'anar a Urús amb moto.
+dimarts he d'anar a Vilallonga de Ter amb autobús.
+Com ho puc fer per anar a Calella sense agafar el metro?
+diumenge hauria d'anar a Benifallet.
+Quines parades fa l'autobús que va a els Torms?
+Com puc arribar a Viladamat amb cotxe?
+Mira'm quina és la millor manera d'anar a Guils de Cerdanya sense agafar el metro.
+el disset d'octubre he d'anar a la Nou de Gaià amb autobús.
+Com puc arribar a Roda de Ter a peu?
+M'agradaria anar a Sant Cugat del Vallès sense agafar el metro.
+A quina hora passa el primer autobús per la Riera de Gaià diumenge?
+Com ho puc fer per anar a Almoster sense agafar el metro?
+Vull anar a la Pobla de Cérvoles a peu.
+Quines parades fa l'autobús que va a Santa Eugènia de Berga?
+Com ho puc fer per anar a Sales de Llierca amb cotxe?
+Com ho puc fer per anar a Montferri divendres?
+A quina hora passa el primer autobús per Capçanes l'onze de juliol?
+Quan passa l'autobús per Passanant i Belltall?
+el cinc d'agost hauria d'anar a Campdevànol.
+Quines parades fa l'autobús que va a Torroella de Montgrí?
+Com ho puc fer per anar a la Selva del Camp amb cotxe?
+Reserva'm un bitllet de tren per anar a Terrades demà passat a les dues.
+Quantes parades té el trajecte en l'autobús fins a Almenar?
+A quina hora arriba l'autobús de Castellvell del Camp?
+M'agradaria anar a Guixers a peu.
+A quina hora passa el primer autobús per Bràfim diumenge?
+Quan passa l'autobús per Senan?
+el cinc d'agost hauria d'anar a l'Estany.
+A quina hora passa el primer autobús per Granyena de les Garrigues dilluns?
+Com puc arribar a Estaràs amb bicicleta?
+diumenge hauria d'anar a Sant Salvador de Guardiola.
+l'onze de juliol he d'anar a Tarroja de Segarra amb autobús.
+A quina hora arriba l'autobús del Vilosell?
+Vull anar a la Roca del Vallès amb cotxe.
+Quant dura el viatge en autobús fins a Bagà?
+Com ho puc fer per anar a Fogars de la Selva amb moto?
+Mira'm quina és la millor manera d'anar a Sarroca de Lleida amb cotxe.
+Necessito un bitllet de tren per anar a Granollers el cinc d'agost.
+Com ho puc fer per anar a Sant Vicenç de Montalt amb tren?
+M'agradaria anar a Sant Just Desvern amb autobús.
+Quant dura el trajecte en autobús fins a Camarasa?
+Quina és la millor manera d'anar a Sant Andreu de la Barca sense agafar el cotxe?
+Vull anar a Figueres amb autobús.
+Com puc anar a Gualba el vint-i-tres de maig a les deu?
+Quina és la millor manera d'anar a Bellver de Cerdanya a peu?
+el cinc d'agost he d'anar a Gualta amb autobús.
+Com ho puc fer per anar a Ripoll amb autobús?
+Mira'm quina és la millor manera d'anar a Sunyer a peu.
+Necessito un bitllet de tren per anar a Cànoves i Samalús el vint-i-tres de maig.
+Quantes parades té el trajecte en l'autobús fins a Ossó de Sió?
+Quina és la millor manera d'anar a Santa Maria d'Oló a peu?
+Necessito un bitllet de tren per anar a Fondarella dilluns.
+Com puc anar a Cistella demà a les onze?
+Mira'm quina és la millor manera d'anar a Alt Àneu sense agafar el metro.
+dijous he d'anar a Pinós amb autobús.
+Quan passa l'autobús per Duesaigües?
+Reserva'm un bitllet de tren per anar a Montesquiu dissabte a la tarda.
+Quant dura el trajecte en autobús fins a Cornudella de Montsant?
+Com ho puc fer per anar a Masdenverge el cinc d'agost?
+Necessito un bitllet de tren per anar a Estaràs dijous.
+Com puc anar a Castell de l'Areny dilluns a les set?
+Quina és la millor manera d'anar a Vallmoll amb moto?
+Necessito un bitllet de tren per anar a Isòvol diumenge.
+Com puc anar a Banyeres del Penedès dimarts a les dotze?
+dilluns hauria d'anar a Alòs de Balaguer.
+Com puc anar a Sant Fost de Campsentelles el cinc d'agost a dos quarts de tres?
+Mira'm quina és la millor manera d'anar a Aiguaviva amb bicicleta.
+A quina hora passa el primer autobús per Caldes de Montbui dimarts?
+Quina és la millor manera d'anar a Vilallonga del Camp amb autobús?
+Necessito un bitllet de tren per anar a Camarles el disset d'octubre.
+Com puc arribar a Térmens amb tren?
+demà passat hauria d'anar a Sant Pere de Vilamajor.
+A quina hora passa el primer autobús per Riner l'onze de juliol?
+Com ho puc fer per anar a Guardiola de Berguedà a peu?
+M'agradaria anar a Piera amb tren.
+Com puc anar a Viladecavalls el vint-i-tres de maig a la tarda?
+Quina és la millor manera d'anar a la Baronia de Rialb sense agafar el cotxe?
+Reserva'm un bitllet de tren per anar a el Rourell dissabte a un quart i mig d'onze.
+Com puc anar a Vila-sacra demà passat a un quart de deu?
+Com ho puc fer per anar a la Granadella el disset d'octubre?
+el disset d'octubre he d'anar a Tivissa amb autobús.
+A quina hora arriba l'autobús d'Alpicat?
+Vull anar a la Riba sense agafar el metro.
+Com ho puc fer per anar a Rocafort de Queralt sense agafar el metro?
+divendres hauria d'anar a Sant Andreu Salou.
+Quant dura el viatge en autobús fins a Sils?
+He d'anar a Tàrrega sense agafar el metro dilluns al matí.
+Vull anar a Olvan amb trasport públic.
+Com puc anar a Massanes el cinc d'agost a dos quarts i cinc de set?
+Com ho puc fer per anar a Vilanova de l'Aguda dissabte?
+A quina hora passa el primer autobús per Ponts dilluns?
+Com puc anar a Bagà divendres al vespre?
+Com ho puc fer per anar a Benifallet diumenge?
+Necessito un bitllet de tren per anar a Ivars de Noguera dimecres.
+Com puc anar a Masarac dimecres a dos quarts de tres?
+l'onze de juliol hauria d'anar a Corbera d'Ebre.
+Quantes parades té el trajecte en l'autobús fins a Horta de Sant Joan?
+Com ho puc fer per anar a Sant Guim de la Plana el vint-i-tres de maig?
+Quant dura el trajecte en autobús fins a Vallcebre?
+M'agradaria anar a Isona i Conca Dellà a peu.
+Quines parades fa l'autobús que va a Rodonyà?
+He d'anar a Urús a peu dimarts a les dotze.
+Vull anar a Térmens amb cotxe.
+Com puc anar a Llambilles el disset d'octubre a la nit?
+Mira'm quina és la millor manera d'anar a Castellnou de Bages amb moto.
+A quina hora passa el primer autobús per Canovelles el cinc d'agost?
+Quan passa l'autobús per Sagàs?
+M'agradaria anar a Vilanova d'Escornalbou amb autobús.
+Quant dura el trajecte en autobús fins a Barcelona?
+M'agradaria anar a Sidamon amb trasport públic.
+Quines parades fa l'autobús que va a Arbolí?
+Quan passa l'autobús per Argelaguer?
+Mira'm quina és la millor manera d'anar a Sant Jaume de Llierca amb tren.
+dissabte he d'anar a Benifallet amb autobús.
+Com ho puc fer per anar a Vinebre amb moto?
+Mira'm quina és la millor manera d'anar a el Pont de Vilomara i Rocafort amb tren.
+A quina hora passa el primer autobús per Esterri d'Àneu demà?
+Quan passa l'autobús per Corbera d'Ebre?
+M'agradaria anar a Sidamon amb bicicleta.
+Quant dura el trajecte en autobús fins a Camprodon?
+Quina és la millor manera d'anar a Arbeca amb moto?
+Vull anar a Puigcerdà sense agafar el metro.
+Quines parades fa l'autobús que va a Linyola?
+Com ho puc fer per anar a Llobera divendres?
+Quines parades fa l'autobús que va a Vilopriu?
+Mira'm quina és la millor manera d'anar a Llimiana a peu.
+Quines parades fa l'autobús que va a Sant Boi de Lluçanès?
+Quina és la millor manera d'anar a Puigverd d'Agramunt amb moto?
+Necessito un bitllet de tren per anar a Juià el vint-i-tres de maig.
+Com puc anar a Vimbodí i Poblet el disset d'octubre a les nou?
+Mira'm quina és la millor manera d'anar a Vilafranca del Penedès amb tren.
+demà he d'anar a Torroella de Fluvià amb autobús.
+He d'anar a Berga a peu dimecres a les cinc.
+Vull anar a Horta de Sant Joan amb cotxe.
+Quant dura el trajecte en autobús fins a Palamós?
+He d'anar a Colera a peu el disset d'octubre a les quatre.
+Reserva'm un bitllet de tren per anar a Salt el cinc d'agost a les cinc.
+Com puc arribar a Peramola amb trasport públic?
+Vull anar a Jorba sense agafar el metro.
+Quant dura el viatge en autobús fins a Mont-roig del Camp?
+He d'anar a Guils de Cerdanya amb trasport públic dilluns al matí.
+Necessito un bitllet de tren per anar a Sant Adrià de Besòs dissabte.
+Com puc anar a Vallmoll divendres a un quart de deu?
+Mira'm quina és la millor manera d'anar a Ribes de Freser amb tren.
+Quines parades fa l'autobús que va a Sant Andreu Salou?
+Com ho puc fer per anar a Montmajor amb cotxe?
+Reserva'm un bitllet de tren per anar a l'Aleixar demà al vespre.
+Com puc anar a Prats i Sansor l'onze de juliol a les dues?
+M'agradaria anar a Sant Martí Vell sense agafar el metro.
+Quant dura el trajecte en autobús fins a Roses?
+Com ho puc fer per anar a Isona i Conca Dellà demà?
+Com puc anar a Olivella el cinc d'agost a dos quarts i cinc de set?
+Quina és la millor manera d'anar a Llagostera amb bicicleta?
+A quina hora passa el primer autobús per Aiguaviva dimecres?
+Com ho puc fer per anar a Capçanes el vint-i-tres de maig?
+A quina hora passa el primer autobús per Sant Quirze Safaja demà?
+A quina hora arriba l'autobús de les Masies de Roda?
+Vull anar a Barberà de la Conca sense agafar el cotxe.
+Quant dura el viatge en autobús fins a Vandellòs i l'Hospitalet de l'Infant?
+Quina és la millor manera d'anar a Sant Miquel de Campmajor amb moto?
+dimarts he d'anar a Òdena amb autobús.
+He d'anar a Vimbodí i Poblet amb trasport públic dimarts a les dotze.
+Reserva'm un bitllet de tren per anar a les Cabanyes l'onze de juliol a les tres.
+Com puc arribar a Urús amb autobús?
+Reserva'm un bitllet de tren per anar a Castellterçol divendres a les vuit.
+Com puc anar a Santa Coloma de Farners el vint-i-tres de maig a les deu?
+Com ho puc fer per anar a Prats de Lluçanès el disset d'octubre?
+demà passat he d'anar a Llambilles amb autobús.
+Com ho puc fer per anar a Sant Quirze del Vallès a peu?
+M'agradaria anar a Calaf amb moto.
+Com puc arribar a Camarasa amb autobús?
+Com ho puc fer per anar a Susqueda dimarts?
+el vint-i-tres de maig he d'anar a les Valls de Valira amb autobús.
+Com puc arribar a Sant Fruitós de Bages amb autobús?
+M'agradaria anar a Castelldefels amb bicicleta.
+Quant dura el trajecte en autobús fins a Arenys de Mar?
+Mira'm quina és la millor manera d'anar a Flaçà amb tren.
+A quina hora passa el primer autobús per Sant Feliu de Guíxols el vint-i-tres de maig?
+Com ho puc fer per anar a el Cogul amb tren?
+Vull anar a Granyena de Segarra amb trasport públic.
+Quant dura el trajecte en autobús fins a Santa Maria de Palautordera?
+Com ho puc fer per anar a Mediona el dos de juny?
+Quantes parades té el trajecte en l'autobús fins a Corçà?
+Quina és la millor manera d'anar a Castellvell del Camp amb tren?
+Necessito un bitllet de tren per anar a Calafell el cinc d'agost.
+Com puc arribar a Vilademuls amb cotxe?
+M'agradaria anar a Ullastrell amb tren.
+Quines parades fa l'autobús que va a Calonge de Segarra?
+He d'anar a Sant Cugat Sesgarrigues amb tren demà passat a les sis.
+A quina hora passa el primer autobús per el Prat de Llobregat dissabte?
+A quina hora arriba l'autobús d'Alfarràs?
+Necessito un bitllet de tren per anar a Gavet de la Conca el dos de juny.
+He d'anar a Tavertet amb tren dilluns a un quart de deu.
+l'onze de juliol he d'anar a Massanes amb autobús.
+Com ho puc fer per anar a Massanes el dos de juny?
+Quantes parades té el trajecte en l'autobús fins a Santa Pau?
+Quina és la millor manera d'anar a Sant Martí Sarroca sense agafar el metro?
+Quines parades fa l'autobús que va a Baix Pallars?
+A quina hora arriba l'autobús de Mura?
+Reserva'm un bitllet de tren per anar a Subirats el vint-i-tres de maig a dos quarts i cinc de set.
+Com puc arribar a Cornudella de Montsant sense agafar el metro?
+M'agradaria anar a la Selva del Camp amb tren.
+Com puc anar a la Jonquera el cinc d'agost a les vuit?
+Mira'm quina és la millor manera d'anar a la Coma i la Pedra amb bicicleta.
+A quina hora passa el primer autobús per Garcia diumenge?
+Quina és la millor manera d'anar a Pira amb autobús?
+Reserva'm un bitllet de tren per anar a la Pobla de Lillet dijous a les quatre.
+Com ho puc fer per anar a Cava sense agafar el cotxe?
+Com ho puc fer per anar a Avinyonet de Puigventós diumenge?
+l'onze de juliol he d'anar a Mieres amb autobús.
+Mira'm quina és la millor manera d'anar a Capafonts amb tren.
+Quant dura el viatge en autobús fins a el Port de la Selva?
+He d'anar a els Omellons amb bicicleta el dos de juny a les nou.
+Necessito un bitllet de tren per anar a Vilanova de l'Aguda diumenge.
+A quina hora arriba l'autobús de la Baronia de Rialb?
+Necessito un bitllet de tren per anar a Llagostera el dos de juny.
+Com puc arribar a Vilajuïga sense agafar el cotxe?
+Mira'm quina és la millor manera d'anar a Cubells amb autobús.
+A quina hora passa el primer autobús per Vilamaniscle dissabte?
+He d'anar a Vila-seca a peu demà a un quart i mig d'onze.
+Reserva'm un bitllet de tren per anar a Albesa dimarts a la una.
+Com puc arribar a Les amb moto?
+Vull anar a Ulldemolins amb tren.
+Com puc arribar a Miravet amb bicicleta?
+Vull anar a Sant Joan Despí a peu.
+Com ho puc fer per anar a Fígols a peu?
+Mira'm quina és la millor manera d'anar a Isòvol amb bicicleta.
+Quant dura el trajecte en autobús fins a Badalona?
+Com ho puc fer per anar a Tiurana dimecres?
+Com puc anar a Copons el cinc d'agost a la tarda?
+dimarts hauria d'anar a Montmeló.
+Com puc anar a Les el cinc d'agost a les deu?
+He d'anar a Prats i Sansor amb moto demà passat a un quart de deu.
+A quina hora passa el primer autobús per Borrassà diumenge?
+A quina hora arriba l'autobús de Pallejà?
+Necessito un bitllet de tren per anar a Aspa el dos de juny.
+He d'anar a Porrera amb cotxe dissabte a les sis.
+dilluns he d'anar a el Morell amb autobús.
+Quan passa l'autobús per Benifallet?
+Vull anar a Alòs de Balaguer amb moto.
+Quan passa l'autobús per Linyola?
+l'onze de juliol hauria d'anar a Ripoll.
+Quantes parades té el trajecte en l'autobús fins a Rajadell?
+M'agradaria anar a Sobremunt amb tren.
+Quant dura el trajecte en autobús fins a la Vilella Baixa?
+dilluns hauria d'anar a Maspujols.
+Quant dura el trajecte en autobús fins a Mas de Barberans?
+Mira'm quina és la millor manera d'anar a Cubells amb tren.
+Quantes parades té el trajecte en l'autobús fins a Torregrossa?
+Com ho puc fer per anar a Castellar del Vallès demà passat?
+Com puc arribar a el Masroig amb trasport públic?
+Mira'm quina és la millor manera d'anar a Vila-sana amb bicicleta.
+A quina hora passa el primer autobús per Llavorsí demà?
+Mira'm quina és la millor manera d'anar a la Sentiu de Sió amb autobús.
+Quines parades fa l'autobús que va a Osor?
+Com ho puc fer per anar a Calonge de Segarra dilluns?
+Quines parades fa l'autobús que va a la Bisbal del Penedès?
+Com ho puc fer per anar a Baix Pallars dijous?
+l'onze de juliol he d'anar a Verdú amb autobús.
+A quina hora arriba l'autobús de Borrassà?
+Necessito un bitllet de tren per anar a Malla el cinc d'agost.
+Mira'm quina és la millor manera d'anar a Sanaüja amb moto.
+demà he d'anar a Seva amb autobús.
+Quina és la millor manera d'anar a Sant Feliu de Codines amb autobús?
+Necessito un bitllet de tren per anar a la Pobla de Cérvoles divendres.
+He d'anar a Rajadell amb tren demà a les tres.
+Necessito un bitllet de tren per anar a Parlavà demà.
+Com ho puc fer per anar a Sant Fruitós de Bages dissabte?
+Quant dura el viatge en autobús fins a Cabrils?
+A quina hora arriba l'autobús de Sant Hilari Sacalm?
+demà passat he d'anar a Sant Fruitós de Bages amb autobús.
+Quan passa l'autobús per Pradell de la Teixeta?
+Reserva'm un bitllet de tren per anar a Meranges divendres a les onze.
+Com puc anar a Teià dimecres a dos quarts de tres?
+M'agradaria anar a Guissona amb tren.
+A quina hora arriba l'autobús de Susqueda?
+Reserva'm un bitllet de tren per anar a Soriguera dijous a les set.
+Quina és la millor manera d'anar a Quart amb cotxe?
+Necessito un bitllet de tren per anar a Marganell divendres.
+Com ho puc fer per anar a Sant Martí Sesgueioles sense agafar el cotxe?
+Necessito un bitllet de tren per anar a la Figuera dilluns.
+Com puc arribar a Cerdanyola del Vallès amb autobús?
+M'agradaria anar a l'Estany amb moto.
+Quantes parades té el trajecte en l'autobús fins a Mollet del Vallès?
+Com ho puc fer per anar a Sant Julià de Ramis dimecres?
+Quines parades fa l'autobús que va a Capçanes?
+Reserva'm un bitllet de tren per anar a Godall dimarts al migdia.
+Com puc arribar a Perafita amb moto?
+Vull anar a Cardedeu amb trasport públic.
+Quant dura el viatge en autobús fins a Puigpelat?
+Com ho puc fer per anar a Flaçà dijous?
+Com puc arribar a Alfés sense agafar el cotxe?
+divendres hauria d'anar a Alòs de Balaguer.
+Quantes parades té el trajecte en l'autobús fins a Foradada?
+Mira'm quina és la millor manera d'anar a Riudecols amb tren.
+A quina hora passa el primer autobús per Renau divendres?
+He d'anar a Sant Feliu Sasserra amb autobús l'onze de juliol al matí.
+Reserva'm un bitllet de tren per anar a la Pobla de Montornès el disset d'octubre a tres quarts de dotze.
+Com puc arribar a Savallà del Comtat a peu?
+Vull anar a Bellpuig sense agafar el cotxe.
+Com puc anar a Gombrèn el disset d'octubre a la nit?
+Com ho puc fer per anar a Sant Quintí de Mediona dissabte?
+Quant dura el trajecte en autobús fins a Montmajor?
+Com ho puc fer per anar a Maià de Montcal dijous?
+A quina hora passa el primer autobús per l'Estany dimecres?
+He d'anar a la Palma de Cervelló amb bicicleta demà a tres quarts de dotze.
+Quines parades fa l'autobús que va a Roda de Ter?
+Com ho puc fer per anar a Massoteres demà?
+el dos de juny he d'anar a Espinelves amb autobús.
+Com ho puc fer per anar a les Borges Blanques dilluns?
+A quina hora passa el primer autobús per Vallcebre demà?
+Mira'm quina és la millor manera d'anar a Cabanes sense agafar el cotxe.
+A quina hora passa el primer autobús per Parets del Vallès l'onze de juliol?
+M'agradaria anar a la Seu d'Urgell sense agafar el metro.
+Com ho puc fer per anar a la Torre de Cabdella sense agafar el cotxe?
+Reserva'm un bitllet de tren per anar a Fontcoberta dilluns a les dotze.
+Com puc arribar a Sant Feliu de Pallerols amb cotxe?
+Reserva'm un bitllet de tren per anar a Bossòst demà passat a un quart de deu.
+Com puc arribar a Montferri a peu?
+Vull anar a Vilassar de Mar amb tren.
+Com puc anar a Gósol diumenge a les quatre?
+Mira'm quina és la millor manera d'anar a les Borges Blanques amb moto.
+Quant dura el viatge en autobús fins a Colomers?
+demà hauria d'anar a Jorba.
+He d'anar a el Rourell amb cotxe demà al migdia.
+Necessito un bitllet de tren per anar a Sant Quirze de Besora dissabte.
+Com puc arribar a la Llacuna sense agafar el metro?
+Necessito un bitllet de tren per anar a Borredà dijous.
+Quan passa l'autobús per Sant Martí de Tous?
+dilluns he d'anar a Ogassa amb autobús.
+Com ho puc fer per anar a Ribes de Freser sense agafar el metro?
+Necessito un bitllet de tren per anar a Esparreguera el disset d'octubre.
+Mira'm quina és la millor manera d'anar a Llanars sense agafar el metro.
+Com puc arribar a Sidamon amb tren?
+Necessito un bitllet de tren per anar a Vallbona d'Anoia dijous.
+Quant dura el trajecte en autobús fins a Castellbell i el Vilar?
+el disset d'octubre hauria d'anar a l'Arboç.
+Quant dura el viatge en autobús fins a Pals?
+M'agradaria anar a Bovera amb trasport públic.
+Com puc anar a Baix Pallars el dos de juny a la nit?
+dijous hauria d'anar a Castellolí.
+Com puc arribar a Mont-roig del Camp amb moto?
+Necessito un bitllet de tren per anar a Pratdip dimecres.
+Quan passa l'autobús per Breda?
+divendres he d'anar a Cornudella de Montsant amb autobús.
+Quan passa l'autobús per Alella?
+Reserva'm un bitllet de tren per anar a Fontanilles el vint-i-tres de maig a la nit.
+Quan passa l'autobús per Tavertet?
+Necessito un bitllet de tren per anar a Hostalric diumenge.
+Com ho puc fer per anar a Òrrius a peu?
+Vull anar a el Pont d'Armentera amb cotxe.
+Quan passa l'autobús per Torrefeta i Florejacs?
+A quina hora passa el primer autobús per Vilanova i la Geltrú l'onze de juliol?
+Quina és la millor manera d'anar a Tremp amb autobús?
+Quant dura el viatge en autobús fins a la Riba?
+Com ho puc fer per anar a Crespià el dos de juny?
+A quina hora passa el primer autobús per Vilajuïga demà passat?
+Com ho puc fer per anar a Espot dissabte?
+Quines parades fa l'autobús que va a Sant Vicenç de Montalt?
+Quina és la millor manera d'anar a Sant Salvador de Guardiola amb tren?
+A quina hora passa el primer autobús per Tírvia l'onze de juliol?
+He d'anar a Llavorsí amb trasport públic demà a un quart de deu.
+Quant dura el viatge en autobús fins a Espolla?
+Mira'm quina és la millor manera d'anar a Sant Esteve de la Sarga sense agafar el cotxe.
+Com puc anar a Sant Mori el vint-i-tres de maig a les dues?
+Mira'm quina és la millor manera d'anar a l'Ametlla de Mar amb tren.
+el dos de juny he d'anar a Fontanilles amb autobús.
+diumenge hauria d'anar a Masquefa.
+Com puc anar a Fígols i Alinyà dimecres a les quatre?
+Reserva'm un bitllet de tren per anar a Súria el dos de juny a les vuit.
+He d'anar a Botarell amb tren divendres a les tres.
+A quina hora passa el primer autobús per Corbera d'Ebre dijous?
+Quina és la millor manera d'anar a Cunit amb tren?
+Com puc anar a Vilanova i la Geltrú demà passat al migdia?
+Vull anar a Llorac amb cotxe.
+Com ho puc fer per anar a Malla amb tren?
+Necessito un bitllet de tren per anar a Benifallet dijous.
+Com puc arribar a Vilafant amb moto?
+M'agradaria anar a Josa i Tuixén sense agafar el metro.
+A quina hora arriba l'autobús de Vilada?
+M'agradaria anar a Viladamat amb bicicleta.
+Com puc arribar a Salàs de Pallars amb tren?
+Vull anar a el Papiol amb tren.
+Com ho puc fer per anar a Siurana amb cotxe?
+Necessito un bitllet de tren per anar a Vilafant dissabte.
+Com ho puc fer per anar a Riells i Viabrea amb moto?
+Reserva'm un bitllet de tren per anar a Sant Carles de la Ràpita dijous a les tres.
+He d'anar a Beuda sense agafar el metro demà passat a les onze.
+Quant dura el viatge en autobús fins a Cantallops?
+Quina és la millor manera d'anar a la Guingueta d'Àneu amb autobús?
+Reserva'm un bitllet de tren per anar a Vilaür divendres a tres quarts de dotze.
+Com puc arribar a Girona sense agafar el cotxe?
+M'agradaria anar a la Portella amb cotxe.
+A quina hora arriba l'autobús de Lliçà d'Amunt?
+Vull anar a Camarasa amb bicicleta.
+Quan passa l'autobús per Olvan?
+Vull anar a Sobremunt amb bicicleta.
+Com puc anar a les Masies de Voltregà dilluns a les sis?
+M'agradaria anar a Moià amb tren.
+Com ho puc fer per anar a Monistrol de Calders diumenge?
+Quant dura el trajecte en autobús fins a Ripollet?
+Vull anar a Térmens a peu.
+Com ho puc fer per anar a Castellar del Riu divendres?
+Com puc anar a la Vilella Alta el dos de juny a dos quarts de tres?
+Vull anar a Tàrrega sense agafar el metro.
+Com ho puc fer per anar a Manlleu sense agafar el metro?
+Reserva'm un bitllet de tren per anar a Bellmunt del Priorat el dos de juny a la una.
+Com ho puc fer per anar a Torres de Segre dilluns?
+Quantes parades té el trajecte en l'autobús fins a Clariana de Cardener?
+Com ho puc fer per anar a Vidreres el vint-i-tres de maig?
+Necessito un bitllet de tren per anar a el Pla de Santa Maria el disset d'octubre.
+Quan passa l'autobús per Castellfollit de la Roca?
+Reserva'm un bitllet de tren per anar a Masquefa el disset d'octubre a les onze.
+He d'anar a Torrefeta i Florejacs sense agafar el metro el cinc d'agost a la una.
+A quina hora passa el primer autobús per Castellserà dilluns?
+M'agradaria anar a Senterada amb autobús.
+Com puc anar a Aldover el dos de juny a les onze?
+M'agradaria anar a Amposta sense agafar el metro.
+Quan passa l'autobús per Xerta?
+Necessito un bitllet de tren per anar a Móra d'Ebre dilluns.
+Com ho puc fer per anar a Vilobí d'Onyar dilluns?
+Quant dura el viatge en autobús fins a Vilanova de Segrià?
+el dos de juny he d'anar a Sant Pau de Segúries amb autobús.
+He d'anar a Linyola amb cotxe el dos de juny a les deu.
+Quines parades fa l'autobús que va a Gimenells i el Pla de la Font?
+Com ho puc fer per anar a Santa Eugènia de Berga dimecres?
+Quant dura el viatge en autobús fins a Palafolls?
+Quina és la millor manera d'anar a Isona i Conca Dellà amb autobús?
+diumenge he d'anar a Naut Aran amb autobús.
+Com ho puc fer per anar a Roquetes dilluns?
+Com ho puc fer per anar a el Pont de Bar amb trasport públic?
+Reserva'm un bitllet de tren per anar a Senterada el dos de juny a la nit.
+Com puc arribar a Massalcoreig amb bicicleta?
+Vull anar a Naut Aran amb autobús.
+Com ho puc fer per anar a la Fuliola a peu?
+Necessito un bitllet de tren per anar a Sant Llorenç d'Hortons dimarts.
+Mira'm quina és la millor manera d'anar a Gironella sense agafar el metro.
+Com ho puc fer per anar a Vilobí del Penedès sense agafar el metro?
+M'agradaria anar a Pontons amb autobús.
+He d'anar a Ascó amb autobús dilluns a les cinc.
+Quant dura el viatge en autobús fins a Solsona?
+Vull anar a Brunyola i Sant Martí Sapresa amb moto.
+Com puc arribar a Barberà del Vallès sense agafar el metro?
+A quina hora passa el primer autobús per la Pobla de Cérvoles dimecres?
+Quina és la millor manera d'anar a Santa Coloma de Queralt amb autobús?
+A quina hora passa el primer autobús per la Torre de Claramunt dimarts?
+He d'anar a Argelaguer amb tren demà passat a la nit.
+Quines parades fa l'autobús que va a la Sénia?
+demà passat hauria d'anar a la Sénia.
+A quina hora arriba l'autobús de Fondarella?
+Com puc anar a Vilaplana dilluns a un quart de deu?
+M'agradaria anar a Masdenverge sense agafar el metro.
+Com ho puc fer per anar a Alpicat dijous?
+Quantes parades té el trajecte en l'autobús fins a Lliçà d'Amunt?
+M'agradaria anar a Riudellots de la Selva a peu.
+Quan passa l'autobús per Vilabertran?
+dimarts he d'anar a Salomó amb autobús.
+Vull anar a Vilajuïga amb cotxe.
+Com puc arribar a Sant Jaume de Llierca amb moto?
+Necessito un bitllet de tren per anar a Querol demà.
+el disset d'octubre hauria d'anar a Sentmenat.
+Com ho puc fer per anar a Moià sense agafar el cotxe?
+Vull anar a Castellserà amb cotxe.
+Com ho puc fer per anar a Torà diumenge?
+Com ho puc fer per anar a Brunyola i Sant Martí Sapresa amb cotxe?
+Vull anar a Aiguafreda sense agafar el cotxe.
+A quina hora arriba l'autobús d'Avinyonet del Penedès?
+dimarts he d'anar a la Fatarella amb autobús.
+He d'anar a Gelida amb bicicleta divendres a la nit.
+Quant dura el trajecte en autobús fins a Sant Andreu Salou?
+divendres hauria d'anar a Camarles.
+Com ho puc fer per anar a Verdú amb bicicleta?
+Quines parades fa l'autobús que va a Premià de Dalt?
+el vint-i-tres de maig hauria d'anar a la Secuita.
+Quantes parades té el trajecte en l'autobús fins a Agramunt?
+M'agradaria anar a la Bisbal de Falset a peu.
+Com ho puc fer per anar a Sant Boi de Llobregat amb moto?
+Reserva'm un bitllet de tren per anar a l'Estany dissabte a les set.
+Quan passa l'autobús per Sils?
+A quina hora passa el primer autobús per Guils de Cerdanya diumenge?
+Vull anar a Vilassar de Dalt amb moto.
+A quina hora arriba l'autobús de Montornès de Segarra?
+A quina hora passa el primer autobús per la Pobla de Mafumet dimarts?
+dijous hauria d'anar a Alins.
+Com puc arribar a Canyelles amb trasport públic?
+Vull anar a Sant Andreu Salou amb bicicleta.
+Com puc arribar a Viladecans amb bicicleta?
+diumenge he d'anar a Sant Martí Sesgueioles amb autobús.
+M'agradaria anar a Vilanova del Camí amb tren.
+He d'anar a Masquefa amb trasport públic demà a les deu.
+Quines parades fa l'autobús que va a Igualada?
+Mira'm quina és la millor manera d'anar a Santa Llogaia d'Àlguema amb bicicleta.
+Com puc arribar a Vinaixa sense agafar el cotxe?
+M'agradaria anar a Mollet de Peralada amb trasport públic.
+Com ho puc fer per anar a Sant Pere de Torelló sense agafar el cotxe?
+diumenge he d'anar a Margalef amb autobús.
+Quina és la millor manera d'anar a Prats de Lluçanès amb trasport públic?
+Com puc arribar a Ossó de Sió amb trasport públic?
+He d'anar a Rubí amb bicicleta divendres a les sis.
+Com puc arribar a Artés amb cotxe?
+M'agradaria anar a Camarasa amb autobús.
+Com ho puc fer per anar a Vallcebre el cinc d'agost?
+Com ho puc fer per anar a la Torre de Claramunt amb trasport públic?
+el vint-i-tres de maig hauria d'anar a Gósol.
+A quina hora arriba l'autobús de Vilamacolum?
+dimarts he d'anar a el Pla de Santa Maria amb autobús.
+Quina és la millor manera d'anar a Montmeló a peu?
+Com puc anar a Castellet i la Gornal dissabte a dos quarts de tres?
+Necessito un bitllet de tren per anar a Sant Pere de Ribes diumenge.
+He d'anar a Savallà del Comtat amb trasport públic el dos de juny a les vuit.
+Reserva'm un bitllet de tren per anar a Capafonts el vint-i-tres de maig a les nou.
+M'agradaria anar a l'Albagés amb bicicleta.
+Quina és la millor manera d'anar a Santa Llogaia d'Àlguema sense agafar el metro?
+Quines parades fa l'autobús que va a Roquetes?
+el disset d'octubre hauria d'anar a els Plans de Sió.
+Quant dura el viatge en autobús fins a Sant Sadurní d'Osormort?
+el disset d'octubre hauria d'anar a Castellcir.
+Com puc arribar a Bellaguarda sense agafar el metro?
+M'agradaria anar a Corçà amb autobús.
+Com puc arribar a Vall de Cardós amb cotxe?
+Necessito un bitllet de tren per anar a Santa Coloma de Farners dimarts.
+Com ho puc fer per anar a Sant Cugat Sesgarrigues amb tren?
+dissabte he d'anar a Brunyola i Sant Martí Sapresa amb autobús.
+Necessito un bitllet de tren per anar a Sant Quintí de Mediona el disset d'octubre.
+dilluns hauria d'anar a Sora.
+Quines parades fa l'autobús que va a Vilallonga de Ter?
+Mira'm quina és la millor manera d'anar a Montclar amb moto.
+Com puc arribar a Manresa amb tren?
+A quina hora passa el primer autobús per Tornabous demà passat?
+M'agradaria anar a Senan amb tren.
+Quan passa l'autobús per la Granada?
+Quant dura el viatge en autobús fins a Conesa?
+A quina hora passa el primer autobús per Sant Joan les Fonts el disset d'octubre?
+M'agradaria anar a Bescanó sense agafar el cotxe.
+Com puc anar a Juneda dissabte a la nit?
+M'agradaria anar a Godall amb cotxe.
+Com puc anar a Malgrat de Mar demà passat a la nit?
+Reserva'm un bitllet de tren per anar a Darnius dimarts a la una.
+M'agradaria anar a Preixens amb autobús.
+Com ho puc fer per anar a els Plans de Sió dissabte?
+Quant dura el viatge en autobús fins a l'Espluga Calba?
+Reserva'm un bitllet de tren per anar a Constantí el dos de juny a les sis.
+Quina és la millor manera d'anar a Cabanelles amb bicicleta?
+A quina hora passa el primer autobús per Bellcaire d'Empordà divendres?
+Com ho puc fer per anar a l'Espluga Calba dimecres?
+Quantes parades té el trajecte en l'autobús fins a Sant Martí de Riucorb?
+Reserva'm un bitllet de tren per anar a Guardiola de Berguedà demà al migdia.
+M'agradaria anar a Puiggròs sense agafar el cotxe.
+Quina és la millor manera d'anar a l'Armentera amb moto?
+Necessito un bitllet de tren per anar a Baix Pallars dijous.
+Quina és la millor manera d'anar a Sant Miquel de Fluvià amb moto?
+Quines parades fa l'autobús que va a Bellvís?
+Necessito un bitllet de tren per anar a Sant Martí de Centelles demà.
+He d'anar a Castellvell del Camp amb cotxe dijous a un quart i mig d'onze.
+el cinc d'agost he d'anar a Bellcaire d'Empordà amb autobús.
+demà passat hauria d'anar a Ivars d'Urgell.
+Com puc anar a Rupià l'onze de juliol a les nou?
+dimarts hauria d'anar a Fígols.
+Com puc arribar a Arbolí amb moto?
+Necessito un bitllet de tren per anar a Menàrguens diumenge.
+Com ho puc fer per anar a Olvan el cinc d'agost?
+Com puc arribar a Foixà amb tren?
+dijous hauria d'anar a Campllong.
+Com ho puc fer per anar a Linyola amb autobús?
+Quant dura el viatge en autobús fins a la Llacuna?
+M'agradaria anar a Albanyà amb autobús.
+Mira'm quina és la millor manera d'anar a Urús amb bicicleta.
+He d'anar a Urús amb tren diumenge a les onze.
+Quant dura el viatge en autobús fins a Alfarràs?
+Reserva'm un bitllet de tren per anar a Rosselló el vint-i-tres de maig a les dues.
+Quina és la millor manera d'anar a Maçanet de la Selva amb tren?
+Com ho puc fer per anar a Tossa de Mar amb tren?
+A quina hora passa el primer autobús per la Sénia divendres?
+el vint-i-tres de maig hauria d'anar a Algerri.
+Com ho puc fer per anar a Bigues i Riells sense agafar el cotxe?
+Necessito un bitllet de tren per anar a Tarroja de Segarra dimarts.
+dimecres hauria d'anar a Gavet de la Conca.
+He d'anar a Granyanella amb autobús diumenge a un quart de deu.
+Com puc anar a Sant Julià de Cerdanyola dimarts a les onze?
+Vull anar a el Cogul sense agafar el cotxe.
+Quina és la millor manera d'anar a el Milà amb bicicleta?
+Com puc anar a Castellvell del Camp dimarts a tres quarts de dotze?
+Vull anar a Folgueroles amb tren.
+M'agradaria anar a Rodonyà amb cotxe.
+el dos de juny hauria d'anar a Ribera d'Ondara.
+Com puc anar a Vinebre dimarts a les cinc?
+el disset d'octubre hauria d'anar a Pinós.
+He d'anar a Cabanelles amb trasport públic el cinc d'agost a dos quarts de tres.
+Necessito un bitllet de tren per anar a Terrades dilluns.
+He d'anar a Banyeres del Penedès sense agafar el cotxe el dos de juny a les nou.
+Quantes parades té el trajecte en l'autobús fins a Darnius?
+diumenge hauria d'anar a Sant Esteve de la Sarga.
+Mira'm quina és la millor manera d'anar a Creixell amb bicicleta.
+A quina hora arriba l'autobús de Sant Esteve de Palautordera?
+Necessito un bitllet de tren per anar a Sant Pere de Riudebitlles dimecres.
+Vull anar a Tiurana amb trasport públic.
+Com ho puc fer per anar a Sant Salvador de Guardiola dijous?
+Com puc arribar a les Oluges sense agafar el metro?
+Necessito un bitllet de tren per anar a Torroella de Fluvià dilluns.
+Quan passa l'autobús per Caldes d'Estrac?
+el vint-i-tres de maig he d'anar a Riudoms amb autobús.
+dilluns hauria d'anar a Camarasa.
+He d'anar a Brunyola i Sant Martí Sapresa amb trasport públic el disset d'octubre a les onze.
+Com ho puc fer per anar a Castell de l'Areny sense agafar el cotxe?
+Reserva'm un bitllet de tren per anar a Senan el disset d'octubre a la nit.
+Mira'm quina és la millor manera d'anar a Ripollet amb moto.
+Quina és la millor manera d'anar a Castellfollit de la Roca amb autobús?
+Com puc arribar a Das amb moto?
+dimarts he d'anar a l'Ampolla amb autobús.
+Quina és la millor manera d'anar a Santa Coloma de Cervelló amb tren?
+Com puc arribar a Freginals amb bicicleta?
+Quant dura el trajecte en autobús fins a Vilaller?
+Reserva'm un bitllet de tren per anar a Bell-lloc d'Urgell el vint-i-tres de maig al matí.
+Com ho puc fer per anar a Vilanova i la Geltrú el vint-i-tres de maig?
+Com puc arribar a Carme sense agafar el metro?
+Reserva'm un bitllet de tren per anar a Batea l'onze de juliol a tres quarts de dotze.
+Com ho puc fer per anar a Sant Martí Sesgueioles dimecres?
+Com ho puc fer per anar a Sant Sadurní d'Anoia amb autobús?
+Quines parades fa l'autobús que va a Calafell?
+Vull anar a Vilablareix amb bicicleta.
+Mira'm quina és la millor manera d'anar a Puigverd d'Agramunt amb cotxe.
+Com puc anar a l'Hospitalet de Llobregat dijous a les vuit?
+Reserva'm un bitllet de tren per anar a Sant Quirze del Vallès diumenge a dos quarts de tres.
+Reserva'm un bitllet de tren per anar a Granyena de Segarra divendres al matí.
+He d'anar a Puig-reig amb cotxe dimecres a les cinc.
+Quines parades fa l'autobús que va a Vilafant?
+el disset d'octubre hauria d'anar a Ullastrell.
+Com puc arribar a Cabanabona amb moto?
+Reserva'm un bitllet de tren per anar a Bellvei dilluns a dos quarts de tres.
+diumenge he d'anar a Montseny amb autobús.
+Com ho puc fer per anar a l'Albagés el vint-i-tres de maig?
+Com puc arribar a Sant Vicenç de Montalt amb bicicleta?
+Com puc anar a Castelldans el vint-i-tres de maig a les deu?
+M'agradaria anar a Sallent amb bicicleta.
+Quan passa l'autobús per Cabra del Camp?
+Necessito un bitllet de tren per anar a Conesa demà passat.
+el vint-i-tres de maig hauria d'anar a Igualada.
+Com ho puc fer per anar a Salomó dilluns?
+Quantes parades té el trajecte en l'autobús fins a Olesa de Montserrat?
+Necessito un bitllet de tren per anar a la Febró el cinc d'agost.
+He d'anar a Sentmenat amb tren dilluns al vespre.
+Com puc arribar a Cava amb autobús?
+A quina hora passa el primer autobús per Castelldefels el dos de juny?
+A quina hora passa el primer autobús per Sagàs l'onze de juliol?
+M'agradaria anar a Sant Martí d'Albars amb tren.
+Com ho puc fer per anar a la Fuliola demà passat?
+Quantes parades té el trajecte en l'autobús fins a Sant Esteve Sesrovires?
+M'agradaria anar a Puigverd d'Agramunt amb tren.
+Quan passa l'autobús per la Vall d'en Bas?
+A quina hora passa el primer autobús per la Cellera de Ter el dos de juny?
+He d'anar a Torà sense agafar el cotxe el disset d'octubre a dos quarts de tres.
+A quina hora passa el primer autobús per Vilanova de l'Aguda divendres?
+l'onze de juliol hauria d'anar a Girona.
+Quina és la millor manera d'anar a la Sénia amb bicicleta?
+Com ho puc fer per anar a Rasquera amb tren?
+Com puc arribar a Capafonts amb bicicleta?
+A quina hora passa el primer autobús per Castellví de Rosanes el vint-i-tres de maig?
+M'agradaria anar a Ogassa amb autobús.
+Quina és la millor manera d'anar a Puigverd de Lleida amb cotxe?
+Com puc anar a l'Espluga de Francolí dimarts a les nou?
+Vull anar a Avinyonet del Penedès a peu.
+He d'anar a Brunyola i Sant Martí Sapresa sense agafar el cotxe dissabte al migdia.
+Com puc arribar a Prullans amb tren?
+Quant dura el viatge en autobús fins a l'Espunyola?
+M'agradaria anar a Valls sense agafar el cotxe.
+Com puc arribar a Oliana amb tren?
+el disset d'octubre he d'anar a Esponellà amb autobús.
+Vull anar a Santa Maria de Miralles amb tren.
+He d'anar a Bellaguarda amb bicicleta diumenge a les deu.
+el cinc d'agost he d'anar a Miralcamp amb autobús.
+Mira'm quina és la millor manera d'anar a Lliçà d'Amunt amb moto.
+Com puc anar a la Vall d'en Bas el dos de juny a les onze?
+Com puc anar a Riudecols demà passat a un quart de deu?
+Necessito un bitllet de tren per anar a Sant Sadurní d'Anoia diumenge.
+Com ho puc fer per anar a Beuda demà passat?
+He d'anar a Montblanc amb cotxe diumenge a les onze.
+Com puc anar a Senterada demà passat a la nit?
+Reserva'm un bitllet de tren per anar a Alcoletge dilluns a les quatre.
+M'agradaria anar a Pallejà amb bicicleta.
+Quina és la millor manera d'anar a Alcoletge sense agafar el cotxe?
+Com puc arribar a Espot a peu?
+demà passat he d'anar a Vilagrassa amb autobús.
+Vull anar a Torredembarra sense agafar el metro.
+Quan passa l'autobús per Serra de Daró?
+Quant dura el trajecte en autobús fins a la Selva de Mar?
+Reserva'm un bitllet de tren per anar a Pinell de Solsonès divendres a la tarda.
+He d'anar a Guissona amb tren el dos de juny a la una.
+Quantes parades té el trajecte en l'autobús fins a Figueres?
+Vull anar a Sant Cebrià de Vallalta amb cotxe.
+He d'anar a l'Ametlla de Mar amb cotxe dimarts a la una.
+A quina hora passa el primer autobús per Santa Maria de Martorelles el cinc d'agost?
+Vull anar a Olvan sense agafar el metro.
+Quina és la millor manera d'anar a la Quar amb bicicleta?
+Quant dura el trajecte en autobús fins a l'Ametlla de Mar?
+Necessito un bitllet de tren per anar a Caldes d'Estrac dilluns.
+el disset d'octubre hauria d'anar a Ulldecona.
+Com puc anar a Vilanova de Meià dilluns a les deu?
+Necessito un bitllet de tren per anar a Rajadell el dos de juny.
+M'agradaria anar a Soriguera sense agafar el cotxe.
+Quina és la millor manera d'anar a Vila-rodona amb autobús?
+A quina hora passa el primer autobús per Castellfollit del Boix demà?
+Necessito un bitllet de tren per anar a Tarroja de Segarra dimecres.
+He d'anar a Sidamon amb tren l'onze de juliol al matí.
+A quina hora passa el primer autobús per Juncosa el dos de juny?
+Vull anar a Cornellà del Terri amb autobús.
+Com ho puc fer per anar a Sanaüja el vint-i-tres de maig?
+divendres hauria d'anar a Olot.
+Com ho puc fer per anar a Poboleda dimecres?
+A quina hora arriba l'autobús dels Pallaresos?
+A quina hora passa el primer autobús per Pinell de Solsonès el cinc d'agost?
+el vint-i-tres de maig hauria d'anar a Torà.
+He d'anar a Sant Andreu de la Barca amb cotxe el vint-i-tres de maig a tres quarts de dotze.
+Com puc anar a Fígols dilluns a les dues?
+A quina hora passa el primer autobús per la Canonja divendres?
+M'agradaria anar a Garrigoles amb trasport públic.
+Com ho puc fer per anar a Caldes de Montbui amb autobús?
+A quina hora passa el primer autobús per Santa Coloma de Gramenet dilluns?
+Necessito un bitllet de tren per anar a Llardecans el disset d'octubre.
+Reserva'm un bitllet de tren per anar a Castellgalí dimarts a les quatre.
+dimecres hauria d'anar a Sabadell.
+Com ho puc fer per anar a Juneda sense agafar el metro?
+Com puc arribar a Sora amb bicicleta?
+A quina hora passa el primer autobús per Sant Quintí de Mediona el vint-i-tres de maig?
+el disset d'octubre he d'anar a Llançà amb autobús.
+M'agradaria anar a la Pobla de Massaluca a peu.
+He d'anar a Campins amb tren divendres a la una.
+Com puc anar a Vinaixa diumenge a les tres?
+demà passat hauria d'anar a Riumors.
+el disset d'octubre hauria d'anar a Cambrils.
+Com ho puc fer per anar a Oliana el dos de juny?
+Com puc anar a la Vilella Baixa dilluns a un quart de deu?
+Reserva'm un bitllet de tren per anar a Castell de l'Areny el cinc d'agost a les cinc.
+Mira'm quina és la millor manera d'anar a Vilobí d'Onyar sense agafar el cotxe.
+Quina és la millor manera d'anar a Alcanó sense agafar el cotxe?
+Com puc arribar a Subirats sense agafar el metro?
+dissabte he d'anar a Castellcir amb autobús.
+Reserva'm un bitllet de tren per anar a Sant Bartomeu del Grau demà passat a les dotze.
+Com ho puc fer per anar a Sant Llorenç de Morunys el dos de juny?
+Com puc arribar a el Brull sense agafar el cotxe?
+Com puc anar a Ivorra dimecres a les sis?
+Vull anar a Sarral sense agafar el cotxe.
+M'agradaria anar a Ascó sense agafar el cotxe.
+M'agradaria anar a Anglesola amb tren.
+Mira'm quina és la millor manera d'anar a Bassella a peu.
+Quina és la millor manera d'anar a les Valls de Valira amb cotxe?
+A quina hora passa el primer autobús per Tírvia dimecres?
+Vull anar a Pacs del Penedès a peu.
+Quina és la millor manera d'anar a Cercs amb cotxe?
+Com puc arribar a la Floresta amb tren?
+Com puc anar a Blanes dijous a les dues?
+Quines parades fa l'autobús que va a Sant Martí Vell?
+Reserva'm un bitllet de tren per anar a Torelló demà passat a les deu.
+Mira'm quina és la millor manera d'anar a Granyena de les Garrigues amb trasport públic.
+Quan passa l'autobús per Castellolí?
+Necessito un bitllet de tren per anar a Serra de Daró dilluns.
+A quina hora arriba l'autobús d'Os de Balaguer?
+El meu fill es diu Gerard: ge, e, erra, a, erra, de.
+Em dic Saüc Calzadilla: ce, a, ela, zeta, a, de, i, ela, ela, a.
+El meu nom és Mariona: ema, a, erra, i, o, ena, a.
+La meva mare es diu Ayla Seara: essa, e, a, erra, a.
+El meu pare es diu Aron De Toro: de, e, espai, te, o, erra, o.
+El cognom és Moles: ema, o, ela, e, essa.
+Es diu Juno: jota, u, ena, o.
+El meu pare es diu Ibrahim Quintas: cu, u, i, ena, te, a, essa.
+El meu pare es diu Ot Anton: a, ena, te, o, ena.
+La meva filla es diu Emily: e, ema, i, ela, i grega.
+El seu cognom és Nogueras: ena, o, ge, u, e, erra, a, essa.
+El meu fill es diu Marcos: ema, a, erra, ce, o, essa.
+El cognom és Cabanas: ce, a, be, a, ena, a, essa.
+El seu cognom és Villuendas: ve baixa, i, ela, ela, u, e, ena, de, a, essa.
+La meva mare es diu Neida Bel: be, e, ela.
+El meu fill es diu Asier: a, essa, i, e, erra.
+El meu pare es diu Hugo Forte: efa, o, erra, te, e.
+Em dic Zayd Vinuesa: ve baixa, i, ena, u, e, essa, a.
+El nom és Lia: ela, i, a.
+Es diu Mirha: ema, i, erra, hac, a.
+El meu pare es diu Bruc Piza: pe, i, zeta, a.
+El meu pare es diu Rauric Nolasco: ena, o, ela, a, essa, ce, o.
+El meu pare es diu Bilal Maso: ema, a, essa, o.
+El cognom és Bello: be, e, ela, ela, o.
+La meva filla es diu Àsia: a amb accent obert, essa, i, a.
+El seu cognom és Galvin: ge, a, ela, ve baixa, i, ena.
+La meva mare es diu Ikhlas Moñino: ema, o, enya, i, ena, o.
+Es diu Ignasi: i, ge, ena, a, essa, i.
+La meva mare es diu Martina Chaib: ce, hac, a, i, be.
+La meva mare es diu Danna Alzamora: a, ela, zeta, a, ema, o, erra, a.
+La meva filla es diu Fatoumata: efa, a, te, o, u, ema, a, te, a.
+El nom és Francisco: efa, erra, a, ena, ce, i, essa, ce, o.
+La meva mare es diu Esther De La Vega: de, e, espai, ela, a, espai, ve baixa, e, ge, a.
+El meu pare es diu Caleb Alabau: a, ela, a, be, a, u.
+El meu pare es diu Ziyad Sanso: essa, a, ena, essa, o.
+El cognom és Jarque: jota, a, erra, cu, u, e.
+El cognom és Gonçalves: ge, o, ena, a, ela, ve baixa, e, essa.
+El nom és Mauro: ema, a, u, erra, o.
+El seu cognom és Baño: be, a, enya, o.
+Em dic Sofia maria Medinilla: ema, e, de, i, ena, i, ela, ela, a.
+El meu nom és Juna: jota, u, ena, a.
+Es diu Dídac: de, i amb accent tancat, de, a, ce.
+El seu cognom és Junyent: jota, u, ena, i grega, e, ena, te.
+El seu cognom és Caldera: ce, a, ela, de, e, erra, a.
+El seu cognom és Reolid: erra, e, o, ela, i, de.
+Es diu Juan josé: jota, u, a, ena, espai, jota, o, essa, e amb accent tancat.
+La meva filla es diu Rosó: erra, o, essa, o amb accent tancat.
+El meu pare es diu Eren Morente: ema, o, erra, e, ena, te, e.
+La meva filla es diu Duna: de, u, ena, a.
+El meu pare es diu León Santano: essa, a, ena, te, a, ena, o.
+El meu pare es diu Thiago Ales: a, ela, e, essa.
+La meva mare es diu Aicha Salomon: essa, a, ela, o, ema, o, ena.
+El nom és Marta: ema, a, erra, te, a.
+El meu nom és Aisha: a, i, essa, hac, a.
+El seu cognom és Fragoso: efa, erra, a, ge, o, essa, o.
+Em dic Triana Sandin: essa, a, ena, de, i, ena.
+El cognom és Abenza: a, be, e, ena, zeta, a.
+El meu fill es diu Oriol: o, erra, i, o, ela.
+El meu pare es diu Èric  Molino: ema, o, ela, i, ena, o.
+Em dic Anna Mozos: ema, o, zeta, o, essa.
+Em dic Asier Almiron: a, ela, ema, i, erra, o, ena.
+El seu cognom és Villalta: ve baixa, i, ela, ela, a, ela, te, a.
+El seu cognom és Baute: be, a, u, te, e.
+El nom és Uxia: u, ics, i, a.
+El seu cognom és Cortada: ce, o, erra, te, a, de, a.
+El meu nom és Sophia: essa, o, pe, hac, i, a.
+El meu pare es diu Mario Mansilla: ema, a, ena, essa, i, ela, ela, a.
+El nom és Eira: e, i, erra, a.
+El nom és Emanuel: e, ema, a, ena, u, e, ela.
+El nom és Rocío: erra, o, ce, i amb accent tancat, o.
+El nom és Adán: a, de, a amb accent tancat, ena.
+El seu cognom és Orihuela: o, erra, i, hac, u, e, ela, a.
+El meu fill es diu Yeray: i grega, e, erra, a, i grega.
+El cognom és Silla: essa, i, ela, ela, a.
+El meu pare es diu Lluís Viteri: ve baixa, i, te, e, erra, i.
+El cognom és Carralero: ce, a, erra, erra, a, ela, e, erra, o.
+La meva filla es diu Alèxia: a, ela, e amb accent obert, ics, i, a.
+La meva mare es diu Abigaïl Trejo: te, erra, e, jota, o.
+Em dic Iol Rubin: erra, u, be, i, ena.
+El cognom és Del Olmo: de, e, ela, espai, o, ela, ema, o.
+El meu pare es diu David Aldaz: a, ela, de, a, zeta.
+El cognom és Cavero: ce, a, ve baixa, e, erra, o.
+La meva filla es diu Irati: i, erra, a, te, i.
+El meu nom és Sohaib: essa, o, hac, a, i, be.
+Em dic Dafne Tena: te, e, ena, a.
+El cognom és Wu: ve doble, u.
+El meu fill es diu Karim: ca, a, erra, i, ema.
+La meva mare es diu Sheila Obrador: o, be, erra, a, de, o, erra.
+Es diu Aïna: a, i amb dièresi, ena, a.
+La meva mare es diu Arij Suarez: essa, u, a, erra, e, zeta.
+El cognom és Madariaga: ema, a, de, a, erra, i, a, ge, a.
+El meu pare es diu Ignasi Almela: a, ela, ema, e, ela, a.
+El meu pare es diu Elliot Valderrama: ve baixa, a, ela, de, e, erra, erra, a, ema, a.
+El meu pare es diu Artur Salguero: essa, a, ela, ge, u, e, erra, o.
+Em dic Alícia Aizpurua: a, i, zeta, pe, u, erra, u, a.
+Em dic Nel Baño: be, a, enya, o.
+La meva mare es diu Juliet Romo: erra, o, ema, o.
+El cognom és Monreal: ema, o, ena, erra, e, a, ela.
+Es diu Sança: essa, a, ena, a.
+El cognom és Farras: efa, a, erra, erra, a, essa.
+El meu pare es diu Izan Iborra: i, be, o, erra, erra, a.
+La meva mare es diu Cataleya Santamarta: essa, a, ena, te, a, ema, a, erra, te, a.
+Em dic Bilal Abrante: a, be, erra, a, ena, te, e.
+La meva mare es diu Gala Vivar: ve baixa, i, ve baixa, a, erra.
+El nom és Fèlix: efa, e amb accent obert, ela, i, ics.
+El meu nom és Gabriel: ge, a, be, erra, i, e, ela.
+El seu cognom és Agustin: a, ge, u, essa, te, i, ena.
+El cognom és Sendra: essa, e, ena, de, erra, a.
+El cognom és Catala: ce, a, te, a, ela, a.
+El seu cognom és Moragues: ema, o, erra, a, ge, u, e, essa.
+Em dic Amina Urueña: u, erra, u, e, enya, a.
+El meu pare es diu Nouh Folgado: efa, o, ela, ge, a, de, o.
+Em dic Indara Guijo: ge, u, i, jota, o.
+El meu pare es diu Ismael Leiva: ela, e, i, ve baixa, a.
+El meu fill es diu Hugo: hac, u, ge, o.
+El meu pare es diu Walid Dias: de, i, a, essa.
+La meva mare es diu Ainara Linares: ela, i, ena, a, erra, e, essa.
+La meva mare es diu Dana Isla: i, essa, ela, a.
+Em dic Àneu  Yubero: i grega, u, be, e, erra, o.
+La meva mare es diu Clàudia Parrondo: pe, a, erra, erra, o, ena, de, o.
+El seu cognom és Arruti: a, erra, erra, u, te, i.
+La meva mare es diu Dàlia Podadera: pe, o, de, a, de, e, erra, a.
+Em dic Maher Troncoso: te, erra, o, ena, ce, o, essa, o.
+El meu pare es diu Sol Titos: te, i, te, o, essa.
+El nom és Joana: jota, o, a, ena, a.
+La meva filla es diu Uma: u, ema, a.
+El cognom és Del Prado: de, e, ela, espai, pe, erra, a, de, o.
+Em dic Mirt Fermin: efa, e, erra, ema, i, ena.
+El meu pare es diu Guifré Agudo: a, ge, u, de, o.
+El seu cognom és Coloma: ce, o, ela, o, ema, a.
+Em dic Fatoumata Forero: efa, o, erra, e, erra, o.
+El cognom és Santome: essa, a, ena, te, o, ema, e.
+Em dic Ibrahima Espert: e, essa, pe, e, erra, te.
+La meva mare es diu Matilda Escabias: e, essa, ce, a, be, i, a, essa.
+La meva filla es diu Juliet: jota, u, ela, i, e, te.
+El nom és Khadija: ca, hac, a, de, i, jota, a.
+La meva mare es diu Laia Briz: be, erra, i, zeta.
+El cognom és Lebron: ela, e, be, erra, o, ena.
+Es diu Kala: ca, a, ela, a.
+Es diu Laia: ela, a, i, a.
+Es diu Francisco: efa, erra, a, ena, ce, i, essa, ce, o.
+Es diu Sophie: essa, o, pe, hac, i, e.
+Em dic Denís De Luis: de, e, espai, ela, u, i, essa.
+La meva mare es diu Maya Comas: ce, o, ema, a, essa.
+El meu nom és Àneu : a amb accent obert, ena, e, u, espai.
+El meu pare es diu Otger Miguez: ema, i, ge, u, e, zeta.
+El cognom és Diaby: de, i, a, be, i grega.
+El cognom és Caldas: ce, a, ela, de, a, essa.
+Em dic Rosa Povedano: pe, o, ve baixa, e, de, a, ena, o.
+Em dic Garbí Velez: ve baixa, e, ela, e, zeta.
+Em dic Ethan Fernandez: efa, e, erra, ena, a, ena, de, e, zeta.
+La meva mare es diu Ramona Dia: de, i, a.
+El meu nom és Fàtima: efa, a amb accent obert, te, i, ema, a.
+El cognom és Sansano: essa, a, ena, essa, a, ena, o.
+Em dic Ariana Conte: ce, o, ena, te, e.
+El meu pare es diu Yanis Acebal: a, ce, e, be, a, ela.
+El meu fill es diu Omar: o, ema, a, erra.
+El meu pare es diu Jordan Lema: ela, e, ema, a.
+La meva mare es diu Àfrica Bonache: be, o, ena, a, ce, hac, e.
+Em dic Hanna Eraso: e, erra, a, essa, o.
+Es diu Àyoub: a amb accent obert, i grega, o, u, be.
+Es diu Luna: ela, u, ena, a.
+Em dic Nahia Fenollosa: efa, e, ena, o, ela, ela, o, essa, a.
+Em dic Charlotte Miquel: ema, i, cu, u, e, ela.
+El meu nom és Elio: e, ela, i, o.
+El meu pare es diu Aleix Rubiño: erra, u, be, i, enya, o.
+El nom és Nayla: ena, a, i grega, ela, a.
+El seu cognom és Barbado: be, a, erra, be, a, de, o.
+Es diu Roma: erra, o, ema, a.
+El meu pare es diu Javier Masa: ema, a, essa, a.
+El cognom és Negrin: ena, e, ge, erra, i, ena.
+Es diu Nico: ena, i, ce, o.
+La meva mare es diu Kiara De Gregorio: de, e, espai, ge, erra, e, ge, o, erra, i, o.
+Em dic Bru Cañavate: ce, a, enya, a, ve baixa, a, te, e.
+El seu cognom és De La Casa: de, e, espai, ela, a, espai, ce, a, essa, a.
+Em dic Asia Funes: efa, u, ena, e, essa.
+El meu fill es diu Maximiliano: ema, a, ics, i, ema, i, ela, i, a, ena, o.
+La meva mare es diu Leire Pau: pe, a, u.
+La meva mare es diu Clàudia Mostazo: ema, o, essa, te, a, zeta, o.
+El meu pare es diu Islam Furio: efa, u, erra, i, o.
+Em dic Simon Utrilla: u, te, erra, i, ela, ela, a.
+El meu nom és Álvaro: a amb accent tancat, ela, ve baixa, a, erra, o.
+El meu fill es diu Enzo: e, ena, zeta, o.
+El seu cognom és Saz: essa, a, zeta.
+La meva mare es diu Julieta Nuevo: ena, u, e, ve baixa, o.
+El meu pare es diu Pablo Panizo: pe, a, ena, i, zeta, o.
+El cognom és Estruch: e, essa, te, erra, u, ce, hac.
+La meva mare es diu Laura Quilis: cu, u, i, ela, i, essa.
+El cognom és Callau: ce, a, ela, ela, a, u.
+El cognom és Aran: a, erra, a, ena.
+El cognom és Gabilondo: ge, a, be, i, ela, o, ena, de, o.
+Em dic Isabella Pires: pe, i, erra, e, essa.
+El nom és Antònia: a, ena, te, o amb accent obert, ena, i, a.
+El seu cognom és Ayuso: a, i grega, u, essa, o.
+La meva mare es diu Sara Risquez: erra, i, essa, cu, u, e, zeta.
+El meu nom és Dara: de, a, erra, a.
+Em dic Noha Malagon: ema, a, ela, a, ge, o, ena.
+El nom és Alan: a, ela, a, ena.
+El cognom és Borrega: be, o, erra, erra, e, ge, a.
+El cognom és Vivo: ve baixa, i, ve baixa, o.
+La meva mare es diu Erika Herranz: hac, e, erra, erra, a, ena, zeta.
+Es diu Ainet: a, i, ena, e, te.
+El nom és José: jota, o, essa, e amb accent tancat.
+El seu cognom és Tolosa: te, o, ela, o, essa, a.
+El seu cognom és Cristea: ce, erra, i, essa, te, e, a.
+El seu cognom és Sanfelix: essa, a, ena, efa, e, ela, i, ics.
+La meva mare es diu Mariana Neagu: ena, e, a, ge, u.
+El seu cognom és Subirana: essa, u, be, i, erra, a, ena, a.
+El seu cognom és Mengibar: ema, e, ena, ge, i, be, a, erra.
+La meva mare es diu Marwa Nuñez: ena, u, enya, e, zeta.
+La meva mare es diu Anastàsia Adam: a, de, a, ema.
+El cognom és Stanciu: essa, te, a, ena, ce, i, u.
+Em dic Aledis Sarrias: essa, a, erra, erra, i, a, essa.
+El meu pare es diu Jacobo Solorzano: essa, o, ela, o, erra, zeta, a, ena, o.
+La meva filla es diu Ainara: a, i, ena, a, erra, a.
+El seu cognom és Murua: ema, u, erra, u, a.
+La meva mare es diu Carolina Olivo: o, ela, i, ve baixa, o.
+El nom és Jad: jota, a, de.
+La meva mare es diu Mar Aldama: a, ela, de, a, ema, a.
+La meva mare es diu Chloe Ramajo: erra, a, ema, a, jota, o.
+La meva mare es diu Dayana Ribera: erra, i, be, e, erra, a.
+Em dic Eidan Xie: ics, i, e.
+El meu nom és Younes: i grega, o, u, ena, e, essa.
+El seu cognom és Estelles: e, essa, te, e, ela, ela, e, essa.
+El seu cognom és Alaminos: a, ela, a, ema, i, ena, o, essa.
+El seu cognom és Lecumberri: ela, e, ce, u, ema, be, e, erra, erra, i.
+El nom és Jade: jota, a, de, e.
+La meva mare es diu Camila Padin: pe, a, de, i, ena.
+Em dic Raquel Bah: be, a, hac.
+El cognom és Arrebola: a, erra, erra, e, be, o, ela, a.
+El cognom és Fenollar: efa, e, ena, o, ela, ela, a, erra.
+Em dic Oleguer Velazquez: ve baixa, e, ela, a, zeta, cu, u, e, zeta.
+El seu cognom és Lana: ela, a, ena, a.
+El meu nom és Aidé: a, i, de, e amb accent tancat.
+Es diu Noa: ena, o, a.
+El meu pare es diu Magí Ezquerro: e, zeta, cu, u, e, erra, erra, o.
+El meu pare es diu Neizan Peris: pe, e, erra, i, essa.
+Em dic Siraj Montenegro: ema, o, ena, te, e, ena, e, ge, erra, o.
+Es diu Lis: ela, i, essa.
+El seu cognom és Mahmood: ema, a, hac, ema, o, o, de.
+El cognom és Diego: de, i, e, ge, o.
+Em dic Naia Cirera: ce, i, erra, e, erra, a.
+El meu pare es diu Martí Iza: i, zeta, a.
+El nom és Lleó: ela, ela, e, o amb accent tancat.
+El seu cognom és Biosca: be, i, o, essa, ce, a.
+El nom és Anaís: a, ena, a, i amb accent tancat, essa.
+El meu pare es diu Sulaiman Cabellos: ce, a, be, e, ela, ela, o, essa.
+Es diu Reda: erra, e, de, a.
+El meu pare es diu Antonio Caba: ce, a, be, a.
+Em dic Àyoub Buigues: be, u, i, ge, u, e, essa.
+Em dic Afnan Angles: a, ena, ge, ela, e, essa.
+La meva mare es diu Àgata Victorio: ve baixa, i, ce, te, o, erra, i, o.
+La meva mare es diu Cayetana Brull: be, erra, u, ela, ela.
+El nom és Nathan: ena, a, te, hac, a, ena.
+El meu pare es diu Adrià Agredano: a, ge, erra, e, de, a, ena, o.
+Em dic Peris Zumaquero: zeta, u, ema, a, cu, u, e, erra, o.
+Es diu Noah: ena, o, a, hac.
+El cognom és Baños: be, a, enya, o, essa.
+Em dic Albert Alfonso: a, ela, efa, o, ena, essa, o.
+El nom és Ishak: i, essa, hac, a, ca.
+La meva mare es diu Jinan Vasquez: ve baixa, a, essa, cu, u, e, zeta.
+El cognom és Roldan: erra, o, ela, de, a, ena.
+El meu pare es diu Nil Niño: ena, i, enya, o.
+El seu cognom és De La Rosa: de, e, espai, ela, a, espai, erra, o, essa, a.
+El cognom és Dacosta: de, a, ce, o, essa, te, a.
+Em dic Simon Giles: ge, i, ela, e, essa.
+El meu pare es diu Santiago Magaña: ema, a, ge, a, enya, a.
+Es diu Aura: a, u, erra, a.
+La meva mare es diu Freya Guillot: ge, u, i, ela, ela, o, te.
+Es diu Lucà: ela, u, ce, a amb accent obert.
+El seu cognom és Del Puerto: de, e, ela, espai, pe, u, e, erra, te, o.
+Em dic Hannah Pavel: pe, a, ve baixa, e, ela.
+Es diu Christian: ce, hac, erra, i, essa, te, i, a, ena.
+Es diu Josuè: jota, o, essa, u, e amb accent obert.
+Em dic Evelyn Cristea: ce, erra, i, essa, te, e, a.
+El meu pare es diu Roi Magariños: ema, a, ge, a, erra, i, enya, o, essa.
+El cognom és Bailen: be, a, i, ela, e, ena.
+El meu fill es diu Badr: be, a, de, erra.
+El cognom és Cascales: ce, a, essa, ce, a, ela, e, essa.
+El seu cognom és Tadeo: te, a, de, e, o.
+Es diu Amanda: a, ema, a, ena, de, a.
+El meu pare es diu Zayd Guinea: ge, u, i, ena, e, a.
+Em dic Roma Arques: a, erra, cu, u, e, essa.
+El cognom és Chiva: ce, hac, i, ve baixa, a.
+El seu cognom és Collazos: ce, o, ela, ela, a, zeta, o, essa.
+El seu cognom és Segui: essa, e, ge, u, i.
+Em dic Àgata Marrero: ema, a, erra, erra, e, erra, o.
+El seu cognom és Gago: ge, a, ge, o.
+La meva mare es diu Martina Freixa: efa, erra, e, i, ics, a.
+El meu pare es diu Genís Cordeiro: ce, o, erra, de, e, i, erra, o.
+La meva mare es diu Nara Yordanova: i grega, o, erra, de, a, ena, o, ve baixa, a.
+Em dic Ismaïl Vieitez: ve baixa, i, e, i, te, e, zeta.
+Em dic Cira Viudez: ve baixa, i, u, de, e, zeta.
+El cognom és Bascon: be, a, essa, ce, o, ena.
+El seu cognom és Vinagre: ve baixa, i, ena, a, ge, erra, e.
+La meva mare es diu Ikhlas Payo: pe, a, i grega, o.
+El seu cognom és Pabon: pe, a, be, o, ena.
+Es diu Fatoumata: efa, a, te, o, u, ema, a, te, a.
+El meu pare es diu Rafael Garau: ge, a, erra, a, u.
+El meu pare es diu Bru Boyero: be, o, i grega, e, erra, o.
+El cognom és Dominguez: de, o, ema, i, ena, ge, u, e, zeta.
+El seu cognom és Tarrega: te, a, erra, erra, e, ge, a.
+La meva filla es diu Naomi: ena, a, o, ema, i.
+El cognom és Zarraga: zeta, a, erra, erra, a, ge, a.
+Em dic Tian Pinto: pe, i, ena, te, o.
+El cognom és Gavira: ge, a, ve baixa, i, erra, a.
+El meu pare es diu Eren Bujan: be, u, jota, a, ena.
+El seu cognom és Bardaji: be, a, erra, de, a, jota, i.
+La meva mare es diu Soraya Castresana: ce, a, essa, te, erra, e, essa, a, ena, a.
+El meu nom és Iona: i, o, ena, a.
+El seu cognom és Isern: i, essa, e, erra, ena.
+El meu pare es diu Jesús Madrigal: ema, a, de, erra, i, ge, a, ela.
+El nom és Elena: e, ela, e, ena, a.
+La meva mare es diu Rebeca Restrepo: erra, e, essa, te, erra, e, pe, o.
+Em dic Almas Febrer: efa, e, be, erra, e, erra.
+El seu cognom és Muelas: ema, u, e, ela, a, essa.
+El meu pare es diu Hassan Albelda: a, ela, be, e, ela, de, a.
+El seu cognom és Lera: ela, e, erra, a.
+La meva mare es diu Dana Viñas: ve baixa, i, enya, a, essa.
+El meu pare es diu Aniol Orellana: o, erra, e, ela, ela, a, ena, a.
+El meu nom és Gerai: ge, e, erra, a, i.
+Em dic Emma Kone: ca, o, ena, e.
+Em dic Atenea Vives: ve baixa, i, ve baixa, e, essa.
+Em dic Hèctor Vales: ve baixa, a, ela, e, essa.
+El meu pare es diu Albà Oliveras: o, ela, i, ve baixa, e, erra, a, essa.
+El meu pare es diu Sol Hoyo: hac, o, i grega, o.
+La meva mare es diu Violeta Zas: zeta, a, essa.
+Em dic Índia Fores: efa, o, erra, e, essa.
+Es diu Violeta: ve baixa, i, o, ela, e, te, a.
+El seu cognom és Calva: ce, a, ela, ve baixa, a.
+La meva mare es diu Ànnia Coria: ce, o, erra, i, a.
+El cognom és Olivero: o, ela, i, ve baixa, e, erra, o.
+El meu pare es diu Pere Peon: pe, e, o, ena.
+La meva mare es diu Juliette Becerril: be, e, ce, e, erra, erra, i, ela.
+El meu pare es diu Adrián Lizarraga: ela, i, zeta, a, erra, erra, a, ge, a.
+El seu cognom és Garea: ge, a, erra, e, a.
+El cognom és Rizo: erra, i, zeta, o.
+El meu nom és Enzo: e, ena, zeta, o.
+El meu pare es diu Jan Agirre: a, ge, i, erra, erra, e.
+La meva mare es diu Layan Muros: ema, u, erra, o, essa.
+El cognom és Encabo: e, ena, ce, a, be, o.
+El meu fill es diu Ares: a, erra, e, essa.
+El meu pare es diu Akram Robaina: erra, o, be, a, i, ena, a.
+El meu pare es diu Ilyas Palau: pe, a, ela, a, u.
