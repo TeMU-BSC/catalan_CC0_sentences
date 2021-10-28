@@ -5,8 +5,6 @@ TeMU-BSC is the Text Mining Unit of the Barcelona Supercomputing Center - Centro
 [https://www.bsc.es/discover-bsc/organisation/scientific-structure/text-mining]
 
 ## Contents
-### catalan_cc0_sentences.txt
-All the 124k sentences described below
 
 ### edited_generated_selected_chatbot.txt
 2166 sentences, generated from edited_selected_chatbot.txt, and semi-authomaticaly doing masking with <a href="https://huggingface.co/bsc/roberta-base-ca-cased">bsc/roberta-base-ca-cased</a> transfromer model, and keeping only the well-formed ones.
