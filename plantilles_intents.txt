@@ -230,7 +230,7 @@ Com ho puc fer per anar al carrer d'en Panxampla?
 Vaig al carrer de la Comtessa de Pardo Bazán.
 Mira'm quina és la millor manera d'anar dels jardins de Maria Àngels Anglada i d'Abadal al carrer del Degà Bahí.
 Hauria d'anar a la carretera de Mataró número quaranta-sis.
-M'agradaria anar a la avinguda de la Mare de Déu de Montserrat amb trasport públic.
+M'agradaria anar a l'avinguda de la Mare de Déu de Montserrat amb trasport públic.
 Vull anar a la ronda del Guinardó a peu.
 He d'anar del carrer de l'Aldea al carrer del Bon Pastor.
 Com es fa per anar del carrer de la Pintura al carrer d'Alhucemas?
@@ -471,7 +471,7 @@ Què venen al passeig de l'Havana número noranta-tres?
 Qui viu al carrer de Pàdua número cinquanta-tres?
 Què hi ha al carrer Andrade cantonada Desfar?
 Hi ha algun negoci al carrer Flors cantonada Flors?
-Quines botigues hi ha a la avinguda de la Mare de Déu de Montserrat?
+Quines botigues hi ha a l'avinguda de la Mare de Déu de Montserrat?
 Hi ha algun lampista al passeig Marítim de Nova Icària?
 He d'anar al jardí de Maria Rosa Farré i Escofet sense agafar el cotxe.
 Quina és la millor manera d'arribar al carrer de Colom?
@@ -566,7 +566,7 @@ Com puc arribar al carrer de la Mineria número vuitanta-set?
 Com ho puc fer per anar al carrer Autonomia cantonada Sant Francesc Xavier?
 Quan passa l'autobús pel carrer Pere Terré i Domènech?
 Què hi ha a la platja de la Mar Bella número vuitanta-tres?
-Quina botiga hi ha a la avinguda del Marquès de Castellbell número noranta-quatre?
+Quina botiga hi ha a l'avinguda del Marquès de Castellbell número noranta-quatre?
 Què venen al carrer del Clos de Sant Francesc número cinquanta-cinc?
 Qui viu a la plaça d'Isidre Nonell número quatre?
 Què hi ha al carrer Cerdà cantonada Paloma?

@@ -2,10 +2,10 @@ He d'anar al carrer d'Ausiàs Marc amb autobús.
 He d'anar al passatge de Carlota de Mena amb trasport públic.
 Quina és la millor manera d'arribar al carrer de la Jota?
 Quina és la millor manera d'arribar al carrer de Santa Magdalena?
-Quina és la millor manera d'arribar a la avinguda de Martí-Codolar?
+Quina és la millor manera d'arribar a l'avinguda de Martí-Codolar?
 Quina és la millor manera d'arribar al carrer del Ferro?
 Quina és la millor manera d'arribar a la plaça de Sant Galderic?
-Quina és la millor manera d'arribar a la avinguda Diagonal?
+Quina és la millor manera d'arribar a l'avinguda Diagonal?
 Quina és la millor manera d'arribar al carrer d'Aldana?
 Quina és la millor manera d'arribar al passatge d'Aral?
 Quina és la millor manera d'arribar al passatge de Ministral?
@@ -123,9 +123,9 @@ Quina és la millor manera d'anar del carrer de Puigcerdà al carrer de Bonveí?
 Quina és la millor manera d'anar del carrer del Vidriol al camí de Vallvidrera al Tibidabo?
 Quina és la millor manera d'anar del carrer de la Canuda al carrer de Simó Ferrer?
 Quina és la millor manera d'anar del moll de Gregal al passatge de Vicent Martín?
-Quina és la millor manera d'anar del moll de Xaloc a la avinguda de Rio de Janeiro?
+Quina és la millor manera d'anar del moll de Xaloc a l'avinguda de Rio de Janeiro?
 Quina és la millor manera d'anar de la plaça de Rafael Campalans al passatge de Colomer?
-Com ho faig per anar a la avinguda del Marquès de l'Argentera número trenta-dos?
+Com ho faig per anar a l'avinguda del Marquès de l'Argentera número trenta-dos?
 Quin és el camí més curt per anar als jardins de Fabià Puigserver número cinquanta-quatre?
 Com ho puc fer per anar al carrer Pascual i Vila cantonada Francesc Pujols?
 Com ho puc fer per anar al carrer Àngel Guimerà cantonada Sant Pacià?
@@ -138,11 +138,11 @@ Quan passa l'autobús pel carrer Los Castillejos?
 Què hi ha a la plaça de Jaume Sabartés número setanta-u?
 Què hi ha als jardins de Santa Rosalia número trenta-cinc?
 Què hi ha al carrer de Besiers número vint-i-u?
-Quina botiga hi ha a la avinguda d'Espasa número quaranta-tres?
+Quina botiga hi ha a l'avinguda d'Espasa número quaranta-tres?
 Quina botiga hi ha al carrer de Jaume Puigvert número vuitanta-vuit?
 Què venen al carrer del Monestir número seixanta-sis?
 Què venen al carrer de Fra Juníper Serra número set?
-Què venen a la avinguda de la Mare de Déu de Montserrat número quaranta-dos?
+Què venen a l'avinguda de la Mare de Déu de Montserrat número quaranta-dos?
 Què venen al camí del Molí de Vallvidrera número vuitanta-tres?
 Què venen al carrer de les Caputxes número quaranta?
 Què venen al carrer dels Dominics número cinquanta-vuit?
@@ -227,7 +227,7 @@ M'agradaria anar al carrer de Llobera amb tren.
 Vull anar al carrer de Joan Alcover amb autobús.
 Vull anar al carrer de l'Isard sense agafar el metro.
 M'agradaria anar al passatge de Mossèn Carles Oller sense agafar el metro.
-M'agradaria anar a la avinguda del Tibidabo amb moto.
+M'agradaria anar a l'avinguda del Tibidabo amb moto.
 Vull anar al carrer del Pintor Pradilla amb bicicleta.
 Vull anar al parc Forestal de Can Castellví de Dalt amb tren.
 Vull anar al carrer de Pau Alcover amb moto.
@@ -266,7 +266,7 @@ Què hi ha al carrer Bisbe Sivilla cantonada Bonveí?
 Què hi ha al carrer Sant Mateu cantonada Tarba?
 Què hi ha al carrer Agustí Duran i Sanpere cantonada Plom?
 Hi ha algun negoci al carrer Cuba cantonada Cuba?
-Quines botigues hi ha a la avinguda d'Icària?
+Quines botigues hi ha a l'avinguda d'Icària?
 He d'anar al passatge de Trullàs amb trasport públic.
 He d'anar al carrer del Tragí amb autobús.
 Com ho puc fer per anar a la carretera de Mataró?
@@ -285,7 +285,7 @@ Com es fa per anar del carrer de John M. Keynes al carrer d'Evarist Arnús?
 Com ho faig per anar a la rambla de l'Onze de Setembre número seixanta-tres?
 Com ho faig per anar al carrer d'Artesa de Segre número trenta-nou?
 Quin és el camí més curt per anar al carrer d'Ercilla número quaranta-sis?
-Quin és el camí més curt per anar a la passatge de la Primavera número cinquanta-quatre?
+Quin és el camí més curt per anar al passatge de la Primavera número cinquanta-quatre?
 Quin és el camí més curt per anar al carrer de l'Encuny número seixanta-quatre?
 Quin és el camí més curt per anar al carrer de Palomar número seixanta?
 Com puc arribar al carrer de Dalmau número setze?
@@ -421,7 +421,7 @@ He d'anar al carrer de Peracamps amb bicicleta.
 He d'anar a la plaça del Doctor Cararach Mauri amb cotxe.
 Quina és la millor manera d'arribar al carrer d'en Bot?
 Com ho puc fer per anar al carrer de Rocabertí?
-Com ho puc fer per anar a la avinguda de la Reina Maria Cristina?
+Com ho puc fer per anar a l'avinguda de la Reina Maria Cristina?
 Com ho puc fer per anar a les escales de la Gatosa?
 Com ho puc fer per anar al carrer de Sant Cugat del Vallès?
 Com ho puc fer per anar al carrer d'Antonio Ricardos?
@@ -431,7 +431,7 @@ Hauria d'anar al carrer de Naïm número vint-i-quatre.
 M'agradaria anar al carrer de Sant Hipòlit sense agafar el cotxe.
 M'agradaria anar al carrer de Montmany a peu.
 Vull anar al carrer de la Galla sense agafar el cotxe.
-He d'anar de la plaça de Ca n'Ensenya a la avinguda de les Drassanes.
+He d'anar de la plaça de Ca n'Ensenya a l'avinguda de les Drassanes.
 Com es fa per anar del carrer de les Ramelleres a la plaça d'Anna Frank?
 Com es fa per anar del camí del Cementiri de Sarrià a la travessia de Castellfollit?
 Quina és la millor manera d'anar del carrer del Cardenal Vives i Tutó a la plaça de l'Armada?
@@ -605,10 +605,10 @@ Quina és la millor manera d'anar del carrer d'Albània a la plaça de Carles Pi
 Quina és la millor manera d'anar del carrer de l'Escorial al jardí de Margarita Wirsing i Bordas?
 Quin és el camí més curt per anar al carrer de Tirso número quinze?
 Com puc anar al carrer d'August Font número noranta-quatre?
-Com puc anar a la passatge de Camil Oliveras número vuit?
+Com puc anar al passatge de Camil Oliveras número vuit?
 Com puc arribar al carrer de Josep M. Lladó número vint-i-sis?
 Què hi ha al carrer de Roca i Batlle número sis?
-Quina botiga hi ha a la passatge de la Primavera número vuitanta-quatre?
+Quina botiga hi ha al passatge de la Primavera número vuitanta-quatre?
 Quina botiga hi ha als jardins dels Tres Tombs número trenta-vuit?
 Què venen al carrer de Joana Alemany número dotze?
 Qui viu al carrer d'Alvarado número seixanta-u?
@@ -636,13 +636,13 @@ Hi ha algun negoci al carrer Josep Irla i Bosch cantonada Josep Irla i Bosch?
 Hi ha algun lampista al carrer de la Mecànica?
 Hi ha algun lampista al carrer d'Artà?
 Quines botigues hi ha al carrer de Pau Claris?
-Quines botigues hi ha a la avinguda de Sant Ramon Nonat?
+Quines botigues hi ha a l'avinguda de Sant Ramon Nonat?
 Hi ha algun lampista al carrer de Santa Llúcia?
 Com ho puc fer per anar al carrer de Súria?
 Com ho puc fer per anar al torrent de la Carabassa?
-M'agradaria anar a la avinguda del Jordà amb cotxe.
+M'agradaria anar a l'avinguda del Jordà amb cotxe.
 He d'anar de la plaça de Montserrat Roca i Baltà al carrer de Queixans.
-Com es fa per anar de la avinguda de Miramar als jardins de Salvador Espriu?
+Com es fa per anar de l'avinguda de Miramar als jardins de Salvador Espriu?
 Com ho faig per anar al carrer de Tavern número cinquanta-sis?
 Com puc arribar al carrer de Federico García Lorca número sis?
 Com ho puc fer per anar al carrer Tripó cantonada Valladolid?
@@ -667,7 +667,7 @@ Quina és la millor manera d'anar del carrer d'en Grassot al camí de Cal Notari
 Quina és la millor manera d'anar del carrer de Pomaret a la riera de Marcel·lí?
 Com ho faig per anar al carrer de Finestrelles número seixanta-set?
 Com puc anar al carrer de Tubella número setanta-dos?
-Què hi ha a la avinguda de la República Argentina número noranta-vuit?
+Què hi ha a l'avinguda de la República Argentina número noranta-vuit?
 Què venen al carrer de Pere Oller número quaranta-nou?
 Hi ha algun negoci al carrer Arc de Sant Sever cantonada Arc de Sant Sever?
 Quines botigues hi ha al carrer del Turó Blau?
@@ -676,7 +676,7 @@ He d'anar al carrer de Llobet i Vall-llosera amb tren.
 Mira'm quina és la millor manera d'anar del parc Esportiu de la Mar Bella al carrer de les Coves d'en Cimany.
 M'agradaria anar al passeig Marítim del Bogatell a peu.
 M'agradaria anar al carrer de Salern amb cotxe.
-Com es fa per anar de la avinguda de la Reina Maria Cristina als jardins de la Vil·la Cecília?
+Com es fa per anar de l'avinguda de la Reina Maria Cristina als jardins de la Vil·la Cecília?
 Com puc anar al carrer de les Carretes número setanta-vuit?
 Quan passa l'autobús pel carrer Hort de la Bomba?
 Què hi ha al passeig de Salvat Papasseit número trenta-sis?
@@ -748,7 +748,7 @@ Quin és el camí més curt per anar al moll Adossat número trenta-sis?
 Com puc anar al carrer de Pontons número quinze?
 Què hi ha al carrer de Daoíz i Velarde número trenta-dos?
 Quina botiga hi ha a la plaça de Sant Agustí Vell número cinquanta-nou?
-Quina botiga hi ha a la passatge de Piera número quaranta-cinc?
+Quina botiga hi ha al passatge de Piera número quaranta-cinc?
 Què venen al passeig de l'Havana número noranta-cinc?
 Qui viu a la jardins d'Ana Figuera número vint-i-sis?
 Qui viu al carrer de Sant Miquel número catorze?
@@ -821,7 +821,7 @@ He d'anar del carrer dels Corders al carrer de la Foradada.
 Com es fa per anar dels jardins de Can Batllori a la plaça de Caba?
 Quina és la millor manera d'anar del carrer de Jordà al passatge de Mercader?
 Quina és la millor manera d'anar del carrer de Francesc Pujols als jardins de Violant de Bar?
-Quina és la millor manera d'anar del carrer Alt de Mariner a la avinguda de Pedralbes?
+Quina és la millor manera d'anar del carrer Alt de Mariner a l'avinguda de Pedralbes?
 Quina és la millor manera d'anar del passatge del Dipòsit al carrer del Degà Bahí?
 Com ho faig per anar al carrer de Gaspar Cassadó número vint-i-quatre?
 Quin és el camí més curt per anar al carrer de Celrà número sis?
@@ -911,7 +911,7 @@ He d'anar al carrer de la Cantera amb bicicleta.
 Vaig al carrer de la Cançó.
 Vull anar al carrer de l'Espinoi amb tren.
 Com es fa per anar del carrer de Teodor Llorente a la plaça del Carril?
-Quina és la millor manera d'anar de la avinguda del Litoral al carrer del Taquígraf Serra?
+Quina és la millor manera d'anar de l'avinguda del Litoral al carrer del Taquígraf Serra?
 Com ho faig per anar al carrer d'Agustí Duran i Sanpere número setanta-cinc?
 Com puc anar al carrer d'Iradier número vuitanta-sis?
 Com puc arribar a la plaça de Numen Mestre número noranta-set?
@@ -955,7 +955,7 @@ He d'anar al passatge de Maria Canals sense agafar el cotxe.
 Com ho puc fer per anar al passatge de Casamitjana?
 He d'anar de la plaça de Madrona Prat al passatge de Pau Hernández.
 He d'anar del carrer de l'Empordà al passatge de Magarola.
-Quina és la millor manera d'anar del carrer d'Esteràs a la avinguda d'Eduard Maristany?
+Quina és la millor manera d'anar del carrer d'Esteràs a l'avinguda d'Eduard Maristany?
 Com ho faig per anar a la platja Sant Sebastià número vint-i-set?
 Com puc anar a la rambla de Mar número quaranta-quatre?
 Com puc arribar al carrer de Marco Polo número cinquanta-sis?
@@ -1004,7 +1004,7 @@ Quin és el camí més curt per anar al carrer de Briquets número set?
 Quin és el camí més curt per anar al carrer de Berna número catorze?
 Com puc anar al carrer de Rosario Pi número quaranta-dos?
 Com puc arribar al carrer de Formentera número deu?
-Com puc arribar a la avinguda de Can Baró número setanta-sis?
+Com puc arribar a l'avinguda de Can Baró número setanta-sis?
 Com ho puc fer per anar al carrer Vesc cantonada Candeles?
 Què venen al carrer del Roser número cinquanta-u?
 He d'anar a la platja del Bogatell amb cotxe.
@@ -1080,7 +1080,7 @@ Vaig al carrer de Bacardí.
 Hauria d'anar al carrer del Cardenal Casañas número trenta-quatre.
 Vull anar al carrer de Sancho de Ávila amb bicicleta.
 Com es fa per anar del carrer del Duc al carrer del Plom?
-Com es fa per anar del passatge d'Antoni Gassol a la avinguda del Portal de l'Àngel?
+Com es fa per anar del passatge d'Antoni Gassol a l'avinguda del Portal de l'Àngel?
 Com puc anar al carrer de Gombau número cinquanta-vuit?
 Quina botiga hi ha al carrer de Batista i Roca número cinquanta-tres?
 Què hi ha al carrer Morell cantonada Beethoven?
@@ -1219,7 +1219,7 @@ Què hi ha al carrer Portal de Santa Madrona cantonada Sant Jordi?
 Hi ha algun lampista al carrer de Vicent López?
 Com ho puc fer per anar al carrer de Josep Bertrand?
 Hauria d'anar a la plaça d'Artur Martorell número noranta-vuit.
-M'agradaria anar a la avinguda d'Esplugues amb tren.
+M'agradaria anar a l'avinguda d'Esplugues amb tren.
 He d'anar del carrer d'Anna M. Martínez Sagi al carrer d'Adrall.
 Com puc anar al parc Forestal de Can Castellví de Dalt número seixanta-quatre?
 Com puc arribar al carrer de la Colònia del Tibidabo número vint-i-sis?
@@ -1230,7 +1230,7 @@ Hi ha algun negoci al carrer Benlliure cantonada Benlliure?
 Quines botigues hi ha al carrer de la Mar Groga?
 Hi ha algun lampista al carrer de Muntaner?
 Quina és la millor manera d'arribar al carrer del Torrent de Can Mariner?
-M'agradaria anar a la passatge del Rector Oliveras amb moto.
+M'agradaria anar al passatge del Rector Oliveras amb moto.
 Vull anar als jardins de la Font dels Ocellets sense agafar el cotxe.
 Vull anar a la plaça de les Drassanes amb tren.
 Com ho faig per anar al carrer de Bellprat número vint?
