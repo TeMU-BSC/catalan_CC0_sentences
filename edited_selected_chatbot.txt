@@ -438,7 +438,7 @@ Vull reportar el robatori de la meva targeta.
 És una targeta de crèdit o de dèbit?
 Sí, el nom és Berta Andrade.
 I el numero de targeta és quatre mil cinc-cents setanta-tres quatre mil cinc-cents seixanta-dos cinc mil sis-cents quaranta-tres nou mil cent setanta-tres.
-Sí, em sembla que he fet un pagament online per error i voldria cancelar-lo.
+Sí, em sembla que he fet un pagament online per error i voldria cancel·lar-lo.
 A través de quin compte ha fet el pagament?
 Escrigui el seu número de compte corrent, si us plau.
 Em podries confirmar la quantitat?
@@ -757,7 +757,7 @@ L'oficina més propera a casa seva és la de plaça de Sants.
 Perfecte, m'aproparé demà a la tarda.
 Quin seria el seu pressupost?
 Ha tingut ja alguna experiència amb algun equip de música?
-voldria una nova tele.
+Voldria una nova tele.
 No n'hi ha cap en oferta?
 Tenim un altre televisor d'oferta per set-cents vuitanta-nou coma noranta-nou euros.
 Hauria d'anar en persona a comprar-lo, o puc fer la comanda online?

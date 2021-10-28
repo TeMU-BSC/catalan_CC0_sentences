@@ -1191,10 +1191,10 @@ Sí, el cognom és Andrade.
 Sí, el meu és Berta Andrade.
 Sí, el pare és Berta Andrade.
 Sí, el títol és Berta Andrade.
-Sí, em sembla que he fet un curs online per error i voldria cancelar-lo.
-Sí, em sembla que he fet un registre online per error i voldria cancelar-lo.
-Sí, em sembla que he fet un examen online per error i voldria cancelar-lo.
-Sí, em sembla que he fet un test online per error i voldria cancelar-lo.
+Sí, em sembla que he fet un curs online per error i voldria cancel·lar-lo.
+Sí, em sembla que he fet un registre online per error i voldria cancel·lar-lo.
+Sí, em sembla que he fet un examen online per error i voldria cancel·lar-lo.
+Sí, em sembla que he fet un test online per error i voldria cancel·lar-lo.
 A partir de quin compte ha fet el pagament?
 A favor de quin compte ha fet el pagament?
 A càrrec de quin compte ha fet el pagament?

@@ -10,7 +10,7 @@ He d'anar del carrer d'Ercilla al carrer de Sevilla.
 Com es fa per anar del carrer de Trinxant al carrer de Joaquim Valls?
 Quina és la millor manera d'anar del carrer de Corretger al carrer dels Pirineus?
 Com ho faig per anar a la plaça de Can Basté número quatre?
-Quin és el camtí més curt per anar al passatge de Santa Teresa número cinquanta?
+Quin és el camí més curt per anar al passatge de Santa Teresa número cinquanta?
 Com puc anar al carrer de Dénia número quaranta-sis?
 Com puc arribar als jardins de Josep M. Sostres número setanta-tres?
 Com ho puc fer per anar al carrer Teodor Roviralta cantonada Inca?
@@ -35,7 +35,7 @@ He d'anar del carrer de la Volta dels Tamborets al carrer de Sagués.
 Com es fa per anar del passeig de la Reina Elisenda de Montcada al camí de la Torre Melina?
 Quina és la millor manera d'anar del carrer de Santa Dorotea als jardins de Joaquim Domingo i Sánchez?
 Com ho faig per anar al carrer del Foc número seixanta-set?
-Quin és el camtí més curt per anar al carrer de la Guàrdia Urbana número setanta-dos?
+Quin és el camí més curt per anar al carrer de la Guàrdia Urbana número setanta-dos?
 Com puc anar al carrer de Jane Addams número noranta-nou?
 Com puc arribar a la plaça de Paul Claudel número divuit?
 Com ho puc fer per anar al carrer Montsió cantonada Menor de Sarrià?
@@ -60,7 +60,7 @@ He d'anar del carrer de Dublín al carrer del Port d'Alexandria.
 Com es fa per anar del passatge de Ca dels Seguers al carrer de Calvet?
 Quina és la millor manera d'anar del passatge de Sert al passatge de Casa Llarga?
 Com ho faig per anar a la plaça de les Olles número cinquanta-set?
-Quin és el camtí més curt per anar al carrer d'Escòcia número vuitanta-cinc?
+Quin és el camí més curt per anar al carrer d'Escòcia número vuitanta-cinc?
 Com puc anar al carrer de Ribelles número quaranta-nou?
 Com puc arribar al carrer de Velázquez número set?
 Com ho puc fer per anar al carrer Nebuloses cantonada Martí i Julià?
@@ -81,11 +81,11 @@ Mira'm quina és la millor manera d'anar del carrer de Mura al carrer de Serrall
 Hauria d'anar a la plaça de la Verneda número vuitanta-tres.
 M'agradaria anar a la plaça de Sant Bernat Calbó sense agafar el metro.
 Vull anar al carrer de Lluís Solé i Sabarís sense agafar el cotxe.
-He d'anar de la carrer de Fèlix Martí Alpera al carrer del Port de Miami.
+He d'anar al carrer de Fèlix Martí Alpera al carrer del Port de Miami.
 Com es fa per anar del carrer de Jaume Brossa al carrer de Mir Geribert?
 Quina és la millor manera d'anar del carrer d'Almansa a la plaça de Pau Vila?
 Com ho faig per anar als jardins de José Ignacio Urenda número vint-i-tres?
-Quin és el camtí més curt per anar al carrer d'Hug de Rocabertí número setanta?
+Quin és el camí més curt per anar al carrer d'Hug de Rocabertí número setanta?
 Com puc anar als jardins de Walter Benjamin número deu?
 Com puc arribar al carrer de Lluís Marià Vidal número catorze?
 Com ho puc fer per anar al carrer Mirallers cantonada Beethoven?
@@ -110,7 +110,7 @@ He d'anar de la costa del Bruc a la travessera de Gràcia.
 Com es fa per anar del carrer de Jaume Pinent al carrer del Baró de la Barre?
 Quina és la millor manera d'anar del carrer de Valls al carrer de Dalmases?
 Com ho faig per anar al carrer del Nil número trenta?
-Quin és el camtí més curt per anar al carrer del Coure número seixanta-cinc?
+Quin és el camí més curt per anar al carrer del Coure número seixanta-cinc?
 Com puc anar al carrer de Cifuentes número setanta?
 Com puc arribar al carrer de Josep Ferrater i Móra número vuitanta-vuit?
 Com ho puc fer per anar al carrer Orpí cantonada Rectoria?
@@ -132,10 +132,10 @@ Hauria d'anar als jardins de Jaume Perich número vint-i-u.
 M'agradaria anar al carrer de la Palma de Sant Genís amb bicicleta.
 Vull anar al carrer del Camp d'en Vidal amb moto.
 He d'anar del passatge de Pere Rodríguez al carrer de la Trinitat.
-Com es fa per anar del carrer del Doctor Carulla a la carrer de l'Aviador Ruiz de Alda?
+Com es fa per anar del carrer del Doctor Carulla al carrer de l'Aviador Ruiz de Alda?
 Quina és la millor manera d'anar del carrer de Granados al carrer de Gualbes?
 Com ho faig per anar al carrer de Tortellà número vuitanta-u?
-Quin és el camtí més curt per anar a la plaça de Boston número setanta-sis?
+Quin és el camí més curt per anar a la plaça de Boston número setanta-sis?
 Com puc anar al carrer de Lluís Solé i Sabarís número vint-i-sis?
 Com puc arribar al carrer del Cap del Món número seixanta-cinc?
 Com ho puc fer per anar al carrer Marc Aureli cantonada Josep M. Lladó?
@@ -160,7 +160,7 @@ He d'anar del passeig de Pujades als jardins de Rosa Maria Arquimbau.
 Com es fa per anar del carrer del Port de Tarragona al carrer del Lilà?
 Quina és la millor manera d'anar del passatge de Santa Maria de Vilalba als jardins de la Reina Victòria?
 Com ho faig per anar al carrer del Gas número cinquanta-cinc?
-Quin és el camtí més curt per anar al carrer de Berga número trenta-u?
+Quin és el camí més curt per anar al carrer de Berga número trenta-u?
 Com puc anar al carrer Nou de Porta número seixanta-sis?
 Com puc arribar als jardins de Sant Pau del Camp número quatre?
 Com ho puc fer per anar al carrer Santa Elionor cantonada Arc de Sant Pau?
@@ -185,7 +185,7 @@ He d'anar del camí Antic de Sant Llàtzer al carrer de l'Encuny.
 Com es fa per anar del carrer de la Mina de la Ciutat al carrer de Lleida?
 Quina és la millor manera d'anar del carrer de Bacardí al carrer de Demestre?
 Com ho faig per anar al passatge de Santa Eulàlia número quaranta-vuit?
-Quin és el camtí més curt per anar al carrer d'en Gignàs número trenta-cinc?
+Quin és el camí més curt per anar al carrer d'en Gignàs número trenta-cinc?
 Com puc anar al carrer d'Ermengarda número vuitanta-dos?
 Com puc arribar al carrer de Vista Bella número cinquanta?
 Com ho puc fer per anar al carrer Arc del Teatre cantonada Pont del Treball Digne?
@@ -211,7 +211,7 @@ He d'anar de la baixada de Caçador al carrer de Bac de Roda.
 Com es fa per anar de la plaça de la Bella Dorita a la plaça d'Artós?
 Quina és la millor manera d'anar del carrer de Canet al carrer de la Via Làctia?
 Com ho faig per anar al carrer de la Marquesa de Vilallonga número seixanta-quatre?
-Quin és el camtí més curt per anar a la plaça de Pep Ventura número quaranta-tres?
+Quin és el camí més curt per anar a la plaça de Pep Ventura número quaranta-tres?
 Com puc anar al passatge de Manuel Sancho número cinc?
 Com puc arribar a la riera Blanca número vuitanta-quatre?
 Com ho puc fer per anar al carrer Cortada cantonada Flaçà?
@@ -236,7 +236,7 @@ He d'anar del carrer de l'Aldea al carrer del Bon Pastor.
 Com es fa per anar del carrer de la Pintura al carrer d'Alhucemas?
 Quina és la millor manera d'anar del carrer de Sant Màrius al carrer de Baliarda?
 Com ho faig per anar al passatge d'Arenys número seixanta-dos?
-Quin és el camtí més curt per anar a la carrer de l'Esperança número quaranta-sis?
+Quin és el camí més curt per anar al carrer de l'Esperança número quaranta-sis?
 Com puc anar al carrer de Palamós número quaranta-u?
 Com puc arribar a la plaça d'Enriqueta Gallinat número cinquanta-cinc?
 Com ho puc fer per anar al carrer Segimon cantonada Farnés?
@@ -261,7 +261,7 @@ He d'anar del carrer del Mogent al carrer de les Beates.
 Com es fa per anar de la plaça de Sant Josep de Calassanç al carrer de Joaquim Blume?
 Quina és la millor manera d'anar del carrer de São Paulo al passatge de Pitàgores?
 Com ho faig per anar al carrer de San Pedro de Abanto número setanta-u?
-Quin és el camtí més curt per anar al passatge de Bori número vuitanta-dos?
+Quin és el camí més curt per anar al passatge de Bori número vuitanta-dos?
 Com puc anar al passatge del Camí del Mas Sauró número dinou?
 Com puc arribar a la plaça de Neptú número u?
 Com ho puc fer per anar al carrer Cariteo cantonada Volta dels Jueus?
@@ -286,7 +286,7 @@ He d'anar dels jardins de Leonor Serrano al carrer de Flassaders.
 Com es fa per anar del carrer de Valldemossa al carrer de Sant Frederic?
 Quina és la millor manera d'anar del passatge d'Andalusia al carrer de l'Escultor Llimona?
 Com ho faig per anar al carrer de Santa Llúcia número setanta-quatre?
-Quin és el camtí més curt per anar al carrer de Josep Finestres número vuitanta-set?
+Quin és el camí més curt per anar al carrer de Josep Finestres número vuitanta-set?
 Com puc anar al carrer de Haifa número vuitanta-quatre?
 Com puc arribar al carrer del Perú número trenta-dos?
 Com ho puc fer per anar al carrer Nebuloses cantonada Pau Gargallo?
@@ -310,7 +310,7 @@ He d'anar del carrer del Doctor Ribas i Perdigó al carrer Horitzontal.
 Com es fa per anar del carrer d'Abdó Terradas a la placeta del Roser?
 Quina és la millor manera d'anar del carrer de Felipe de Paz al carrer de l'Art?
 Com ho faig per anar al carrer de la Volta dels Jueus número vuitanta-cinc?
-Quin és el camtí més curt per anar a la plaça de Wagner número cinquanta?
+Quin és el camí més curt per anar a la plaça de Wagner número cinquanta?
 Com puc anar al parc de Can Sabater número noranta-u?
 Com puc arribar al carrer de Claramunt número dotze?
 Com ho puc fer per anar al carrer Blesa cantonada Bosch?
@@ -335,9 +335,9 @@ He d'anar del carrer de Pau Alsina al parc de Montjuïc.
 Com es fa per anar del carrer de Palafox al carrer de Molist?
 Quina és la millor manera d'anar del camí de la Torre Melina al carrer de Natzaret?
 Com ho faig per anar a la plaça de Maria-Antònia Salvà número quaranta-sis?
-Quin és el camtí més curt per anar al carrer dels Satèl·lits número setze?
+Quin és el camí més curt per anar al carrer dels Satèl·lits número setze?
 Com puc anar al passatge de Maria Llimona número noranta-cinc?
-Com puc arribar a la carrer de Cabrera número quinze?
+Com puc arribar al carrer de Cabrera número quinze?
 Com ho puc fer per anar al carrer Alella cantonada Ortigosa?
 Quan passa l'autobús pel carrer Carrera?
 Què hi ha al carrer de Moratín número setanta-dos?
@@ -360,7 +360,7 @@ He d'anar del carrer dels Vigatans al carrer de Segimon.
 Com es fa per anar del carrer de Coroleu al passatge de la Martinica?
 Quina és la millor manera d'anar del carrer de Julián Besteiro a la plaça de Miquel Casablancas i Joanico?
 Com ho faig per anar a la rotonda de l'Àncora número cinquanta-nou?
-Quin és el camtí més curt per anar al passatge de Lucà número vuitanta-vuit?
+Quin és el camí més curt per anar al passatge de Lucà número vuitanta-vuit?
 Com puc anar al carrer de la Rectoria número vuit?
 Com puc arribar a la plaça d'Otero Pedrayo número quaranta-dos?
 Com ho puc fer per anar al carrer Siracusa cantonada Periodistes?
@@ -378,17 +378,17 @@ Quina és la millor manera d'arribar al carrer de Palou?
 Com ho puc fer per anar als jardins de Salvador Espriu?
 Vaig al carrer de Brossa.
 Mira'm quina és la millor manera d'anar del carrer dels Germans Serra a la plaça de Pere Coromines.
-Hauria d'anar a la carrer de Cervera número quaranta-set.
+Hauria d'anar al carrer de Cervera número quaranta-set.
 M'agradaria anar al carrer del Gran Capità amb tren.
 Vull anar al carrer de Sant Ramon amb autobús.
 He d'anar de la plaça de Manuel Baldrich al carrer del Doctor Bové.
 Com es fa per anar del carrer d'en Rull als jardins de Margarida Comas?
 Quina és la millor manera d'anar del passatge de Carlota de Mena al passatge de Pitàgores?
 Com ho faig per anar al carrer del Cisell número setanta-cinc?
-Quin és el camtí més curt per anar a la plaça d'Adrià número seixanta-u?
+Quin és el camí més curt per anar a la plaça d'Adrià número seixanta-u?
 Com puc anar a la plaça de Mañé i Flaquer número noranta-dos?
 Com puc arribar al passatge de Jorba número dinou?
-Com ho puc fer per anar al carrer Sant Marià cantonada Lleó XIII?
+Com ho puc fer per anar al carrer Sant Marià cantonada Lleó tretze?
 Quan passa l'autobús pel carrer Dolors Masferrer i Bosch?
 Què hi ha a la plaça de l'Olivereta número tretze?
 Quina botiga hi ha al camí de la Cadena número quaranta-vuit?
@@ -410,7 +410,7 @@ He d'anar de la plaça de Bacardí al camí del Carlet.
 Com es fa per anar del carrer de les Basses d'Horta als jardins de Celestina Vigneaux?
 Quina és la millor manera d'anar del carrer de Messina a la baixada de la Glòria?
 Com ho faig per anar al carrer de Ferrer de Blanes número seixanta-sis?
-Quin és el camtí més curt per anar al carrer de Vila-rodona número quaranta-nou?
+Quin és el camí més curt per anar al carrer de Vila-rodona número quaranta-nou?
 Com puc anar al parc de Sant Martí número seixanta-set?
 Com puc arribar al carrer del Beat Simó número vint-i-tres?
 Com ho puc fer per anar al carrer Vilatorta cantonada Menta?
@@ -435,7 +435,7 @@ He d'anar del carrer de la França Xica al carrer de Muntaner.
 Com es fa per anar del carrer de Darnius al jardí de Salvador Escamilla?
 Quina és la millor manera d'anar del carrer de Manuel Ballbé al carrer de Ribes?
 Com ho faig per anar a la plaça del Nou número vuitanta-sis?
-Quin és el camtí més curt per anar a la carrer de l'Olivera número seixanta-quatre?
+Quin és el camí més curt per anar al carrer de l'Olivera número seixanta-quatre?
 Com puc anar al passatge d'Iglésias número trenta-sis?
 Com puc arribar a la plaça de la Reina Maria Cristina número noranta-tres?
 Com ho puc fer per anar al carrer Panxampla cantonada Gènova?
@@ -460,7 +460,7 @@ He d'anar del carrer de Castellví al carrer d'Artés.
 Com es fa per anar de la rambla de Guipúscoa al carrer de Roma?
 Quina és la millor manera d'anar de la plaça de Can Dragó al carrer de l'Arc de Sant Vicenç?
 Com ho faig per anar al passatge dels Ciutadans número vint-i-vuit?
-Quin és el camtí més curt per anar al carrer de Graus número seixanta?
+Quin és el camí més curt per anar al carrer de Graus número seixanta?
 Com puc anar al carrer del Gas número vint-i-quatre?
 Com puc arribar al passatge de Massaguer número vint-i-quatre?
 Com ho puc fer per anar al carrer Los Castillejos cantonada Moragas?
@@ -485,7 +485,7 @@ He d'anar del carrer del Clot a la plaça de la Mercè.
 Com es fa per anar del jardí de Salvador Escamilla al carrer del Cap del Món?
 Quina és la millor manera d'anar del carrer de Robert Gerhard al carrer de Santa Rosalia?
 Com ho faig per anar al carrer de Sas número vuitanta-quatre?
-Quin és el camtí més curt per anar a la plaça de Wagner número cinquanta-quatre?
+Quin és el camí més curt per anar a la plaça de Wagner número cinquanta-quatre?
 Com puc anar al carrer de Salvador Espriu número deu?
 Com puc arribar al carrer de Gomis número cinquanta-tres?
 Com ho puc fer per anar al carrer Parsifal cantonada Llobet?
@@ -510,12 +510,12 @@ He d'anar de la plaça de Lola Anglada als jardins de Villa Clara.
 Com es fa per anar del passatge de Ma. Àngels Rivas a la baixada de Viladecols?
 Quina és la millor manera d'anar del carrer del Voló al carrer de l'Equador?
 Com ho faig per anar a la plaça de Jaume Sabartés número vuit?
-Quin és el camtí més curt per anar al passatge d'Andalusia número seixanta-quatre?
+Quin és el camí més curt per anar al passatge d'Andalusia número seixanta-quatre?
 Com puc anar al carrer de la Muntanya número cinquanta-dos?
 Com puc arribar al carrer de Badia número noranta-u?
 Com ho puc fer per anar al carrer Saleta cantonada Sol?
 Quan passa l'autobús pel carrer Sant Pere Més Alt?
-Què hi ha a la carrer de l'Aviació número seixanta-set?
+Què hi ha al carrer de l'Aviació número seixanta-set?
 Quina botiga hi ha al carrer del Nord número noranta-tres?
 Què venen al carrer de Martí Molins número cinquanta-vuit?
 Qui viu al carrer de l'Actriu Tubau número cinquanta-sis?
@@ -535,7 +535,7 @@ He d'anar del carrer del Cisell al carrer del Baró d'Esponellà.
 Com es fa per anar del carrer de Novelles al carrer de Puigcerdà?
 Quina és la millor manera d'anar de la plaça de la Mercè al carrer de Carles Soldevila?
 Com ho faig per anar al passeig del Migdia número vuitanta-quatre?
-Quin és el camtí més curt per anar al carrer de Benevent número setze?
+Quin és el camí més curt per anar al carrer de Benevent número setze?
 Com puc anar al carrer de Vilatorta número vint-i-dos?
 Com puc arribar al carrer de Pals número quatre?
 Com ho puc fer per anar al carrer Peris i Mencheta cantonada Arcs?
@@ -560,7 +560,7 @@ He d'anar dels jardins de Josep Amat al carrer de Buenaventura Muñoz.
 Com es fa per anar del carrer de Brussel·les al carrer dels Segons Jocs Mediterranis?
 Quina és la millor manera d'anar del carrer de la Pobla de Lillet al carrer de Panamà?
 Com ho faig per anar al camí del Cementiri de Sant Gervasi número vint-i-dos?
-Quin és el camtí més curt per anar a la plaça de l'Orient número setanta-set?
+Quin és el camí més curt per anar a la plaça de l'Orient número setanta-set?
 Com puc anar al carrer de Cal Cisó número trenta-tres?
 Com puc arribar al carrer de la Mineria número vuitanta-set?
 Com ho puc fer per anar al carrer Autonomia cantonada Sant Francesc Xavier?
@@ -577,15 +577,15 @@ He d'anar al carrer de Garcilaso sense agafar el cotxe.
 Quina és la millor manera d'arribar al carrer de Gayarre?
 Com ho puc fer per anar al carrer de Cerignola?
 Vaig a la plaça de Sant Jordi.
-Mira'm quina és la millor manera d'anar de la carrer del Mirador de Llobera al carrer de Ramon Batlle.
+Mira'm quina és la millor manera d'anar al carrer del Mirador de Llobera al carrer de Ramon Batlle.
 Hauria d'anar al carrer de les Penedides número vuitanta-cinc.
-M'agradaria anar a la carrer de la Noguera Ribagorçana amb autobús.
+M'agradaria anar al carrer de la Noguera Ribagorçana amb autobús.
 Vull anar al passeig de Picasso sense agafar el metro.
 He d'anar de la plaça de Sant Lluc al carrer de Demòstenes.
 Com es fa per anar del carrer dels Gimbernat al carrer del Saüc?
 Quina és la millor manera d'anar del carrer de Rosalía de Castro al carrer de Sant Jacint?
 Com ho faig per anar al carrer de Maria Barrientos número setanta-sis?
-Quin és el camtí més curt per anar al carrer de Fisas número vint-i-dos?
+Quin és el camí més curt per anar al carrer de Fisas número vint-i-dos?
 Com puc anar al carrer de Pablo Iglesias número noranta-tres?
 Com puc arribar al carrer de Sant Manuel número setanta-sis?
 Com ho puc fer per anar al carrer Puiggener cantonada Ferran Junoy?
@@ -1494,7 +1494,7 @@ diumenge he d'anar a Das amb autobús.
 A quina hora passa el primer autobús per Talavera dimarts?
 Quines parades fa l'autobús que va a Montbrió del Camp?
 Quant dura el viatge en autobús fins a Seròs?
-Quantes parades té el trajecte en l'autobús fins a Sant Julià de Ramis?
+Quantes parades té el trajecte en autobús fins a Sant Julià de Ramis?
 Quant dura el trajecte en autobús fins a Arnes?
 Com puc anar a Montblanc dimarts a tres quarts de dotze?
 Com puc arribar a Torrent amb autobús?
@@ -1514,7 +1514,7 @@ el dos de juny he d'anar a Montmaneu amb autobús.
 A quina hora passa el primer autobús per la Nou de Gaià dimecres?
 Quines parades fa l'autobús que va a Castellolí?
 Quant dura el viatge en autobús fins a Vallromanes?
-Quantes parades té el trajecte en l'autobús fins a Cabanelles?
+Quantes parades té el trajecte en autobús fins a Cabanelles?
 Quant dura el trajecte en autobús fins a la Garriga?
 Com puc anar a Esterri d'Àneu el dos de juny a la nit?
 Com puc arribar a Jafre a peu?
@@ -1534,14 +1534,14 @@ demà he d'anar a Cabanes amb autobús.
 A quina hora passa el primer autobús per Llambilles diumenge?
 Quines parades fa l'autobús que va a Sant Fruitós de Bages?
 Quant dura el viatge en autobús fins a Caldes de Montbui?
-Quantes parades té el trajecte en l'autobús fins a Aiguamúrcia?
+Quantes parades té el trajecte en autobús fins a Aiguamúrcia?
 Quant dura el trajecte en autobús fins a Tírvia?
 Com puc anar a Castellar del Vallès el dos de juny a tres quarts de dotze?
 Com puc arribar a Sant Cebrià de Vallalta amb autobús?
 Com ho puc fer per anar a Es Bòrdes amb moto?
 Quan passa l'autobús per Llorac?
 A quina hora arriba l'autobús de Santa Coloma de Gramenet?
-He d'anar a el Pont de Suert amb moto dissabte a les onze.
+He d'anar al Pont de Suert amb moto dissabte a les onze.
 Quina és la millor manera d'anar a Sant Vicenç de Montalt amb cotxe?
 Com ho puc fer per anar a Brunyola i Sant Martí Sapresa divendres?
 Mira'm quina és la millor manera d'anar a Belianes sense agafar el cotxe.
@@ -1549,12 +1549,12 @@ el dos de juny hauria d'anar a Sant Martí de Llémena.
 M'agradaria anar a Vallromanes amb moto.
 Vull anar a Pedret i Marzà amb cotxe.
 Reserva'm un bitllet de tren per anar a Sant Boi de Llobregat el dos de juny a la nit.
-Necessito un bitllet de tren per anar a el Vilosell dijous.
+Necessito un bitllet de tren per anar al Vilosell dijous.
 dijous he d'anar a Arenys de Munt amb autobús.
 A quina hora passa el primer autobús per Tírvia diumenge?
 Quines parades fa l'autobús que va a Sarroca de Bellera?
 Quant dura el viatge en autobús fins a Santa Fe del Penedès?
-Quantes parades té el trajecte en l'autobús fins a l'Esquirol?
+Quantes parades té el trajecte en autobús fins a l'Esquirol?
 Quant dura el trajecte en autobús fins a Monells i Sant Sadurní de l'Heura Cruïlles?
 Com puc anar a Meranges demà a les onze?
 Com puc arribar a Duesaigües amb moto?
@@ -1570,11 +1570,11 @@ M'agradaria anar a Castell de l'Areny amb trasport públic.
 Vull anar a Cervelló sense agafar el cotxe.
 Reserva'm un bitllet de tren per anar a Sant Quirze del Vallès demà a dos quarts i cinc de set.
 Necessito un bitllet de tren per anar a Sant Cebrià de Vallalta demà passat.
-el cinc d'agost he d'anar a els Alamús amb autobús.
+el cinc d'agost he d'anar als Alamús amb autobús.
 A quina hora passa el primer autobús per Sant Jaume d'Enveja diumenge?
 Quines parades fa l'autobús que va a Cabanes?
 Quant dura el viatge en autobús fins a Gandesa?
-Quantes parades té el trajecte en l'autobús fins a Vilanova de Meià?
+Quantes parades té el trajecte en autobús fins a Vilanova de Meià?
 Quant dura el trajecte en autobús fins a Pals?
 Com puc anar a Cassà de la Selva demà passat a dos quarts i cinc de set?
 Com puc arribar a Sant Martí d'Albars amb moto?
@@ -1592,10 +1592,10 @@ Reserva'm un bitllet de tren per anar a l'Aleixar dijous al migdia.
 Necessito un bitllet de tren per anar a Tavertet dimarts.
 dissabte he d'anar a Prades amb autobús.
 A quina hora passa el primer autobús per Rocafort de Queralt dimarts?
-Quines parades fa l'autobús que va a el Poal?
+Quines parades fa l'autobús que va al Poal?
 Quant dura el viatge en autobús fins a Tornabous?
-Quantes parades té el trajecte en l'autobús fins a Crespià?
-Quant dura el trajecte en autobús fins a el Rourell?
+Quantes parades té el trajecte en autobús fins a Crespià?
+Quant dura el trajecte en autobús fins al Rourell?
 Com puc anar a Viladamat diumenge a les set?
 Com puc arribar a Badia del Vallès sense agafar el metro?
 Com ho puc fer per anar a Planoles amb autobús?
@@ -1610,11 +1610,11 @@ M'agradaria anar a la Palma de Cervelló amb cotxe.
 Vull anar a Ripoll amb autobús.
 Reserva'm un bitllet de tren per anar a Gelida divendres a les dues.
 Necessito un bitllet de tren per anar a Sant Pere de Vilamajor dimecres.
-el dos de juny he d'anar a els Torms amb autobús.
+el dos de juny he d'anar als Torms amb autobús.
 A quina hora passa el primer autobús per Masdenverge dimarts?
 Quines parades fa l'autobús que va a Balsareny?
 Quant dura el viatge en autobús fins a les Franqueses del Vallès?
-Quantes parades té el trajecte en l'autobús fins a Ivars de Noguera?
+Quantes parades té el trajecte en autobús fins a Ivars de Noguera?
 Quant dura el trajecte en autobús fins a Sant Iscle de Vallalta?
 Com puc anar a Sant Ferriol dissabte al matí?
 Com puc arribar a la Bisbal del Penedès amb tren?
@@ -1634,7 +1634,7 @@ dissabte he d'anar a Masllorenç amb autobús.
 A quina hora passa el primer autobús per Montgat demà?
 Quines parades fa l'autobús que va a Alfés?
 Quant dura el viatge en autobús fins a Balsareny?
-Quantes parades té el trajecte en l'autobús fins a Anglès?
+Quantes parades té el trajecte en autobús fins a Anglès?
 Quant dura el trajecte en autobús fins a Vilanova de la Barca?
 Com puc anar a Palau-solità i Plegamans divendres al migdia?
 Com puc arribar a Saldes amb cotxe?
@@ -1643,20 +1643,20 @@ Quan passa l'autobús per Vimbodí i Poblet?
 A quina hora arriba l'autobús de Llorenç del Penedès?
 He d'anar a l'Esquirol amb tren dissabte a dos quarts i cinc de set.
 Quina és la millor manera d'anar a Naut Aran amb tren?
-Com ho puc fer per anar a el Soleràs el dos de juny?
+Com ho puc fer per anar al Soleràs el dos de juny?
 Mira'm quina és la millor manera d'anar a la Granja d'Escarp amb tren.
 dilluns hauria d'anar a Paüls.
 M'agradaria anar a Roda de Ter amb bicicleta.
 Vull anar a Montoliu de Lleida amb tren.
 Reserva'm un bitllet de tren per anar a Esterri de Cardós divendres a les dotze.
-Necessito un bitllet de tren per anar a el Port de la Selva demà.
+Necessito un bitllet de tren per anar al Port de la Selva demà.
 dimecres he d'anar a Montclar amb autobús.
 A quina hora passa el primer autobús per Jorba el dos de juny?
 Quines parades fa l'autobús que va a Montmajor?
 Quant dura el viatge en autobús fins a l'Escala?
-Quantes parades té el trajecte en l'autobús fins a Palafolls?
-Quant dura el trajecte en autobús fins a el Soleràs?
-Com puc anar a el Far d'Empordà el dos de juny a les tres?
+Quantes parades té el trajecte en autobús fins a Palafolls?
+Quant dura el trajecte en autobús fins al Soleràs?
+Com puc anar al Far d'Empordà el dos de juny a les tres?
 Com puc arribar a Sant Esteve de la Sarga amb cotxe?
 Com ho puc fer per anar a la Bisbal de Falset amb moto?
 Quan passa l'autobús per Bellmunt del Priorat?
@@ -1674,7 +1674,7 @@ demà passat he d'anar a Roda de Ter amb autobús.
 A quina hora passa el primer autobús per Juià demà?
 Quines parades fa l'autobús que va a Vilobí del Penedès?
 Quant dura el viatge en autobús fins a Castellbell i el Vilar?
-Quantes parades té el trajecte en l'autobús fins a Tagamanent?
+Quantes parades té el trajecte en autobús fins a Tagamanent?
 Quant dura el trajecte en autobús fins a Riudoms?
 Com puc anar a Castellvell del Camp dijous a les set?
 Com puc arribar a Belianes amb cotxe?
@@ -1694,7 +1694,7 @@ el dos de juny he d'anar a Torrent amb autobús.
 A quina hora passa el primer autobús per Riner demà?
 Quines parades fa l'autobús que va a Vilademuls?
 Quant dura el viatge en autobús fins a Pujalt?
-Quantes parades té el trajecte en l'autobús fins a Mont-ras?
+Quantes parades té el trajecte en autobús fins a Mont-ras?
 Quant dura el trajecte en autobús fins a Les?
 Com puc anar a Dosrius divendres a la una?
 Com puc arribar a Castellvell del Camp sense agafar el metro?
@@ -1706,7 +1706,7 @@ Quina és la millor manera d'anar a Montornès del Vallès amb tren?
 Com ho puc fer per anar a Bovera divendres?
 Mira'm quina és la millor manera d'anar a Godall sense agafar el metro.
 dimecres hauria d'anar a Massalcoreig.
-M'agradaria anar a el Port de la Selva sense agafar el cotxe.
+M'agradaria anar al Port de la Selva sense agafar el cotxe.
 Vull anar a Mataró amb tren.
 Reserva'm un bitllet de tren per anar a Caldes de Malavella dimarts a la tarda.
 Necessito un bitllet de tren per anar a Castellfollit del Boix dissabte.
@@ -1714,7 +1714,7 @@ demà passat he d'anar a Tàrrega amb autobús.
 A quina hora passa el primer autobús per Arenys de Mar demà?
 Quines parades fa l'autobús que va a les Llosses?
 Quant dura el viatge en autobús fins a Marganell?
-Quantes parades té el trajecte en l'autobús fins a Esponellà?
+Quantes parades té el trajecte en autobús fins a Esponellà?
 Quant dura el trajecte en autobús fins a Ullastret?
 Com puc anar a Esplugues de Llobregat dimecres a la una?
 Com puc arribar a Maià de Montcal a peu?
@@ -1726,7 +1726,7 @@ Quina és la millor manera d'anar a la Palma de Cervelló amb cotxe?
 Com ho puc fer per anar a Tàrrega demà?
 Mira'm quina és la millor manera d'anar a Sant Martí Vell sense agafar el metro.
 divendres hauria d'anar a Oristà.
-M'agradaria anar a el Pont de Suert amb cotxe.
+M'agradaria anar al Pont de Suert amb cotxe.
 Vull anar a la Roca del Vallès amb tren.
 Reserva'm un bitllet de tren per anar a Pontils dimarts a les deu.
 Necessito un bitllet de tren per anar a Cabanes dimarts.
@@ -1734,7 +1734,7 @@ dijous he d'anar a Montgat amb autobús.
 A quina hora passa el primer autobús per Montbrió del Camp demà?
 Quines parades fa l'autobús que va a Torredembarra?
 Quant dura el viatge en autobús fins a Castellar de la Ribera?
-Quantes parades té el trajecte en l'autobús fins a Salt?
+Quantes parades té el trajecte en autobús fins a Salt?
 Quant dura el trajecte en autobús fins a Vilanova d'Escornalbou?
 Com puc anar a Juncosa dimecres a tres quarts de dotze?
 Com puc arribar a Santa Perpètua de Mogoda amb bicicleta?
@@ -1754,7 +1754,7 @@ dilluns he d'anar a Ivorra amb autobús.
 A quina hora passa el primer autobús per Berga dimecres?
 Quines parades fa l'autobús que va a Almatret?
 Quant dura el viatge en autobús fins a Nulles?
-Quantes parades té el trajecte en l'autobús fins a Toses?
+Quantes parades té el trajecte en autobús fins a Toses?
 Quant dura el trajecte en autobús fins a Castellolí?
 Com puc anar a Massanes dimecres al migdia?
 Com puc arribar a la Torre de l'Espanyol a peu?
@@ -1764,9 +1764,9 @@ A quina hora arriba l'autobús de Rupit i Pruit?
 He d'anar a Cabacés amb tren el vint-i-tres de maig a les dotze.
 Quina és la millor manera d'anar a Vilamòs amb tren?
 Com ho puc fer per anar a Gironella dilluns?
-Mira'm quina és la millor manera d'anar a el Soleràs amb tren.
+Mira'm quina és la millor manera d'anar al Soleràs amb tren.
 demà hauria d'anar a Ponts.
-M'agradaria anar a els Alamús amb tren.
+M'agradaria anar als Alamús amb tren.
 Vull anar a Prades amb trasport públic.
 Reserva'm un bitllet de tren per anar a Arres dissabte a les set.
 Necessito un bitllet de tren per anar a Montbrió del Camp dimarts.
@@ -1774,7 +1774,7 @@ dissabte he d'anar a Gósol amb autobús.
 A quina hora passa el primer autobús per Sant Esteve de la Sarga dimarts?
 Quines parades fa l'autobús que va a Sils?
 Quant dura el viatge en autobús fins a Tírvia?
-Quantes parades té el trajecte en l'autobús fins a Pratdip?
+Quantes parades té el trajecte en autobús fins a Pratdip?
 Quant dura el trajecte en autobús fins a Vilafranca del Penedès?
 Com puc anar a Prat de Comte el cinc d'agost a la nit?
 Com puc arribar a Santa Cecília de Voltregà a peu?
@@ -1793,7 +1793,7 @@ Necessito un bitllet de tren per anar a Cabrera de Mar dilluns.
 dijous he d'anar a Llagostera amb autobús.
 A quina hora passa el primer autobús per Sant Fruitós de Bages el vint-i-tres de maig?
 Quant dura el viatge en autobús fins a Castellterçol?
-Quantes parades té el trajecte en l'autobús fins a Anglesola?
+Quantes parades té el trajecte en autobús fins a Anglesola?
 Quant dura el trajecte en autobús fins a Vilanova de Bellpuig?
 Com puc anar a Tornabous el vint-i-tres de maig a dos quarts i cinc de set?
 Com puc arribar a Darnius amb trasport públic?
@@ -1813,7 +1813,7 @@ dimecres he d'anar a Esponellà amb autobús.
 A quina hora passa el primer autobús per Vilobí del Penedès demà?
 Quines parades fa l'autobús que va a Calaf?
 Quant dura el viatge en autobús fins a Vilanova de l'Aguda?
-Quantes parades té el trajecte en l'autobús fins a la Selva del Camp?
+Quantes parades té el trajecte en autobús fins a la Selva del Camp?
 Quant dura el trajecte en autobús fins a Vidreres?
 Com puc anar a Vilalba dels Arcs dissabte a la nit?
 Com puc arribar a Lleida sense agafar el metro?
@@ -1833,7 +1833,7 @@ divendres he d'anar a les Llosses amb autobús.
 A quina hora passa el primer autobús per les Masies de Roda dimecres?
 Quines parades fa l'autobús que va a Cistella?
 Quant dura el viatge en autobús fins a Viver i Serrateix?
-Quantes parades té el trajecte en l'autobús fins a Súria?
+Quantes parades té el trajecte en autobús fins a Súria?
 Quant dura el trajecte en autobús fins a Castellar del Riu?
 Com puc anar a Granera dimarts a les quatre?
 Com puc arribar a Llagostera amb tren?
@@ -1843,7 +1843,7 @@ A quina hora arriba l'autobús de la Riba?
 He d'anar a Bellmunt del Priorat amb bicicleta diumenge al migdia.
 Quina és la millor manera d'anar a Castellbell i el Vilar amb trasport públic?
 Com ho puc fer per anar a Jafre dissabte?
-Mira'm quina és la millor manera d'anar a el Port de la Selva amb moto.
+Mira'm quina és la millor manera d'anar al Port de la Selva amb moto.
 dissabte hauria d'anar a Vilalba dels Arcs.
 M'agradaria anar a Abrera amb tren.
 Vull anar a Vic amb bicicleta.
@@ -1853,7 +1853,7 @@ divendres he d'anar a Castelldans amb autobús.
 A quina hora passa el primer autobús per Bellmunt del Priorat divendres?
 Quines parades fa l'autobús que va a Santa Maria de Palautordera?
 Quant dura el viatge en autobús fins a Cerdanyola del Vallès?
-Quantes parades té el trajecte en l'autobús fins a Albons?
+Quantes parades té el trajecte en autobús fins a Albons?
 Quant dura el trajecte en autobús fins a Albons?
 Com puc anar a Sant Aniol de Finestres dilluns a la nit?
 Com puc arribar a la Riba amb cotxe?
@@ -1864,7 +1864,7 @@ He d'anar a Monells i Sant Sadurní de l'Heura Cruïlles amb moto el cinc d'agos
 Quina és la millor manera d'anar a Montoliu de Segarra amb cotxe?
 Com ho puc fer per anar a Marganell demà?
 Mira'm quina és la millor manera d'anar a Castellserà amb trasport públic.
-demà passat hauria d'anar a el Soleràs.
+demà passat hauria d'anar al Soleràs.
 M'agradaria anar a Palafrugell amb moto.
 Vull anar a Siurana a peu.
 Reserva'm un bitllet de tren per anar a Sant Guim de la Plana el vint-i-tres de maig a les nou.
@@ -1873,7 +1873,7 @@ dilluns he d'anar a Vandellòs i l'Hospitalet de l'Infant amb autobús.
 A quina hora passa el primer autobús per Montmajor demà?
 Quines parades fa l'autobús que va a Madremanya?
 Quant dura el viatge en autobús fins a Sant Jaume dels Domenys?
-Quantes parades té el trajecte en l'autobús fins a els Plans de Sió?
+Quantes parades té el trajecte en autobús fins als Plans de Sió?
 Quant dura el trajecte en autobús fins a Pallejà?
 Com puc anar a Sant Joan de les Abadesses divendres a les dotze?
 Com puc arribar a Caldes d'Estrac amb bicicleta?
@@ -1893,7 +1893,7 @@ diumenge he d'anar a Vilanant amb autobús.
 A quina hora passa el primer autobús per Benavent de Segrià dimecres?
 Quines parades fa l'autobús que va a Porqueres?
 Quant dura el viatge en autobús fins a Olèrdola?
-Quantes parades té el trajecte en l'autobús fins a Rialp?
+Quantes parades té el trajecte en autobús fins a Rialp?
 Quant dura el trajecte en autobús fins a Prat de Comte?
 Com puc anar a Bellaguarda dilluns a les sis?
 Com puc arribar a Solsona amb trasport públic?
@@ -1904,7 +1904,7 @@ He d'anar a Aguilar de Segarra a peu el cinc d'agost a la nit.
 Quina és la millor manera d'anar a Canyelles amb bicicleta?
 Com ho puc fer per anar a Prat de Comte dimarts?
 Mira'm quina és la millor manera d'anar a Sant Bartomeu del Grau amb trasport públic.
-el dos de juny hauria d'anar a el Soleràs.
+el dos de juny hauria d'anar al Soleràs.
 M'agradaria anar a Esplugues de Llobregat amb moto.
 Vull anar a la Secuita sense agafar el metro.
 Reserva'm un bitllet de tren per anar a Sant Quirze del Vallès divendres a les set.
@@ -1912,7 +1912,7 @@ Necessito un bitllet de tren per anar a Gualba el cinc d'agost.
 dijous he d'anar a la Galera amb autobús.
 A quina hora passa el primer autobús per la Guingueta d'Àneu el cinc d'agost?
 Quines parades fa l'autobús que va a Òdena?
-Quantes parades té el trajecte en l'autobús fins a Navata?
+Quantes parades té el trajecte en autobús fins a Navata?
 Quant dura el trajecte en autobús fins a Orpí?
 Com puc anar a Castellserà divendres a les tres?
 Com puc arribar a Naut Aran amb autobús?
@@ -1932,7 +1932,7 @@ el vint-i-tres de maig he d'anar a Bràfim amb autobús.
 A quina hora passa el primer autobús per Xerta el cinc d'agost?
 Quines parades fa l'autobús que va a Bellprat?
 Quant dura el viatge en autobús fins a Lladó?
-Quantes parades té el trajecte en l'autobús fins a Castell de l'Areny?
+Quantes parades té el trajecte en autobús fins a Castell de l'Areny?
 Quant dura el trajecte en autobús fins a Puigpelat?
 Com puc anar a Sant Guim de Freixenet dimarts a la nit?
 Com puc arribar a Castellvell del Camp sense agafar el cotxe?
@@ -1952,7 +1952,7 @@ el cinc d'agost he d'anar a Soses amb autobús.
 A quina hora passa el primer autobús per Llívia demà?
 Quines parades fa l'autobús que va a Montesquiu?
 Quant dura el viatge en autobús fins a Torre-serona?
-Quantes parades té el trajecte en l'autobús fins a Cardona?
+Quantes parades té el trajecte en autobús fins a Cardona?
 Quant dura el trajecte en autobús fins a Horta de Sant Joan?
 Com puc anar a Santa Cristina d'Aro dissabte a la una?
 Com puc arribar a Seva sense agafar el metro?
@@ -1991,7 +1991,7 @@ dijous he d'anar a Serinyà amb autobús.
 A quina hora passa el primer autobús per Capmany dimarts?
 Quines parades fa l'autobús que va a Centelles?
 Quant dura el viatge en autobús fins a Vilalba Sasserra?
-Quantes parades té el trajecte en l'autobús fins a Sant Martí de Centelles?
+Quantes parades té el trajecte en autobús fins a Sant Martí de Centelles?
 Quant dura el trajecte en autobús fins a Montferrer i Castellbò?
 Com puc anar a Capçanes demà a les dues?
 Com puc arribar a Sant Vicenç de Castellet amb tren?
@@ -2011,7 +2011,7 @@ dilluns he d'anar a Camarles amb autobús.
 A quina hora passa el primer autobús per Planoles demà?
 Quines parades fa l'autobús que va a Caldes d'Estrac?
 Quant dura el viatge en autobús fins a Capçanes?
-Quantes parades té el trajecte en l'autobús fins a els Guiamets?
+Quantes parades té el trajecte en autobús fins als Guiamets?
 Quant dura el trajecte en autobús fins a Riba-roja d'Ebre?
 Com puc anar a Linyola el dos de juny al matí?
 Com puc arribar a Espinelves amb trasport públic?
@@ -2030,7 +2030,7 @@ Necessito un bitllet de tren per anar a Aitona dimecres.
 el vint-i-tres de maig he d'anar a Biosca amb autobús.
 A quina hora passa el primer autobús per Casserres divendres?
 Quant dura el viatge en autobús fins a Mollet del Vallès?
-Quantes parades té el trajecte en l'autobús fins a Sanaüja?
+Quantes parades té el trajecte en autobús fins a Sanaüja?
 Quant dura el trajecte en autobús fins a Jafre?
 Com puc anar a Ullastret el cinc d'agost a la una?
 Com puc arribar a Fígols i Alinyà amb autobús?
@@ -2050,7 +2050,7 @@ dimecres he d'anar a Argelaguer amb autobús.
 A quina hora passa el primer autobús per Bellvís divendres?
 Quines parades fa l'autobús que va a Sant Fost de Campsentelles?
 Quant dura el viatge en autobús fins a Bellvís?
-Quantes parades té el trajecte en l'autobús fins a el Perelló?
+Quantes parades té el trajecte en autobús fins al Perelló?
 Quant dura el trajecte en autobús fins a Puigdàlber?
 Com puc anar a Collbató el dos de juny al vespre?
 Com puc arribar a Gironella sense agafar el metro?
@@ -2070,8 +2070,8 @@ dilluns he d'anar a Veciana amb autobús.
 A quina hora passa el primer autobús per la Llacuna el dos de juny?
 Quines parades fa l'autobús que va a Gualta?
 Quant dura el viatge en autobús fins a Sant Fruitós de Bages?
-Quantes parades té el trajecte en l'autobús fins a la Granada?
-Quant dura el trajecte en autobús fins a el Prat de Llobregat?
+Quantes parades té el trajecte en autobús fins a la Granada?
+Quant dura el trajecte en autobús fins al Prat de Llobregat?
 Com puc anar a Miravet dimarts a les vuit?
 Com puc arribar a Sant Vicenç de Torelló amb cotxe?
 Com ho puc fer per anar a Montseny amb trasport públic?
