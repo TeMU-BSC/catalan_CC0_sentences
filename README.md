@@ -67,6 +67,9 @@ Please refer to <a href="https://web.gencat.cat/en/menu-ajuda/ajuda/avis_legal/i
 ### literatura.txt 
 366 literary sentences, published <a href="https://cultura.gencat.cat/ca/ilc/que-fem/publicacions/postals-literaries/">here</a> under a <a href="https://web.gencat.cat/en/menu-ajuda/ajuda/avis_legal/index.html">CC0 licence</a>, and edited for well-formedness and idiomacy.
 
+### frases_diccionaris_enciclopedia.txt
+20k sentences from <a href="https://www.enciclopedia.cat/">"Diccionaris de l'Enciclopèdia"</a>, published here under CC0 licence by the included "CC0 waiver", to be used in the Common voice platform.
+
 ### directory samples/
 contains 1 out 25 (about 4%) sentences of each file
 
