@@ -51,6 +51,28 @@ Contains all the 107k sentences described before, from the files:
 * plantilles_intents.txt 
 * selected_club.txt 
 
+### sentences_from_xitxat_corpus.txt
+4212 new sentences from our XitXat corpus, published here for the fist time.
+
+The TeMU-BSC agrees that Mozilla may publish these contributions under the CC0 public domain dedication available at https://creativecommons.org/publicdomain/zero/1.0/legalcode. We, therefore, agree to waive all copyright and related or neighbouring rights together with all associated claims and causes of action with respect to these contributions to the extent possible under the law.
+
+### wikidata_sentences.txt
+19193 sentences generated from wikimedia, published here for the first time.
+
+The TeMU-BSC agrees that Mozilla may publish these contributions under the CC0 public domain dedication available at https://creativecommons.org/publicdomain/zero/1.0/legalcode. We, therefore, agree to waive all copyright and related or neighbouring rights together with all associated claims and causes of action with respect to these contributions to the extent possible under the law.
+
+### frases_toponims_illes.txt
+3366 sentences generated with substituition templates for this project, published here for the first time.
+
+The TeMU-BSC agrees that Mozilla may publish these contributions under the CC0 public domain dedication available at https://creativecommons.org/publicdomain/zero/1.0/legalcode. We, therefore, agree to waive all copyright and related or neighbouring rights together with all associated claims and causes of action with respect to these contributions to the extent possible under the law.
+
+### frases_toponims_valencians.txt
+12461 sentences generated with substituition templates for this project, published here for the first time.
+
+The TeMU-BSC agrees that Mozilla may publish these contributions under the CC0 public domain dedication available at https://creativecommons.org/publicdomain/zero/1.0/legalcode. We, therefore, agree to waive all copyright and related or neighbouring rights together with all associated claims and causes of action with respect to these contributions to the extent possible under the law.
+
+### sentences
+
 ## Extra contents
 Files not included in new_catalan_cc0_corpus.txt:
 
