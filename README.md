@@ -51,6 +51,23 @@ Contains all the 107k sentences described before, from the files:
 * plantilles_intents.txt 
 * selected_club.txt 
 
+## Extra contents
+Files not included in new_catalan_cc0_corpus.txt:
+
+### catalan_government_crawling_frases_seleccionades_filtrades.txt
+93691 sentences selected from the <a href="https://zenodo.org/record/5500233#.YUSvh3uxXOt">Catalan Government Crawling</a>. Numbers have been transcribed.
+
+The Catalan Government Crawling Corpus is a 39-million-token web corpus of Catalan built from the web. It has been obtained by crawling the .gencat domain and subdomains, belonging to the Catalan Government during September and October 2020. 
+
+Both the packaging and its content are under a CC0 Universal Licence.
+Please refer to <a href="https://web.gencat.cat/en/menu-ajuda/ajuda/avis_legal/index.html">web.gencat.cat/en/menu-ajuda/ajuda/avis_legal/index.html</a>
+
+### literatura.txt 
+366 literary sentences, published <a href="https://cultura.gencat.cat/ca/ilc/que-fem/publicacions/postals-literaries/">here</a> under a <a href="https://web.gencat.cat/en/menu-ajuda/ajuda/avis_legal/index.html">CC0 licence</a>, and edited for well-formedness and idiomacy.
+
+### frases_diccionaris_enciclopedia.txt
+20k sentences from <a href="https://www.enciclopedia.cat/">"Diccionaris de l'Enciclopèdia"</a>, published here under CC0 licence by the included "CC0 waiver", to be used in the Common voice platform.
+
 ### sentences_from_xitxat_corpus.txt
 4212 new sentences from our XitXat corpus, published here for the fist time.
 
@@ -71,24 +88,12 @@ The TeMU-BSC agrees that Mozilla may publish these contributions under the CC0 p
 
 The TeMU-BSC agrees that Mozilla may publish these contributions under the CC0 public domain dedication available at https://creativecommons.org/publicdomain/zero/1.0/legalcode. We, therefore, agree to waive all copyright and related or neighbouring rights together with all associated claims and causes of action with respect to these contributions to the extent possible under the law.
 
-### sentences
-
-## Extra contents
-Files not included in new_catalan_cc0_corpus.txt:
-
-### catalan_government_crawling_frases_seleccionades_filtrades.txt
-93691 sentences selected from the <a href="https://zenodo.org/record/5500233#.YUSvh3uxXOt">Catalan Government Crawling</a>. Numbers have been transcribed.
-
-The Catalan Government Crawling Corpus is a 39-million-token web corpus of Catalan built from the web. It has been obtained by crawling the .gencat domain and subdomains, belonging to the Catalan Government during September and October 2020. 
-
-Both the packaging and its content are under a CC0 Universal Licence.
-Please refer to <a href="https://web.gencat.cat/en/menu-ajuda/ajuda/avis_legal/index.html">web.gencat.cat/en/menu-ajuda/ajuda/avis_legal/index.html</a>
-
-### literatura.txt 
-366 literary sentences, published <a href="https://cultura.gencat.cat/ca/ilc/que-fem/publicacions/postals-literaries/">here</a> under a <a href="https://web.gencat.cat/en/menu-ajuda/ajuda/avis_legal/index.html">CC0 licence</a>, and edited for well-formedness and idiomacy.
-
-### frases_diccionaris_enciclopedia.txt
-20k sentences from <a href="https://www.enciclopedia.cat/">"Diccionaris de l'Enciclopèdia"</a>, published here under CC0 licence by the included "CC0 waiver", to be used in the Common voice platform.
+### xitxat_toponyms_wikidata.txt
+39232 sentences from:
+*frases_toponims_illes.txt
+* frases_toponims_valencians.txt
+*sentences_from_xitxat_corpus.txt
+*wikidata_sentences.txt
 
 ### directory samples/
 contains 1 out 25 (about 4%) sentences of each file
