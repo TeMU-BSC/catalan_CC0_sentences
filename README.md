@@ -89,11 +89,13 @@ The TeMU-BSC agrees that Mozilla may publish these contributions under the CC0 p
 The TeMU-BSC agrees that Mozilla may publish these contributions under the CC0 public domain dedication available at https://creativecommons.org/publicdomain/zero/1.0/legalcode. We, therefore, agree to waive all copyright and related or neighbouring rights together with all associated claims and causes of action with respect to these contributions to the extent possible under the law.
 
 ### xitxat_toponyms_wikidata.txt
-39232 sentences from:
-*frases_toponims_illes.txt
+39195 sentences from:
+* frases_toponims_illes.txt
 * frases_toponims_valencians.txt
-*sentences_from_xitxat_corpus.txt
-*wikidata_sentences.txt
+* sentences_from_xitxat_corpus.txt
+* wikidata_sentences.txt
+
+Some sentences have been edited or removed while supervising the contents.
 
 ### directory samples/
 contains 1 out 25 (about 4%) sentences of each file
