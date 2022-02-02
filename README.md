@@ -69,27 +69,22 @@ Please refer to <a href="https://web.gencat.cat/en/menu-ajuda/ajuda/avis_legal/i
 20k sentences from <a href="https://www.enciclopedia.cat/">"Diccionaris de l'Enciclopèdia"</a>, published here under CC0 licence by the included "CC0 waiver", to be used in the Common voice platform.
 
 ### sentences_from_xitxat_corpus.txt
-4212 new sentences from our XitXat corpus, published here for the fist time.
+4154 new sentences from the XitXat corpus, written by our team, published here for the fist time.
 
 The TeMU-BSC agrees that Mozilla may publish these contributions under the CC0 public domain dedication available at https://creativecommons.org/publicdomain/zero/1.0/legalcode. We, therefore, agree to waive all copyright and related or neighbouring rights together with all associated claims and causes of action with respect to these contributions to the extent possible under the law.
 
 ### wikidata_sentences.txt
-19193 sentences generated from wikimedia, published here for the first time.
+17823 sentences generated from wikimedia, published here for the first time.
 
 The TeMU-BSC agrees that Mozilla may publish these contributions under the CC0 public domain dedication available at https://creativecommons.org/publicdomain/zero/1.0/legalcode. We, therefore, agree to waive all copyright and related or neighbouring rights together with all associated claims and causes of action with respect to these contributions to the extent possible under the law.
 
-### frases_toponims_illes.txt
-3366 sentences generated with substituition templates for this project, published here for the first time.
-
-The TeMU-BSC agrees that Mozilla may publish these contributions under the CC0 public domain dedication available at https://creativecommons.org/publicdomain/zero/1.0/legalcode. We, therefore, agree to waive all copyright and related or neighbouring rights together with all associated claims and causes of action with respect to these contributions to the extent possible under the law.
-
-### frases_toponims_valencians.txt
-12461 sentences generated with substituition templates for this project, published here for the first time.
+### frases_toponimia_valenciana_balear.txt
+15451 sentences generated with substituition templates for this project, published here for the first time.
 
 The TeMU-BSC agrees that Mozilla may publish these contributions under the CC0 public domain dedication available at https://creativecommons.org/publicdomain/zero/1.0/legalcode. We, therefore, agree to waive all copyright and related or neighbouring rights together with all associated claims and causes of action with respect to these contributions to the extent possible under the law.
 
 ### xitxat_toponyms_wikidata.txt
-39195 sentences from:
+37428 sentences from:
 * frases_toponims_illes.txt
 * frases_toponims_valencians.txt
 * sentences_from_xitxat_corpus.txt

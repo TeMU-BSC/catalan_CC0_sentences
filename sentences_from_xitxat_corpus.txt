@@ -27,7 +27,6 @@ Doncs sense balcó, si allí anirem a dormir i poca cosa més.
 I el preu quin seria?
 Aleshores sereu dues persones, oi?
 Doncs ara necessitem una targeta per garantir la reserva, si us plau.
-És cinc mil quatre-cents trenta-sis set mil sis-cents vuitanta-nou tres mil quatre-cents vint-i-tres cinc mil quatre-cents trenta-quatre.
 Ara necessitem un correu electrònic per poder enviar la confirmació de la reserva.
 En pocs minuts hauríeu de rebre el correu amb la confirmació.
 Què puc fer per vostè?
@@ -60,7 +59,6 @@ Sí, pot reservar aquí mateix.
 Necessitaré un nom per fer la reserva.
 És per a dues persones, oi?
 Ara em cal una targeta per garantir la seva reserva, si us plau.
-A veure el número és sis mil quatre-cents trenta-vuit sis mil tres-cents quaranta-cinc sis mil quatre-cents cinquanta-tres nou mil vuit-cents setanta-sis.
 Ha de rebre un correu amb la confirmació en uns minuts.
 Vol llogar algun cotxe per anar per la zona?
 No en necessitarem, anirem amb el nostre fins allà.
@@ -166,7 +164,6 @@ Necessito moure la reserva per una setmana més tard.
 Em pot dir les dates exactes, si us plau?
 El cost és el mateix.
 Vol utilitzar la mateixa targeta que va incloure a la primera reserva?
-La seva targeta és tres mil quatre-cents cinquanta-sis sis mil set-cents vuitanta-nou sis mil cinc-cents quaranta-set?
 Necessiteu res més per fer el canvi?
 Doncs vull reservar per Granada i Almeria.
 Per quines dates voleu reservar?
@@ -180,7 +177,6 @@ Directament a la pàgina web, no per aquí.
 Sap com accedir a la web?
 Hola, com la puc ajudar?
 Em pot dir el número de reserva?
-Em pot confirmar que la seva targeta és la sis mil cinc-cents quaranta-set set mil sis-cents cinquanta-quatre vuit mil sis-cents quaranta-quatre?
 Ara li tornarem els diners a aquesta mateixa targeta.
 En un parell de dies màxim tindrà els diners.
 Serà una habitació amb dos llits dobles.
@@ -321,8 +317,7 @@ Només té un cost superior en cas que demanis cap plat al restaurant.
 Ho sento, no puc atendre aquesta petició.
 Quin és el codi de la reserva que vas fer?
 Entesos, fem la cancel·lació de la sauna.
-Sí, el telèfon de la recepció és nou tres cinc sis set vuit nou cinc.
-És un telèfon vint-i-quatre hores, l'atendran en qualsevol moment.
+és un telèfon vint-i-quatre hores, l'atendran en qualsevol moment.
 Puc fer alguna cosa més per vostè?
 Entesos, que tingui un bon dia.
 Quin és el teu nom?
@@ -386,7 +381,7 @@ Entesos, fem la cancel·lació del massatge.
 Quin és el teu nom i el número de la reserva?
 Necessito les dades de la targeta, si us plau.
 Quina data de caducitat té?
-   set-cents nou.
+  set-cents nou.
 Entesos, ja fem el càrrec.
 Molt bé, que tinguis un bon dia.
 Entesos, i quin és el nom del titular?
@@ -462,8 +457,6 @@ Hola, què és el que necessites?
 Necessites ajuda amb res més?
 Entesos, Marta Agustí Coll, veritat?
 Quin dels dos comptes que tens vols mirar?
-El total del compte actualment és de deu punt set sis set tres coma vuitanta-nou euros.
-Sí, és una compra en un supermercat per un valor de cinquanta-sis coma vuitanta-set euros.
 Molt bé, ja t'ho he enviat, t'hauria d'arribar en uns minuts.
 Jo directament no puc, l'hauria de derivar a un dels meus companys de banca.
 La contrasenya l'ha de crear vostè des de la pàgina principal, quan inicia sessió.
@@ -485,7 +478,6 @@ Podrà passar a recollir-la d'aquí a una setmana.
 Si no pogués, no es preocupi, els meus companys la hi guardaran.
 Sí, té un interès del tres coma setanta-cinc per cent.
 Ho has de fer a través del teu compte de banca digital.
-Si ho prefereixes, també pots trucar al telèfon nou tres quatre cinc sis dos tres u, és d'atenció al client.
 Des d'allà també et podran realitzar el tràmit.
 En què et puc ajudar?
 Ets ja client del banc?
@@ -512,7 +504,6 @@ Al correu si us plau.
 A quin correu vol que li enviem?
 Puc ajudar-lo amb alguna cosa més?
 Quines ofertes teniu per a renovar el compte d'estalvis?
-Jo he estat sis així que puc oi?
 Molt bé, doni'm el seu nom per poder consultar la seva fitxa.
 Per contractar el compte d'estalvis, necessitem que signi uns documents.
 Els he signat i he rebut el correu.
@@ -620,7 +611,7 @@ Molt bé, ja és client nostre?
 Molt bé, i quin tipus de compte vol obrir?
 Rebrà un correu electrònic amb els detalls a l'adreça associada al seu compte.
 Avui a les deu del matí.
-Vol que li demanem una altra?
+Vol que n'hi demanem una altra?
 Hola què puc fer per vostè?
 Molt bé, no es retiri si us plau.
 No veig res inusual al respecte.
@@ -820,7 +811,6 @@ Quina és la nova adreça?
 La seva adreça ja està actualitzada.
 A la pàgina web pot trobar tota la informació detallada.
 Gràcies, quin és l'últim dia per fer el tràmit?
-Ara mateix la convocatòria està tancada des del vint-i-cinc de febrer de dos mil vint-i-u.
 Volia crear un compte d'estalvi.
 Disposa d'un compte amb la nostra companyia?
 Quin és el seu nom d'usuari?
@@ -884,7 +874,6 @@ Prefereixo parlar amb un representant humà.
 Ara mateix li passo a un agent humà.
 Vull preguntar sobre dues coses.
 Vol que la redirigeixi amb l'agent humà?
-I el meu telèfon és el sis u set dos dos zero quatre sis nou.
 Sol·licitant la verificació de dos passos pel compte.
 Doncs m'agradaria fer la comanda, si us plau.
 Ja he rebut el correu de confirmació.
@@ -960,7 +949,6 @@ Necessita que l'ajudi en alguna altra cosa?
 Entesos, li desitjo que passi molt bon dia.
 Em pots dir el teu nom complet i la data inicial d'entrega?
 Es tracta d'una aspiradora Dyson, és correcte?
-Mira, pots trucar al número de telèfon nou tres quatre cinc dos tres u quatre.
 Allí t'informaran sobre si és possible o no realitzar el canvi.
 Hola, què podem fer per tu?
 Ara passaré aquesta incidència a l'equip tècnic.
@@ -972,7 +960,6 @@ Bona tarda, digui'm què és el que necessita.
 Per aquest motiu, s'han endarrerit totes les seves visites.
 Em sap greu, però des d'aquí no la puc informar d'això.
 Haurà de posar-se en contacte amb l'equip tècnic i des d'allà la podran informar.
-El telèfon de la centraleta és vuit set tres cinc sis tres quatre dos tres.
 Amb què et podem ajudar?
 Aquesta càmera té un preu de dos-cents vint euros.
 El càrrec es farà el dia trenta de cada mes.
@@ -990,7 +977,6 @@ Bé, la comanda sortirà demà del nostre magatzem.
 No tenim existències i va tardar una setmana.
 Un cop surti de les nostres instal·lacions, l'empresa de transport s'encarregarà d'això.
 Però puc assegurar-te que t'arribarà en tres dies com a màxim.
-El teu número de telèfon és el sis cinc quatre nou vuit set cinc sis quatre, és així?
 Hola, com et puc ajudar?
 Pots enviar-la o si ho prefereixes també la poden passar a buscar.
 En aquest cas, com es tracta d'una reparació no hi hauria cap cost.
@@ -1025,7 +1011,6 @@ Això no m'importa gaire, només el vull per trucar i fer anar el whatsapp.
 Bon dia, el meu portàtil no em funciona.
 Fa una setmana que el tinc.
 Quin dia li aniria bé tenir una cita amb l'equip tècnic?
-Li aniria bé demà a les onze punt trenta a la botiga de Passeig de Gràcia?
 I no hi ha cap oferta?
 Pot dir-me la plana web?
 Llavors, fico el descompte i ja em sortiran més barats, veritat?
@@ -1235,7 +1220,6 @@ Em pot dir el número de comanda?
 Doncs com la puc cancel·lar.
 Ho pot fer per aquí mateix.
 Només ha de confirmar-ho per aquí.
-Veiem que el número de targeta utilitzat és cinc mil sis-cents seixanta-quatre cinc mil sis-cents setanta-tres quatre mil cinc-cents seixanta-tres tres mil quatre-cents cinquanta-quatre.
 Quin és el seu número de targeta?
 Voldria saber quins són els vostres horaris durant les vacances de Setmana Santa.
 I teniu descomptes en productes de la llar també?
@@ -1262,7 +1246,6 @@ Si vol podem enviar-li un descompte per la seva pròxima compra amb nosaltres.
 De quant és el descompte.
 Veig que la comanda ja ha sortit del magatzem.
 Si la cancel·la ara haurà de pagar un cost extra.
-El seu número de targeta és quatre mil cinc-cents seixanta-quatre cinc mil quatre-cents trenta-dos sis mil set-cents vuitanta-sis quatre mil cinc-cents seixanta-set?
 Volia saber si teniu alguna aplicació?
 Tenim aplicació de la botiga.
 I teniu els mateixos productes a l'app que a la botiga?
@@ -1300,7 +1283,6 @@ Ah està bé, quin preu té?
 El preu és de quatre-cents cinquanta euros.
 Pots anar físicament a la botiga o fer la comanda per aquí.
 Quin model va comprar i quin número d'albarà té?
-El número d'albarà és el mil dos-cents seixanta-set i la rentadora és una Bosch quaranta-tres.
 A quin nom vol fer factura?
 Al meu, Martí Pardo Alemany.
 Quina direcció postal cal posar?
@@ -1368,7 +1350,6 @@ I de deu a catorze els dissabtes.
 Era a nom de Jordi Costa?
 Necessites fer cap altra gestió?
 Quina és la referència d'aquests llibres?
-Mira un és u dos nou vuit sis cinc dos quatre i l'altre cinc tres sis set set vuit nou.
 I quan va fer la compra?
 Sí, efectivament no hi ha el descompte aplicat.
 Indiqui'ns el número de targeta per ingressar-li l'abonament.
@@ -1411,7 +1392,7 @@ Sí, tenim una oficina a Andorra la Vella i una altra a Canillo.
 Sí, no hi ha cap problema.
 En les nostres oficines pot realitzar qualsevol tràmit.
 Em pots dir quin és el número de la teva reserva?
-És una reserva a nom d'Elena Rodríguez, és així?
+és una reserva a nom d'Elena Rodríguez, és així?
 Aquesta inclou assistència, la grua podrà passar a recollir el vehicle.
 Hauràs de trucar al nou tres quatre cinc sis set vuit nou i avisar-los.
 Et puc ajudar en alguna cosa més?
@@ -1442,7 +1423,7 @@ Entesos, primer haurem de comprovar el model.
 Em pot indicar quina és la referència de la seva reserva, si us plau?
 Disculpi, no tenim cap reserva amb aquesta referència.
 Necessito també la lletra, si us plau.
-És una reserva a nom de Biel Pla, és així?
+és una reserva a nom de Biel Pla, és així?
 En què et podem ajudar?
 En primer lloc, et demanem disculpes en nom de tota la companyia.
 Avisaré el departament corresponent perquè ho tinguin en compte.
@@ -1459,7 +1440,6 @@ Ara t'arribarà un correu amb la confirmació de la cancel·lació.
 Disculpa, no et puc ajudar amb això.
 Sí, quin model li agradaria reservar i per quines dates?
 Em sap greu, però aquest model ja no està disponible.
-Puc oferir-li el Peugeot cinc mil vuit, que té una capacitat i un preu semblants.
 Aquestes tarifes ja inclouen el descompte.
 Vol fer el pagament ara o a la nostra oficina?
 Vull saber quines oficines teniu a Tarragona.
@@ -1660,7 +1640,6 @@ El tornaria el mateix dia que havia indicat?
 O en una altra data?
 El tornaria avui mateix però a València.
 Sí, indiqui'm el número de la seva targeta si us plau.
-El número és set mil sis-cents cinquanta-quatre sis mil cinc-cents quaranta-quatre vuit mil sis-cents cinquanta-quatre vuitanta-set.
 Ja s'ha efectuat el càrrec de cinquanta-nou euros a la seva targeta.
 Pot deixar el cotxe a l'oficina de València.
 Amb què la puc ajudar?
@@ -1679,7 +1658,6 @@ En quin tipus de vehicle estava interessat?
 Sap quin tipus d'autocaravana li agradaria llogar?
 Perfecte, moltes gràcies per tot.
 Digui'm el seu número de reserva si us plau.
-El meu número de reserva és quatre cinc sis tres set vuit tres vuit nou dos.
 Moltes gràcies per la teva ajuda.
 Gràcies a vosté, bona tarda.
 Voldria realitzar una factura d'empresa d'un lloguer d'un vehicle.
@@ -1694,7 +1672,6 @@ Perfecte, quin tipus de vehicle voldria llogar?
 Un cotxe bàsic ja m'aniria bé.
 Li interessaria llogar un turisme de cinc places?
 Doncs vull el Seat León, si us plau.
-Molt bé, el Seat León té un preu de quaranta-tres coma disset euros al dia.
 Vol continuar amb la reserva?
 Sí, vull continuar, si us plau.
 Per quines dates vol fer la reserva exactament?
@@ -1733,7 +1710,6 @@ Sí, podem deixar un vehicle aparaulat per vint euros.
 Quin seria el preu final?
 Per quants dies és la reserva?
 El preu final seria de quatre-cents noranta-cinc euros.
-El meu número és cinc mil quatre-cents trenta-tres sis mil cinc-cents vuitanta-nou cinc mil quatre-cents trenta-dos quaranta-cinc.
 Bon dia, parla amb la Carla, com la puc ajudar?
 I es pot efectuar la reserva directament des de la web també?
 Hola, gràcies per contactar amb nosaltres, com puc ajudar?
@@ -1795,9 +1771,7 @@ Vol que li miri horaris?
 A quina hora vol agafar-lo?
 Pots agafar el número quaranta-quatre, des de plaça Espanya.
 En quina franja vols viatjar?
-En aquest cas tens horaris a les setze punt trenta i a les disset punt zero cinc.
 Diria que no és correcte.
-El vol, el tenies a les disset punt quinze, el vint-i-set de novembre de dos mil vint-i-u?
 Ara, indica'm un correu electrònic per enviar-te la cancel·lació.
 Si pots, revisa el correu per confirmar-ho.
 Vol que li miri el preu?
@@ -1829,7 +1803,6 @@ Pots anar amb autobús o amb tren.
 Sí, en tren, de mitja distància, es triga una hora i quart.
 Amb autobús són dos hores i mitja.
 El de l'autobús vuit, també anada.
-Tens hora de tren a les onze punt quinze o a les deu punt quaranta-cinc.
 Els autobusos surten a les onze i a les deu trenta.
 En quina franja vol viatjar?
 Té hora de tren a les onze quinze o a les deu quaranta-cinc.
@@ -1909,7 +1882,6 @@ Hi ha màquines de bitllets a totes les estacions doncs?
 Molt bé, per quines dates voldria el vehicle?
 Voldria el vehicle pel nou-disset de desembre.
 Perfecte, no es retiri mentre consulto quins vehicles tenim disponibles per aquestes dates.
-Sí, la meva targeta és sis mil set-cents vuitanta-nou cinc mil quatre-cents trenta-tres sis mil vuit-cents vuitanta-set sis mil cinc-cents quaranta-tres.
 Molt bé, ja s'ha efectuat el pagament.
 A quina ubicació vol passar a buscar el cotxe?
 Vull anar a l'oficina del Carrer Mallorca.
@@ -2206,11 +2178,9 @@ Vol cancel·lar la seva assegurança?
 Ho pot fer per aquí, o en persona a les nostres oficines.
 Ho vull fer per aquí.
 Indiqui'm el seu nom complet i el número de la seva assegurança.
-El número de l'assegurança és quatre tres dos dos dos tres quatre cinc sis sis set set.
 Molt bé, ja té els documents.
 Es poden modificar les condicions de l'assegurança?
 Digui'm el seu nom i número d'assegurança si us plau.
-Em dic Xavi Ventura Fernández i el número d'assegurança és quatre cinc sis sis quatre tres tres dos u u tres quatre.
 Sí, ho pot fer per aquí.
 Ara només tinc una cobertura parcial.
 Li enviarem el nou contracte a l'adreça de correu que ens indiqui.
@@ -2252,7 +2222,6 @@ Al mateix des d'on li hem enviat els documents.
 Amb quant termini es pot fer un canvi d'assegurança?
 De quin tipus d'assegurança es tracta?
 Em pot indicar el seu número de pòlissa?
-El número de pòlissa és cinc sis sis sis set set set quatre tres dos dos.
 A partir de quan em cobreix l'assegurança de vehicles que tinc contractada?
 Podeu mirar quan la vaig contractar?
 Aleshores ja és efectiva oi?
@@ -2268,7 +2237,6 @@ Només amb el telèfon ja serveix?
 I si no m'agafen el telèfon?
 El telèfon és sis-cents quaranta-quatre vuit-cents vint-i-tres quatre-cents setanta-u oi?
 Vull consultar les assegurances contractades amb vosaltres.
-Molt bé, veig que té dues assegurances contractades amb nosaltres des de dos mil divuit.
 Una assegurança de viatges i una assegurança de la llar.
 I quant estic pagant per cada una?
 I la de viatges què m'inclou?
@@ -2286,7 +2254,6 @@ Doncs que vaig voler assegurar uns desperfectes i l'assegurança no va servir de
 Doncs unes esquerdes a la paret a causa de la humitat.
 La nova cobertura serà efectiva un cop hagi signat i enviat el contracte.
 Hi ha alguna oferta en les vostres assegurances?
-Sí, pot contractar qualsevol assegurança per telèfon al noranta-tres tres-cents tres trenta-tres zero zero o presencialment.
 I quin és l'horari d'atenció al client?
 Necessito el codi per confirmar la seva identitat.
 Molt bé, ja s'ha efectuat la cancel·lació.
@@ -2323,7 +2290,6 @@ Cobreix desperfectes causats per desastres naturals i robatoris.
 Per quin dia va demanar cita?
 Estava a nom de Maria Torres.
 I per quan vol la nova cita?
-Aquell dia hi ha hora a les nou punt trenta i a les deu punt quaranta-cinc.
 Quina hora li va bé?
 Ja li hem canviat la cita.
 Vol fer alguna altra gestió?
@@ -2338,7 +2304,6 @@ Entenc que això li cobria la pòlissa.
 Quin número de pòlissa té?
 La persona prenedora és Joan Casals Mundet?
 Doncs ara avisarem els tècnics.
-El número de telèfon que té segueix sent el sis set cinc quatre tres quatre dos tres quatre?
 Els avisarem i es posaran en contacte.
 Hola, han entrat a robar a casa meva, ara que he de fer?
 Sí, això t'ho cobreix la pòlissa.
@@ -2569,7 +2534,6 @@ Molt bé, la seva pòlissa costarà vint euros més.
 Res més, això és tot!
 Bon dia, què puc fer per vostè.
 I com es pot contractar?
-Ho pot fer trucant al nou tres tres cinc zero quatre zero sis sis o a la nostra pàgina web.
 Hi ha alguna oferta si es fa per la pàgina web?
 Doncs ho faré per la pàgina web aleshores.
 En aquest cas el cotxe de substitució està inclòs.
@@ -2582,7 +2546,6 @@ Ja hem enregistrat les seves dades.
 Si la vostra empresa puja la quota de les assegurances, rebré una notificació?
 Puc consultar si teniu les meves dades de contacte actualitzades, doncs?
 Sí, cap problema, és clar.
-El número de telèfon que ens consta és el sis quatre sis sis quatre zero set cinc quatre.
 Vull renovar la meva assegurança de cotxe.
 Molt bé, quina cobertura té?
 Tinc la cobertura simple ara mateix.
@@ -2649,7 +2612,7 @@ Necessito que me'l diguis per poder continuar amb la gestió.
 Ja està fet el canvi, t'arribarà un altre missatge amb la confirmació.
 A veure vosaltres quines opcions teniu i si són més barates.
 Tenim assegurances per a vehicles, cotxes i motos.
-És una assegurança a tercers.
+és una assegurança a tercers.
 El preu de l'assegurança regular és trenta euros mensuals.
 Indica'm el teu nom i cognoms, si us plau.
 Ara digues-me el número de pòlissa i companyia actuals.
@@ -2659,7 +2622,6 @@ Necessites que vingui una grua a recollir el vehicle?
 Hola, m'agradaria saber com empadronar-me.
 Indiqui'm la seva població o codi postal si us plau.
 Pot dirigir-se a qualsevol de les oficines d'empadronament.
-Per demanar cita, ho pot fer per telèfon al noranta-u quatre-cents cinquanta-cinc sis mil seixanta-dos.
 Voldria demanar cita per aquest divendres.
 Per quina oficina voldria demanar hora?
 Indiqui'm la seva oficina de preferència o el seu codi postal, si us plau.
@@ -2766,7 +2728,6 @@ Ens costa que hi ha una vaga de personal de neteja.
 Mirarem si és per això.
 Passarem la incidència i l'informarem.
 Em confirma el seu número de telèfon i nom i cognoms, si us plau?
-Soc la Tània Sabater i el meu telèfon és sis cinc quatre dos vuit nou set sis cinc.
 A veure, com ho he de fer per pagar-ho?
 He d'anar a l'ajuntament o puc fer per internet, com va la cosa?
 Tens empadronament aquí, a la Seu d'Urgell?
@@ -2804,7 +2765,6 @@ Haurem de passar nota a l'equip informàtic.
 Potser hi ha alguna incidència amb l'aplicatiu.
 Entesos, i el tràmit que estava fent doncs m'he d'esperar per acabar-ho.
 Si hi ha error, no podrà fer-ho.
-El telèfon seu segueix sent el sis sis cinc quatre sis set vuit tres tres?
 Tu m'ho podries mirar a veure com va?
 Ets el Jaume Vila Serra.
 I estàs empadronat aquí a Palma de Mallorca.
@@ -2881,7 +2841,6 @@ Podem anar allí ja directament?
 Sí, en aquest cas ha de contactar la biblioteca.
 El telèfon és el nou tres quatre cinc sis set vuit sis tres.
 Tenim un curs d'iniciació gratuït aquí a l'ajuntament.
-És dimarts i dijous de disset punt zero zero a divuit punt zero zero hores.
 Ja li diré doncs, ha de venir primer per apuntar-se?
 Pot fer-ho en persona o per internet, al web de l'ajuntament.
 Un cop ja estigui empadronat, aleshores sí que pot inscriure's al curs.
@@ -2950,7 +2909,6 @@ Voldria informació sobre els pisos de protecció oficial a Amposta.
 Bon dia, voldria sol·licitar una plaça per minusvàlids.
 Doncs voldria sol·licitar una plaça d'origen a Cambrils.
 Quina documentació hauria de portar a l'Ajuntament?
-Doc. cinc-cents catorze Sol·licitud aparcament per a persones amb mobilitat reduïda.
 A quin correu vol rebre la informació?
 Volia saber què he de fer per demanar un permís d'obres.
 Per demanar un permís d'obres pot fer-ho per aquí o anant a l'ajuntament directament.
@@ -3190,10 +3148,8 @@ Podria demanar hora amb un dentista?
 Bon dia, quina disponibilitat té?
 Però voldria una extracció de queixal, una neteja bucodental o un altre servei?
 Una neteja si pot ser.
-En aquest cas, la primera cita disponible seria el divendres vint-i-cinc a les deu punt zero zero.
 Aquest dia no tenim disponibilitat, podria venir un altre dia?
 El vint-i-sis com a molt.
-El dia vint-i-sis podria venir entre les disset punt trenta i les divuit punt zero zero.
 Li va bé aquesta hora?
 Hi ha visites amb ginecòleg?
 Sí, quan li agradaria venir?
@@ -3248,7 +3204,6 @@ Voldria saber alguna cosa més?
 Bon dia, aquesta setmana no té disponibilitat.
 Si vol, podem buscar una cita per la setmana vinent.
 A les onze punt trenta, podria ser?
-Pot ser a Girona, però en aquest cas seria dilluns a les deu punt quinze.
 He rebut un correu que no s'ha cobrat la quota.
 He canviat de banc així que potser és això.
 Pot dir-me el seu nom?
@@ -3373,7 +3328,6 @@ Haurem de contactar al departament d'Informàtica.
 És usuari de la nostra clínica?
 Vostè és en Carles Prat Rovira.
 Ara contactarem al departament i l'informarem segons el que ens diguin.
-El seu telèfon segueix sent el sis sis cinc quatre cinc sis set quatre tres?
 Entesos, si tic el mateix.
 Bon dia, em fa mal el queixal del seny.
 Quin és el seu número d'usuari de la clínica?
@@ -3397,7 +3351,6 @@ A les setze punt trenta li aniria bé?
 Vòmits i o diarrees.
 Febre mantinguda al llarg dels dies que no baixa amb antitèrmics.
 Podria parlar amb un agent?
-Pot trucar al nostre servei d'atenció al client al nou tres set set sis vuit quatre tres tres.
 Quin ha sigut el problema?
 Doncs que he arribat i diuen que no la fan.
 Era una prova de neuroimatge.
@@ -3463,7 +3416,6 @@ Vull dir amb algun Doctor en concret?
 Vull un neuròleg especialitzat en patologies del sistema nerviós.
 Li enviarem un recordatori de la seva visita un dia abans al seu mòbil.
 Voldria demanar cita amb l'oftalmòleg.
-La meva targeta sanitària és quatre set quatre set cinc vuit cinc nou nou vuit.
 Li agafo cita amb ella?
 Em va bé a aquella hora.
 Molt bé, ja té l'hora.
@@ -3500,7 +3452,6 @@ El divendres a les divuit trenta em va millor.
 Vull concertar la cita per aquell dia, doncs.
 Molt bé, ja t'he agafat l'hora.
 Em podeu recordar les meves pròximes cites mèdiques?
-El meu nom és Rosa Hidalgo Vives i la targeta sanitària és quatre vuit quatre set vuit cinc nou cinc nou quatre.
 A quina hora és la visita amb la ginecòloga?
 Sí, vaig anar-hi per primer cop l'any passat.
 Quin és el teu doctor?
@@ -3564,7 +3515,6 @@ Vull finançar una extracció del queixal del seny.
 Tenim opcions de finançament a tres, quatre o sis mesos.
 Quant hauria de pagar cada mes?
 Molt bé, a tres mesos et sortiria a quaranta euros al mes.
-El compte bancari és dos-cents trenta-quatre quatre mil cinc-cents seixanta-sis cinc mil sis-cents setanta-set sis mil set-cents vuitanta-nou.
 Com us envio l'última nòmina?
 Perfecte, pots enviar la nòmina a la nostra adreça de correu.
 Amb això ja ho tenim tot.
@@ -3645,7 +3595,6 @@ El meu mòbil s'ha espatllat, hi ha alguna manera d'accedir a la informació emm
 Em pot dir el seu codi de referència?
 Sembla que la garantia es va acabar fa un mes, lamentablement.
 Però només vull accedir a la informació del núvol.
-Hi pot accedir per mitjà de la plataforma web icloud.com.
 No ho sé, però no funciona.
 Has tingut una mala experiència amb nosaltres?
 El nom i cognoms es Romeu Santamaria Palamós.
@@ -3684,7 +3633,6 @@ Sí, és que la tarifa que té actualment no inclou trucades a números nou-cent
 Res més, gràcies per l'atenció.
 Està tot correcte, i ja t'hem donat d'alta tots aquests serveis.
 Puc canviar la data i que vinguin en un altre moment?
-La data que tenies confirmada era avui quatre de novembre a les quinze punt trenta hores.
 Quan t'aniria bé que passés el tècnic?
 El tècnic podria passar a les disset punt trenta hores aproximadament.
 La instal·lació sol durar uns vint minuts.
@@ -3714,7 +3662,6 @@ El mes de maig vas pagar un total de cinquanta coma noranta-cinc euros.
 La tarifa bàsica que tens contractada és de quaranta coma noranta-cinc euros.
 Sí, ara veig el correu.
 Necessites que t'ajudi en alguna altra cosa?
-Ah disculpa i el telèfon és sis cinc tres quatre dos tres sis vuit nou.
 Ara necessitaré un correu electrònic i compte bancari.
 Entesos, he introduït aquestes dades també.
 I això a partir de quin dia ja ho tindré disponible?
@@ -3738,7 +3685,6 @@ Abans que res disculpa les molèsties que això t'hagi pogut ocasionar.
 Indiqui'm quan t'han trucat i per quin motiu.
 No si ja ho sé això!
 Indica'm el teu número de telèfon perquè passem nota, si us plau.
-És el sis vuit set tres quatre dos u tres dos, apunta-ho eh, que no em telefonin més!
 Anotem el número i passem nota al departament corresponent.
 Això espero, no necessito res més.
 Mira, vull canviar el número de compte que vaig donar per les domiciliacions.
@@ -3906,7 +3852,6 @@ Amb menú, si us plau.
 Una coca-cola o una fanta de llimona?
 El menú inclou una beguda i un complement.
 Tenim de begudes coca-cola o fanta de llimona.
-El seu número de comanda és zero vuit tres vuit quatre sis tres vuit tres nou.
 Pot indicar-nos una adreça d'entrega per la comanda?
 El seu número de comanda és zero vuit set.
 Voldria fer una comanda per aquesta nit.
@@ -4054,13 +3999,11 @@ Som una cadena de restaurants.
 Molt bé, ja us ho fareu.
 Vull que em torneu els diners.
 Doni'm el seu número de targeta per confirmar si us plau.
-El meu número és sis mil quatre-cents seixanta-quatre quatre mil cinc-cents seixanta-set cinc mil sis-cents setanta-set dos mil cent catorze.
 Ho tindrà al seu compte en un període d'entre dos i cinc dies laborables.
 Quin és el vostre horari d'entrega a domicili?
 I puc programar la comanda en aquestes hores?
 Només poso la meva comanda aquí i simplement li dic que vull programar, oi?
 Em pot donar el seu número de targeta si us plau?
-És cinc mil quatre-cents quaranta-sis sis mil cinc-cents quaranta-quatre sis mil cinc-cents quaranta-tres vuit mil vuit-cents setanta-cinc.
 Li arribarà en uns quinze minuts.
 Vol fer una comanda amb nosaltres, correcte?
 Només m'ha de dir quins articles vol demanar.
@@ -4111,7 +4054,6 @@ Entesos, ets la Marina, oi?
 En aquesta comanda tens dues pizzes i dues aigües.
 Entesos, ja ho he afegit en la teva comanda.
 Veig que has triat l'opció de pagar directament al transportista.
-En aquest cas, la comanda passa a tenir un import de vint-i-dos coma trenta-cinc euros.
 Fa mitja hora que espero.
 Em pot dir també els cognoms, Marc?
 Entesos, puc fer res més per vostè?
