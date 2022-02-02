@@ -6,7 +6,7 @@ Es pot anar a Alaior amb moto?
 Anirem a Alaior a peu.
 Dilluns hauria d'anar a Alaior.
 El deu d'agost anirem a Alaior sense agafar el cotxe.
-M'agradaria anar a Alaior amb trasport públic.
+M'agradaria anar a Alaior amb transport públic.
 Vull anar a Alaior amb bicicleta.
 Reserva'm un bitllet de tren per anar a Alaior per Cap d'Any al matí.
 Necessito un bitllet de tren per anar a Alaior diumenge.
@@ -56,7 +56,7 @@ Mira'm quina és la millor manera d'anar a Alaró amb moto.
 Es pot anar a Alaró sense agafar el cotxe?
 Anirem a Alaró amb tren.
 Diumenge hauria d'anar a Alaró.
-Dijous anirem a Alaró amb trasport públic.
+Dijous anirem a Alaró amb transport públic.
 M'agradaria anar a Alaró sense agafar el metro.
 Vull anar a Alaró amb tren.
 Necessito un bitllet de tren per anar a Alaró dimecres.
@@ -106,7 +106,7 @@ Mira'm quina és la millor manera d'anar a Alcúdia a peu.
 Es pot anar a Alcúdia a peu?
 Anirem a Alcúdia amb tren.
 El deu d'agost hauria d'anar a Alcúdia.
-Per Cap d'Any anirem a Alcúdia amb trasport públic.
+Per Cap d'Any anirem a Alcúdia amb transport públic.
 M'agradaria anar a Alcúdia amb moto.
 Vull anar a Alcúdia amb tren.
 Reserva'm un bitllet de tren per anar a Alcúdia diumenge a les vuit.
@@ -155,7 +155,7 @@ Quina és la millor manera d'anar a Algaida amb cotxe?
 Com ho puc fer per anar a Algaida?
 Mira'm quina és la millor manera d'anar a Algaida amb cotxe.
 Es pot anar a Algaida a peu?
-Anirem a Algaida amb trasport públic.
+Anirem a Algaida amb transport públic.
 Dissabte hauria d'anar a Algaida.
 El deu d'agost anirem a Algaida sense agafar el cotxe.
 M'agradaria anar a Algaida sense agafar el cotxe.
@@ -259,7 +259,7 @@ Es pot anar a Ariany amb cotxe?
 Anirem a Ariany amb autobús.
 Demà passat hauria d'anar a Ariany.
 Divendres anirem a Ariany amb bicicleta.
-M'agradaria anar a Ariany amb trasport públic.
+M'agradaria anar a Ariany amb transport públic.
 Vull anar a Ariany amb moto.
 Reserva'm un bitllet de tren per anar a Ariany demà al vespre.
 Necessito un bitllet de tren per anar a Ariany dijous.
@@ -307,7 +307,7 @@ Quina és la millor manera d'anar a Artà amb moto?
 Com ho puc fer per anar a Artà?
 Mira'm quina és la millor manera d'anar a Artà amb bicicleta.
 Es pot anar a Artà amb autobús?
-Anirem a Artà amb trasport públic.
+Anirem a Artà amb transport públic.
 Demà hauria d'anar a Artà.
 Demà passat anirem a Artà sense agafar el metro.
 M'agradaria anar a Artà a peu.
@@ -403,7 +403,7 @@ Quan va ser que vam anar a Banyalbufar?
 Quin dia és el mercat de Banyalbufar?
 Aquest estiu anirem de vacances a Banyalbufar.
 Banyalbufar és un municipi de Mallorca.
-He d'anar a Binissalem amb trasport públic el deu d'agost a les nou.
+He d'anar a Binissalem amb transport públic el deu d'agost a les nou.
 Quina és la millor manera d'anar a Binissalem sense agafar el metro?
 Com ho puc fer per anar a Binissalem?
 Mira'm quina és la millor manera d'anar a Binissalem a peu.
@@ -454,14 +454,14 @@ Quin dia és el mercat de Binissalem?
 Aquest estiu anirem de vacances a Binissalem.
 Binissalem és un municipi de Mallorca.
 He d'anar a Búger amb autobús diumenge al migdia.
-Quina és la millor manera d'anar a Búger amb trasport públic?
+Quina és la millor manera d'anar a Búger amb transport públic?
 Com ho puc fer per anar a Búger?
 Mira'm quina és la millor manera d'anar a Búger amb tren.
 Es pot anar a Búger sense agafar el metro?
 Anirem a Búger amb bicicleta.
 Diumenge hauria d'anar a Búger.
 Dissabte anirem a Búger sense agafar el cotxe.
-M'agradaria anar a Búger amb trasport públic.
+M'agradaria anar a Búger amb transport públic.
 Vull anar a Búger amb cotxe.
 Reserva'm un bitllet de tren per anar a Búger dimarts a les cinc.
 Necessito un bitllet de tren per anar a Búger el vint-i-nou de febrer.
@@ -505,7 +505,7 @@ Quin dia és el mercat de Búger?
 Aquest estiu anirem de vacances a Búger.
 Búger és un municipi de Mallorca.
 He d'anar a Bunyola amb autobús per Sant Jordi a les dotze.
-Quina és la millor manera d'anar a Bunyola amb trasport públic?
+Quina és la millor manera d'anar a Bunyola amb transport públic?
 Com ho puc fer per anar a Bunyola?
 Mira'm quina és la millor manera d'anar a Bunyola sense agafar el metro.
 Es pot anar a Bunyola a peu?
@@ -523,7 +523,7 @@ Quant dura el viatge en autobús fins a Bunyola?
 Quantes parades té el trajecte en autobús fins a Bunyola?
 Quant dura el trajecte en autobús fins a Bunyola?
 Com puc anar a Bunyola per Sant Jordi a un quart i mig d'onze?
-Com puc arribar a Bunyola amb trasport públic?
+Com puc arribar a Bunyola amb transport públic?
 Com ho puc fer per anar a Bunyola sense agafar el cotxe?
 Quan passa l'autobús per Bunyola?
 A quina hora arriba l'autobús de Bunyola?
@@ -610,11 +610,11 @@ Quina és la millor manera d'anar a Campanet amb tren?
 Com ho puc fer per anar a Campanet?
 Mira'm quina és la millor manera d'anar a Campanet sense agafar el cotxe.
 Es pot anar a Campanet amb cotxe?
-Anirem a Campanet amb trasport públic.
+Anirem a Campanet amb transport públic.
 Dijous hauria d'anar a Campanet.
 Demà anirem a Campanet a peu.
 M'agradaria anar a Campanet amb moto.
-Vull anar a Campanet amb trasport públic.
+Vull anar a Campanet amb transport públic.
 Reserva'm un bitllet de tren per anar a Campanet dissabte a les onze.
 Necessito un bitllet de tren per anar a Campanet dissabte.
 Dijous he d'anar a Campanet amb autobús.
@@ -661,7 +661,7 @@ Quina és la millor manera d'anar a Campos amb bicicleta?
 Com ho puc fer per anar a Campos?
 Mira'm quina és la millor manera d'anar a Campos amb tren.
 Es pot anar a Campos amb tren?
-Anirem a Campos amb trasport públic.
+Anirem a Campos amb transport públic.
 Diumenge hauria d'anar a Campos.
 Dimarts anirem a Campos amb tren.
 M'agradaria anar a Campos amb bicicleta.
@@ -750,14 +750,14 @@ Saps si cau a prop de Capdepera?
 A Capdepera hi ha un castell?
 No sé on cau Capdepera.
 A Capdepera hi anem dilluns.
-Va anar a Capdepera amb trasport públic.
+Va anar a Capdepera amb transport públic.
 Preferiria visitar Capdepera.
 és una foto de la plaça major de Capdepera.
 Quan va ser que vam anar a Capdepera?
 Quin dia és el mercat de Capdepera?
 Aquest estiu anirem de vacances a Capdepera.
 Capdepera és un municipi de Mallorca.
-He d'anar a Es Castell amb trasport públic dimarts al matí.
+He d'anar a Es Castell amb transport públic dimarts al matí.
 Quina és la millor manera d'anar a Es Castell amb bicicleta?
 Com ho puc fer per anar a Es Castell?
 Mira'm quina és la millor manera d'anar a Es Castell amb tren.
@@ -865,7 +865,7 @@ Es pot anar a Consell amb tren?
 Anirem a Consell amb moto.
 Dissabte hauria d'anar a Consell.
 Demà passat anirem a Consell amb moto.
-M'agradaria anar a Consell amb trasport públic.
+M'agradaria anar a Consell amb transport públic.
 Vull anar a Consell amb tren.
 Necessito un bitllet de tren per anar a Consell dimecres.
 Dissabte he d'anar a Consell amb autobús.
@@ -908,7 +908,7 @@ Quin dia és el mercat de Consell?
 Aquest estiu anirem de vacances a Consell.
 Consell és un municipi de Mallorca.
 He d'anar a Costitx a peu per Cap d'Any a les deu.
-Quina és la millor manera d'anar a Costitx amb trasport públic?
+Quina és la millor manera d'anar a Costitx amb transport públic?
 Com ho puc fer per anar a Costitx?
 Mira'm quina és la millor manera d'anar a Costitx a peu.
 Es pot anar a Costitx amb tren?
@@ -916,7 +916,7 @@ Anirem a Costitx amb tren.
 Diumenge hauria d'anar a Costitx.
 Divendres anirem a Costitx amb moto.
 M'agradaria anar a Costitx a peu.
-Vull anar a Costitx amb trasport públic.
+Vull anar a Costitx amb transport públic.
 Necessito un bitllet de tren per anar a Costitx el deu d'agost.
 Dijous he d'anar a Costitx amb autobús.
 A quina hora passa el primer autobús per Costitx dilluns?
@@ -926,7 +926,7 @@ Quantes parades té el trajecte en autobús fins a Costitx?
 Quant dura el trajecte en autobús fins a Costitx?
 Com puc anar a Costitx divendres a les nou?
 Com puc arribar a Costitx amb tren?
-Com ho puc fer per anar a Costitx amb trasport públic?
+Com ho puc fer per anar a Costitx amb transport públic?
 Quan passa l'autobús per Costitx?
 A quina hora arriba l'autobús de Costitx?
 Has estat mai a Costitx?
@@ -1026,7 +1026,7 @@ Quantes parades té el trajecte en autobús fins a Eivissa?
 Quant dura el trajecte en autobús fins a Eivissa?
 Com puc anar a Eivissa dissabte a les onze?
 Com puc arribar a Eivissa amb cotxe?
-Com ho puc fer per anar a Eivissa amb trasport públic?
+Com ho puc fer per anar a Eivissa amb transport públic?
 Quan passa l'autobús per Eivissa?
 A quina hora arriba l'autobús d'Eivissa?
 Has estat mai a Eivissa?
@@ -1062,7 +1062,7 @@ Quina és la millor manera d'anar a Escorca amb tren?
 Com ho puc fer per anar a Escorca?
 Mira'm quina és la millor manera d'anar a Escorca amb bicicleta.
 Es pot anar a Escorca sense agafar el metro?
-Anirem a Escorca amb trasport públic.
+Anirem a Escorca amb transport públic.
 El nou d'octubre hauria d'anar a Escorca.
 Demà anirem a Escorca amb autobús.
 M'agradaria anar a Escorca amb moto.
@@ -1111,8 +1111,8 @@ He d'anar a Esporles amb tren diumenge a les cinc.
 Quina és la millor manera d'anar a Esporles amb tren?
 Com ho puc fer per anar a Esporles?
 Mira'm quina és la millor manera d'anar a Esporles amb tren.
-Es pot anar a Esporles amb trasport públic?
-Anirem a Esporles amb trasport públic.
+Es pot anar a Esporles amb transport públic?
+Anirem a Esporles amb transport públic.
 Dijous hauria d'anar a Esporles.
 Dilluns anirem a Esporles amb cotxe.
 M'agradaria anar a Esporles amb autobús.
@@ -1127,7 +1127,7 @@ Quantes parades té el trajecte en autobús fins a Esporles?
 Quant dura el trajecte en autobús fins a Esporles?
 Com puc anar a Esporles per Cap d'Any a la una?
 Com puc arribar a Esporles amb cotxe?
-Com ho puc fer per anar a Esporles amb trasport públic?
+Com ho puc fer per anar a Esporles amb transport públic?
 Quan passa l'autobús per Esporles?
 A quina hora arriba l'autobús d'Esporles?
 Has estat mai a Esporles?
@@ -1151,7 +1151,7 @@ Saps si cau a prop d'Esporles?
 A Esporles hi ha un castell?
 No sé on cau Esporles.
 A Esporles hi anem el deu d'agost.
-Va anar a Esporles amb trasport públic.
+Va anar a Esporles amb transport públic.
 Preferiria visitar Esporles.
 és una foto de la plaça major d'Esporles.
 Quan va ser que vam anar a Esporles?
@@ -1252,14 +1252,14 @@ Saps si cau a prop de Felanitx?
 A Felanitx hi ha un castell?
 No sé on cau Felanitx.
 A Felanitx hi anem demà passat.
-Va anar a Felanitx amb trasport públic.
+Va anar a Felanitx amb transport públic.
 Preferiria visitar Felanitx.
 és una foto de la plaça major de Felanitx.
 Quan va ser que vam anar a Felanitx?
 Quin dia és el mercat de Felanitx?
 Aquest estiu anirem de vacances a Felanitx.
 Felanitx és un municipi de Mallorca.
-Quina és la millor manera d'anar a Ferreries amb trasport públic?
+Quina és la millor manera d'anar a Ferreries amb transport públic?
 Com ho puc fer per anar a Ferreries?
 Mira'm quina és la millor manera d'anar a Ferreries sense agafar el cotxe.
 Es pot anar a Ferreries amb bicicleta?
@@ -1267,7 +1267,7 @@ Anirem a Ferreries sense agafar el metro.
 Dimecres hauria d'anar a Ferreries.
 Diumenge anirem a Ferreries amb autobús.
 M'agradaria anar a Ferreries sense agafar el cotxe.
-Vull anar a Ferreries amb trasport públic.
+Vull anar a Ferreries amb transport públic.
 Reserva'm un bitllet de tren per anar a Ferreries dilluns a les set.
 Necessito un bitllet de tren per anar a Ferreries dijous.
 El nou d'octubre he d'anar a Ferreries amb autobús.
@@ -1329,7 +1329,7 @@ Quantes parades té el trajecte en autobús fins a Fornalutx?
 Quant dura el trajecte en autobús fins a Fornalutx?
 Com puc anar a Fornalutx dilluns a les quatre?
 Com puc arribar a Fornalutx amb moto?
-Com ho puc fer per anar a Fornalutx amb trasport públic?
+Com ho puc fer per anar a Fornalutx amb transport públic?
 Quan passa l'autobús per Fornalutx?
 A quina hora arriba l'autobús de Fornalutx?
 Has estat mai a Fornalutx?
@@ -1415,7 +1415,7 @@ He d'anar a Lloret de Vistalegre amb tren divendres a la tarda.
 Quina és la millor manera d'anar a Lloret de Vistalegre amb moto?
 Com ho puc fer per anar a Lloret de Vistalegre?
 Mira'm quina és la millor manera d'anar a Lloret de Vistalegre amb cotxe.
-Es pot anar a Lloret de Vistalegre amb trasport públic?
+Es pot anar a Lloret de Vistalegre amb transport públic?
 Anirem a Lloret de Vistalegre amb autobús.
 Per Cap d'Any hauria d'anar a Lloret de Vistalegre.
 Demà passat anirem a Lloret de Vistalegre amb autobús.
@@ -1461,7 +1461,7 @@ Quan va ser que vam anar a Lloret de Vistalegre?
 Quin dia és el mercat de Lloret de Vistalegre?
 Aquest estiu anirem de vacances a Lloret de Vistalegre.
 Lloret de Vistalegre és un municipi de Mallorca.
-Quina és la millor manera d'anar a Lloseta amb trasport públic?
+Quina és la millor manera d'anar a Lloseta amb transport públic?
 Com ho puc fer per anar a Lloseta?
 Mira'm quina és la millor manera d'anar a Lloseta amb tren.
 Es pot anar a Lloseta a peu?
@@ -1480,7 +1480,7 @@ Quantes parades té el trajecte en autobús fins a Lloseta?
 Quant dura el trajecte en autobús fins a Lloseta?
 Com puc anar a Lloseta demà passat al matí?
 Com puc arribar a Lloseta amb bicicleta?
-Com ho puc fer per anar a Lloseta amb trasport públic?
+Com ho puc fer per anar a Lloseta amb transport públic?
 Quan passa l'autobús per Lloseta?
 A quina hora arriba l'autobús de Lloseta?
 Has estat mai a Lloseta?
@@ -1580,7 +1580,7 @@ Quant dura el viatge en autobús fins a Llucmajor?
 Quantes parades té el trajecte en autobús fins a Llucmajor?
 Quant dura el trajecte en autobús fins a Llucmajor?
 Com puc arribar a Llucmajor amb moto?
-Com ho puc fer per anar a Llucmajor amb trasport públic?
+Com ho puc fer per anar a Llucmajor amb transport públic?
 Quan passa l'autobús per Llucmajor?
 A quina hora arriba l'autobús de Llucmajor?
 Has estat mai a Llucmajor?
@@ -1653,7 +1653,7 @@ Saps si cau a prop de Maó?
 A Maó hi ha un castell?
 No sé on cau Maó.
 A Maó hi anem diumenge.
-Va anar a Maó amb trasport públic.
+Va anar a Maó amb transport públic.
 Preferiria visitar Maó.
 és una foto de la plaça major de Maó.
 Quan va ser que vam anar a Maó?
@@ -1664,7 +1664,7 @@ He d'anar a Manacor amb tren diumenge a dos quarts de tres.
 Quina és la millor manera d'anar a Manacor amb bicicleta?
 Com ho puc fer per anar a Manacor?
 Mira'm quina és la millor manera d'anar a Manacor sense agafar el metro.
-Es pot anar a Manacor amb trasport públic?
+Es pot anar a Manacor amb transport públic?
 Anirem a Manacor a peu.
 Dimarts hauria d'anar a Manacor.
 Demà anirem a Manacor amb bicicleta.
@@ -1680,7 +1680,7 @@ Quantes parades té el trajecte en autobús fins a Manacor?
 Quant dura el trajecte en autobús fins a Manacor?
 Com puc anar a Manacor el deu d'agost a les deu?
 Com puc arribar a Manacor amb moto?
-Com ho puc fer per anar a Manacor amb trasport públic?
+Com ho puc fer per anar a Manacor amb transport públic?
 Quan passa l'autobús per Manacor?
 A quina hora arriba l'autobús de Manacor?
 Has estat mai a Manacor?
@@ -1765,7 +1765,7 @@ Anirem a Maria de la Salut amb bicicleta.
 Dimecres hauria d'anar a Maria de la Salut.
 El nou d'octubre anirem a Maria de la Salut sense agafar el metro.
 M'agradaria anar a Maria de la Salut amb moto.
-Vull anar a Maria de la Salut amb trasport públic.
+Vull anar a Maria de la Salut amb transport públic.
 Necessito un bitllet de tren per anar a Maria de la Salut dilluns.
 Per Cap d'Any he d'anar a Maria de la Salut amb autobús.
 A quina hora passa el primer autobús per Maria de la Salut demà passat?
@@ -1906,11 +1906,11 @@ Quin dia és el mercat d'Es Mercadal?
 Aquest estiu anirem de vacances a Es Mercadal.
 Es Mercadal és un municipi de Menorca.
 He d'anar a Es Migjorn Gran amb autobús dijous al migdia.
-Quina és la millor manera d'anar a Es Migjorn Gran amb trasport públic?
+Quina és la millor manera d'anar a Es Migjorn Gran amb transport públic?
 Com ho puc fer per anar a Es Migjorn Gran?
 Mira'm quina és la millor manera d'anar a Es Migjorn Gran amb autobús.
 Es pot anar a Es Migjorn Gran sense agafar el cotxe?
-Anirem a Es Migjorn Gran amb trasport públic.
+Anirem a Es Migjorn Gran amb transport públic.
 Per Sant Jordi hauria d'anar a Es Migjorn Gran.
 Dimecres anirem a Es Migjorn Gran amb cotxe.
 M'agradaria anar a Es Migjorn Gran sense agafar el metro.
@@ -1958,7 +1958,7 @@ Es Migjorn Gran és un municipi de Menorca.
 He d'anar a Montuïri amb tren dimecres a les tres.
 Quina és la millor manera d'anar a Montuïri amb tren?
 Com ho puc fer per anar a Montuïri?
-Mira'm quina és la millor manera d'anar a Montuïri amb trasport públic.
+Mira'm quina és la millor manera d'anar a Montuïri amb transport públic.
 Es pot anar a Montuïri amb tren?
 Anirem a Montuïri amb moto.
 Dimecres hauria d'anar a Montuïri.
@@ -2014,7 +2014,7 @@ Es pot anar a Muro amb bicicleta?
 Anirem a Muro amb bicicleta.
 Dilluns hauria d'anar a Muro.
 El vint-i-nou de febrer anirem a Muro amb cotxe.
-M'agradaria anar a Muro amb trasport públic.
+M'agradaria anar a Muro amb transport públic.
 Vull anar a Muro sense agafar el metro.
 Reserva'm un bitllet de tren per anar a Muro dimarts a les sis.
 Necessito un bitllet de tren per anar a Muro divendres.
@@ -2025,8 +2025,8 @@ Quant dura el viatge en autobús fins a Muro?
 Quantes parades té el trajecte en autobús fins a Muro?
 Quant dura el trajecte en autobús fins a Muro?
 Com puc anar a Muro el nou d'octubre a tres quarts de dotze?
-Com puc arribar a Muro amb trasport públic?
-Com ho puc fer per anar a Muro amb trasport públic?
+Com puc arribar a Muro amb transport públic?
+Com ho puc fer per anar a Muro amb transport públic?
 Quan passa l'autobús per Muro?
 A quina hora arriba l'autobús de Muro?
 Has estat mai a Muro?
@@ -2062,11 +2062,11 @@ Quina és la millor manera d'anar a Palma a peu?
 Com ho puc fer per anar a Palma?
 Mira'm quina és la millor manera d'anar a Palma amb tren.
 Es pot anar a Palma amb moto?
-Anirem a Palma amb trasport públic.
+Anirem a Palma amb transport públic.
 Dissabte hauria d'anar a Palma.
 Demà passat anirem a Palma amb autobús.
 M'agradaria anar a Palma amb tren.
-Vull anar a Palma amb trasport públic.
+Vull anar a Palma amb transport públic.
 Necessito un bitllet de tren per anar a Palma divendres.
 El vint-i-nou de febrer he d'anar a Palma amb autobús.
 A quina hora passa el primer autobús per Palma per Cap d'Any?
@@ -2114,7 +2114,7 @@ Mira'm quina és la millor manera d'anar a Petra amb tren.
 Es pot anar a Petra amb bicicleta?
 Anirem a Petra sense agafar el metro.
 El nou d'octubre hauria d'anar a Petra.
-Dimarts anirem a Petra amb trasport públic.
+Dimarts anirem a Petra amb transport públic.
 M'agradaria anar a Petra amb autobús.
 Vull anar a Petra amb autobús.
 Necessito un bitllet de tren per anar a Petra el nou d'octubre.
@@ -2161,7 +2161,7 @@ He d'anar a Sa Pobla sense agafar el metro dijous al vespre.
 Quina és la millor manera d'anar a Sa Pobla amb bicicleta?
 Com ho puc fer per anar a Sa Pobla?
 Mira'm quina és la millor manera d'anar a Sa Pobla amb tren.
-Es pot anar a Sa Pobla amb trasport públic?
+Es pot anar a Sa Pobla amb transport públic?
 Anirem a Sa Pobla sense agafar el metro.
 Diumenge hauria d'anar a Sa Pobla.
 Demà anirem a Sa Pobla amb cotxe.
@@ -2210,7 +2210,7 @@ Sa Pobla és un municipi de Mallorca.
 He d'anar a Pollença sense agafar el cotxe dimarts a les dotze.
 Quina és la millor manera d'anar a Pollença amb cotxe?
 Com ho puc fer per anar a Pollença?
-Mira'm quina és la millor manera d'anar a Pollença amb trasport públic.
+Mira'm quina és la millor manera d'anar a Pollença amb transport públic.
 Es pot anar a Pollença amb cotxe?
 Anirem a Pollença amb moto.
 Dimarts hauria d'anar a Pollença.
@@ -2227,7 +2227,7 @@ Quantes parades té el trajecte en autobús fins a Pollença?
 Quant dura el trajecte en autobús fins a Pollença?
 Com puc anar a Pollença demà a les quatre?
 Com puc arribar a Pollença sense agafar el metro?
-Com ho puc fer per anar a Pollença amb trasport públic?
+Com ho puc fer per anar a Pollença amb transport públic?
 Quan passa l'autobús per Pollença?
 A quina hora arriba l'autobús de Pollença?
 Has estat mai a Pollença?
@@ -2309,14 +2309,14 @@ Quan va ser que vam anar a Porreres?
 Quin dia és el mercat de Porreres?
 Aquest estiu anirem de vacances a Porreres.
 Porreres és un municipi de Mallorca.
-He d'anar a Puigpunyent amb trasport públic diumenge a les cinc.
+He d'anar a Puigpunyent amb transport públic diumenge a les cinc.
 Quina és la millor manera d'anar a Puigpunyent amb autobús?
 Com ho puc fer per anar a Puigpunyent?
-Mira'm quina és la millor manera d'anar a Puigpunyent amb trasport públic.
+Mira'm quina és la millor manera d'anar a Puigpunyent amb transport públic.
 Es pot anar a Puigpunyent amb autobús?
 Anirem a Puigpunyent amb cotxe.
 El vint-i-nou de febrer hauria d'anar a Puigpunyent.
-Dissabte anirem a Puigpunyent amb trasport públic.
+Dissabte anirem a Puigpunyent amb transport públic.
 M'agradaria anar a Puigpunyent a peu.
 Vull anar a Puigpunyent amb cotxe.
 Necessito un bitllet de tren per anar a Puigpunyent diumenge.
@@ -2366,7 +2366,7 @@ Es pot anar a Ses Salines amb tren?
 Anirem a Ses Salines sense agafar el metro.
 El vint-i-nou de febrer hauria d'anar a Ses Salines.
 Dimarts anirem a Ses Salines amb cotxe.
-M'agradaria anar a Ses Salines amb trasport públic.
+M'agradaria anar a Ses Salines amb transport públic.
 Vull anar a Ses Salines amb bicicleta.
 Reserva'm un bitllet de tren per anar a Ses Salines dissabte a les deu.
 Necessito un bitllet de tren per anar a Ses Salines per Cap d'Any.
@@ -2416,7 +2416,7 @@ Mira'm quina és la millor manera d'anar a Sant Antoni de Portmany amb tren.
 Es pot anar a Sant Antoni de Portmany amb autobús?
 Anirem a Sant Antoni de Portmany a peu.
 Dimecres hauria d'anar a Sant Antoni de Portmany.
-Dissabte anirem a Sant Antoni de Portmany amb trasport públic.
+Dissabte anirem a Sant Antoni de Portmany amb transport públic.
 M'agradaria anar a Sant Antoni de Portmany amb bicicleta.
 Vull anar a Sant Antoni de Portmany amb tren.
 Necessito un bitllet de tren per anar a Sant Antoni de Portmany demà passat.
@@ -2459,7 +2459,7 @@ Quan va ser que vam anar a Sant Antoni de Portmany?
 Quin dia és el mercat de Sant Antoni de Portmany?
 Aquest estiu anirem de vacances a Sant Antoni de Portmany.
 Sant Antoni de Portmany és un municipi d'Eivissa.
-He d'anar a Sant Joan amb trasport públic el nou d'octubre a les sis.
+He d'anar a Sant Joan amb transport públic el nou d'octubre a les sis.
 Quina és la millor manera d'anar a Sant Joan amb tren?
 Com ho puc fer per anar a Sant Joan?
 Mira'm quina és la millor manera d'anar a Sant Joan a peu.
@@ -2468,7 +2468,7 @@ Anirem a Sant Joan amb tren.
 Diumenge hauria d'anar a Sant Joan.
 El deu d'agost anirem a Sant Joan amb moto.
 M'agradaria anar a Sant Joan a peu.
-Vull anar a Sant Joan amb trasport públic.
+Vull anar a Sant Joan amb transport públic.
 Necessito un bitllet de tren per anar a Sant Joan el nou d'octubre.
 El vint-i-nou de febrer he d'anar a Sant Joan amb autobús.
 A quina hora passa el primer autobús per Sant Joan per Cap d'Any?
@@ -2509,7 +2509,7 @@ Quan va ser que vam anar a Sant Joan?
 Quin dia és el mercat de Sant Joan?
 Aquest estiu anirem de vacances a Sant Joan.
 Sant Joan és un municipi de Mallorca.
-He d'anar a Sant Joan de Labritja amb trasport públic dilluns a les onze.
+He d'anar a Sant Joan de Labritja amb transport públic dilluns a les onze.
 Quina és la millor manera d'anar a Sant Joan de Labritja amb moto?
 Com ho puc fer per anar a Sant Joan de Labritja?
 Es pot anar a Sant Joan de Labritja a peu?
@@ -2560,7 +2560,7 @@ Aquest estiu anirem de vacances a Sant Joan de Labritja.
 Sant Joan de Labritja és un municipi d'Eivissa.
 Com ho puc fer per anar a Sant Josep de sa Talaia?
 Es pot anar a Sant Josep de sa Talaia amb tren?
-Anirem a Sant Josep de sa Talaia amb trasport públic.
+Anirem a Sant Josep de sa Talaia amb transport públic.
 Dimarts hauria d'anar a Sant Josep de sa Talaia.
 Demà passat anirem a Sant Josep de sa Talaia sense agafar el cotxe.
 M'agradaria anar a Sant Josep de sa Talaia amb bicicleta.
@@ -2669,7 +2669,7 @@ Quant dura el viatge en autobús fins a Sant Lluís?
 Quantes parades té el trajecte en autobús fins a Sant Lluís?
 Quant dura el trajecte en autobús fins a Sant Lluís?
 Com puc anar a Sant Lluís per Sant Jordi a les set?
-Com puc arribar a Sant Lluís amb trasport públic?
+Com puc arribar a Sant Lluís amb transport públic?
 Com ho puc fer per anar a Sant Lluís sense agafar el metro?
 Quan passa l'autobús per Sant Lluís?
 A quina hora arriba l'autobús de Sant Lluís?
@@ -2769,7 +2769,7 @@ Quant dura el viatge en autobús fins a Santa Eulària des Riu?
 Quantes parades té el trajecte en autobús fins a Santa Eulària des Riu?
 Quant dura el trajecte en autobús fins a Santa Eulària des Riu?
 Com puc arribar a Santa Eulària des Riu amb tren?
-Com ho puc fer per anar a Santa Eulària des Riu amb trasport públic?
+Com ho puc fer per anar a Santa Eulària des Riu amb transport públic?
 Quan passa l'autobús per Santa Eulària des Riu?
 A quina hora arriba l'autobús de Santa Eulària des Riu?
 Has estat mai a Santa Eulària des Riu?
@@ -2818,7 +2818,7 @@ Quant dura el viatge en autobús fins a Santa Margalida?
 Quantes parades té el trajecte en autobús fins a Santa Margalida?
 Quant dura el trajecte en autobús fins a Santa Margalida?
 Com puc anar a Santa Margalida dissabte a un quart de deu?
-Com puc arribar a Santa Margalida amb trasport públic?
+Com puc arribar a Santa Margalida amb transport públic?
 Com ho puc fer per anar a Santa Margalida sense agafar el metro?
 Quan passa l'autobús per Santa Margalida?
 A quina hora arriba l'autobús de Santa Margalida?
@@ -2852,10 +2852,10 @@ Aquest estiu anirem de vacances a Santa Margalida.
 Santa Margalida és un municipi de Mallorca.
 He d'anar a Santa Maria del Camí amb tren dijous al vespre.
 Com ho puc fer per anar a Santa Maria del Camí?
-Es pot anar a Santa Maria del Camí amb trasport públic?
+Es pot anar a Santa Maria del Camí amb transport públic?
 Anirem a Santa Maria del Camí amb cotxe.
 Divendres hauria d'anar a Santa Maria del Camí.
-Dilluns anirem a Santa Maria del Camí amb trasport públic.
+Dilluns anirem a Santa Maria del Camí amb transport públic.
 M'agradaria anar a Santa Maria del Camí sense agafar el metro.
 Vull anar a Santa Maria del Camí amb tren.
 Necessito un bitllet de tren per anar a Santa Maria del Camí dilluns.
@@ -2906,7 +2906,7 @@ Es pot anar a Santanyí amb moto?
 Anirem a Santanyí amb tren.
 El deu d'agost hauria d'anar a Santanyí.
 El deu d'agost anirem a Santanyí a peu.
-M'agradaria anar a Santanyí amb trasport públic.
+M'agradaria anar a Santanyí amb transport públic.
 Vull anar a Santanyí sense agafar el cotxe.
 Necessito un bitllet de tren per anar a Santanyí dilluns.
 Demà passat he d'anar a Santanyí amb autobús.
@@ -2916,7 +2916,7 @@ Quant dura el viatge en autobús fins a Santanyí?
 Quantes parades té el trajecte en autobús fins a Santanyí?
 Quant dura el trajecte en autobús fins a Santanyí?
 Com puc anar a Santanyí dimecres a les dotze?
-Com puc arribar a Santanyí amb trasport públic?
+Com puc arribar a Santanyí amb transport públic?
 Com ho puc fer per anar a Santanyí a peu?
 Quan passa l'autobús per Santanyí?
 A quina hora arriba l'autobús de Santanyí?
@@ -2952,7 +2952,7 @@ He d'anar a Selva a peu dijous a dos quarts i cinc de set.
 Quina és la millor manera d'anar a Selva amb bicicleta?
 Com ho puc fer per anar a Selva?
 Mira'm quina és la millor manera d'anar a Selva amb tren.
-Es pot anar a Selva amb trasport públic?
+Es pot anar a Selva amb transport públic?
 Anirem a Selva amb bicicleta.
 Per Sant Jordi hauria d'anar a Selva.
 Diumenge anirem a Selva amb bicicleta.
@@ -2992,7 +2992,7 @@ Saps si cau a prop de Selva?
 A Selva hi ha un castell?
 No sé on cau Selva.
 A Selva hi anem dijous.
-Va anar a Selva amb trasport públic.
+Va anar a Selva amb transport públic.
 Preferiria visitar Selva.
 és una foto de la plaça major de Selva.
 Quan va ser que vam anar a Selva?
@@ -3003,7 +3003,7 @@ He d'anar a Sencelles sense agafar el metro per Sant Jordi a la una.
 Quina és la millor manera d'anar a Sencelles amb tren?
 Com ho puc fer per anar a Sencelles?
 Mira'm quina és la millor manera d'anar a Sencelles amb autobús.
-Es pot anar a Sencelles amb trasport públic?
+Es pot anar a Sencelles amb transport públic?
 Anirem a Sencelles amb autobús.
 Per Sant Jordi hauria d'anar a Sencelles.
 Dijous anirem a Sencelles amb moto.
@@ -3019,7 +3019,7 @@ Quantes parades té el trajecte en autobús fins a Sencelles?
 Quant dura el trajecte en autobús fins a Sencelles?
 Com puc anar a Sencelles diumenge a les dotze?
 Com puc arribar a Sencelles amb tren?
-Com ho puc fer per anar a Sencelles amb trasport públic?
+Com ho puc fer per anar a Sencelles amb transport públic?
 Quan passa l'autobús per Sencelles?
 A quina hora arriba l'autobús de Sencelles?
 Has estat mai a Sencelles?
@@ -3100,7 +3100,7 @@ Quan va ser que vam anar a Sineu?
 Quin dia és el mercat de Sineu?
 Aquest estiu anirem de vacances a Sineu.
 Sineu és un municipi de Mallorca.
-He d'anar a Sóller amb trasport públic el vint-i-nou de febrer a les deu.
+He d'anar a Sóller amb transport públic el vint-i-nou de febrer a les deu.
 Quina és la millor manera d'anar a Sóller amb tren?
 Com ho puc fer per anar a Sóller?
 Mira'm quina és la millor manera d'anar a Sóller a peu.
@@ -3109,7 +3109,7 @@ Anirem a Sóller a peu.
 Demà passat hauria d'anar a Sóller.
 Dimarts anirem a Sóller amb bicicleta.
 M'agradaria anar a Sóller amb autobús.
-Vull anar a Sóller amb trasport públic.
+Vull anar a Sóller amb transport públic.
 Reserva'm un bitllet de tren per anar a Sóller diumenge a les cinc.
 Necessito un bitllet de tren per anar a Sóller per Sant Jordi.
 El deu d'agost he d'anar a Sóller amb autobús.
@@ -3159,7 +3159,7 @@ Es pot anar a Son Servera amb moto?
 Anirem a Son Servera a peu.
 El deu d'agost hauria d'anar a Son Servera.
 Dissabte anirem a Son Servera a peu.
-M'agradaria anar a Son Servera amb trasport públic.
+M'agradaria anar a Son Servera amb transport públic.
 Vull anar a Son Servera amb bicicleta.
 Necessito un bitllet de tren per anar a Son Servera el deu d'agost.
 Divendres he d'anar a Son Servera amb autobús.
@@ -3169,7 +3169,7 @@ Quant dura el viatge en autobús fins a Son Servera?
 Quantes parades té el trajecte en autobús fins a Son Servera?
 Quant dura el trajecte en autobús fins a Son Servera?
 Com puc anar a Son Servera dilluns a un quart de deu?
-Com puc arribar a Son Servera amb trasport públic?
+Com puc arribar a Son Servera amb transport públic?
 Com ho puc fer per anar a Son Servera amb autobús?
 Quan passa l'autobús per Son Servera?
 A quina hora arriba l'autobús de Son Servera?
@@ -3220,7 +3220,7 @@ Quantes parades té el trajecte en autobús fins a Valldemossa?
 Quant dura el trajecte en autobús fins a Valldemossa?
 Com puc anar a Valldemossa divendres a la una?
 Com puc arribar a Valldemossa amb tren?
-Com ho puc fer per anar a Valldemossa amb trasport públic?
+Com ho puc fer per anar a Valldemossa amb transport públic?
 Quan passa l'autobús per Valldemossa?
 A quina hora arriba l'autobús de Valldemossa?
 Has estat mai a Valldemossa?
@@ -3254,9 +3254,9 @@ Valldemossa és un municipi de Mallorca.
 He d'anar a Vilafranca de Bonany amb cotxe el nou d'octubre a les onze.
 Quina és la millor manera d'anar a Vilafranca de Bonany amb bicicleta?
 Com ho puc fer per anar a Vilafranca de Bonany?
-Mira'm quina és la millor manera d'anar a Vilafranca de Bonany amb trasport públic.
-Es pot anar a Vilafranca de Bonany amb trasport públic?
-Anirem a Vilafranca de Bonany amb trasport públic.
+Mira'm quina és la millor manera d'anar a Vilafranca de Bonany amb transport públic.
+Es pot anar a Vilafranca de Bonany amb transport públic?
+Anirem a Vilafranca de Bonany amb transport públic.
 Dissabte hauria d'anar a Vilafranca de Bonany.
 Demà anirem a Vilafranca de Bonany amb moto.
 M'agradaria anar a Vilafranca de Bonany amb tren.
@@ -3270,7 +3270,7 @@ Quantes parades té el trajecte en autobús fins a Vilafranca de Bonany?
 Quant dura el trajecte en autobús fins a Vilafranca de Bonany?
 Com puc anar a Vilafranca de Bonany el vint-i-nou de febrer a les tres?
 Com puc arribar a Vilafranca de Bonany amb moto?
-Com ho puc fer per anar a Vilafranca de Bonany amb trasport públic?
+Com ho puc fer per anar a Vilafranca de Bonany amb transport públic?
 Quan passa l'autobús per Vilafranca de Bonany?
 A quina hora arriba l'autobús de Vilafranca de Bonany?
 Has estat mai a Vilafranca de Bonany?
@@ -3304,12 +3304,12 @@ Vilafranca de Bonany és un municipi de Mallorca.
 He d'anar a Agost amb moto dimarts a les deu.
 Quina és la millor manera d'anar a Benifallim amb tren?
 Com ho puc fer per anar a Fuenterrobles?
-Mira'm quina és la millor manera d'anar a Montitxelvo amb trasport públic.
-Es pot anar a València amb trasport públic?
+Mira'm quina és la millor manera d'anar a Montitxelvo amb transport públic.
+Es pot anar a València amb transport públic?
 Anirem a Montcada sense agafar el metro.
 El disset d'octubre hauria d'anar a Bellreguard.
 Dimecres anirem a Montcada sense agafar el metro.
-M'agradaria anar a Eslida amb trasport públic.
+M'agradaria anar a Eslida amb transport públic.
 Vull anar a Beniarjó amb bicicleta.
 Necessito un bitllet de tren per anar a la Pobla de Benifassà demà.
 El dos de juny he d'anar a la Torre d'en Besora amb autobús.
@@ -3491,16 +3491,16 @@ Preferiria visitar Aldaia.
 és una foto de la plaça major del Castell de Vilamalefa.
 Quan va ser que vam anar a Barraques?
 Quin dia és el mercat de Sant Jordi?
-He d'anar a Vallanca amb trasport públic l'onze de juliol a les vuit.
+He d'anar a Vallanca amb transport públic l'onze de juliol a les vuit.
 Quina és la millor manera d'anar a Benimarfull amb cotxe?
 Com ho puc fer per anar a Teulada?
 Mira'm quina és la millor manera d'anar a Banyeres de Mariola amb bicicleta.
 Es pot anar a Setaigües amb bicicleta?
 Anirem a Serra sense agafar el metro.
 Dissabte hauria d'anar a Suera.
-El dos de juny anirem a Cinctorres amb trasport públic.
+El dos de juny anirem a Cinctorres amb transport públic.
 M'agradaria anar a Callosa de Segura amb tren.
-Vull anar a Cirat amb trasport públic.
+Vull anar a Cirat amb transport públic.
 Reserva'm un bitllet de tren per anar a l'Alcúdia dimarts a les cinc.
 Necessito un bitllet de tren per anar a Bonrepòs i Mirambell demà.
 Divendres he d'anar a Bonrepòs i Mirambell amb autobús.
@@ -3547,7 +3547,7 @@ Es pot anar a Aielo de Malferit amb bicicleta?
 Anirem a Altura amb moto.
 Demà passat hauria d'anar a Quart de Poblet.
 Demà anirem a Cullera amb autobús.
-M'agradaria anar a la Serratella amb trasport públic.
+M'agradaria anar a la Serratella amb transport públic.
 Vull anar a la Pobla Llarga amb tren.
 Reserva'm un bitllet de tren per anar a Llíria dijous a les vuit.
 Necessito un bitllet de tren per anar a Montesa dijous.
@@ -3559,7 +3559,7 @@ Quantes parades té el trajecte en autobús fins a Xelva?
 Quant dura el trajecte en autobús fins a Millars?
 Com puc anar a Cofrents dimecres a dos quarts i cinc de set?
 Com puc arribar a Cirat sense agafar el metro?
-Com ho puc fer per anar a l'Alqueria d'Asnar amb trasport públic?
+Com ho puc fer per anar a l'Alqueria d'Asnar amb transport públic?
 Quan passa l'autobús per Museros?
 A quina hora arriba l'autobús de Sant Antoni de Benaixeve?
 Has estat mai a Potries?
@@ -3588,7 +3588,7 @@ Preferiria visitar Rocafort.
 és una foto de la plaça major de Sant Fulgenci.
 Quan va ser que vam anar a la Granja de Rocamora?
 Quin dia és el mercat d'Alcosser?
-He d'anar a les Alcubles amb trasport públic dilluns a les nou.
+He d'anar a les Alcubles amb transport públic dilluns a les nou.
 Quina és la millor manera d'anar a Benicàssim a peu?
 Com ho puc fer per anar a la Granja de Rocamora?
 Mira'm quina és la millor manera d'anar a La Llosa amb tren.
@@ -3596,7 +3596,7 @@ Es pot anar a Silla sense agafar el cotxe?
 Anirem a Castelló de Rugat amb tren.
 Demà passat hauria d'anar a Salines.
 Dissabte anirem a Sempere a peu.
-M'agradaria anar a Sant Rafel del Riu amb trasport públic.
+M'agradaria anar a Sant Rafel del Riu amb transport públic.
 Vull anar a Canet d'en Berenguer sense agafar el metro.
 Reserva'm un bitllet de tren per anar a Rojals dilluns a les dotze.
 Necessito un bitllet de tren per anar a Cortes de Pallars demà passat.
@@ -3637,13 +3637,13 @@ Preferiria visitar La Llosa.
 és una foto de la plaça major de Navaixes.
 Quan va ser que vam anar a Alboraia?
 Quin dia és el mercat de Xelva?
-Quina és la millor manera d'anar a la Vall de Gallinera amb trasport públic?
+Quina és la millor manera d'anar a la Vall de Gallinera amb transport públic?
 Com ho puc fer per anar a Xàtiva?
 Mira'm quina és la millor manera d'anar a Traiguera amb cotxe.
 Es pot anar a Navaixes sense agafar el metro?
 Anirem a Traiguera a peu.
 El disset d'octubre hauria d'anar a Aras de los Olmos.
-Dilluns anirem a Piles amb trasport públic.
+Dilluns anirem a Piles amb transport públic.
 M'agradaria anar a Crevillent amb bicicleta.
 Vull anar a Sant Joanet amb autobús.
 Necessito un bitllet de tren per anar a Pavies l'onze de juliol.
@@ -3687,7 +3687,7 @@ Quina és la millor manera d'anar a Picassent a peu?
 Com ho puc fer per anar al Castell de Vilamalefa?
 Mira'm quina és la millor manera d'anar a Vila-real amb moto.
 Es pot anar a Pedralba amb tren?
-Anirem a Iàtova amb trasport públic.
+Anirem a Iàtova amb transport públic.
 Divendres hauria d'anar a Elx.
 L'onze de juliol anirem a Sant Joan de Moró amb moto.
 M'agradaria anar a Rojals amb autobús.
@@ -3733,7 +3733,7 @@ Quin dia és el mercat de la Font de la Figuera?
 He d'anar a Casinos amb tren demà a tres quarts de dotze.
 Quina és la millor manera d'anar a Corbera amb autobús?
 Com ho puc fer per anar al Palomar?
-Mira'm quina és la millor manera d'anar a Fontanars dels Alforins amb trasport públic.
+Mira'm quina és la millor manera d'anar a Fontanars dels Alforins amb transport públic.
 Es pot anar a Olocau amb bicicleta?
 Anirem a Alfafar amb bicicleta.
 Dilluns hauria d'anar a Navarrés.
@@ -3773,7 +3773,7 @@ Saps si cau a prop de Xulilla?
 A Cortes d'Arenós hi ha un castell?
 No sé on cau Almudaina.
 A Aranyel hi anem divendres.
-Va anar a Daimús amb trasport públic.
+Va anar a Daimús amb transport públic.
 Preferiria visitar Alcalalí.
 és una foto de la plaça major de Dolors.
 Quan va ser que vam anar a Xèrica?
@@ -3830,7 +3830,7 @@ Es pot anar a Tavernes de la Valldigna a peu?
 Anirem a Planes sense agafar el metro.
 Dijous hauria d'anar al Ràfol de Salem.
 El cinc d'agost anirem a Benijòfar amb bicicleta.
-M'agradaria anar a Xilxes amb trasport públic.
+M'agradaria anar a Xilxes amb transport públic.
 Vull anar a Catí amb bicicleta.
 Necessito un bitllet de tren per anar a Gandia el dos de juny.
 Dilluns he d'anar a Sant Joan d'Alacant amb autobús.
@@ -3874,7 +3874,7 @@ Quina és la millor manera d'anar a la Torre de les Maçanes a peu?
 Com ho puc fer per anar a Albalat dels Sorells?
 Mira'm quina és la millor manera d'anar al Fondó de les Neus amb tren.
 Es pot anar a Agullent amb cotxe?
-Anirem a Sant Antoni de Benaixeve amb trasport públic.
+Anirem a Sant Antoni de Benaixeve amb transport públic.
 Dijous hauria d'anar a Monòver.
 Dimecres anirem a la Granja de la Costera sense agafar el cotxe.
 M'agradaria anar a la Vall d'Almonesir a peu.
@@ -3887,7 +3887,7 @@ Quant dura el viatge en autobús fins a l'Orxa?
 Quantes parades té el trajecte en autobús fins a Torrent?
 Quant dura el trajecte en autobús fins a la Romana?
 Com puc anar a Bicorb el vint-i-tres de maig a les cinc?
-Com puc arribar a Xalans amb trasport públic?
+Com puc arribar a Xalans amb transport públic?
 Com ho puc fer per anar a Benidoleig amb tren?
 Quan passa l'autobús per la Pobla Llarga?
 A quina hora arriba l'autobús de Barxeta?
@@ -3968,8 +3968,8 @@ He d'anar a Xilxes amb tren el vint-i-tres de maig al migdia.
 Quina és la millor manera d'anar a Villores amb tren?
 Com ho puc fer per anar a Andilla?
 Mira'm quina és la millor manera d'anar a la Vall d'Uixó a peu.
-Es pot anar a Dénia amb trasport públic?
-Anirem a Castellonet de la Conquesta amb trasport públic.
+Es pot anar a Dénia amb transport públic?
+Anirem a Castellonet de la Conquesta amb transport públic.
 Dimecres hauria d'anar a Orba.
 Dissabte anirem a Torres Torres amb cotxe.
 M'agradaria anar a Benimodo amb cotxe.
@@ -4067,7 +4067,7 @@ Anirem a Muro amb moto.
 Demà hauria d'anar a Benissuera.
 El cinc d'agost anirem a Gaianes amb tren.
 M'agradaria anar al Genovés amb bicicleta.
-Vull anar a la Romana amb trasport públic.
+Vull anar a la Romana amb transport públic.
 Necessito un bitllet de tren per anar a Utiel dissabte.
 Dilluns he d'anar a Borriana amb autobús.
 A quina hora passa el primer autobús per Almassora l'onze de juliol?
@@ -4077,7 +4077,7 @@ Quantes parades té el trajecte en autobús fins a la Granja de Rocamora?
 Quant dura el trajecte en autobús fins a Novelda?
 Com puc anar a Murla l'onze de juliol a les vuit?
 Com puc arribar a Simat de la Valldigna amb tren?
-Com ho puc fer per anar a Xiva amb trasport públic?
+Com ho puc fer per anar a Xiva amb transport públic?
 Quan passa l'autobús per Villargordo del Cabriel?
 A quina hora arriba l'autobús de Vistabella del Maestrat?
 Has estat mai a Crevillent?
@@ -4106,13 +4106,13 @@ Preferiria visitar Ontinyent.
 és una foto de la plaça major de Montesa.
 Quan va ser que vam anar a Sedaví?
 Com ho puc fer per anar a Gilet?
-Mira'm quina és la millor manera d'anar a Asp amb trasport públic.
+Mira'm quina és la millor manera d'anar a Asp amb transport públic.
 Es pot anar a Aranyel sense agafar el cotxe?
 Anirem a Xodos sense agafar el metro.
 El dos de juny hauria d'anar a Segart.
-Dijous anirem a Benassal amb trasport públic.
+Dijous anirem a Benassal amb transport públic.
 M'agradaria anar a Aranyel amb bicicleta.
-Vull anar a Benifairó de la Valldigna amb trasport públic.
+Vull anar a Benifairó de la Valldigna amb transport públic.
 Necessito un bitllet de tren per anar a Vilanova d'Alcolea dilluns.
 Dijous he d'anar a Benidorm amb autobús.
 A quina hora passa el primer autobús per Sant Fulgenci dijous?
@@ -4155,11 +4155,11 @@ He d'anar al Poble Nou de Benitatxell amb cotxe diumenge a les vuit.
 Quina és la millor manera d'anar a Otos amb moto?
 Com ho puc fer per anar a Vilanova de la Reina?
 Mira'm quina és la millor manera d'anar a Villores amb autobús.
-Es pot anar a Andilla amb trasport públic?
-Anirem a Estivella amb trasport públic.
+Es pot anar a Andilla amb transport públic?
+Anirem a Estivella amb transport públic.
 Divendres hauria d'anar a Olocau del Rei.
 L'onze de juliol anirem a l'Alguenya sense agafar el cotxe.
-M'agradaria anar a Cerdà amb trasport públic.
+M'agradaria anar a Cerdà amb transport públic.
 Vull anar a Almàssera amb tren.
 Reserva'm un bitllet de tren per anar a Serra dissabte a les vuit.
 Necessito un bitllet de tren per anar a Xirivella el vint-i-tres de maig.
@@ -4251,7 +4251,7 @@ Quina és la millor manera d'anar a Benissoda a peu?
 Com ho puc fer per anar a l'Alqueria d'Asnar?
 Mira'm quina és la millor manera d'anar a Gorga amb tren.
 Es pot anar a Rafal amb moto?
-Anirem a Anna amb trasport públic.
+Anirem a Anna amb transport públic.
 Demà passat hauria d'anar a Famorca.
 Diumenge anirem a Beneixama sense agafar el metro.
 M'agradaria anar a Vistabella del Maestrat amb bicicleta.
@@ -4386,7 +4386,7 @@ Preferiria visitar Benimeli.
 Quan va ser que vam anar a Alfondeguilla?
 Quin dia és el mercat de Gilet?
 He d'anar a Beniarjó amb moto divendres a tres quarts de dotze.
-Quina és la millor manera d'anar a Castellnou amb trasport públic?
+Quina és la millor manera d'anar a Castellnou amb transport públic?
 Com ho puc fer per anar a Albatera?
 Mira'm quina és la millor manera d'anar a Anna amb tren.
 Es pot anar a Xera amb cotxe?
@@ -4404,7 +4404,7 @@ Quant dura el viatge en autobús fins a Cullera?
 Quantes parades té el trajecte en autobús fins al Camp de Mirra?
 Quant dura el trajecte en autobús fins a Albalat dels Tarongers?
 Com puc anar a Torres Torres dimecres a les vuit?
-Com puc arribar a Aranyel amb trasport públic?
+Com puc arribar a Aranyel amb transport públic?
 Com ho puc fer per anar a Sot de Ferrer amb autobús?
 Quan passa l'autobús per Anna?
 A quina hora arriba l'autobús d'Alboraia?
@@ -4519,13 +4519,13 @@ Saps si cau a prop d'Albuixec?
 A Alfafara hi ha un castell?
 No sé on cau Setaigües.
 A Sinarques hi anem dissabte.
-Va anar a Bunyol amb trasport públic.
+Va anar a Bunyol amb transport públic.
 Preferiria visitar Figueroles de Domenyo.
 és una foto de la plaça major del Ràfol d'Almúnia.
 Quan va ser que vam anar a Llíber?
 Quin dia és el mercat d'Aiòder?
-He d'anar a Alcàsser amb trasport públic diumenge a la una.
-Quina és la millor manera d'anar a Benigembla amb trasport públic?
+He d'anar a Alcàsser amb transport públic diumenge a la una.
+Quina és la millor manera d'anar a Benigembla amb transport públic?
 Com ho puc fer per anar a Quartell?
 Mira'm quina és la millor manera d'anar a Torrent a peu.
 Es pot anar a Monòver sense agafar el metro?
@@ -4566,7 +4566,7 @@ Saps si cau a prop de Cervera del Maestrat?
 A Benifallim hi ha un castell?
 No sé on cau Benirredrà.
 A Gandia hi anem l'onze de juliol.
-Va anar a la Vall d'Alcalà amb trasport públic.
+Va anar a la Vall d'Alcalà amb transport públic.
 Preferiria visitar la Pobla de Vallbona.
 és una foto de la plaça major de Culla.
 Quan va ser que vam anar a Senyera?
@@ -4590,7 +4590,7 @@ Quantes parades té el trajecte en autobús fins a Almoradí?
 Quant dura el trajecte en autobús fins a Fageca?
 Com puc anar a Torres Torres l'onze de juliol al vespre?
 Com puc arribar a Almàssera amb cotxe?
-Com ho puc fer per anar a Torís amb trasport públic?
+Com ho puc fer per anar a Torís amb transport públic?
 Quan passa l'autobús per Almoradí?
 A quina hora arriba l'autobús de Petrer?
 Has estat mai a la Font de la Reina?
@@ -4664,7 +4664,7 @@ Quin dia és el mercat de Teresa?
 He d'anar a Alpont amb tren dijous a tres quarts de dotze.
 Quina és la millor manera d'anar a l'Alcúdia de Crespins amb autobús?
 Com ho puc fer per anar a la Vila Joiosa?
-Mira'm quina és la millor manera d'anar a Gaibiel amb trasport públic.
+Mira'm quina és la millor manera d'anar a Gaibiel amb transport públic.
 Es pot anar al Pinós amb tren?
 Anirem a Venta del Moro amb bicicleta.
 Demà passat hauria d'anar a Gata de Gorgos.
@@ -4712,7 +4712,7 @@ He d'anar a Benigembla amb moto diumenge a les vuit.
 Quina és la millor manera d'anar a Gandia amb tren?
 Com ho puc fer per anar a Daimús?
 Mira'm quina és la millor manera d'anar a Rafelguaraf amb moto.
-Es pot anar a Costur amb trasport públic?
+Es pot anar a Costur amb transport públic?
 Anirem a Castell de Castells amb bicicleta.
 El cinc d'agost hauria d'anar a Titaigües.
 Demà passat anirem a Aranyel amb tren.
@@ -4850,7 +4850,7 @@ Preferiria visitar Sot de Xera.
 és una foto de la plaça major de Cirat.
 Quan va ser que vam anar a Bolulla?
 Quin dia és el mercat d'Argeleta?
-He d'anar a Benimassot amb trasport públic diumenge a les sis.
+He d'anar a Benimassot amb transport públic diumenge a les sis.
 Quina és la millor manera d'anar a Algemesí amb autobús?
 Com ho puc fer per anar a Catí?
 Mira'm quina és la millor manera d'anar a Vila-real amb cotxe.
@@ -4906,7 +4906,7 @@ Es pot anar a Catadau sense agafar el metro?
 Anirem a Assuévar sense agafar el metro.
 Divendres hauria d'anar a Castelló de Rugat.
 El dos de juny anirem a Xalans amb bicicleta.
-M'agradaria anar a Xàbia amb trasport públic.
+M'agradaria anar a Xàbia amb transport públic.
 Vull anar a Algar de Palància sense agafar el metro.
 Necessito un bitllet de tren per anar a Benaguasil el disset d'octubre.
 Dilluns he d'anar a Sant Rafel del Riu amb autobús.
@@ -4984,7 +4984,7 @@ Saps si cau a prop del Castell de Guadalest?
 A Massamagrell hi ha un castell?
 No sé on cau Famorca.
 A Llocnou d'en Fenollet hi anem diumenge.
-Va anar a Carrícola amb trasport públic.
+Va anar a Carrícola amb transport públic.
 Preferiria visitar Vilamalur.
 és una foto de la plaça major del Verger.
 Quan va ser que vam anar a Sant Joan de Moró?
@@ -4997,7 +4997,7 @@ Anirem a Oriola amb moto.
 El cinc d'agost hauria d'anar a Monòver.
 Dimecres anirem a Borriana sense agafar el cotxe.
 M'agradaria anar a Alcosser sense agafar el cotxe.
-Vull anar a Albatera amb trasport públic.
+Vull anar a Albatera amb transport públic.
 Reserva'm un bitllet de tren per anar a Benasau demà passat a la tarda.
 Necessito un bitllet de tren per anar a Benidorm dimecres.
 Dilluns he d'anar a Torís amb autobús.
@@ -5035,10 +5035,10 @@ Quin dia és el mercat de Catarroja?
 Quina és la millor manera d'anar a Redovà a peu?
 Com ho puc fer per anar a Tírig?
 Mira'm quina és la millor manera d'anar a Rocafort amb cotxe.
-Es pot anar a Ador amb trasport públic?
+Es pot anar a Ador amb transport públic?
 Anirem a Fanzara amb moto.
 Diumenge hauria d'anar a Vilallonga.
-Divendres anirem a Betxí amb trasport públic.
+Divendres anirem a Betxí amb transport públic.
 M'agradaria anar a Xàtiva amb tren.
 Vull anar a Benafer a peu.
 Reserva'm un bitllet de tren per anar a Altura dissabte a les deu.
@@ -5141,7 +5141,7 @@ Quant dura el viatge en autobús fins a Betxí?
 Quantes parades té el trajecte en autobús fins a Millena?
 Quant dura el trajecte en autobús fins a Foios?
 Com puc arribar a Benlloc amb bicicleta?
-Com ho puc fer per anar a Xodos amb trasport públic?
+Com ho puc fer per anar a Xodos amb transport públic?
 Quan passa l'autobús per Alfauir?
 Has estat mai a Finestrat?
 A Mislata hi ha estació de tren?
@@ -5169,7 +5169,7 @@ Quan va ser que vam anar a la Llosa de Ranes?
 He d'anar a Benavites amb cotxe dimarts a les nou.
 Quina és la millor manera d'anar a Coix a peu?
 Mira'm quina és la millor manera d'anar a Almudaina sense agafar el metro.
-Es pot anar a La Llosa amb trasport públic?
+Es pot anar a La Llosa amb transport públic?
 Anirem a Novetlè amb moto.
 Dimecres hauria d'anar a Xaló.
 Divendres anirem a Montanejos amb tren.
@@ -5214,7 +5214,7 @@ Quan va ser que vam anar a Paterna?
 Quin dia és el mercat de la Romana?
 Quina és la millor manera d'anar a Rafelcofer amb bicicleta?
 Com ho puc fer per anar a Bunyol?
-Es pot anar a Alcoi amb trasport públic?
+Es pot anar a Alcoi amb transport públic?
 Anirem a Vallada a peu.
 Demà hauria d'anar a la Pobla del Duc.
 Dijous anirem a Quart de les Valls amb bicicleta.
@@ -5306,10 +5306,10 @@ Quina és la millor manera d'anar a Vallanca sense agafar el cotxe?
 Com ho puc fer per anar a Silla?
 Mira'm quina és la millor manera d'anar a Bonrepòs i Mirambell amb autobús.
 Es pot anar a Banyeres de Mariola amb tren?
-Anirem a Villargordo del Cabriel amb trasport públic.
+Anirem a Villargordo del Cabriel amb transport públic.
 Demà anirem a Albaida sense agafar el cotxe.
 M'agradaria anar a Tavernes Blanques sense agafar el cotxe.
-Vull anar a Massamagrell amb trasport públic.
+Vull anar a Massamagrell amb transport públic.
 Reserva'm un bitllet de tren per anar a Torre Baixa dijous a la nit.
 Necessito un bitllet de tren per anar a Picassent dimarts.
 El dos de juny he d'anar a la Todolella amb autobús.
@@ -5363,7 +5363,7 @@ Quines parades fa l'autobús que va a Alzira?
 Quant dura el viatge en autobús fins a Gilet?
 Quant dura el trajecte en autobús fins a la Jana?
 Com puc arribar a Castell de Castells amb moto?
-Com ho puc fer per anar a Nàquera amb trasport públic?
+Com ho puc fer per anar a Nàquera amb transport públic?
 Quan passa l'autobús per Torrent?
 A quina hora arriba l'autobús de Daia Nova?
 Has estat mai a Altura?
@@ -5407,8 +5407,8 @@ Quines parades fa l'autobús que va a Algímia d'Alfara?
 Quant dura el viatge en autobús fins a Algar de Palància?
 Quant dura el trajecte en autobús fins als Poblets?
 Com puc anar a Canet d'en Berenguer dilluns a la nit?
-Com puc arribar a Bellús amb trasport públic?
-Com ho puc fer per anar a Orpesa amb trasport públic?
+Com puc arribar a Bellús amb transport públic?
+Com ho puc fer per anar a Orpesa amb transport públic?
 A quina hora arriba l'autobús d'Ibi?
 Has estat mai a Pinet?
 He sentit a dir que Cerdà és molt bonic.
@@ -5433,7 +5433,7 @@ Preferiria visitar Los Montesinos.
 Quan va ser que vam anar a Sinarques?
 Quin dia és el mercat de Benimodo?
 He d'anar a Soneja amb autobús el vint-i-tres de maig a la tarda.
-Quina és la millor manera d'anar a Nàquera amb trasport públic?
+Quina és la millor manera d'anar a Nàquera amb transport públic?
 Com ho puc fer per anar a la Torre d'en Doménec?
 Mira'm quina és la millor manera d'anar a la Serratella sense agafar el metro.
 Es pot anar a la Font de la Figuera amb tren?
@@ -5482,12 +5482,12 @@ Quan va ser que vam anar a Loriguilla?
 Quin dia és el mercat de la Vall d'Ebo?
 He d'anar a Traiguera amb cotxe el vint-i-tres de maig a les sis.
 Quina és la millor manera d'anar a Estivella amb tren?
-Mira'm quina és la millor manera d'anar a Sot de Ferrer amb trasport públic.
+Mira'm quina és la millor manera d'anar a Sot de Ferrer amb transport públic.
 Es pot anar a Altea amb tren?
 Anirem a Sagunt sense agafar el cotxe.
 Demà passat hauria d'anar a la Torre d'en Besora.
 Dissabte anirem a Tírig sense agafar el cotxe.
-M'agradaria anar a la Vall d'Alcalà amb trasport públic.
+M'agradaria anar a la Vall d'Alcalà amb transport públic.
 Vull anar a Manuel amb moto.
 Reserva'm un bitllet de tren per anar a Olocau demà a les sis.
 Demà passat he d'anar a Figueroles amb autobús.
@@ -5532,7 +5532,7 @@ Es pot anar a Bèlgida amb cotxe?
 Anirem a Sanet i els Negrals amb moto.
 L'onze de juliol hauria d'anar a Canet lo Roig.
 L'onze de juliol anirem a Sant Joan de Moró amb cotxe.
-M'agradaria anar a Ibi amb trasport públic.
+M'agradaria anar a Ibi amb transport públic.
 Vull anar a Monòver amb autobús.
 Reserva'm un bitllet de tren per anar a Piles diumenge a les cinc.
 Necessito un bitllet de tren per anar a Calles el dos de juny.
@@ -5544,7 +5544,7 @@ Quantes parades té el trajecte en autobús fins a Alaquàs?
 Quant dura el trajecte en autobús fins a Montitxelvo?
 Com puc anar a Figueroles de Domenyo dijous a les set?
 Com puc arribar a Castellnou amb cotxe?
-Com ho puc fer per anar a Pinet amb trasport públic?
+Com ho puc fer per anar a Pinet amb transport públic?
 Quan passa l'autobús per Orpesa?
 A quina hora arriba l'autobús de Rocafort?
 Has estat mai a Torre-xiva?
@@ -5776,7 +5776,7 @@ Quant dura el viatge en autobús fins a Alcoleja?
 Quantes parades té el trajecte en autobús fins a Casinos?
 Quant dura el trajecte en autobús fins a Museros?
 Com puc anar a Castell de Castells demà passat al migdia?
-Com puc arribar a Guardamar de la Safor amb trasport públic?
+Com puc arribar a Guardamar de la Safor amb transport públic?
 Com ho puc fer per anar a Énguera amb moto?
 Quan passa l'autobús per l'Atzúbia?
 A quina hora arriba l'autobús de Vilafamés?
@@ -5904,7 +5904,7 @@ Es pot anar a Sant Fulgenci amb cotxe?
 Anirem a Salem a peu.
 Demà hauria d'anar a Ròtova.
 Demà passat anirem a Sagra amb moto.
-M'agradaria anar a la Font de la Figuera amb trasport públic.
+M'agradaria anar a la Font de la Figuera amb transport públic.
 Vull anar a Mislata amb bicicleta.
 Reserva'm un bitllet de tren per anar a Callosa de Segura dimarts al matí.
 Necessito un bitllet de tren per anar a Aldaia el dos de juny.
@@ -5953,7 +5953,7 @@ Anirem als Poblets amb autobús.
 Divendres hauria d'anar a Llocnou d'en Fenollet.
 Dimecres anirem a Alpont amb bicicleta.
 M'agradaria anar al Campello amb tren.
-Vull anar a Fageca amb trasport públic.
+Vull anar a Fageca amb transport públic.
 Necessito un bitllet de tren per anar a Gandia dimecres.
 Diumenge he d'anar a Figueroles de Domenyo amb autobús.
 A quina hora passa el primer autobús per Los Montesinos l'onze de juliol?
@@ -5991,7 +5991,7 @@ Preferiria visitar la Iessa.
 és una foto de la plaça major de Forcall.
 Quan va ser que vam anar a Ares del Maestrat?
 He d'anar a Tous amb autobús el disset d'octubre a les tres.
-Quina és la millor manera d'anar a Algímia d'Almonesir amb trasport públic?
+Quina és la millor manera d'anar a Algímia d'Almonesir amb transport públic?
 Com ho puc fer per anar a Xacarella?
 Mira'm quina és la millor manera d'anar a Novetlè amb bicicleta.
 Es pot anar a Tous amb bicicleta?
@@ -6007,7 +6007,7 @@ Quines parades fa l'autobús que va a Almudaina?
 Quant dura el viatge en autobús fins a Vallés?
 Quantes parades té el trajecte en autobús fins a Vallés?
 Quant dura el trajecte en autobús fins a la Font de la Figuera?
-Com puc arribar a Pavies amb trasport públic?
+Com puc arribar a Pavies amb transport públic?
 Com ho puc fer per anar a Bèlgida amb moto?
 Quan passa l'autobús per Bétera?
 A quina hora arriba l'autobús d'Almoradí?
@@ -6028,7 +6028,7 @@ Saps si cau a prop de Xèrica?
 A Carrícola hi ha un castell?
 No sé on cau Benafer.
 A Figueroles de Domenyo hi anem dilluns.
-Va anar a Canet d'en Berenguer amb trasport públic.
+Va anar a Canet d'en Berenguer amb transport públic.
 Preferiria visitar l'Atzúbia.
 és una foto de la plaça major de Godella.
 Quan va ser que vam anar a Xóvar?
@@ -6085,7 +6085,7 @@ Es pot anar a Tàrbena sense agafar el metro?
 Anirem a Llocnou d'en Fenollet amb tren.
 Dimarts hauria d'anar a Casinos.
 El vint-i-tres de maig anirem a Sagunt amb autobús.
-M'agradaria anar a l'Eliana amb trasport públic.
+M'agradaria anar a l'Eliana amb transport públic.
 Vull anar a Morella amb bicicleta.
 Necessito un bitllet de tren per anar a Llanera de Ranes el cinc d'agost.
 Diumenge he d'anar a Benimarfull amb autobús.
@@ -6127,7 +6127,7 @@ Quina és la millor manera d'anar a Cofrents sense agafar el metro?
 Com ho puc fer per anar a Potries?
 Mira'm quina és la millor manera d'anar a Algorfa sense agafar el cotxe.
 Es pot anar a Rafelbunyol sense agafar el cotxe?
-Anirem a la Torre de les Maçanes amb trasport públic.
+Anirem a la Torre de les Maçanes amb transport públic.
 Dimarts hauria d'anar a la Font de la Reina.
 Diumenge anirem a Onil a peu.
 M'agradaria anar a la Serratella amb cotxe.
@@ -6166,15 +6166,15 @@ Preferiria visitar Vilafamés.
 és una foto de la plaça major de Benferri.
 Quan va ser que vam anar a la Torre de les Maçanes?
 Quin dia és el mercat de Sempere?
-Quina és la millor manera d'anar a Ibi amb trasport públic?
+Quina és la millor manera d'anar a Ibi amb transport públic?
 Com ho puc fer per anar a Onil?
 Mira'm quina és la millor manera d'anar a Carcaixent amb bicicleta.
-Es pot anar a Canet d'en Berenguer amb trasport públic?
+Es pot anar a Canet d'en Berenguer amb transport públic?
 Anirem a Massalfassar amb tren.
 El dos de juny hauria d'anar a Benicull de Xúquer.
 El cinc d'agost anirem a Vilamalur amb cotxe.
 M'agradaria anar a Alfauir amb autobús.
-Vull anar a Otos amb trasport públic.
+Vull anar a Otos amb transport públic.
 Necessito un bitllet de tren per anar a Figueroles de Domenyo demà passat.
 Demà he d'anar a Torís amb autobús.
 A quina hora passa el primer autobús per la Vila Joiosa dimarts?
@@ -6213,14 +6213,14 @@ Preferiria visitar Sant Joanet.
 Quan va ser que vam anar a Bugarra?
 Quin dia és el mercat de les Fonts d'Aiòder?
 He d'anar a Benicolet sense agafar el cotxe divendres a la una.
-Quina és la millor manera d'anar a Llombai amb trasport públic?
+Quina és la millor manera d'anar a Llombai amb transport públic?
 Mira'm quina és la millor manera d'anar a Asp sense agafar el metro.
 Es pot anar a Càrcer a peu?
 Anirem a Geldo amb cotxe.
 Dimecres hauria d'anar a Massalfassar.
 Dimarts anirem a Oriola a peu.
 M'agradaria anar a la Jana amb moto.
-Vull anar a la Todolella amb trasport públic.
+Vull anar a la Todolella amb transport públic.
 Necessito un bitllet de tren per anar a Bocairent demà passat.
 Divendres he d'anar a Aras de los Olmos amb autobús.
 A quina hora passa el primer autobús per Benissanó el vint-i-tres de maig?
@@ -6256,7 +6256,7 @@ Va anar a Teresa de Cofrents amb autobús.
 Quan va ser que vam anar a Vallés?
 Quin dia és el mercat d'Alginet?
 He d'anar a Calp amb cotxe l'onze de juliol a tres quarts de dotze.
-Quina és la millor manera d'anar a Xalans amb trasport públic?
+Quina és la millor manera d'anar a Xalans amb transport públic?
 Com ho puc fer per anar a Culla?
 Mira'm quina és la millor manera d'anar a Sollana sense agafar el metro.
 Es pot anar a Cocentaina sense agafar el metro?
@@ -6303,7 +6303,7 @@ Mira'm quina és la millor manera d'anar a Moixent amb moto.
 Es pot anar a Otos sense agafar el cotxe?
 Anirem a Callosa de Segura amb tren.
 Dimecres hauria d'anar a Navarrés.
-Divendres anirem a Torres Torres amb trasport públic.
+Divendres anirem a Torres Torres amb transport públic.
 M'agradaria anar a Montfort amb bicicleta.
 Vull anar a Sucaina amb cotxe.
 Reserva'm un bitllet de tren per anar a Novelda dijous a les onze.
@@ -6315,7 +6315,7 @@ Quant dura el viatge en autobús fins a les Alqueries?
 Quantes parades té el trajecte en autobús fins a Bocairent?
 Quant dura el trajecte en autobús fins a Titaigües?
 Com puc anar a Senyera el dos de juny a dos quarts de tres?
-Com puc arribar al Pilar de la Foradada amb trasport públic?
+Com puc arribar al Pilar de la Foradada amb transport públic?
 Com ho puc fer per anar a Albuixec amb moto?
 A quina hora arriba l'autobús de Xalans?
 Has estat mai a Sant Antoni de Benaixeve?
@@ -6342,8 +6342,8 @@ Preferiria visitar Caudiel.
 Quin dia és el mercat de Castellfabib?
 Quina és la millor manera d'anar a Alpont amb autobús?
 Com ho puc fer per anar a Villores?
-Mira'm quina és la millor manera d'anar a Borriana amb trasport públic.
-Es pot anar a Sant Joanet amb trasport públic?
+Mira'm quina és la millor manera d'anar a Borriana amb transport públic.
+Es pot anar a Sant Joanet amb transport públic?
 Anirem a Loriguilla amb cotxe.
 El cinc d'agost hauria d'anar a Cases Baixes.
 Divendres anirem a la Pobla de Farnals sense agafar el metro.
@@ -6393,7 +6393,7 @@ Es pot anar al Palomar amb tren?
 Anirem a Torre Baixa a peu.
 Dijous hauria d'anar a Benissanó.
 L'onze de juliol anirem a Pinet amb tren.
-M'agradaria anar a Balones amb trasport públic.
+M'agradaria anar a Balones amb transport públic.
 Vull anar a Vilafermosa a peu.
 Necessito un bitllet de tren per anar a Petrés diumenge.
 Dissabte he d'anar a Museros amb autobús.
@@ -6436,7 +6436,7 @@ Mira'm quina és la millor manera d'anar a la Canyada amb moto.
 Es pot anar a Albatera sense agafar el metro?
 Anirem a Domenyo amb tren.
 Diumenge hauria d'anar a Sumacàrcer.
-El dos de juny anirem a Tavernes de la Valldigna amb trasport públic.
+El dos de juny anirem a Tavernes de la Valldigna amb transport públic.
 M'agradaria anar a Almàssera amb tren.
 Vull anar a Llíria amb tren.
 Necessito un bitllet de tren per anar a Monòver demà passat.
@@ -6689,7 +6689,7 @@ Per anar a Meliana has de fer molta marrada.
 A Figueroles hi ha un castell?
 No sé on cau Olocau del Rei.
 A Godella hi anem l'onze de juliol.
-Va anar a Elx amb trasport públic.
+Va anar a Elx amb transport públic.
 Preferiria visitar Almedíxer.
 és una foto de la plaça major de Senyera.
 Quan va ser que vam anar a Alcàsser?
@@ -6697,12 +6697,12 @@ Quin dia és el mercat de Sant Isidre?
 He d'anar a Massanassa a peu l'onze de juliol a les vuit.
 Quina és la millor manera d'anar a Vinaròs amb tren?
 Com ho puc fer per anar a Aigües?
-Mira'm quina és la millor manera d'anar a Tous amb trasport públic.
+Mira'm quina és la millor manera d'anar a Tous amb transport públic.
 Es pot anar a Camporrobles amb moto?
 Anirem a Salines a peu.
 L'onze de juliol hauria d'anar a Benimuslem.
 Demà passat anirem a Torre Baixa amb moto.
-M'agradaria anar a Llíria amb trasport públic.
+M'agradaria anar a Llíria amb transport públic.
 Vull anar a Xeresa amb moto.
 Reserva'm un bitllet de tren per anar a Figueres dijous a la nit.
 Necessito un bitllet de tren per anar a Crevillent el dos de juny.
@@ -6801,7 +6801,7 @@ Quantes parades té el trajecte en autobús fins a la Pobla de Benifassà?
 Quant dura el trajecte en autobús fins a Benaguasil?
 Com puc anar a Canals dimarts a un quart i mig d'onze?
 Com puc arribar a Castelló de la Plana amb moto?
-Com ho puc fer per anar a Xixona amb trasport públic?
+Com ho puc fer per anar a Xixona amb transport públic?
 A quina hora arriba l'autobús de Benidorm?
 Has estat mai a Picanya?
 A Vistabella del Maestrat hi ha estació de tren?
@@ -6834,14 +6834,14 @@ Anirem a la Llosa de Ranes amb tren.
 L'onze de juliol hauria d'anar a la Llosa de Ranes.
 Dimarts anirem a Carcaixent amb tren.
 M'agradaria anar a Polinyà de Xúquer sense agafar el metro.
-Vull anar a Massanassa amb trasport públic.
+Vull anar a Massanassa amb transport públic.
 Necessito un bitllet de tren per anar a Sant Antoni de Benaixeve divendres.
 El cinc d'agost he d'anar a Benimassot amb autobús.
 A quina hora passa el primer autobús per Daia Nova dijous?
 Quantes parades té el trajecte en autobús fins a Montant?
 Quant dura el trajecte en autobús fins a Xèrica?
 Com puc arribar a Morella sense agafar el cotxe?
-Com ho puc fer per anar a Benifato amb trasport públic?
+Com ho puc fer per anar a Benifato amb transport públic?
 Quan passa l'autobús per el Puig de Santa Maria?
 A quina hora arriba l'autobús de la Vall d'Almonesir?
 Has estat mai a Bunyol?
@@ -6874,7 +6874,7 @@ Quina és la millor manera d'anar a Benigembla a peu?
 Com ho puc fer per anar a Aielo de Rugat?
 Mira'm quina és la millor manera d'anar a Domenyo a peu.
 Es pot anar a Betxí sense agafar el cotxe?
-Anirem a Montroi amb trasport públic.
+Anirem a Montroi amb transport públic.
 Demà passat hauria d'anar a Gorga.
 Diumenge anirem a Bigastre a peu.
 M'agradaria anar a Picassent sense agafar el cotxe.
@@ -6914,7 +6914,7 @@ Preferiria visitar Sant Vicent del Raspeig.
 Quan va ser que vam anar a Montesa?
 Quin dia és el mercat d'Agres?
 He d'anar a Espadella amb tren diumenge a dos quarts i cinc de set.
-Quina és la millor manera d'anar a Albocàsser amb trasport públic?
+Quina és la millor manera d'anar a Albocàsser amb transport públic?
 Com ho puc fer per anar a Beniatjar?
 Mira'm quina és la millor manera d'anar a Muro sense agafar el cotxe.
 Es pot anar a Vilar de Canes a peu?
@@ -6922,7 +6922,7 @@ Anirem a Almoines sense agafar el cotxe.
 L'onze de juliol hauria d'anar a Alacant.
 Dissabte anirem a Aielo de Rugat amb tren.
 M'agradaria anar a Murla a peu.
-Vull anar a Finestrat amb trasport públic.
+Vull anar a Finestrat amb transport públic.
 Necessito un bitllet de tren per anar a Aiòder diumenge.
 El cinc d'agost he d'anar a l'Alguenya amb autobús.
 A quina hora passa el primer autobús per Xelva divendres?
@@ -6930,7 +6930,7 @@ Quines parades fa l'autobús que va a Xestalgar?
 Quant dura el viatge en autobús fins a Segart?
 Quantes parades té el trajecte en autobús fins a Castalla?
 Com puc anar a Piles dissabte al matí?
-Com puc arribar a Meliana amb trasport públic?
+Com puc arribar a Meliana amb transport públic?
 Com ho puc fer per anar a la Vilavella amb moto?
 Quan passa l'autobús per Vallibona?
 A quina hora arriba l'autobús d'Albocàsser?
@@ -7010,7 +7010,7 @@ Quina és la millor manera d'anar a l'Énova sense agafar el metro?
 Com ho puc fer per anar a Picassent?
 Mira'm quina és la millor manera d'anar a Benaguasil amb cotxe.
 Es pot anar a Navarrés amb cotxe?
-Anirem a Tibi amb trasport públic.
+Anirem a Tibi amb transport públic.
 El disset d'octubre hauria d'anar a Llanera de Ranes.
 Dilluns anirem a Ademús amb moto.
 M'agradaria anar a Aranyel amb tren.
@@ -7024,7 +7024,7 @@ Quantes parades té el trajecte en autobús fins a Albalat dels Sorells?
 Quant dura el trajecte en autobús fins a Vallada?
 Com puc anar a Sorita el vint-i-tres de maig a les dotze?
 Com puc arribar a Sanet i els Negrals amb autobús?
-Com ho puc fer per anar a Benferri amb trasport públic?
+Com ho puc fer per anar a Benferri amb transport públic?
 Quan passa l'autobús per Sot de Ferrer?
 A quina hora arriba l'autobús de Teulada?
 Has estat mai a Benasau?
@@ -7052,7 +7052,7 @@ Preferiria visitar Sella.
 Quan va ser que vam anar a Benissuera?
 Quin dia és el mercat de Xeresa?
 He d'anar a Gàtova a peu demà a dos quarts de tres.
-Quina és la millor manera d'anar a Vilanova d'Alcolea amb trasport públic?
+Quina és la millor manera d'anar a Vilanova d'Alcolea amb transport públic?
 Com ho puc fer per anar a Torreblanca?
 Mira'm quina és la millor manera d'anar a Castalla amb autobús.
 Es pot anar a Casinos amb bicicleta?
@@ -7189,7 +7189,7 @@ Quin dia és el mercat d'Altura?
 He d'anar a Planes amb moto el dos de juny a les sis.
 Quina és la millor manera d'anar a Godella a peu?
 Com ho puc fer per anar a Algorfa?
-Mira'm quina és la millor manera d'anar a Coix amb trasport públic.
+Mira'm quina és la millor manera d'anar a Coix amb transport públic.
 Es pot anar a Assuévar amb cotxe?
 Anirem a Almenara amb autobús.
 Dimarts hauria d'anar a Callosa de Segura.
@@ -7204,7 +7204,7 @@ Quant dura el viatge en autobús fins a Benifaió?
 Quantes parades té el trajecte en autobús fins a Barraques?
 Quant dura el trajecte en autobús fins a Llocnou d'en Fenollet?
 Com puc anar a Vallada dissabte a la una?
-Com puc arribar a Cabanes amb trasport públic?
+Com puc arribar a Cabanes amb transport públic?
 Com ho puc fer per anar a l'Eliana a peu?
 Quan passa l'autobús per Almoines?
 A quina hora arriba l'autobús d'Alfarb?
@@ -7303,9 +7303,9 @@ Quin és el codi postal de Torrevella?
 Saps si cau a prop d'Aiòder?
 No sé on cau Altea.
 A Mislata hi anem dimarts.
-Va anar a la Font d'en Carròs amb trasport públic.
+Va anar a la Font d'en Carròs amb transport públic.
 és una foto de la plaça major d'Antella.
-He d'anar a Alberic amb trasport públic el cinc d'agost a les quatre.
+He d'anar a Alberic amb transport públic el cinc d'agost a les quatre.
 Quina és la millor manera d'anar a Olocau amb tren?
 Com ho puc fer per anar a Xella?
 Mira'm quina és la millor manera d'anar a Torralba amb autobús.
@@ -7313,7 +7313,7 @@ Es pot anar a Petrés amb cotxe?
 Anirem a Agost amb cotxe.
 El cinc d'agost hauria d'anar a Almiserà.
 L'onze de juliol anirem a Benigembla amb bicicleta.
-M'agradaria anar a la Granja de Rocamora amb trasport públic.
+M'agradaria anar a la Granja de Rocamora amb transport públic.
 Vull anar a Llocnou de Sant Jeroni amb autobús.
 Necessito un bitllet de tren per anar a Palma de Gandia dimarts.
 Dissabte he d'anar a Alfafara amb autobús.
@@ -7355,7 +7355,7 @@ Es pot anar a Xilxes a peu?
 Anirem a Agres amb tren.
 L'onze de juliol hauria d'anar a Algemesí.
 Dimarts anirem a Orxeta amb autobús.
-M'agradaria anar a Begís amb trasport públic.
+M'agradaria anar a Begís amb transport públic.
 Vull anar a Benejússer amb tren.
 Reserva'm un bitllet de tren per anar a Catarroja dimecres a les quatre.
 Necessito un bitllet de tren per anar a la Pobla del Duc dimarts.
@@ -7401,7 +7401,7 @@ Anirem a Piles amb autobús.
 Dimarts hauria d'anar a Oliva.
 Dijous anirem a Asp amb tren.
 M'agradaria anar al Castell de Vilamalefa amb cotxe.
-Vull anar a Castelló de Rugat amb trasport públic.
+Vull anar a Castelló de Rugat amb transport públic.
 Dijous he d'anar a Cases Baixes amb autobús.
 A quina hora passa el primer autobús per Torrella demà?
 Quines parades fa l'autobús que va a l'Alcúdia de Crespins?
@@ -7435,8 +7435,8 @@ Preferiria visitar el Genovés.
 és una foto de la plaça major de Figueres.
 Quan va ser que vam anar a Carrícola?
 Quin dia és el mercat de Benissanó?
-He d'anar a Benaguasil amb trasport públic dissabte al matí.
-Quina és la millor manera d'anar a Benassal amb trasport públic?
+He d'anar a Benaguasil amb transport públic dissabte al matí.
+Quina és la millor manera d'anar a Benassal amb transport públic?
 Com ho puc fer per anar a Villargordo del Cabriel?
 Mira'm quina és la millor manera d'anar a Pego sense agafar el metro.
 Es pot anar a Penàguila amb tren?
@@ -7523,7 +7523,7 @@ A Bugarra hi anem el disset d'octubre.
 Va anar al Verger amb bicicleta.
 és una foto de la plaça major de Figueroles de Domenyo.
 Quin dia és el mercat de Bolulla?
-He d'anar a Beneixama amb trasport públic dimecres a les set.
+He d'anar a Beneixama amb transport públic dimecres a les set.
 Quina és la millor manera d'anar a Herbers amb cotxe?
 Com ho puc fer per anar a Agres?
 Mira'm quina és la millor manera d'anar a Ondara amb tren.
@@ -7540,7 +7540,7 @@ Quines parades fa l'autobús que va a Sogorb?
 Quant dura el viatge en autobús fins a Domenyo?
 Quant dura el trajecte en autobús fins a Xàbia?
 Com puc anar a Gorga dimarts a les sis?
-Com puc arribar a Tavernes de la Valldigna amb trasport públic?
+Com puc arribar a Tavernes de la Valldigna amb transport públic?
 Com ho puc fer per anar a Barxeta sense agafar el cotxe?
 A quina hora arriba l'autobús de Begís?
 A la Pobla Llarga hi ha estació de tren?
@@ -7567,9 +7567,9 @@ Quan va ser que vam anar a Vilafranca?
 Quin dia és el mercat de Sanet i els Negrals?
 Quina és la millor manera d'anar a Alfafar sense agafar el cotxe?
 Com ho puc fer per anar a Gaibiel?
-Mira'm quina és la millor manera d'anar a Dosaigües amb trasport públic.
+Mira'm quina és la millor manera d'anar a Dosaigües amb transport públic.
 Es pot anar a Fanzara amb tren?
-Anirem a Benigembla amb trasport públic.
+Anirem a Benigembla amb transport públic.
 Divendres hauria d'anar a Agost.
 Demà passat anirem a Massamagrell amb moto.
 M'agradaria anar a Gaibiel amb moto.
@@ -7628,7 +7628,7 @@ Quines parades fa l'autobús que va a Betxí?
 Quant dura el viatge en autobús fins a Calp?
 Quant dura el trajecte en autobús fins a la Pobla Tornesa?
 Com puc anar a Sempere demà al matí?
-Com puc arribar a Ibi amb trasport públic?
+Com puc arribar a Ibi amb transport públic?
 Com ho puc fer per anar a Xarafull a peu?
 Quan passa l'autobús per Matet?
 A quina hora arriba l'autobús d'Alcoleja?
@@ -7649,7 +7649,7 @@ Saps si cau a prop d'Emperador?
 A Sant Joanet hi ha un castell?
 No sé on cau Guardamar del Segura.
 A Villores hi anem demà.
-Va anar a Montesa amb trasport públic.
+Va anar a Montesa amb transport públic.
 Preferiria visitar Albuixec.
 Quan va ser que vam anar a Beniparrell?
 Quin dia és el mercat de Caudete de las Fuentes?
@@ -7700,9 +7700,9 @@ Quina és la millor manera d'anar a Alfara de la Baronia amb cotxe?
 Com ho puc fer per anar a la Pobla de Sant Miquel?
 Mira'm quina és la millor manera d'anar a València amb cotxe.
 Es pot anar a Tavernes Blanques amb moto?
-Anirem a Salines amb trasport públic.
+Anirem a Salines amb transport públic.
 Dijous hauria d'anar a Gavarda.
-Dimecres anirem a Iàtova amb trasport públic.
+Dimecres anirem a Iàtova amb transport públic.
 M'agradaria anar a Barraques amb moto.
 Vull anar a Onil sense agafar el metro.
 Necessito un bitllet de tren per anar a Guardamar del Segura dijous.
@@ -7754,7 +7754,7 @@ Quines parades fa l'autobús que va a Aigües?
 Quant dura el viatge en autobús fins a Coix?
 Quant dura el trajecte en autobús fins a Benissa?
 Com puc anar a Castell de Castells dijous a un quart i mig d'onze?
-Com puc arribar a Canet d'en Berenguer amb trasport públic?
+Com puc arribar a Canet d'en Berenguer amb transport públic?
 Com ho puc fer per anar a Traiguera amb autobús?
 Quan passa l'autobús per Toixa?
 A quina hora arriba l'autobús de Calles?
@@ -7784,11 +7784,11 @@ Quan va ser que vam anar a Lludient?
 Quin dia és el mercat de Montant?
 He d'anar a Benissanó amb tren demà al vespre.
 Com ho puc fer per anar a Artana?
-Mira'm quina és la millor manera d'anar a Bufali amb trasport públic.
+Mira'm quina és la millor manera d'anar a Bufali amb transport públic.
 Es pot anar a Catarroja amb tren?
 Anirem a Callosa d'en Sarrià amb bicicleta.
 Dilluns hauria d'anar a Benifairó de la Valldigna.
-El dos de juny anirem a Fortaleny amb trasport públic.
+El dos de juny anirem a Fortaleny amb transport públic.
 M'agradaria anar a Torís amb moto.
 Reserva'm un bitllet de tren per anar a Estivella dimecres a les nou.
 Necessito un bitllet de tren per anar a Onda dimarts.
@@ -7844,7 +7844,7 @@ Quant dura el viatge en autobús fins a Tormos?
 Quantes parades té el trajecte en autobús fins a Caudiel?
 Quant dura el trajecte en autobús fins a Toixa?
 Com puc anar a Aielo de Rugat el cinc d'agost a les dotze?
-Com puc arribar a Quartell amb trasport públic?
+Com puc arribar a Quartell amb transport públic?
 Com ho puc fer per anar a Torre-xiva amb tren?
 Has estat mai a Benillup?
 Aquest cap de setmana m'agradaria anar a Ribesalbes.
@@ -7871,7 +7871,7 @@ Quin dia és el mercat de Beneixama?
 He d'anar a Setaigües a peu el cinc d'agost al vespre.
 Quina és la millor manera d'anar a Algímia d'Alfara amb autobús?
 Mira'm quina és la millor manera d'anar a Oriola sense agafar el cotxe.
-Es pot anar a Artana amb trasport públic?
+Es pot anar a Artana amb transport públic?
 Anirem a Guardamar del Segura sense agafar el metro.
 Divendres hauria d'anar a Formentera del Segura.
 Dijous anirem a Soneja amb cotxe.
@@ -7927,7 +7927,7 @@ Quant dura el viatge en autobús fins a Montaverner?
 Quantes parades té el trajecte en autobús fins a Beniatjar?
 Quant dura el trajecte en autobús fins a Tormos?
 Com puc anar a Sanet i els Negrals demà passat al migdia?
-Com puc arribar a Domenyo amb trasport públic?
+Com puc arribar a Domenyo amb transport públic?
 Com ho puc fer per anar a Torralba a peu?
 Quan passa l'autobús per Sant Miquel de les Salines?
 A quina hora arriba l'autobús de Rugat?
@@ -7959,7 +7959,7 @@ He d'anar a Benafer amb autobús demà a les dues.
 Quina és la millor manera d'anar a la Granja de Rocamora a peu?
 Com ho puc fer per anar a Castell de Castells?
 Mira'm quina és la millor manera d'anar a Montroi amb bicicleta.
-Es pot anar a Xilxes amb trasport públic?
+Es pot anar a Xilxes amb transport públic?
 Anirem a Ontinyent amb tren.
 L'onze de juliol hauria d'anar al Ràfol de Salem.
 Dimecres anirem al Pilar de la Foradada amb bicicleta.
@@ -8081,12 +8081,12 @@ Saps si cau a prop de Catadau?
 A la Vilavella hi ha un castell?
 No sé on cau la Torre de les Maçanes.
 A Benafer hi anem dimecres.
-Va anar a Vilamarxant amb trasport públic.
+Va anar a Vilamarxant amb transport públic.
 Preferiria visitar Llocnou de Sant Jeroni.
 és una foto de la plaça major de la Vall d'Alba.
 Quan va ser que vam anar a Benetússer?
 Quin dia és el mercat de Casinos?
-He d'anar a Santa Magdalena de Polpís amb trasport públic dilluns al vespre.
+He d'anar a Santa Magdalena de Polpís amb transport públic dilluns al vespre.
 Quina és la millor manera d'anar a Bèlgida amb bicicleta?
 Com ho puc fer per anar a Elx?
 Mira'm quina és la millor manera d'anar a Tàrbena amb cotxe.
@@ -8130,14 +8130,14 @@ Preferiria visitar Gata de Gorgos.
 Quan va ser que vam anar a Benassal?
 Quin dia és el mercat de Mutxamel?
 He d'anar a Quartell sense agafar el metro diumenge a dos quarts de tres.
-Quina és la millor manera d'anar a Tavernes Blanques amb trasport públic?
+Quina és la millor manera d'anar a Tavernes Blanques amb transport públic?
 Com ho puc fer per anar a Biar?
 Mira'm quina és la millor manera d'anar a Elda amb bicicleta.
 Es pot anar a Murla amb bicicleta?
 Anirem a Benifallim sense agafar el cotxe.
 El cinc d'agost hauria d'anar a Palmera.
-Demà passat anirem a Borriana amb trasport públic.
-M'agradaria anar a Argeleta amb trasport públic.
+Demà passat anirem a Borriana amb transport públic.
+M'agradaria anar a Argeleta amb transport públic.
 Vull anar a Almussafes amb bicicleta.
 Reserva'm un bitllet de tren per anar a Benigembla demà a les cinc.
 Necessito un bitllet de tren per anar a Vallibona demà.
@@ -8171,7 +8171,7 @@ Va anar a Algemesí a peu.
 Preferiria visitar Sogorb.
 Quan va ser que vam anar a Favara?
 Quin dia és el mercat de Santa Magdalena de Polpís?
-He d'anar a Sorita amb trasport públic dimecres a la tarda.
+He d'anar a Sorita amb transport públic dimecres a la tarda.
 Quina és la millor manera d'anar a Atzeneta d'Albaida sense agafar el metro?
 Mira'm quina és la millor manera d'anar a Muro amb moto.
 Es pot anar a Catadau amb bicicleta?
@@ -8188,7 +8188,7 @@ Quantes parades té el trajecte en autobús fins a Massalfassar?
 Quant dura el trajecte en autobús fins a Alcàsser?
 Com puc anar a Favara demà passat a dos quarts de tres?
 Com puc arribar a Beniflà sense agafar el metro?
-Com ho puc fer per anar a Torreblanca amb trasport públic?
+Com ho puc fer per anar a Torreblanca amb transport públic?
 Quan passa l'autobús per Carcaixent?
 A quina hora arriba l'autobús d'Alpont?
 Has estat mai a Sant Vicent del Raspeig?
@@ -8309,7 +8309,7 @@ Quantes parades té el trajecte en autobús fins a Sueca?
 Quant dura el trajecte en autobús fins a Dénia?
 Com puc anar a Toixa dissabte al migdia?
 Com puc arribar a Macastre a peu?
-Com ho puc fer per anar a Càlig amb trasport públic?
+Com ho puc fer per anar a Càlig amb transport públic?
 Quan passa l'autobús per l'Alqueria d'Asnar?
 Has estat mai a Dolors?
 He sentit a dir que Teresa és molt bonic.
@@ -8338,7 +8338,7 @@ He d'anar a Vilallonga sense agafar el cotxe l'onze de juliol a les vuit.
 Com ho puc fer per anar a Manises?
 Mira'm quina és la millor manera d'anar a la Todolella amb bicicleta.
 Es pot anar a Algorfa amb autobús?
-Anirem a Llocnou de la Corona amb trasport públic.
+Anirem a Llocnou de la Corona amb transport públic.
 Dilluns hauria d'anar a Massalfassar.
 Dimarts anirem a Espadella amb tren.
 M'agradaria anar a Vallanca amb moto.
@@ -8381,7 +8381,7 @@ He d'anar a Benavites amb bicicleta el disset d'octubre a les quatre.
 Quina és la millor manera d'anar a Alcoi amb cotxe?
 Com ho puc fer per anar a Vila-real?
 Mira'm quina és la millor manera d'anar a Bèlgida sense agafar el metro.
-Es pot anar a Castelló de la Plana amb trasport públic?
+Es pot anar a Castelló de la Plana amb transport públic?
 Anirem a Benetússer amb bicicleta.
 El disset d'octubre hauria d'anar a Bonrepòs i Mirambell.
 El disset d'octubre anirem a Favara amb cotxe.
@@ -8395,7 +8395,7 @@ Quantes parades té el trajecte en autobús fins al Toro?
 Quant dura el trajecte en autobús fins a Salines?
 Com puc anar a Venta del Moro dimarts a la una?
 Com puc arribar a Rojals a peu?
-Com ho puc fer per anar a Saix amb trasport públic?
+Com ho puc fer per anar a Saix amb transport públic?
 A quina hora arriba l'autobús d'Alfara del Patriarca?
 Has estat mai a Cortes d'Arenós?
 He sentit a dir que Dolors és molt bonic.
@@ -8462,7 +8462,7 @@ Preferiria visitar la Canyada.
 és una foto de la plaça major de Montroi.
 Quan va ser que vam anar a Cocentaina?
 Quin dia és el mercat de Callosa de Segura?
-He d'anar a Barraques amb trasport públic el cinc d'agost a les deu.
+He d'anar a Barraques amb transport públic el cinc d'agost a les deu.
 Quina és la millor manera d'anar a Catí amb autobús?
 Com ho puc fer per anar a Rugat?
 Mira'm quina és la millor manera d'anar a Castelló de Rugat amb cotxe.
@@ -8510,7 +8510,7 @@ Quina és la millor manera d'anar a la Pobla d'Arenós amb cotxe?
 Com ho puc fer per anar a Camporrobles?
 Mira'm quina és la millor manera d'anar a Favara sense agafar el cotxe.
 Es pot anar a Sot de Ferrer amb cotxe?
-Anirem a Castellfabib amb trasport públic.
+Anirem a Castellfabib amb transport públic.
 Divendres hauria d'anar a Almussafes.
 Dissabte anirem a Sedaví amb autobús.
 M'agradaria anar a Palma de Gandia amb cotxe.
@@ -8646,7 +8646,7 @@ Quant dura el viatge en autobús fins a Llocnou de la Corona?
 Quantes parades té el trajecte en autobús fins a Sant Miquel de les Salines?
 Quant dura el trajecte en autobús fins a Cotes?
 Com puc anar a Catí divendres a un quart i mig d'onze?
-Com puc arribar a la Nucia amb trasport públic?
+Com puc arribar a la Nucia amb transport públic?
 Com ho puc fer per anar a Cervera del Maestrat amb moto?
 Quan passa l'autobús per Torís?
 A quina hora arriba l'autobús d'Agost?
@@ -8725,7 +8725,7 @@ Quines parades fa l'autobús que va a Sucaina?
 Quantes parades té el trajecte en autobús fins a Castellnou?
 Quant dura el trajecte en autobús fins a Ontinyent?
 Com puc anar a Sant Mateu dilluns a les nou?
-Com puc arribar a Benafer amb trasport públic?
+Com puc arribar a Benafer amb transport públic?
 Com ho puc fer per anar a Catarroja a peu?
 Quan passa l'autobús per Navaixes?
 A quina hora arriba l'autobús de Murla?
@@ -8765,7 +8765,7 @@ Quantes parades té el trajecte en autobús fins a Camporrobles?
 Quant dura el trajecte en autobús fins a Algemesí?
 Com puc anar a Bicorb demà a les quatre?
 Com puc arribar a Almenara amb bicicleta?
-Com ho puc fer per anar a Serra amb trasport públic?
+Com ho puc fer per anar a Serra amb transport públic?
 Has estat mai a Rugat?
 A Rafelbunyol hi ha estació de tren?
 He sentit a dir que Quart de Poblet és molt bonic.
@@ -8839,8 +8839,8 @@ Es pot anar a l'Alqueria d'Asnar amb tren?
 Anirem a Los Montesinos amb bicicleta.
 Demà hauria d'anar a Agres.
 Dissabte anirem a Busot amb bicicleta.
-M'agradaria anar a Manises amb trasport públic.
-Vull anar a Beniarrés amb trasport públic.
+M'agradaria anar a Manises amb transport públic.
+Vull anar a Beniarrés amb transport públic.
 Reserva'm un bitllet de tren per anar a Espadella dijous a la tarda.
 Necessito un bitllet de tren per anar a la Salzadella el cinc d'agost.
 L'onze de juliol he d'anar a Forcall amb autobús.
@@ -8872,7 +8872,7 @@ Saps si cau a prop de Benejússer?
 A Sant Joan d'Alacant hi ha un castell?
 No sé on cau Sacanyet.
 A Vinalesa hi anem diumenge.
-Va anar a Casinos amb trasport públic.
+Va anar a Casinos amb transport públic.
 Preferiria visitar Rojals.
 és una foto de la plaça major de Real.
 Quan va ser que vam anar a Vallat?
@@ -8977,7 +8977,7 @@ Quantes parades té el trajecte en autobús fins a Sumacàrcer?
 Quant dura el trajecte en autobús fins a Cofrents?
 Com puc anar a l'Alqueria de la Comtessa dijous a les quatre?
 Com puc arribar a Vallanca amb tren?
-Com ho puc fer per anar a Tous amb trasport públic?
+Com ho puc fer per anar a Tous amb transport públic?
 A quina hora arriba l'autobús de Morella?
 A Almassora hi ha estació de tren?
 He sentit a dir que Morella és molt bonic.
@@ -9009,7 +9009,7 @@ Mira'm quina és la millor manera d'anar a l'Olleria amb moto.
 Es pot anar a la Serratella sense agafar el cotxe?
 Anirem a Pego amb moto.
 L'onze de juliol hauria d'anar a Bonrepòs i Mirambell.
-Dimarts anirem a Almoines amb trasport públic.
+Dimarts anirem a Almoines amb transport públic.
 M'agradaria anar a Ador amb cotxe.
 Vull anar a Cerdà amb tren.
 Necessito un bitllet de tren per anar a Artana dissabte.
@@ -9043,12 +9043,12 @@ He d'anar a Toga amb tren dissabte a les onze.
 Quina és la millor manera d'anar a Torre-xiva amb autobús?
 Com ho puc fer per anar a Castellfort?
 Mira'm quina és la millor manera d'anar a Gaianes amb moto.
-Es pot anar a Rafelcofer amb trasport públic?
+Es pot anar a Rafelcofer amb transport públic?
 Anirem a Sucaina amb tren.
 Dimecres hauria d'anar a Benicarló.
 Diumenge anirem a Redovà sense agafar el metro.
 M'agradaria anar a Vilanova de la Reina amb cotxe.
-Vull anar a Sant Miquel de les Salines amb trasport públic.
+Vull anar a Sant Miquel de les Salines amb transport públic.
 Reserva'm un bitllet de tren per anar a Bolulla dilluns a les quatre.
 Necessito un bitllet de tren per anar a Xilxes l'onze de juliol.
 Dijous he d'anar a Aldaia amb autobús.
@@ -9084,7 +9084,7 @@ Quan va ser que vam anar a Xella?
 Quin dia és el mercat d'Atzeneta d'Albaida?
 He d'anar a Riola a peu dijous al migdia.
 Quina és la millor manera d'anar a Bèlgida amb tren?
-Mira'm quina és la millor manera d'anar a Benigànim amb trasport públic.
+Mira'm quina és la millor manera d'anar a Benigànim amb transport públic.
 Es pot anar a Xàbia a peu?
 Anirem al Ràfol de Salem a peu.
 Dimecres hauria d'anar a Guardamar de la Safor.
@@ -9121,10 +9121,10 @@ A Planes hi anem dissabte.
 Va anar a Benassal amb bicicleta.
 Preferiria visitar Albocàsser.
 és una foto de la plaça major de la Todolella.
-He d'anar al Poble Nou de Benitatxell amb trasport públic dimarts a la tarda.
+He d'anar al Poble Nou de Benitatxell amb transport públic dimarts a la tarda.
 Quina és la millor manera d'anar a Carrícola amb bicicleta?
 Com ho puc fer per anar a Balones?
-Mira'm quina és la millor manera d'anar a Pedreguer amb trasport públic.
+Mira'm quina és la millor manera d'anar a Pedreguer amb transport públic.
 Es pot anar a Tollos a peu?
 Anirem a Benifallim amb tren.
 El disset d'octubre hauria d'anar a les Alcubles.
@@ -9210,10 +9210,10 @@ He d'anar a Benigembla amb tren dimecres al matí.
 Quina és la millor manera d'anar a Algímia d'Almonesir amb moto?
 Com ho puc fer per anar a Faura?
 Mira'm quina és la millor manera d'anar a Sot de Xera amb tren.
-Es pot anar a Massalfassar amb trasport públic?
+Es pot anar a Massalfassar amb transport públic?
 Anirem a la Nucia amb bicicleta.
 L'onze de juliol hauria d'anar al Pilar de la Foradada.
-El vint-i-tres de maig anirem a Puçol amb trasport públic.
+El vint-i-tres de maig anirem a Puçol amb transport públic.
 M'agradaria anar a Albatera sense agafar el cotxe.
 Vull anar a Parcent amb tren.
 Reserva'm un bitllet de tren per anar a Soneja dissabte a les dues.
@@ -9224,7 +9224,7 @@ Quines parades fa l'autobús que va a Cofrents?
 Quant dura el viatge en autobús fins a Daimús?
 Quantes parades té el trajecte en autobús fins a Xera?
 Com puc anar a Sant Joan de Moró demà passat a les dotze?
-Com puc arribar a Artana amb trasport públic?
+Com puc arribar a Artana amb transport públic?
 Com ho puc fer per anar a Benetússer amb tren?
 A quina hora arriba l'autobús de Senyera?
 Has estat mai a l'Énova?
@@ -9293,7 +9293,7 @@ Preferiria visitar Requena.
 és una foto de la plaça major de Tales.
 Quan va ser que vam anar a Confrides?
 Quin dia és el mercat de Meliana?
-He d'anar a Loriguilla amb trasport públic el cinc d'agost a les quatre.
+He d'anar a Loriguilla amb transport públic el cinc d'agost a les quatre.
 Quina és la millor manera d'anar a Xóvar amb tren?
 Com ho puc fer per anar a Emperador?
 Mira'm quina és la millor manera d'anar a Navaixes sense agafar el metro.
@@ -9375,7 +9375,7 @@ Saps si cau a prop de les Alqueries?
 A Orpesa hi ha un castell?
 No sé on cau Tavernes Blanques.
 A Cases Baixes hi anem l'onze de juliol.
-Va anar a Sot de Xera amb trasport públic.
+Va anar a Sot de Xera amb transport públic.
 Preferiria visitar Bolbait.
 és una foto de la plaça major de Muro.
 Quan va ser que vam anar a Ondara?
@@ -9383,7 +9383,7 @@ Quin dia és el mercat de Millars?
 He d'anar a Montanejos a peu dijous a les dues.
 Quina és la millor manera d'anar a Petrer amb moto?
 Com ho puc fer per anar a Vallanca?
-Mira'm quina és la millor manera d'anar a la Pobla d'Arenós amb trasport públic.
+Mira'm quina és la millor manera d'anar a la Pobla d'Arenós amb transport públic.
 Es pot anar a la Romana amb tren?
 Anirem a Vinaròs amb tren.
 Dimecres hauria d'anar a Lludient.
@@ -9470,7 +9470,7 @@ Quina és la millor manera d'anar a Setaigües amb tren?
 Com ho puc fer per anar a Peníscola?
 Mira'm quina és la millor manera d'anar a Manuel amb bicicleta.
 Es pot anar a Ròtova amb moto?
-Anirem a Quart de les Valls amb trasport públic.
+Anirem a Quart de les Valls amb transport públic.
 Dimarts hauria d'anar a Daia Nova.
 El dos de juny anirem a Alcosser amb autobús.
 M'agradaria anar a Faura amb autobús.
@@ -9481,7 +9481,7 @@ Dimecres he d'anar als Poblets amb autobús.
 Quines parades fa l'autobús que va a Bunyol?
 Quantes parades té el trajecte en autobús fins a Atzeneta d'Albaida?
 Com puc anar a Lludient diumenge a les set?
-Com puc arribar a Gaibiel amb trasport públic?
+Com puc arribar a Gaibiel amb transport públic?
 Com ho puc fer per anar a Camporrobles amb bicicleta?
 Quan passa l'autobús per l'Alcúdia de Crespins?
 Has estat mai a Vilafermosa?
@@ -9511,8 +9511,8 @@ Quin dia és el mercat de la Vall d'Alba?
 He d'anar a Beniatjar sense agafar el metro dilluns a les onze.
 Quina és la millor manera d'anar a Villores sense agafar el cotxe?
 Com ho puc fer per anar a Benirredrà?
-Mira'm quina és la millor manera d'anar a Picassent amb trasport públic.
-Es pot anar a Alfarrasí amb trasport públic?
+Mira'm quina és la millor manera d'anar a Picassent amb transport públic.
+Es pot anar a Alfarrasí amb transport públic?
 Anirem a Xert amb autobús.
 Dimarts hauria d'anar a Fontanars dels Alforins.
 Diumenge anirem al Pilar de la Foradada amb cotxe.
@@ -9554,7 +9554,7 @@ Es pot anar a Vistabella del Maestrat sense agafar el cotxe?
 Anirem a la Todolella amb autobús.
 Dissabte hauria d'anar a Palma de Gandia.
 Demà anirem a Benicarló amb moto.
-M'agradaria anar a Llaurí amb trasport públic.
+M'agradaria anar a Llaurí amb transport públic.
 Vull anar a Sueca sense agafar el metro.
 Necessito un bitllet de tren per anar a Xacarella dilluns.
 Dilluns he d'anar a Alcàntera de Xúquer amb autobús.
@@ -9668,7 +9668,7 @@ Anirem a Benimeli amb cotxe.
 Demà hauria d'anar a Sant Joanet.
 El dos de juny anirem a Agres amb tren.
 M'agradaria anar a Tibi amb tren.
-Vull anar a Benetússer amb trasport públic.
+Vull anar a Benetússer amb transport públic.
 Dilluns he d'anar a Sagra amb autobús.
 A quina hora passa el primer autobús per la Todolella l'onze de juliol?
 Quines parades fa l'autobús que va a Alcosser?
@@ -9778,7 +9778,7 @@ Per anar a Albalat dels Sorells has de fer molta marrada.
 A Benidorm hi ha un castell?
 No sé on cau Algímia d'Almonesir.
 A Eslida hi anem dissabte.
-Va anar a Callosa de Segura amb trasport públic.
+Va anar a Callosa de Segura amb transport públic.
 és una foto de la plaça major de Bellús.
 Quan va ser que vam anar a l'Alguenya?
 Quin dia és el mercat de Sagunt?
@@ -9860,7 +9860,7 @@ Preferiria visitar Picassent.
 Quin dia és el mercat de Rafelguaraf?
 Quina és la millor manera d'anar a Fageca amb tren?
 Com ho puc fer per anar a Novetlè?
-Mira'm quina és la millor manera d'anar a Vilafranca amb trasport públic.
+Mira'm quina és la millor manera d'anar a Vilafranca amb transport públic.
 Es pot anar a Bellús amb moto?
 Anirem a Borriol amb moto.
 El cinc d'agost hauria d'anar a la Mata.
@@ -9901,7 +9901,7 @@ Es pot anar a Macastre sense agafar el metro?
 Anirem a Figueroles sense agafar el cotxe.
 El dos de juny hauria d'anar a Xert.
 El vint-i-tres de maig anirem a Dosaigües amb cotxe.
-M'agradaria anar a Benferri amb trasport públic.
+M'agradaria anar a Benferri amb transport públic.
 Vull anar a Nules a peu.
 Necessito un bitllet de tren per anar a Montaverner el dos de juny.
 El disset d'octubre he d'anar a la Torre d'en Doménec amb autobús.
@@ -9969,11 +9969,11 @@ He d'anar a Sella amb bicicleta dilluns a les vuit.
 Com ho puc fer per anar a Dosaigües?
 Mira'm quina és la millor manera d'anar a Culla amb moto.
 Es pot anar a l'Alqueria de la Comtessa sense agafar el metro?
-Anirem a Gorga amb trasport públic.
+Anirem a Gorga amb transport públic.
 Demà hauria d'anar a Camporrobles.
 Diumenge anirem a la Pobla Tornesa a peu.
 M'agradaria anar a les Useres amb bicicleta.
-Vull anar a la Jana amb trasport públic.
+Vull anar a la Jana amb transport públic.
 Necessito un bitllet de tren per anar a Daia Nova el disset d'octubre.
 Dimecres he d'anar a Almenara amb autobús.
 A quina hora passa el primer autobús per Palmera dilluns?
@@ -10007,7 +10007,7 @@ Quin dia és el mercat de Énguera?
 Quina és la millor manera d'anar a Benicull de Xúquer sense agafar el metro?
 Mira'm quina és la millor manera d'anar a Petrer a peu.
 Es pot anar a Alboraig amb bicicleta?
-Anirem a Polop amb trasport públic.
+Anirem a Polop amb transport públic.
 Dilluns hauria d'anar a Paterna.
 Divendres anirem a Albalat de la Ribera amb tren.
 M'agradaria anar a l'Olleria amb moto.
@@ -10051,7 +10051,7 @@ Quina és la millor manera d'anar a Canet lo Roig sense agafar el metro?
 Com ho puc fer per anar a Zarra?
 Mira'm quina és la millor manera d'anar al Castell de Guadalest a peu.
 Es pot anar a la Vall de Gallinera amb autobús?
-Anirem a Finestrat amb trasport públic.
+Anirem a Finestrat amb transport públic.
 Dimarts hauria d'anar a Sellent.
 Demà anirem a València amb moto.
 M'agradaria anar a Andilla amb bicicleta.
@@ -10086,7 +10086,7 @@ Saps si cau a prop de Castelló de la Plana?
 A Llanera de Ranes hi ha un castell?
 No sé on cau Paterna.
 A Cortes d'Arenós hi anem dimarts.
-Va anar a Venta del Moro amb trasport públic.
+Va anar a Venta del Moro amb transport públic.
 Quan va ser que vam anar a Orpesa?
 Quin dia és el mercat de Fortaleny?
 Quina és la millor manera d'anar a Benassal amb cotxe?
@@ -10132,9 +10132,9 @@ Preferiria visitar Aín.
 és una foto de la plaça major de Gaibiel.
 Quin dia és el mercat de Picanya?
 He d'anar a Daia Vella amb tren el cinc d'agost a les nou.
-Quina és la millor manera d'anar a la Vall d'Alba amb trasport públic?
+Quina és la millor manera d'anar a la Vall d'Alba amb transport públic?
 Com ho puc fer per anar a Albocàsser?
-Mira'm quina és la millor manera d'anar a Sueca amb trasport públic.
+Mira'm quina és la millor manera d'anar a Sueca amb transport públic.
 Es pot anar a Torre-xiva sense agafar el metro?
 Anirem a Atzeneta del Maestrat amb moto.
 Divendres hauria d'anar a la Iessa.
@@ -10179,9 +10179,9 @@ Quina és la millor manera d'anar a Llíria amb cotxe?
 Com ho puc fer per anar a Forcall?
 Mira'm quina és la millor manera d'anar a Asp amb autobús.
 Es pot anar a Teresa amb tren?
-Anirem a Caudiel amb trasport públic.
+Anirem a Caudiel amb transport públic.
 El cinc d'agost hauria d'anar a Herbers.
-Demà anirem a les Alqueries amb trasport públic.
+Demà anirem a les Alqueries amb transport públic.
 M'agradaria anar a Almussafes amb autobús.
 Vull anar a Meliana a peu.
 Demà passat he d'anar a Potries amb autobús.
@@ -10190,7 +10190,7 @@ Quant dura el viatge en autobús fins a Gata de Gorgos?
 Quantes parades té el trajecte en autobús fins a la Vall de Laguar?
 Quant dura el trajecte en autobús fins a Xulilla?
 Com puc anar a Alcalalí el cinc d'agost a les nou?
-Com puc arribar a Crevillent amb trasport públic?
+Com puc arribar a Crevillent amb transport públic?
 Com ho puc fer per anar a Favara sense agafar el cotxe?
 Quan passa l'autobús per l'Alfàs del Pi?
 A quina hora arriba l'autobús de Xestalgar?
@@ -10230,7 +10230,7 @@ Quantes parades té el trajecte en autobús fins a Benifairó de les Valls?
 Quant dura el trajecte en autobús fins a Elx?
 Com puc anar a Tous demà a les nou?
 Com puc arribar a Riola amb autobús?
-Com ho puc fer per anar a Gandia amb trasport públic?
+Com ho puc fer per anar a Gandia amb transport públic?
 A quina hora arriba l'autobús de Torreblanca?
 A la Nucia hi ha estació de tren?
 He sentit a dir que Favara és molt bonic.
@@ -10258,7 +10258,7 @@ Es pot anar a Aielo de Rugat amb tren?
 Anirem a Xarafull a peu.
 Dimarts hauria d'anar a Carcaixent.
 Dijous anirem a Benicolet sense agafar el cotxe.
-M'agradaria anar a Camporrobles amb trasport públic.
+M'agradaria anar a Camporrobles amb transport públic.
 Vull anar a la Todolella a peu.
 Necessito un bitllet de tren per anar a Aielo de Rugat dimarts.
 Dimarts he d'anar a Fanzara amb autobús.
@@ -10334,7 +10334,7 @@ Quan va ser que vam anar a l'Alcúdia de Crespins?
 Quina és la millor manera d'anar a l'Alfàs del Pi a peu?
 Com ho puc fer per anar a l'Alcúdia de Veo?
 Mira'm quina és la millor manera d'anar a Xàtiva amb tren.
-Es pot anar a Alfauir amb trasport públic?
+Es pot anar a Alfauir amb transport públic?
 Anirem a Sollana amb autobús.
 Demà hauria d'anar a Planes.
 El disset d'octubre anirem a Quesa amb cotxe.
@@ -10367,7 +10367,7 @@ Va anar a Almudaina amb bicicleta.
 Quan va ser que vam anar a Saix?
 He d'anar a Montanejos a peu dilluns a dos quarts i cinc de set.
 Quina és la millor manera d'anar a Segart amb tren?
-Mira'm quina és la millor manera d'anar a Xelva amb trasport públic.
+Mira'm quina és la millor manera d'anar a Xelva amb transport públic.
 Es pot anar a Algímia d'Alfara amb bicicleta?
 Anirem a Rafelbunyol amb tren.
 Dilluns hauria d'anar a la Pobla de Vallbona.
@@ -10381,7 +10381,7 @@ Quant dura el viatge en autobús fins a Olocau del Rei?
 Quantes parades té el trajecte en autobús fins a l'Alcúdia?
 Quant dura el trajecte en autobús fins a Santa Magdalena de Polpís?
 Com puc anar a Benaguasil dimarts a les cinc?
-Com puc arribar a Sellent amb trasport públic?
+Com puc arribar a Sellent amb transport públic?
 Com ho puc fer per anar a Guadassuar amb tren?
 Quan passa l'autobús per Albocàsser?
 A quina hora arriba l'autobús de Tàrbena?
@@ -10399,7 +10399,7 @@ Per anar a Xàtiva has de fer molta marrada.
 A Xirivella hi ha un castell?
 No sé on cau Sant Antoni de Benaixeve.
 A Benifaió hi anem el dos de juny.
-Va anar a l'Alcúdia de Crespins amb trasport públic.
+Va anar a l'Alcúdia de Crespins amb transport públic.
 Preferiria visitar Foios.
 és una foto de la plaça major de la Jana.
 Quan va ser que vam anar a Llocnou de la Corona?
@@ -10460,8 +10460,8 @@ Quines parades fa l'autobús que va a Sot de Xera?
 Quant dura el viatge en autobús fins a Bicorb?
 Quantes parades té el trajecte en autobús fins a Dolors?
 Com puc anar a Benicull de Xúquer dilluns a les vuit?
-Com puc arribar a l'Orxa amb trasport públic?
-Com ho puc fer per anar a Daimús amb trasport públic?
+Com puc arribar a l'Orxa amb transport públic?
+Com ho puc fer per anar a Daimús amb transport públic?
 Quan passa l'autobús per Alpont?
 A quina hora arriba l'autobús del Castell de Guadalest?
 Has estat mai a Serra?
@@ -10484,7 +10484,7 @@ Preferiria visitar Almàssera.
 és una foto de la plaça major de Matet.
 Quan va ser que vam anar a Torrent?
 Quin dia és el mercat de Favara?
-He d'anar a Xelva amb trasport públic dissabte a les set.
+He d'anar a Xelva amb transport públic dissabte a les set.
 Quina és la millor manera d'anar a Xaló a peu?
 Com ho puc fer per anar a Pinet?
 Mira'm quina és la millor manera d'anar a Agullent sense agafar el metro.
@@ -10527,7 +10527,7 @@ Es pot anar a Torre Baixa amb bicicleta?
 Anirem a Alaquàs amb autobús.
 Dimarts hauria d'anar a Sinarques.
 Dimecres anirem a Palmera sense agafar el metro.
-M'agradaria anar a Xacarella amb trasport públic.
+M'agradaria anar a Xacarella amb transport públic.
 Vull anar a l'Alcora amb bicicleta.
 Necessito un bitllet de tren per anar a Busot dimarts.
 Dilluns he d'anar a Alboraia amb autobús.
@@ -10643,7 +10643,7 @@ He d'anar a Carcaixent a peu el dos de juny a les onze.
 Quina és la millor manera d'anar a Bigastre amb tren?
 Mira'm quina és la millor manera d'anar a Albocàsser amb moto.
 Es pot anar a Benissa amb moto?
-Anirem a Xàbia amb trasport públic.
+Anirem a Xàbia amb transport públic.
 Demà hauria d'anar a Castellonet de la Conquesta.
 Dimarts anirem a Xirivella a peu.
 M'agradaria anar a Massalfassar amb moto.
@@ -10685,7 +10685,7 @@ Quina és la millor manera d'anar a les Alcubles amb moto?
 Mira'm quina és la millor manera d'anar a Orba amb autobús.
 Es pot anar a Xeraco amb moto?
 Dissabte hauria d'anar a Gorga.
-El dos de juny anirem a Fageca amb trasport públic.
+El dos de juny anirem a Fageca amb transport públic.
 M'agradaria anar a Benigembla sense agafar el metro.
 Vull anar a Benifaió amb tren.
 Necessito un bitllet de tren per anar a Pina dissabte.
@@ -10694,7 +10694,7 @@ Quines parades fa l'autobús que va a Figueres?
 Quantes parades té el trajecte en autobús fins a la Pobla Tornesa?
 Quant dura el trajecte en autobús fins a Emperador?
 Com puc anar a Sagra l'onze de juliol a un quart i mig d'onze?
-Com puc arribar a Alfarb amb trasport públic?
+Com puc arribar a Alfarb amb transport públic?
 Com ho puc fer per anar al Genovés amb tren?
 Quan passa l'autobús per Monòver?
 A quina hora arriba l'autobús de Salines?
@@ -10717,9 +10717,9 @@ Quan va ser que vam anar a Benicull de Xúquer?
 Quin dia és el mercat de Benirredrà?
 Quina és la millor manera d'anar a les Fonts d'Aiòder amb cotxe?
 Com ho puc fer per anar a Pedralba?
-Mira'm quina és la millor manera d'anar a la Vall d'Alcalà amb trasport públic.
+Mira'm quina és la millor manera d'anar a la Vall d'Alcalà amb transport públic.
 Es pot anar a Bèlgida amb tren?
-Anirem a la Pobla de Sant Miquel amb trasport públic.
+Anirem a la Pobla de Sant Miquel amb transport públic.
 L'onze de juliol hauria d'anar a la Pobla de Vallbona.
 El disset d'octubre anirem a Benafer amb autobús.
 Vull anar a Vilafermosa amb moto.
@@ -10756,7 +10756,7 @@ Quan va ser que vam anar a Xarafull?
 Quin dia és el mercat de la Serra d'en Galceran?
 Com ho puc fer per anar a Cortes d'Arenós?
 Mira'm quina és la millor manera d'anar a Rafelcofer amb tren.
-Es pot anar a Beneixida amb trasport públic?
+Es pot anar a Beneixida amb transport públic?
 Anirem a Cotes amb bicicleta.
 El cinc d'agost hauria d'anar a Benissanó.
 Dilluns anirem a Cortes d'Arenós amb cotxe.
@@ -10770,7 +10770,7 @@ Quant dura el viatge en autobús fins a la Vall d'Uixó?
 Quant dura el trajecte en autobús fins a Xelva?
 Com puc anar a Sagra demà a un quart i mig d'onze?
 Com puc arribar a Benilloba amb tren?
-Com ho puc fer per anar a Viver amb trasport públic?
+Com ho puc fer per anar a Viver amb transport públic?
 Quan passa l'autobús per Santa Pola?
 A quina hora arriba l'autobús de Sant Joan de Moró?
 He sentit a dir que Llutxent és molt bonic.
@@ -10809,7 +10809,7 @@ A quina hora passa el primer autobús per Oliva dijous?
 Quines parades fa l'autobús que va a Benimantell?
 Quant dura el viatge en autobús fins a Alfara del Patriarca?
 Com puc anar a Sot de Xera demà passat a les set?
-Com puc arribar a Xóvar amb trasport públic?
+Com puc arribar a Xóvar amb transport públic?
 Com ho puc fer per anar a Lludient amb autobús?
 Quan passa l'autobús per l'Alcúdia?
 A quina hora arriba l'autobús d'Albalat dels Tarongers?
@@ -10909,7 +10909,7 @@ Quina és la millor manera d'anar al Real de Gandia amb bicicleta?
 Com ho puc fer per anar a Utiel?
 Mira'm quina és la millor manera d'anar a Olocau amb autobús.
 Es pot anar a Almiserà amb tren?
-Anirem a Albalat de la Ribera amb trasport públic.
+Anirem a Albalat de la Ribera amb transport públic.
 Dimarts hauria d'anar a Busot.
 El dos de juny anirem a Benlloc amb tren.
 M'agradaria anar a Cotes amb moto.
@@ -10921,7 +10921,7 @@ Quines parades fa l'autobús que va a la Torre d'en Besora?
 Quant dura el viatge en autobús fins a Castelló de la Plana?
 Quantes parades té el trajecte en autobús fins a Albaida?
 Com puc anar a Navarrés el disset d'octubre a les sis?
-Com puc arribar a Pego amb trasport públic?
+Com puc arribar a Pego amb transport públic?
 Com ho puc fer per anar a Montcada amb tren?
 Quan passa l'autobús per Llucena?
 A quina hora arriba l'autobús d'Olocau del Rei?
@@ -10959,7 +10959,7 @@ Quines parades fa l'autobús que va a Alberic?
 Quant dura el viatge en autobús fins a Gandia?
 Quantes parades té el trajecte en autobús fins a Llíria?
 Quant dura el trajecte en autobús fins a Barx?
-Com puc arribar a Xest amb trasport públic?
+Com puc arribar a Xest amb transport públic?
 Com ho puc fer per anar a Coix amb tren?
 Quan passa l'autobús per l'Orxa?
 A quina hora arriba l'autobús d'Alboraig?
@@ -10986,7 +10986,7 @@ Preferiria visitar Utiel.
 Quan va ser que vam anar a Xert?
 Quin dia és el mercat de Gavarda?
 He d'anar a l'Alcúdia amb tren dimarts al migdia.
-Quina és la millor manera d'anar a Busot amb trasport públic?
+Quina és la millor manera d'anar a Busot amb transport públic?
 Mira'm quina és la millor manera d'anar a Sot de Xera a peu.
 Es pot anar a Senija amb cotxe?
 Anirem a Alberic amb cotxe.
@@ -11080,7 +11080,7 @@ Quines parades fa l'autobús que va a Catarroja?
 Quantes parades té el trajecte en autobús fins a Bugarra?
 Quant dura el trajecte en autobús fins a Benigembla?
 Com puc anar a Albuixec dilluns al matí?
-Com puc arribar a Guadasséquies amb trasport públic?
+Com puc arribar a Guadasséquies amb transport públic?
 Com ho puc fer per anar a Millars amb moto?
 A quina hora arriba l'autobús del Pilar de la Foradada?
 Has estat mai a Albalat dels Sorells?
@@ -11110,7 +11110,7 @@ Mira'm quina és la millor manera d'anar a Xest sense agafar el cotxe.
 Es pot anar a la Vall d'Ebo amb tren?
 Anirem a Petrés amb moto.
 Divendres hauria d'anar al Villar.
-Demà passat anirem a Beneixida amb trasport públic.
+Demà passat anirem a Beneixida amb transport públic.
 M'agradaria anar a Torre Baixa sense agafar el metro.
 Vull anar a Benissa sense agafar el metro.
 Reserva'm un bitllet de tren per anar a la Jana dissabte a les dues.
@@ -11145,7 +11145,7 @@ Preferiria visitar el Poble Nou de Benitatxell.
 Quin dia és el mercat d'Albaida?
 Quina és la millor manera d'anar a Rossell amb tren?
 Mira'm quina és la millor manera d'anar a Portell de Morella amb moto.
-Es pot anar a Benimantell amb trasport públic?
+Es pot anar a Benimantell amb transport públic?
 Anirem a l'Atzúbia sense agafar el metro.
 Divendres hauria d'anar a Pedreguer.
 Divendres anirem a Estubeny amb moto.
@@ -11181,10 +11181,10 @@ A Beneixama hi anem el cinc d'agost.
 Va anar a Nules amb autobús.
 Quan va ser que vam anar a Sogorb?
 Quin dia és el mercat de Catral?
-He d'anar a Bellreguard amb trasport públic dilluns a les nou.
+He d'anar a Bellreguard amb transport públic dilluns a les nou.
 Quina és la millor manera d'anar a Soneja amb tren?
 Mira'm quina és la millor manera d'anar a Agres sense agafar el cotxe.
-Es pot anar a Estivella amb trasport públic?
+Es pot anar a Estivella amb transport públic?
 Anirem a Albal amb tren.
 Demà hauria d'anar a Bicorb.
 El disset d'octubre anirem a Torre-xiva a peu.
@@ -11239,7 +11239,7 @@ A quina hora passa el primer autobús per el Castell de Vilamalefa dilluns?
 Quines parades fa l'autobús que va a la Vall de Laguar?
 Quant dura el viatge en autobús fins a Benicull de Xúquer?
 Com puc anar a Quartell dimecres a les nou?
-Com puc arribar a Planes amb trasport públic?
+Com puc arribar a Planes amb transport públic?
 Com ho puc fer per anar a Rugat amb autobús?
 Quan passa l'autobús per Serra?
 A quina hora arriba l'autobús de Casinos?
@@ -11265,13 +11265,13 @@ Preferiria visitar Benirredrà.
 Quan va ser que vam anar a Caudete de las Fuentes?
 Quin dia és el mercat de l'Alcúdia?
 He d'anar a Elda sense agafar el metro dilluns a les nou.
-Quina és la millor manera d'anar a la Vall d'Almonesir amb trasport públic?
+Quina és la millor manera d'anar a la Vall d'Almonesir amb transport públic?
 Mira'm quina és la millor manera d'anar a Aigües amb tren.
 Es pot anar a Bonrepòs i Mirambell amb moto?
 Anirem a Gata de Gorgos amb autobús.
 Diumenge hauria d'anar a Cases Altes.
 El cinc d'agost anirem a Algímia d'Almonesir amb bicicleta.
-M'agradaria anar a Llombai amb trasport públic.
+M'agradaria anar a Llombai amb transport públic.
 Vull anar a Elx amb tren.
 Necessito un bitllet de tren per anar a Fuenterrobles demà.
 Dilluns he d'anar a la Vall de Gallinera amb autobús.
@@ -11343,7 +11343,7 @@ Va anar a Rafal amb bicicleta.
 Preferiria visitar Palmera.
 Quan va ser que vam anar a Sant Isidre?
 Quin dia és el mercat d'Aras de los Olmos?
-He d'anar a Planes amb trasport públic diumenge a les onze.
+He d'anar a Planes amb transport públic diumenge a les onze.
 Quina és la millor manera d'anar a Benetússer amb cotxe?
 Mira'm quina és la millor manera d'anar a Xàtiva a peu.
 Es pot anar a Rossell sense agafar el metro?
@@ -11503,7 +11503,7 @@ He d'anar a Bonrepòs i Mirambell sense agafar el metro dilluns a les tres.
 Quina és la millor manera d'anar a Catarroja amb moto?
 Com ho puc fer per anar a Sorita?
 Mira'm quina és la millor manera d'anar a Benissuera a peu.
-Anirem a la Vall de Gallinera amb trasport públic.
+Anirem a la Vall de Gallinera amb transport públic.
 Diumenge hauria d'anar a Sanet i els Negrals.
 Diumenge anirem a Dénia amb bicicleta.
 M'agradaria anar a Redovà a peu.
@@ -11563,7 +11563,7 @@ Diuen que ara viu al Verger.
 L'altre dia el vaig veure per Iàtova.
 Quin és el codi postal de la Vall d'Alcalà?
 A Ador hi anem demà passat.
-Va anar a la Canyada amb trasport públic.
+Va anar a la Canyada amb transport públic.
 Preferiria visitar Costur.
 és una foto de la plaça major de Domenyo.
 Quan va ser que vam anar a Culla?
@@ -11571,7 +11571,7 @@ He d'anar a Albatera a peu demà a les set.
 Quina és la millor manera d'anar a Benissuera sense agafar el metro?
 Mira'm quina és la millor manera d'anar a Teresa de Cofrents amb moto.
 Es pot anar a Xodos amb bicicleta?
-Anirem a Xella amb trasport públic.
+Anirem a Xella amb transport públic.
 El vint-i-tres de maig hauria d'anar a Aiora.
 Dijous anirem a Albalat dels Tarongers amb moto.
 M'agradaria anar a Matet amb autobús.
@@ -11601,7 +11601,7 @@ Per anar a Benimassot has de fer molta marrada.
 Saps si cau a prop d'Almudaina?
 A Dosaigües hi ha un castell?
 No sé on cau Aín.
-Va anar a Caudete de las Fuentes amb trasport públic.
+Va anar a Caudete de las Fuentes amb transport públic.
 Preferiria visitar Benicarló.
 és una foto de la plaça major de la Pobla de Vallbona.
 Quan va ser que vam anar al Campello?
@@ -11653,7 +11653,7 @@ Com ho puc fer per anar a Torralba?
 Es pot anar a Xalans amb tren?
 Anirem a Corbera amb autobús.
 El disset d'octubre anirem a Benimuslem amb tren.
-M'agradaria anar a Alginet amb trasport públic.
+M'agradaria anar a Alginet amb transport públic.
 Vull anar a Sant Rafel del Riu sense agafar el cotxe.
 Necessito un bitllet de tren per anar a Aldaia diumenge.
 Demà he d'anar a la Salzadella amb autobús.
@@ -11684,9 +11684,9 @@ Preferiria visitar la Vila Joiosa.
 és una foto de la plaça major d'Atzeneta del Maestrat.
 Quan va ser que vam anar al Ràfol de Salem?
 Quin dia és el mercat de Quart de Poblet?
-He d'anar a Xera amb trasport públic dimecres a la tarda.
+He d'anar a Xera amb transport públic dimecres a la tarda.
 Quina és la millor manera d'anar a Tales a peu?
-Mira'm quina és la millor manera d'anar a Antella amb trasport públic.
+Mira'm quina és la millor manera d'anar a Antella amb transport públic.
 Es pot anar a Ador amb cotxe?
 Anirem a Onda amb cotxe.
 El disset d'octubre hauria d'anar a la Pobla de Vallbona.
@@ -11722,11 +11722,11 @@ Va anar a Rotglà i Corberà amb tren.
 Quan va ser que vam anar a Villena?
 Quin dia és el mercat de Palmera?
 Quina és la millor manera d'anar a la Vall de Gallinera amb tren?
-Mira'm quina és la millor manera d'anar a Benilloba amb trasport públic.
-Es pot anar a Cases Altes amb trasport públic?
+Mira'm quina és la millor manera d'anar a Benilloba amb transport públic.
+Es pot anar a Cases Altes amb transport públic?
 Anirem a Orpesa amb autobús.
 Dilluns anirem a Xacarella amb moto.
-M'agradaria anar al Verger amb trasport públic.
+M'agradaria anar al Verger amb transport públic.
 Vull anar a la Vall d'Alcalà amb cotxe.
 Reserva'm un bitllet de tren per anar a Bétera dijous a les cinc.
 Necessito un bitllet de tren per anar a Oriola dimarts.
@@ -11758,12 +11758,12 @@ Preferiria visitar Venta del Moro.
 és una foto de la plaça major de Montanejos.
 Quan va ser que vam anar a Geldo?
 Quin dia és el mercat del Villar?
-Quina és la millor manera d'anar a Vallat amb trasport públic?
+Quina és la millor manera d'anar a Vallat amb transport públic?
 Com ho puc fer per anar a Orxeta?
 Es pot anar a Benafigos amb moto?
 Anirem a Traiguera amb bicicleta.
 Diumenge hauria d'anar a l'Alqueria d'Asnar.
-El dos de juny anirem a Gaibiel amb trasport públic.
+El dos de juny anirem a Gaibiel amb transport públic.
 M'agradaria anar a la Serratella amb tren.
 Vull anar a la Pobla Llarga amb autobús.
 Necessito un bitllet de tren per anar a Cervera del Maestrat dimarts.
@@ -11773,7 +11773,7 @@ Quines parades fa l'autobús que va a la Llosa del Bisbe?
 Quantes parades té el trajecte en autobús fins a Redovà?
 Quant dura el trajecte en autobús fins a les Useres?
 Com puc anar a Barxeta dissabte a les onze?
-Com puc arribar a Xàtiva amb trasport públic?
+Com puc arribar a Xàtiva amb transport públic?
 Com ho puc fer per anar a Daia Nova amb autobús?
 Quan passa l'autobús per Potries?
 A la Pobla de Farnals hi ha estació de tren?
@@ -11798,7 +11798,7 @@ He d'anar a Argeleta sense agafar el metro l'onze de juliol a les set.
 Quina és la millor manera d'anar a la Vila Joiosa amb moto?
 Com ho puc fer per anar a Sant Miquel de les Salines?
 Mira'm quina és la millor manera d'anar a Catarroja amb autobús.
-Es pot anar a Llutxent amb trasport públic?
+Es pot anar a Llutxent amb transport públic?
 Anirem a Navarrés a peu.
 Demà passat hauria d'anar a Sollana.
 Dimecres anirem a Mutxamel amb moto.
@@ -11836,7 +11836,7 @@ He d'anar a Llíria amb tren demà a les quatre.
 Quina és la millor manera d'anar a Estubeny amb bicicleta?
 Com ho puc fer per anar a Sant Vicent del Raspeig?
 Mira'm quina és la millor manera d'anar a Gaianes sense agafar el cotxe.
-Es pot anar a Fageca amb trasport públic?
+Es pot anar a Fageca amb transport públic?
 Anirem a Gandia amb moto.
 Dijous hauria d'anar a Montroi.
 Dilluns anirem a Portell de Morella amb bicicleta.
@@ -11919,7 +11919,7 @@ Mira'm quina és la millor manera d'anar a Atzeneta d'Albaida amb cotxe.
 Es pot anar a Algímia d'Alfara amb autobús?
 Anirem a Artana amb bicicleta.
 El dos de juny hauria d'anar a Corbera.
-El dos de juny anirem a Los Montesinos amb trasport públic.
+El dos de juny anirem a Los Montesinos amb transport públic.
 M'agradaria anar a Barx amb tren.
 El dos de juny he d'anar a Orba amb autobús.
 A quina hora passa el primer autobús per Famorca dissabte?
@@ -11953,9 +11953,9 @@ Va anar a Torrevella a peu.
 Quan va ser que vam anar a Quatretonda?
 He d'anar a Sucaina sense agafar el cotxe el disset d'octubre al vespre.
 Quina és la millor manera d'anar a Cinctorres amb bicicleta?
-Mira'm quina és la millor manera d'anar a Albalat dels Sorells amb trasport públic.
+Mira'm quina és la millor manera d'anar a Albalat dels Sorells amb transport públic.
 Es pot anar a Dosaigües amb tren?
-Anirem a Guardamar de la Safor amb trasport públic.
+Anirem a Guardamar de la Safor amb transport públic.
 Dimarts hauria d'anar a Salem.
 Divendres anirem a Pedralba a peu.
 M'agradaria anar a Torre Baixa amb autobús.
@@ -11965,7 +11965,7 @@ A quina hora passa el primer autobús per Massamagrell divendres?
 Quant dura el viatge en autobús fins a Formentera del Segura?
 Quant dura el trajecte en autobús fins a Gaianes?
 Com puc anar a Llaurí dilluns a dos quarts i cinc de set?
-Com puc arribar a Carrícola amb trasport públic?
+Com puc arribar a Carrícola amb transport públic?
 Com ho puc fer per anar a Albal amb cotxe?
 Quan passa l'autobús per Moixent?
 A quina hora arriba l'autobús de Benejússer?
@@ -11993,10 +11993,10 @@ He d'anar a Alfafara amb cotxe dimarts a les sis.
 Quina és la millor manera d'anar a Cases Altes sense agafar el cotxe?
 Com ho puc fer per anar a Dénia?
 Mira'm quina és la millor manera d'anar a la Mata amb tren.
-Es pot anar a Castalla amb trasport públic?
+Es pot anar a Castalla amb transport públic?
 Anirem a Daia Vella amb cotxe.
 L'onze de juliol hauria d'anar a Benimantell.
-El cinc d'agost anirem a la Serratella amb trasport públic.
+El cinc d'agost anirem a la Serratella amb transport públic.
 M'agradaria anar a Alcalalí amb bicicleta.
 Vull anar a l'Alqueria d'Asnar amb cotxe.
 Reserva'm un bitllet de tren per anar a Llucena el cinc d'agost al matí.
@@ -12007,8 +12007,8 @@ Quines parades fa l'autobús que va a Xilxes?
 Quant dura el viatge en autobús fins a la Granja de Rocamora?
 Quantes parades té el trajecte en autobús fins a Càlig?
 Quant dura el trajecte en autobús fins a Daia Nova?
-Com puc arribar a Benimuslem amb trasport públic?
-Com ho puc fer per anar a Xest amb trasport públic?
+Com puc arribar a Benimuslem amb transport públic?
+Com ho puc fer per anar a Xest amb transport públic?
 A quina hora arriba l'autobús de Quatretonda?
 Has estat mai a Traiguera?
 He sentit a dir que Guadasséquies és molt bonic.
@@ -12030,10 +12030,10 @@ Va anar a Atzeneta d'Albaida amb cotxe.
 és una foto de la plaça major d'Almudaina.
 Quan va ser que vam anar a la Vall d'Alcalà?
 Quin dia és el mercat de Canet d'en Berenguer?
-Quina és la millor manera d'anar a Navaixes amb trasport públic?
-Mira'm quina és la millor manera d'anar a Aín amb trasport públic.
+Quina és la millor manera d'anar a Navaixes amb transport públic?
+Mira'm quina és la millor manera d'anar a Aín amb transport públic.
 Es pot anar a Beneixida sense agafar el cotxe?
-Anirem a Benetússer amb trasport públic.
+Anirem a Benetússer amb transport públic.
 Dilluns hauria d'anar a Asp.
 Dilluns anirem a Montroi a peu.
 M'agradaria anar a Favara amb autobús.
@@ -12071,7 +12071,7 @@ Va anar a Picassent sense agafar el metro.
 Quin dia és el mercat de Vallat?
 Quina és la millor manera d'anar a Villargordo del Cabriel amb tren?
 Com ho puc fer per anar a Llocnou d'en Fenollet?
-Mira'm quina és la millor manera d'anar a Benimodo amb trasport públic.
+Mira'm quina és la millor manera d'anar a Benimodo amb transport públic.
 Es pot anar a Sant Fulgenci sense agafar el metro?
 Anirem a Altea amb moto.
 Divendres hauria d'anar a Crevillent.
@@ -12099,17 +12099,17 @@ Quin és el codi postal de Salem?
 Per anar a Calp has de fer molta marrada.
 No sé on cau Benissa.
 A Xeresa hi anem dissabte.
-Va anar a Albaida amb trasport públic.
+Va anar a Albaida amb transport públic.
 Preferiria visitar les Alcubles.
 Quan va ser que vam anar a Tírig?
 He d'anar a la Pobla d'Arenós amb cotxe dijous a les nou.
 Quina és la millor manera d'anar a Alfafara amb moto?
 Com ho puc fer per anar a Cirat?
 Mira'm quina és la millor manera d'anar a Alginet amb cotxe.
-Es pot anar a Ròtova amb trasport públic?
+Es pot anar a Ròtova amb transport públic?
 Anirem a Villores amb tren.
 Divendres hauria d'anar al Castell de Guadalest.
-Dijous anirem a Rossell amb trasport públic.
+Dijous anirem a Rossell amb transport públic.
 M'agradaria anar a Càlig amb tren.
 Vull anar a Dosaigües sense agafar el metro.
 Necessito un bitllet de tren per anar a Alginet l'onze de juliol.
@@ -12142,9 +12142,9 @@ Quin dia és el mercat de Real?
 Quina és la millor manera d'anar a Rafelguaraf amb moto?
 Mira'm quina és la millor manera d'anar a Montitxelvo amb moto.
 Es pot anar a Beneixama amb tren?
-Anirem a l'Alcúdia de Veo amb trasport públic.
+Anirem a l'Alcúdia de Veo amb transport públic.
 Dimarts hauria d'anar a Quart de les Valls.
-El dos de juny anirem a Benigànim amb trasport públic.
+El dos de juny anirem a Benigànim amb transport públic.
 M'agradaria anar a Elda amb bicicleta.
 Vull anar a Xestalgar a peu.
 Necessito un bitllet de tren per anar a Sant Joan d'Alacant divendres.
@@ -12220,9 +12220,9 @@ Preferiria visitar Sot de Ferrer.
 és una foto de la plaça major de Quartell.
 Quan va ser que vam anar a Benissanó?
 Quin dia és el mercat de Sucaina?
-He d'anar a Llombai amb trasport públic el disset d'octubre a les set.
-Quina és la millor manera d'anar a Matet amb trasport públic?
-Mira'm quina és la millor manera d'anar a Murla amb trasport públic.
+He d'anar a Llombai amb transport públic el disset d'octubre a les set.
+Quina és la millor manera d'anar a Matet amb transport públic?
+Mira'm quina és la millor manera d'anar a Murla amb transport públic.
 Es pot anar a Guardamar del Segura amb autobús?
 Anirem a Silla amb moto.
 El dos de juny hauria d'anar al Fondó dels Frares.
@@ -12254,7 +12254,7 @@ Saps si cau a prop de Llíria?
 A Bicorb hi ha un castell?
 No sé on cau Villores.
 A Rafelguaraf hi anem dijous.
-Va anar a Canals amb trasport públic.
+Va anar a Canals amb transport públic.
 Preferiria visitar l'Alcúdia de Crespins.
 és una foto de la plaça major de Pavies.
 He d'anar a Benimassot amb cotxe dimecres a les dotze.
@@ -12292,11 +12292,11 @@ Per anar a Petrés has de fer molta marrada.
 Saps si cau a prop de Morella?
 No sé on cau Albaida.
 A Saix hi anem el vint-i-tres de maig.
-Va anar a Sumacàrcer amb trasport públic.
+Va anar a Sumacàrcer amb transport públic.
 Preferiria visitar Sant Mateu.
 és una foto de la plaça major de Fageca.
 Quin dia és el mercat de Picassent?
-He d'anar a Sot de Ferrer amb trasport públic dilluns a les tres.
+He d'anar a Sot de Ferrer amb transport públic dilluns a les tres.
 Quina és la millor manera d'anar al Camp de Mirra amb cotxe?
 Mira'm quina és la millor manera d'anar a Castell de Castells amb bicicleta.
 Es pot anar a Montitxelvo amb cotxe?
@@ -12313,7 +12313,7 @@ Quant dura el viatge en autobús fins a Camporrobles?
 Quantes parades té el trajecte en autobús fins a les Alcubles?
 Quant dura el trajecte en autobús fins a Gilet?
 Com puc arribar a Carrícola amb tren?
-Com ho puc fer per anar a Callosa de Segura amb trasport públic?
+Com ho puc fer per anar a Callosa de Segura amb transport públic?
 Quan passa l'autobús per Xert?
 A quina hora arriba l'autobús de Dénia?
 Has estat mai a Novetlè?
@@ -12335,14 +12335,14 @@ Per anar a Soneja has de fer molta marrada.
 A Canet d'en Berenguer hi ha un castell?
 No sé on cau Llocnou de Sant Jeroni.
 A Rafelcofer hi anem demà passat.
-Va anar a Benifairó de la Valldigna amb trasport públic.
+Va anar a Benifairó de la Valldigna amb transport públic.
 Preferiria visitar la Pobla de Benifassà.
 és una foto de la plaça major d'Alacant.
 Quan va ser que vam anar a Banyeres de Mariola?
-Quina és la millor manera d'anar a Canals amb trasport públic?
+Quina és la millor manera d'anar a Canals amb transport públic?
 Com ho puc fer per anar a Navarrés?
-Mira'm quina és la millor manera d'anar a Sumacàrcer amb trasport públic.
-Es pot anar a les Alqueries amb trasport públic?
+Mira'm quina és la millor manera d'anar a Sumacàrcer amb transport públic.
+Es pot anar a les Alqueries amb transport públic?
 Anirem a Almàssera amb moto.
 L'onze de juliol hauria d'anar a Barx.
 L'onze de juliol anirem a la Pobla de Benifassà amb tren.
@@ -12380,14 +12380,14 @@ Preferiria visitar Xodos.
 és una foto de la plaça major de Llucena.
 Quin dia és el mercat de Novetlè?
 He d'anar a Albalat de la Ribera a peu dimarts a les sis.
-Quina és la millor manera d'anar a Algorfa amb trasport públic?
+Quina és la millor manera d'anar a Algorfa amb transport públic?
 Com ho puc fer per anar a Torre Baixa?
 Mira'm quina és la millor manera d'anar a Cofrents sense agafar el metro.
 Es pot anar a la Vilavella amb tren?
 Anirem a Barraques amb tren.
 El cinc d'agost hauria d'anar a Fageca.
 El dos de juny anirem a Vilafermosa sense agafar el metro.
-M'agradaria anar a Gata de Gorgos amb trasport públic.
+M'agradaria anar a Gata de Gorgos amb transport públic.
 Vull anar a Vallada amb autobús.
 Necessito un bitllet de tren per anar a Ares del Maestrat dijous.
 Dissabte he d'anar a Benillup amb autobús.
@@ -12500,7 +12500,7 @@ Com ho puc fer per anar a Segart?
 Mira'm quina és la millor manera d'anar a Sinarques amb autobús.
 Es pot anar a Figueroles amb autobús?
 Anirem a Gata de Gorgos a peu.
-Demà passat anirem a l'Alqueria de la Comtessa amb trasport públic.
+Demà passat anirem a l'Alqueria de la Comtessa amb transport públic.
 M'agradaria anar a Cocentaina a peu.
 Vull anar a Cirat amb bicicleta.
 Reserva'm un bitllet de tren per anar a Xeresa demà passat a les nou.
@@ -12533,7 +12533,7 @@ Quina és la millor manera d'anar a Albatera amb tren?
 Com ho puc fer per anar a Benifaió?
 Mira'm quina és la millor manera d'anar a Vinalesa sense agafar el cotxe.
 Es pot anar a la Vall d'Alcalà amb tren?
-Anirem a Torralba amb trasport públic.
+Anirem a Torralba amb transport públic.
 Dissabte hauria d'anar a Morella.
 El vint-i-tres de maig anirem a la Vilavella amb bicicleta.
 M'agradaria anar a Foios amb tren.
@@ -12568,7 +12568,7 @@ Preferiria visitar Vallanca.
 Quan va ser que vam anar a la Mata?
 Quin dia és el mercat de la Vall d'Alcalà?
 He d'anar a Argeleta amb tren dijous a les vuit.
-Quina és la millor manera d'anar a Pina amb trasport públic?
+Quina és la millor manera d'anar a Pina amb transport públic?
 Mira'm quina és la millor manera d'anar a Torrent sense agafar el metro.
 Es pot anar a Albatera amb bicicleta?
 Anirem a Calles sense agafar el cotxe.
@@ -12641,7 +12641,7 @@ Va anar a Potries amb moto.
 Preferiria visitar Saix.
 Quan va ser que vam anar a la Pobla de Farnals?
 Quin dia és el mercat de Benimarfull?
-He d'anar a la Serratella amb trasport públic l'onze de juliol al vespre.
+He d'anar a la Serratella amb transport públic l'onze de juliol al vespre.
 Quina és la millor manera d'anar a Real sense agafar el metro?
 Com ho puc fer per anar a Begís?
 Mira'm quina és la millor manera d'anar a Almoradí amb tren.
@@ -12770,7 +12770,7 @@ El vint-i-tres de maig he d'anar a Benaguasil amb autobús.
 A quina hora passa el primer autobús per Sant Joan de Moró dimarts?
 Quant dura el viatge en autobús fins a Moncofa?
 Com puc anar al Villar dissabte a un quart i mig d'onze?
-Com puc arribar a Argeleta amb trasport públic?
+Com puc arribar a Argeleta amb transport públic?
 Com ho puc fer per anar a Vila-real sense agafar el metro?
 A quina hora arriba l'autobús de Montitxelvo?
 He sentit a dir que Bufali és molt bonic.
@@ -12788,10 +12788,10 @@ A Alpont hi ha un castell?
 No sé on cau Saix.
 Va anar a l'Énova a peu.
 Preferiria visitar Xelva.
-He d'anar a l'Eliana amb trasport públic dijous al vespre.
+He d'anar a l'Eliana amb transport públic dijous al vespre.
 Quina és la millor manera d'anar a Betxí amb moto?
 Mira'm quina és la millor manera d'anar a Finestrat amb autobús.
-Es pot anar a Catral amb trasport públic?
+Es pot anar a Catral amb transport públic?
 Anirem a Cervera del Maestrat amb tren.
 El disset d'octubre hauria d'anar a Vallat.
 L'onze de juliol anirem a Vilallonga amb autobús.
@@ -12864,9 +12864,9 @@ Va anar a Quatretondeta amb tren.
 Preferiria visitar Aielo de Malferit.
 és una foto de la plaça major de Benissa.
 He d'anar a Benifaió amb tren l'onze de juliol a les dues.
-Quina és la millor manera d'anar a Xulilla amb trasport públic?
-Mira'm quina és la millor manera d'anar a Alfarb amb trasport públic.
-Es pot anar a la Nucia amb trasport públic?
+Quina és la millor manera d'anar a Xulilla amb transport públic?
+Mira'm quina és la millor manera d'anar a Alfarb amb transport públic.
+Es pot anar a la Nucia amb transport públic?
 Anirem a Benicarló amb tren.
 Dijous hauria d'anar a Vilanova de la Reina.
 El disset d'octubre anirem a Fanzara amb autobús.
@@ -12907,10 +12907,10 @@ Quin dia és el mercat de Torís?
 He d'anar a Benirredrà amb tren dijous a les deu.
 Com ho puc fer per anar a Almussafes?
 Es pot anar a les Coves de Vinromà sense agafar el cotxe?
-Anirem a Sagra amb trasport públic.
+Anirem a Sagra amb transport públic.
 Dilluns hauria d'anar a Guardamar del Segura.
 L'onze de juliol anirem al Fondó de les Neus amb tren.
-M'agradaria anar a Busot amb trasport públic.
+M'agradaria anar a Busot amb transport públic.
 Vull anar a Cervera del Maestrat amb moto.
 Necessito un bitllet de tren per anar a Forcall divendres.
 Dimecres he d'anar a Benilloba amb autobús.
@@ -13129,7 +13129,7 @@ Mira'm quina és la millor manera d'anar a Agullent amb bicicleta.
 Es pot anar a Iàtova sense agafar el metro?
 Anirem a Benavites amb autobús.
 Dilluns hauria d'anar a Los Montesinos.
-Dimarts anirem a Toràs amb trasport públic.
+Dimarts anirem a Toràs amb transport públic.
 M'agradaria anar a Aielo de Malferit a peu.
 Vull anar a la Granja de la Costera amb tren.
 Necessito un bitllet de tren per anar a Cases Baixes dilluns.
@@ -13165,7 +13165,7 @@ He d'anar a Benissoda amb cotxe dijous a tres quarts de dotze.
 Quina és la millor manera d'anar a Artana amb moto?
 Com ho puc fer per anar a la Salzadella?
 Mira'm quina és la millor manera d'anar al Ràfol de Salem amb autobús.
-Es pot anar a Alcalà de Xivert amb trasport públic?
+Es pot anar a Alcalà de Xivert amb transport públic?
 Anirem a l'Alfàs del Pi a peu.
 Dijous hauria d'anar a Oriola.
 Diumenge anirem a Torís amb tren.
@@ -13177,7 +13177,7 @@ A quina hora passa el primer autobús per Sueca dimarts?
 Quant dura el viatge en autobús fins a Montserrat?
 Quant dura el trajecte en autobús fins a Gaibiel?
 Com puc anar a Polinyà de Xúquer dimecres a les sis?
-Com puc arribar a Ademús amb trasport públic?
+Com puc arribar a Ademús amb transport públic?
 Com ho puc fer per anar a Petrer sense agafar el metro?
 Quan passa l'autobús per Artana?
 He sentit a dir que Marines és molt bonic.
@@ -13198,7 +13198,7 @@ Va anar a Benetússer amb tren.
 Preferiria visitar Énguera.
 és una foto de la plaça major de la Torre d'en Besora.
 Quan va ser que vam anar a Oliva?
-He d'anar a Pinet amb trasport públic demà passat a les nou.
+He d'anar a Pinet amb transport públic demà passat a les nou.
 Quina és la millor manera d'anar a Almenara amb bicicleta?
 Es pot anar a Real sense agafar el cotxe?
 Anirem a Orba amb moto.
@@ -13240,7 +13240,7 @@ Mira'm quina és la millor manera d'anar a Navaixes amb tren.
 Es pot anar a Alaquàs amb cotxe?
 Anirem a Cabanes amb cotxe.
 Diumenge hauria d'anar a Camporrobles.
-Demà anirem a Mislata amb trasport públic.
+Demà anirem a Mislata amb transport públic.
 M'agradaria anar a Xeraco amb moto.
 Reserva'm un bitllet de tren per anar a les Alcubles diumenge a les cinc.
 Dimarts he d'anar a Aldaia amb autobús.
@@ -13273,7 +13273,7 @@ Preferiria visitar Rafelguaraf.
 és una foto de la plaça major de la Pobla Llarga.
 Quan va ser que vam anar a les Coves de Vinromà?
 Quin dia és el mercat de Simat de la Valldigna?
-He d'anar a Fanzara amb trasport públic diumenge a les tres.
+He d'anar a Fanzara amb transport públic diumenge a les tres.
 Quina és la millor manera d'anar a Xixona amb moto?
 Com ho puc fer per anar a Llanera de Ranes?
 Mira'm quina és la millor manera d'anar a Quatretonda amb autobús.
@@ -13330,7 +13330,7 @@ Quantes parades té el trajecte en autobús fins a Benifairó de la Valldigna?
 Quant dura el trajecte en autobús fins a Montserrat?
 Com puc anar a Daia Nova demà passat a les nou?
 Com puc arribar a Paterna sense agafar el cotxe?
-Com ho puc fer per anar a Xera amb trasport públic?
+Com ho puc fer per anar a Xera amb transport públic?
 Quan passa l'autobús per Llombai?
 A quina hora arriba l'autobús de Riola?
 He sentit a dir que Mutxamel és molt bonic.
@@ -13458,7 +13458,7 @@ He d'anar a Camporrobles sense agafar el cotxe dimarts a les quatre.
 Quina és la millor manera d'anar a Ador amb bicicleta?
 Com ho puc fer per anar a Benafigos?
 Mira'm quina és la millor manera d'anar a Benifato sense agafar el cotxe.
-Es pot anar a Guadassuar amb trasport públic?
+Es pot anar a Guadassuar amb transport públic?
 Anirem a Bicorb amb bicicleta.
 El disset d'octubre hauria d'anar a Elda.
 El dos de juny anirem als Poblets amb tren.
@@ -13499,7 +13499,7 @@ Es pot anar a Xilxes sense agafar el cotxe?
 Anirem a Benimodo a peu.
 El cinc d'agost hauria d'anar a Montant.
 Dilluns anirem a Benasau a peu.
-M'agradaria anar a Vistabella del Maestrat amb trasport públic.
+M'agradaria anar a Vistabella del Maestrat amb transport públic.
 Vull anar a Canals amb cotxe.
 Reserva'm un bitllet de tren per anar a Vallibona dilluns a les deu.
 Necessito un bitllet de tren per anar a la Serratella demà passat.
@@ -13537,7 +13537,7 @@ Com ho puc fer per anar a Torre-xiva?
 Mira'm quina és la millor manera d'anar a Benirredrà sense agafar el metro.
 Es pot anar a Xaló amb cotxe?
 Diumenge hauria d'anar a Dolors.
-Diumenge anirem a Pavies amb trasport públic.
+Diumenge anirem a Pavies amb transport públic.
 M'agradaria anar a Venta del Moro amb bicicleta.
 Vull anar a Macastre amb tren.
 Reserva'm un bitllet de tren per anar a Oriola demà passat al matí.
@@ -13575,7 +13575,7 @@ Quin dia és el mercat del Castell de Vilamalefa?
 Quina és la millor manera d'anar a Daimús amb tren?
 Com ho puc fer per anar a Quatretonda?
 Mira'm quina és la millor manera d'anar a Rafelguaraf amb tren.
-Es pot anar a Benifallim amb trasport públic?
+Es pot anar a Benifallim amb transport públic?
 Anirem a Riola sense agafar el cotxe.
 Demà hauria d'anar a Torrella.
 El cinc d'agost anirem a Dolors sense agafar el cotxe.
@@ -13617,7 +13617,7 @@ Anirem a Castelló de la Plana amb moto.
 L'onze de juliol hauria d'anar a Benicàssim.
 Demà passat anirem a Salem amb moto.
 M'agradaria anar a Cinctorres amb tren.
-Vull anar a Beniarjó amb trasport públic.
+Vull anar a Beniarjó amb transport públic.
 Necessito un bitllet de tren per anar a Montroi demà passat.
 Dijous he d'anar a Millars amb autobús.
 A quina hora passa el primer autobús per Callosa d'en Sarrià diumenge?
@@ -13648,7 +13648,7 @@ Preferiria visitar Castelló de Rugat.
 és una foto de la plaça major de Borriana.
 Quan va ser que vam anar a Toixa?
 Quina és la millor manera d'anar a Montcada sense agafar el cotxe?
-Mira'm quina és la millor manera d'anar a Palanques amb trasport públic.
+Mira'm quina és la millor manera d'anar a Palanques amb transport públic.
 Es pot anar a Riba-roja de Túria amb cotxe?
 Anirem a Setaigües amb cotxe.
 Diumenge hauria d'anar a Dosaigües.
@@ -13682,14 +13682,14 @@ A la Vall d'Alcalà hi anem divendres.
 Va anar al Campello amb moto.
 Preferiria visitar la Vall d'Ebo.
 és una foto de la plaça major de Xeraco.
-He d'anar a la Salzadella amb trasport públic dimecres a les set.
+He d'anar a la Salzadella amb transport públic dimecres a les set.
 Quina és la millor manera d'anar a Riola amb moto?
 Mira'm quina és la millor manera d'anar a Millars amb cotxe.
 Es pot anar a Xilxes amb tren?
-Anirem a l'Alcúdia amb trasport públic.
+Anirem a l'Alcúdia amb transport públic.
 L'onze de juliol hauria d'anar a Agullent.
 Dijous anirem a Real amb autobús.
-Vull anar a Benimodo amb trasport públic.
+Vull anar a Benimodo amb transport públic.
 Necessito un bitllet de tren per anar a Estubeny l'onze de juliol.
 El dos de juny he d'anar al Castell de Guadalest amb autobús.
 A quina hora passa el primer autobús per Catral dimarts?
@@ -13698,7 +13698,7 @@ Quantes parades té el trajecte en autobús fins a Calles?
 Quant dura el trajecte en autobús fins a Castelló de la Plana?
 Com puc anar a Alpont el vint-i-tres de maig a les quatre?
 Com puc arribar a Meliana sense agafar el cotxe?
-Com ho puc fer per anar a Polinyà de Xúquer amb trasport públic?
+Com ho puc fer per anar a Polinyà de Xúquer amb transport públic?
 Has estat mai a Suera?
 Nosaltres vivim a Alfafar.
 Com podem anar fins a Llíria?
@@ -13721,7 +13721,7 @@ Mira'm quina és la millor manera d'anar a Estubeny amb bicicleta.
 Es pot anar a Busot sense agafar el cotxe?
 Anirem a Camporrobles amb autobús.
 El disset d'octubre hauria d'anar a Algímia d'Almonesir.
-Dijous anirem a la Llosa del Bisbe amb trasport públic.
+Dijous anirem a la Llosa del Bisbe amb transport públic.
 M'agradaria anar a les Coves de Vinromà amb tren.
 Vull anar a Benidorm amb autobús.
 Necessito un bitllet de tren per anar a Toràs dimarts.
@@ -13755,7 +13755,7 @@ Va anar a Cocentaina amb bicicleta.
 Quan va ser que vam anar a Aranyel?
 Quin dia és el mercat de Begís?
 He d'anar a Oriola amb tren diumenge a les sis.
-Quina és la millor manera d'anar a Catarroja amb trasport públic?
+Quina és la millor manera d'anar a Catarroja amb transport públic?
 Com ho puc fer per anar a Benilloba?
 Mira'm quina és la millor manera d'anar a Atzeneta del Maestrat amb moto.
 Es pot anar a Albatera amb autobús?
@@ -13788,7 +13788,7 @@ Va anar a Soneja a peu.
 Preferiria visitar Camporrobles.
 és una foto de la plaça major de Benillup.
 Quan va ser que vam anar a l'Alqueria de la Comtessa?
-Quina és la millor manera d'anar a Alaquàs amb trasport públic?
+Quina és la millor manera d'anar a Alaquàs amb transport públic?
 Com ho puc fer per anar a Benimantell?
 Es pot anar a la Romana sense agafar el cotxe?
 Anirem a Teresa de Cofrents a peu.
@@ -13801,7 +13801,7 @@ A quina hora passa el primer autobús per Càrcer dijous?
 Quines parades fa l'autobús que va a Albuixec?
 Quantes parades té el trajecte en autobús fins a Castellonet de la Conquesta?
 Quant dura el trajecte en autobús fins a Alginet?
-Com puc arribar a Dosaigües amb trasport públic?
+Com puc arribar a Dosaigües amb transport públic?
 Com ho puc fer per anar a Albaida amb tren?
 Quan passa l'autobús per Montroi?
 A quina hora arriba l'autobús de Torrevella?
@@ -13838,7 +13838,7 @@ Quantes parades té el trajecte en autobús fins a Cullera?
 Quant dura el trajecte en autobús fins a Sant Jordi?
 Com puc anar a Asp diumenge a les dotze?
 Com puc arribar a Traiguera a peu?
-Com ho puc fer per anar a Benimeli amb trasport públic?
+Com ho puc fer per anar a Benimeli amb transport públic?
 Quan passa l'autobús per Albalat dels Tarongers?
 A quina hora arriba l'autobús de Carcaixent?
 He sentit a dir que el Real de Gandia és molt bonic.
@@ -13906,7 +13906,7 @@ Es pot anar a Fageca amb cotxe?
 Anirem a Moixent sense agafar el metro.
 El disset d'octubre hauria d'anar a Nàquera.
 M'agradaria anar a Teresa a peu.
-Vull anar a Moixent amb trasport públic.
+Vull anar a Moixent amb transport públic.
 Reserva'm un bitllet de tren per anar a Sant Joanet dimecres a les dotze.
 Necessito un bitllet de tren per anar a Benasau demà.
 Dissabte he d'anar a Terrateig amb autobús.
@@ -13914,7 +13914,7 @@ A quina hora passa el primer autobús per Vilanova d'Alcolea demà passat?
 Quines parades fa l'autobús que va a Castellfort?
 Quant dura el viatge en autobús fins a Vilafermosa?
 Com puc anar a Barraques dimecres a dos quarts i cinc de set?
-Com puc arribar a Oliva amb trasport públic?
+Com puc arribar a Oliva amb transport públic?
 Com ho puc fer per anar a Burjassot a peu?
 Quan passa l'autobús per Carrícola?
 Has estat mai a Callosa d'en Sarrià?
@@ -13931,7 +13931,7 @@ Saps si cau a prop de Castellfort?
 A Alacant hi ha un castell?
 A Macastre hi anem el cinc d'agost.
 Va anar a Catral a peu.
-Quina és la millor manera d'anar a Catadau amb trasport públic?
+Quina és la millor manera d'anar a Catadau amb transport públic?
 Mira'm quina és la millor manera d'anar al Real de Gandia amb bicicleta.
 Es pot anar a Miramar sense agafar el metro?
 Anirem a Alfarrasí a peu.
@@ -13983,7 +13983,7 @@ Quant dura el viatge en autobús fins a Culla?
 Quantes parades té el trajecte en autobús fins a Montcada?
 Quant dura el trajecte en autobús fins a Sanet i els Negrals?
 Com puc anar a Torís dilluns a les cinc?
-Com puc arribar a Orxeta amb trasport públic?
+Com puc arribar a Orxeta amb transport públic?
 Quan passa l'autobús per Herbers?
 A quina hora arriba l'autobús de Santa Magdalena de Polpís?
 Has estat mai a Massamagrell?
@@ -14010,8 +14010,8 @@ Es pot anar a Xeresa a peu?
 Anirem a la Pobla de Sant Miquel sense agafar el cotxe.
 El cinc d'agost hauria d'anar a Catarroja.
 El dos de juny anirem a Benifato sense agafar el metro.
-M'agradaria anar a Benaguasil amb trasport públic.
-Vull anar a Monòver amb trasport públic.
+M'agradaria anar a Benaguasil amb transport públic.
+Vull anar a Monòver amb transport públic.
 Demà passat he d'anar a Atzeneta d'Albaida amb autobús.
 A quina hora passa el primer autobús per Benigembla diumenge?
 Quines parades fa l'autobús que va a la Vilavella?
@@ -14045,7 +14045,7 @@ Quina és la millor manera d'anar a Benlloc sense agafar el cotxe?
 Com ho puc fer per anar a Bolulla?
 Mira'm quina és la millor manera d'anar a Benigembla amb bicicleta.
 Es pot anar a Benilloba amb autobús?
-Anirem a l'Alfàs del Pi amb trasport públic.
+Anirem a l'Alfàs del Pi amb transport públic.
 Dimecres hauria d'anar a Muro.
 Dimarts anirem a Nàquera amb bicicleta.
 Vull anar a Vilanova d'Alcolea amb tren.
@@ -14093,7 +14093,7 @@ Quant dura el viatge en autobús fins a Puçol?
 Quantes parades té el trajecte en autobús fins a Fontanars dels Alforins?
 Quant dura el trajecte en autobús fins a Olocau?
 Com puc anar a Llocnou de Sant Jeroni demà passat a les sis?
-Com puc arribar a Daimús amb trasport públic?
+Com puc arribar a Daimús amb transport públic?
 Com ho puc fer per anar a Xest amb cotxe?
 A quina hora arriba l'autobús de Llíber?
 A Aielo de Malferit hi ha estació de tren?
@@ -14141,13 +14141,13 @@ L'altre dia el vaig veure per Montcada.
 Saps si cau a prop de Torres Torres?
 No sé on cau Massanassa.
 A Cullera hi anem diumenge.
-Va anar a Benicolet amb trasport públic.
+Va anar a Benicolet amb transport públic.
 és una foto de la plaça major de la Font de la Figuera.
 Quan va ser que vam anar a Argeleta?
 He d'anar a Alzira amb cotxe demà a les vuit.
 Quina és la millor manera d'anar a Ademús amb bicicleta?
 Com ho puc fer per anar al Toro?
-Mira'm quina és la millor manera d'anar a Benirredrà amb trasport públic.
+Mira'm quina és la millor manera d'anar a Benirredrà amb transport públic.
 Es pot anar a Argeleta amb bicicleta?
 Anirem a Benicull de Xúquer amb moto.
 Demà hauria d'anar a Artana.
@@ -14220,7 +14220,7 @@ Quan va ser que vam anar a la Pobla d'Arenós?
 Quin dia és el mercat d'Aielo de Malferit?
 He d'anar a Tollos amb tren dilluns a les dues.
 Quina és la millor manera d'anar a Torreblanca amb bicicleta?
-Mira'm quina és la millor manera d'anar a Oliva amb trasport públic.
+Mira'm quina és la millor manera d'anar a Oliva amb transport públic.
 Anirem a Llocnou d'en Fenollet sense agafar el cotxe.
 El dos de juny hauria d'anar a Alzira.
 Divendres anirem a Atzeneta d'Albaida amb tren.
@@ -14256,14 +14256,14 @@ Preferiria visitar Godelleta.
 Quan va ser que vam anar a Benifaió?
 Quin dia és el mercat de Costur?
 He d'anar a Godelleta amb tren diumenge a la una.
-Quina és la millor manera d'anar a Caudete de las Fuentes amb trasport públic?
+Quina és la millor manera d'anar a Caudete de las Fuentes amb transport públic?
 Com ho puc fer per anar a Daia Nova?
 Mira'm quina és la millor manera d'anar a Paiporta amb tren.
 Es pot anar a Benimassot a peu?
 Anirem a Benidorm a peu.
 Diumenge anirem a la Vilavella amb bicicleta.
 M'agradaria anar a Sot de Ferrer a peu.
-Vull anar a Torres Torres amb trasport públic.
+Vull anar a Torres Torres amb transport públic.
 Reserva'm un bitllet de tren per anar a Gaibiel dissabte a les cinc.
 Necessito un bitllet de tren per anar a Portell de Morella dilluns.
 Divendres he d'anar a la Vilavella amb autobús.
@@ -14305,7 +14305,7 @@ Necessito un bitllet de tren per anar a Daimús dissabte.
 El cinc d'agost he d'anar a la Font de la Figuera amb autobús.
 Quant dura el viatge en autobús fins a Montanejos?
 Com puc arribar a Santa Pola a peu?
-Com ho puc fer per anar a Tollos amb trasport públic?
+Com ho puc fer per anar a Tollos amb transport públic?
 Quan passa l'autobús per Tírig?
 A quina hora arriba l'autobús d'Anna?
 Has estat mai a Toixa?
@@ -14331,10 +14331,10 @@ Quina és la millor manera d'anar a l'Énova amb autobús?
 Com ho puc fer per anar a Ondara?
 Mira'm quina és la millor manera d'anar a Benijòfar amb tren.
 Es pot anar a Canet d'en Berenguer amb bicicleta?
-Anirem a Gaianes amb trasport públic.
+Anirem a Gaianes amb transport públic.
 Dimarts hauria d'anar a Quartell.
 Demà anirem a l'Alqueria d'Asnar amb moto.
-M'agradaria anar a Vilar de Canes amb trasport públic.
+M'agradaria anar a Vilar de Canes amb transport públic.
 Vull anar a Tollos sense agafar el metro.
 Necessito un bitllet de tren per anar a la Vall de Gallinera dimarts.
 Demà passat he d'anar a Real amb autobús.
@@ -14342,7 +14342,7 @@ A quina hora passa el primer autobús per Sagunt demà?
 Quantes parades té el trajecte en autobús fins a Monòver?
 Com puc anar a Sempere el disset d'octubre a les sis?
 Com puc arribar al Poble Nou de Benitatxell amb tren?
-Com ho puc fer per anar a Torres Torres amb trasport públic?
+Com ho puc fer per anar a Torres Torres amb transport públic?
 Quan passa l'autobús per Almassora?
 He sentit a dir que Sumacàrcer és molt bonic.
 Aquest cap de setmana m'agradaria anar a la Vall d'Alba.
@@ -14430,7 +14430,7 @@ Anirem a Beniatjar amb autobús.
 Dimarts hauria d'anar a Estubeny.
 Divendres anirem a Soneja sense agafar el metro.
 M'agradaria anar a Vilafranca amb moto.
-Vull anar a Cortes de Pallars amb trasport públic.
+Vull anar a Cortes de Pallars amb transport públic.
 Necessito un bitllet de tren per anar a Almassora demà passat.
 Dimarts he d'anar a Riola amb autobús.
 Quant dura el viatge en autobús fins a Casinos?
@@ -14461,7 +14461,7 @@ Mira'm quina és la millor manera d'anar a Fontanars dels Alforins amb moto.
 Es pot anar a Vilanova d'Alcolea amb tren?
 Anirem a Sollana a peu.
 L'onze de juliol hauria d'anar a Llaurí.
-Demà anirem a Santa Pola amb trasport públic.
+Demà anirem a Santa Pola amb transport públic.
 M'agradaria anar a Llíber amb tren.
 Vull anar a Guadassuar a peu.
 Necessito un bitllet de tren per anar a Montitxelvo el cinc d'agost.
@@ -14525,7 +14525,7 @@ He d'anar a Llocnou de Sant Jeroni amb moto demà passat a les cinc.
 Quina és la millor manera d'anar a Catí amb tren?
 Mira'm quina és la millor manera d'anar a Aras de los Olmos amb moto.
 Es pot anar a Quesa sense agafar el cotxe?
-Anirem a Sant Joan de Moró amb trasport públic.
+Anirem a Sant Joan de Moró amb transport públic.
 Dimecres hauria d'anar a Vinalesa.
 Diumenge anirem a Onil amb moto.
 M'agradaria anar a la Font d'en Carròs a peu.
@@ -14564,7 +14564,7 @@ Anirem a Llucena a peu.
 Dissabte hauria d'anar a Navarrés.
 El dos de juny anirem a Coix amb cotxe.
 M'agradaria anar a Llocnou d'en Fenollet amb moto.
-Vull anar a l'Alcora amb trasport públic.
+Vull anar a l'Alcora amb transport públic.
 Necessito un bitllet de tren per anar a Algímia d'Alfara demà passat.
 Dijous he d'anar a Figueres amb autobús.
 Quant dura el trajecte en autobús fins a Almoines?
@@ -14592,7 +14592,7 @@ Es pot anar a Benafigos a peu?
 Anirem a Palma de Gandia amb cotxe.
 L'onze de juliol hauria d'anar a Loriguilla.
 Dissabte anirem a Albalat de la Ribera amb cotxe.
-M'agradaria anar a Vallada amb trasport públic.
+M'agradaria anar a Vallada amb transport públic.
 Vull anar a Alaquàs a peu.
 Necessito un bitllet de tren per anar a Aín demà.
 Divendres he d'anar a Cabanes amb autobús.
@@ -14621,15 +14621,15 @@ Preferiria visitar Herbers.
 és una foto de la plaça major de la Vall de Laguar.
 Quin dia és el mercat de Moncofa?
 He d'anar a Torralba amb bicicleta demà a les onze.
-Quina és la millor manera d'anar a Parcent amb trasport públic?
+Quina és la millor manera d'anar a Parcent amb transport públic?
 Com ho puc fer per anar a Torres Torres?
 Mira'm quina és la millor manera d'anar a Benifaió amb bicicleta.
 Es pot anar a Benaguasil amb cotxe?
-Anirem a Rocafort amb trasport públic.
+Anirem a Rocafort amb transport públic.
 Demà passat hauria d'anar a Castellfort.
 Dijous anirem a Callosa de Segura amb autobús.
 M'agradaria anar a Cases Baixes sense agafar el metro.
-Vull anar a Benissanó amb trasport públic.
+Vull anar a Benissanó amb transport públic.
 Necessito un bitllet de tren per anar a Carcaixent dijous.
 Dimarts he d'anar a Estubeny amb autobús.
 A quina hora passa el primer autobús per Càlig dimecres?
@@ -14695,7 +14695,7 @@ Saps si cau a prop de Rocafort?
 A Burjassot hi ha un castell?
 No sé on cau Carcaixent.
 A Benissa hi anem divendres.
-Va anar a Tollos amb trasport públic.
+Va anar a Tollos amb transport públic.
 He d'anar a Bèlgida a peu divendres a les onze.
 Quina és la millor manera d'anar a Castelló de la Plana amb cotxe?
 Com ho puc fer per anar a Beneixida?
@@ -14703,7 +14703,7 @@ Mira'm quina és la millor manera d'anar a Xella amb tren.
 Es pot anar a la Pobla de Vallbona amb bicicleta?
 Anirem a Barx a peu.
 Demà hauria d'anar a Ontinyent.
-Dijous anirem a Alfara de la Baronia amb trasport públic.
+Dijous anirem a Alfara de la Baronia amb transport públic.
 M'agradaria anar a Carlet amb tren.
 Reserva'm un bitllet de tren per anar a Catral dimarts a les cinc.
 Necessito un bitllet de tren per anar a Manises el vint-i-tres de maig.
@@ -14713,7 +14713,7 @@ Quines parades fa l'autobús que va a Benissa?
 Quant dura el viatge en autobús fins a Benejússer?
 Quant dura el trajecte en autobús fins a Rotglà i Corberà?
 Com puc anar a Crevillent l'onze de juliol a la nit?
-Com puc arribar a Palmera amb trasport públic?
+Com puc arribar a Palmera amb transport públic?
 Com ho puc fer per anar al Camp de Mirra sense agafar el metro?
 Has estat mai a Lludient?
 A Nules hi ha estació de tren?
@@ -14738,7 +14738,7 @@ Quina és la millor manera d'anar a Xestalgar amb autobús?
 Com ho puc fer per anar a Benimarfull?
 Mira'm quina és la millor manera d'anar a Assuévar amb cotxe.
 Es pot anar a Alzira sense agafar el cotxe?
-Anirem a Ador amb trasport públic.
+Anirem a Ador amb transport públic.
 Divendres hauria d'anar a Estubeny.
 Dilluns anirem a Xeresa amb tren.
 M'agradaria anar a Montesa sense agafar el metro.
@@ -14772,10 +14772,10 @@ Quin dia és el mercat de Xacarella?
 He d'anar a Alfafar amb moto el disset d'octubre a les vuit.
 Com ho puc fer per anar a Vinaròs?
 Mira'm quina és la millor manera d'anar a Alacant amb tren.
-Es pot anar a Figueroles de Domenyo amb trasport públic?
+Es pot anar a Figueroles de Domenyo amb transport públic?
 Anirem a Xella amb cotxe.
 El cinc d'agost hauria d'anar a la Vall de Laguar.
-L'onze de juliol anirem a Canals amb trasport públic.
+L'onze de juliol anirem a Canals amb transport públic.
 M'agradaria anar a Alfauir amb bicicleta.
 Vull anar a Eslida sense agafar el cotxe.
 Necessito un bitllet de tren per anar a Torre Baixa demà.
@@ -14802,7 +14802,7 @@ Quin és el codi postal de Benlloc?
 Per anar a Alboraia has de fer molta marrada.
 A Pinet hi ha un castell?
 A l'Olleria hi anem el dos de juny.
-Va anar a Almenara amb trasport públic.
+Va anar a Almenara amb transport públic.
 és una foto de la plaça major de Benifato.
 Quan va ser que vam anar a Torreblanca?
 He d'anar a Benetússer sense agafar el metro el dos de juny al migdia.
@@ -14810,9 +14810,9 @@ Quina és la millor manera d'anar a Almàssera amb moto?
 Com ho puc fer per anar a Vilanova d'Alcolea?
 Mira'm quina és la millor manera d'anar a Alaquàs amb autobús.
 Es pot anar a Benissuera sense agafar el metro?
-Anirem a Traiguera amb trasport públic.
+Anirem a Traiguera amb transport públic.
 Diumenge hauria d'anar a Quart de les Valls.
-Diumenge anirem a Tormos amb trasport públic.
+Diumenge anirem a Tormos amb transport públic.
 M'agradaria anar a Vallibona sense agafar el cotxe.
 Vull anar a Villores amb moto.
 Necessito un bitllet de tren per anar a Xeraco diumenge.
@@ -14902,7 +14902,7 @@ Preferiria visitar Bufali.
 és una foto de la plaça major d'Almassora.
 Quin dia és el mercat de la Pobla d'Arenós?
 He d'anar al Puig de Santa Maria a peu diumenge a les vuit.
-Quina és la millor manera d'anar a Rocafort amb trasport públic?
+Quina és la millor manera d'anar a Rocafort amb transport públic?
 Com ho puc fer per anar a Xiva?
 Mira'm quina és la millor manera d'anar a Torrevella amb autobús.
 Es pot anar a Aín a peu?
@@ -14948,7 +14948,7 @@ Anirem a Llombai a peu.
 Demà passat hauria d'anar a Carrícola.
 Dissabte anirem a Peníscola amb bicicleta.
 M'agradaria anar a Manuel amb bicicleta.
-Vull anar a Almussafes amb trasport públic.
+Vull anar a Almussafes amb transport públic.
 Reserva'm un bitllet de tren per anar a Vallat dissabte a les dues.
 Necessito un bitllet de tren per anar a Domenyo demà passat.
 El vint-i-tres de maig he d'anar a Figueroles de Domenyo amb autobús.
@@ -14971,7 +14971,7 @@ Per anar a Xera has de fer molta marrada.
 Saps si cau a prop de Benidoleig?
 No sé on cau l'Alcúdia de Veo.
 A Famorca hi anem divendres.
-Va anar a Massalavés amb trasport públic.
+Va anar a Massalavés amb transport públic.
 Preferiria visitar Corbera.
 és una foto de la plaça major de Xacarella.
 Quan va ser que vam anar a Rossell?
@@ -15019,7 +15019,7 @@ Mira'm quina és la millor manera d'anar a Quart de les Valls amb tren.
 Es pot anar a Benferri amb bicicleta?
 Anirem a Xalans sense agafar el metro.
 El cinc d'agost hauria d'anar a Alfara del Patriarca.
-L'onze de juliol anirem a Sellent amb trasport públic.
+L'onze de juliol anirem a Sellent amb transport públic.
 Vull anar a Balones amb tren.
 Necessito un bitllet de tren per anar a Manises dimecres.
 Dijous he d'anar a Teresa amb autobús.
@@ -15076,7 +15076,7 @@ A el Real de Gandia hi anem diumenge.
 Va anar a Meliana sense agafar el cotxe.
 Preferiria visitar l'Eliana.
 Quin dia és el mercat de l'Alcúdia de Crespins?
-Quina és la millor manera d'anar a Vallés amb trasport públic?
+Quina és la millor manera d'anar a Vallés amb transport públic?
 Com ho puc fer per anar al Ràfol de Salem?
 Mira'm quina és la millor manera d'anar a la Todolella amb cotxe.
 Es pot anar a Canet lo Roig a peu?
@@ -15084,7 +15084,7 @@ Anirem a l'Alguenya amb cotxe.
 Divendres hauria d'anar a Vilafermosa.
 Demà anirem a Quart de Poblet sense agafar el cotxe.
 M'agradaria anar a Alfara del Patriarca sense agafar el metro.
-Vull anar a la Torre d'en Besora amb trasport públic.
+Vull anar a la Torre d'en Besora amb transport públic.
 Necessito un bitllet de tren per anar a Aielo de Malferit el disset d'octubre.
 Dimecres he d'anar a Llanera de Ranes amb autobús.
 A quina hora passa el primer autobús per Almoradí dimarts?
@@ -15287,7 +15287,7 @@ Va anar a Sacanyet amb tren.
 Quan va ser que vam anar a Almenara?
 Mira'm quina és la millor manera d'anar a Beniardà amb tren.
 Es pot anar a Massalfassar a peu?
-Anirem a Matet amb trasport públic.
+Anirem a Matet amb transport públic.
 Dijous hauria d'anar a la Todolella.
 El vint-i-tres de maig anirem a Benigembla sense agafar el metro.
 M'agradaria anar a Tollos amb bicicleta.
@@ -15368,7 +15368,7 @@ Quant dura el viatge en autobús fins a Castalla?
 Quantes parades té el trajecte en autobús fins a Figueroles de Domenyo?
 Com puc anar a l'Olleria l'onze de juliol al matí?
 Com puc arribar a Miramar amb tren?
-Com ho puc fer per anar a Algímia d'Almonesir amb trasport públic?
+Com ho puc fer per anar a Algímia d'Almonesir amb transport públic?
 Quan passa l'autobús per Terrateig?
 Has estat mai a Xelva?
 He sentit a dir que la Jana és molt bonic.
@@ -15385,11 +15385,11 @@ Va anar a Portell de Morella amb autobús.
 Quin dia és el mercat d'Estubeny?
 Quina és la millor manera d'anar a Matet sense agafar el metro?
 Com ho puc fer per anar a Castellonet de la Conquesta?
-Mira'm quina és la millor manera d'anar a Titaigües amb trasport públic.
+Mira'm quina és la millor manera d'anar a Titaigües amb transport públic.
 Anirem a Fontanars dels Alforins amb tren.
-El cinc d'agost anirem a Llíria amb trasport públic.
+El cinc d'agost anirem a Llíria amb transport públic.
 M'agradaria anar a Fageca amb tren.
-Vull anar al Genovés amb trasport públic.
+Vull anar al Genovés amb transport públic.
 Reserva'm un bitllet de tren per anar a Montesa divendres a la nit.
 Necessito un bitllet de tren per anar a Formentera del Segura dissabte.
 Dimecres he d'anar a Alpont amb autobús.
@@ -15398,7 +15398,7 @@ Quines parades fa l'autobús que va a Montroi?
 Quantes parades té el trajecte en autobús fins a Vilanova d'Alcolea?
 Com puc anar a Castelló de Rugat dijous a les dues?
 Com puc arribar a Oliva amb tren?
-Com ho puc fer per anar a Catí amb trasport públic?
+Com ho puc fer per anar a Catí amb transport públic?
 Quan passa l'autobús per Petrés?
 A quina hora arriba l'autobús de Famorca?
 Has estat mai a Benidorm?
@@ -15414,7 +15414,7 @@ L'altre dia el vaig veure per Salem.
 Té una casa a Quesa.
 Quin és el codi postal de Llíria?
 A les Fonts d'Aiòder hi anem el cinc d'agost.
-Va anar a Calles amb trasport públic.
+Va anar a Calles amb transport públic.
 Preferiria visitar Burjassot.
 és una foto de la plaça major de Llocnou de la Corona.
 He d'anar a Tales amb bicicleta diumenge a dos quarts de tres.
@@ -15433,7 +15433,7 @@ Quant dura el viatge en autobús fins a Vilamarxant?
 Quant dura el trajecte en autobús fins a Quart de Poblet?
 Com puc anar a Teulada demà al vespre?
 Com puc arribar a Cinctorres amb bicicleta?
-Com ho puc fer per anar a Altea amb trasport públic?
+Com ho puc fer per anar a Altea amb transport públic?
 A quina hora arriba l'autobús de Càrcer?
 A Godella hi ha estació de tren?
 He sentit a dir que Albalat de la Ribera és molt bonic.
