@@ -26,10 +26,10 @@ The TeMU-BSC agrees that Mozilla may publish these contributions under the CC0 p
 The TeMU-BSC agrees that Mozilla may publish these contributions under the CC0 public domain dedication available at https://creativecommons.org/publicdomain/zero/1.0/legalcode. We, therefore, agree to waive all copyright and related or neighbouring rights together with all associated claims and causes of action with respect to these contributions to the extent possible under the law.
 
 ### frases_diccionaris_enciclopedia.txt
-20k sentences from <a href="https://www.enciclopedia.cat/">"Diccionaris de l'Enciclopèdia"</a>, published here under CC0 licence by the included "CC0 waiver", to be used in the Common voice platform.
+20k sentences from <a href="https://www.enciclopedia.cat/">"Diccionaris de l'Enciclopèdia"</a>, published here under CC0 licence by the included <a href="https://github.com/TeMU-BSC/catalan_CC0_sentences/blob/main/contribution_agmt/Common%20Voice%20ContributionAgmt%20-%20%5B1722573%5D%20-%20Enciclopedia%20Catalana.pdf">"CC0 waiver"</a>, to be used in the Common voice platform.
 
 ### frases_spl.txt 
-1711 sentences created by <a href="https://llengua.gencat.cat/ca/direccio_general_politica_linguistica/">Secretaria de política lingüística</a>  (Linguistic Policy Office, from the Catalan government) for this project, published here for the first time, and covered as CC0 by the included "CC0 waiver" (see <a href="https://github.com/TeMU-BSC/catalan_CC0_sentences/blob/main/SPL_CC0_waiver.pdf">SPL_CC0_waiver.pdf</a>)
+1711 sentences created by <a href="https://llengua.gencat.cat/ca/direccio_general_politica_linguistica/">Secretaria de política lingüística</a>  (Linguistic Policy Office, from the Catalan government) for this project, published here for the first time, and covered as CC0 by the included "CC0 waiver" (see <a href="https://github.com/TeMU-BSC/catalan_CC0_sentences/blob/main/contribution_agmt/SPL_CC0_waiver.pdf">SPL_CC0_waiver.pdf</a>)
 
 ### frases_toponimia_valenciana_balear.txt
 15451 sentences generated with substituition templates for this project, published here for the first time.
