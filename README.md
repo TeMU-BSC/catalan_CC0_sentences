@@ -36,12 +36,6 @@ The TeMU-BSC agrees that Mozilla may publish these contributions under the CC0 p
 
 The TeMU-BSC agrees that Mozilla may publish these contributions under the CC0 public domain dedication available at https://creativecommons.org/publicdomain/zero/1.0/legalcode. We, therefore, agree to waive all copyright and related or neighbouring rights together with all associated claims and causes of action with respect to these contributions to the extent possible under the law.
 
-### frases_wikidata.txt
-18577 sentences generated with substituition templates for this project with wikidata data, published here for the first time.
-
-The TeMU-BSC agrees that Mozilla may publish these contributions under the CC0 public domain dedication available at https://creativecommons.org/publicdomain/zero/1.0/legalcode. We, therefore, agree to waive all copyright and related or neighbouring rights together with all associated claims and causes of action with respect to these contributions to the extent possible under the law.
-
-
 ### generades_spl_seleccionades.txt
 4469 new sentences, generated from frases_spl, and semi-authomaticaly doing masking with <a href="https://huggingface.co/bsc/roberta-base-ca-cased">bsc/roberta-base-ca-cased</a> transfromer model, and keeping only the well-formed ones.
 
@@ -73,9 +67,10 @@ The TeMU-BSC agrees that Mozilla may publish these contributions under the CC0 p
 The TeMU-BSC agrees that Mozilla may publish these contributions under the CC0 public domain dedication available at https://creativecommons.org/publicdomain/zero/1.0/legalcode. We, therefore, agree to waive all copyright and related or neighbouring rights together with all associated claims and causes of action with respect to these contributions to the extent possible under the law.
 
 ### wikidata_sentences.txt
-17823 sentences generated from wikimedia, published here for the first time.
+18550 sentences generated with substituition templates for this project with wikidata data, published here for the first time.
 
 The TeMU-BSC agrees that Mozilla may publish these contributions under the CC0 public domain dedication available at https://creativecommons.org/publicdomain/zero/1.0/legalcode. We, therefore, agree to waive all copyright and related or neighbouring rights together with all associated claims and causes of action with respect to these contributions to the extent possible under the law.
+
 
 ## Aggregated files
 Files that aggregate files descrived before:
