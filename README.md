@@ -44,8 +44,8 @@ The TeMU-BSC agrees that Mozilla may publish these contributions under the CC0 p
 ### literatura.txt 
 366 literary sentences, published <a href="https://cultura.gencat.cat/ca/ilc/que-fem/publicacions/postals-literaries/">here</a> under a <a href="https://web.gencat.cat/en/menu-ajuda/ajuda/avis_legal/index.html">CC0 licence</a>, and edited for well-formedness and idiomacy.
 
-### marius_serra.txt
-9918 sentences by Marius Serra, who agrees to share part of his work with the Common Voice project.
+### marius_serra_sentences_1.txt
+9917 sentences by Marius Serra, who <a href="https://github.com/TeMU-BSC/catalan_CC0_sentences/blob/main/contribution_agmt/Permi%CC%81s%20AINA.jpeg">agrees</a> to share part of his work with the Common Voice project.
 
 ### more_intents.txt
 74772 new intent-like sentences, generated with substitution templates, published here for the first time. 
