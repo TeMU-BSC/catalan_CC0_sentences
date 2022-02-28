@@ -4893,7 +4893,7 @@ Potser si els tecleja lletra a lletra tindrà alguna revelació inesperada.
 Qui reprova el plaer, i de quin plaer es tracta?
 Qui exalta el dolor?
 Per més que ho rellegeix no en treu l'aigua clara.
-Qui faria un esforç físic si no sabés que en traurà algun avantatge?".
+Qui faria un esforç físic si no sabés que en traurà algun avantatge?
 El dolor i el plaer, novament, emparellats en una relació estreta.
 Un maratonià satisfet per haver baixat de les quatre hores.
 La llum se li encén allà on menys se l'esperava.
@@ -11472,8 +11472,8 @@ El calendari dels pagesos.
 Departament de Cultura de la Generalitat de Catalu­nya.
 Anglès i diverses llengües.
 Reedició ampliada el mil nou-cents noranta-sis.
-Volum vint-i-nou, núm. dos.
-Volum dinou, núm. tres.
+Volum vint-i-nou, número dos.
+Volum dinou, número tres.
 La obra de Quevedo.
 Notablement l'edició de Martin Gardner.
 Traducció a l'espa­nyol de Ramon Cerdà.
@@ -11489,13 +11489,13 @@ U.zero zero zero endevinalles catalanes.
 Un tip de riure.
 Opuscle reeditat en mil nou-cents vuitanta-dos.
 La literatura catalana d'avantguarda.
-Volum vint-i-quatre, núm. quatre.
+Volum vint-i-quatre, número quatre.
 Traducció al català Parla, memòria d'Oriol Martorell.
 Diccionari de figures retòriques i altres recursos expressius.
 De les endevinalles la Flor.Català.
-Volum tretze, núm. u.
+Volum tretze, número u.
 No la saps, aquesta?
-Volum vint-i-u, núm. tres.
+Volum vint-i-u, número tres.
 Traducció i notes a Els sofistes.
 Passar-s'ho bé i aprendre de lletra.
 Els llibres del Camacuc.
@@ -11504,10 +11504,10 @@ Segona edició de mil nou-cents noranta-sis.
 Publicacions de l'Abadia de Montser­rat.
 Diccionari d'homònims i parònims.
 Reedició facsímil el mil nou-cents noranta-dos.
-Nou, núm. tres, quatre-cents vint-i-nou-quatre-cents trenta-vuit.
+Nou, número tres, quatre-cents vint-i-nou-quatre-cents trenta-vuit.
 Edició a Ariel de mil nou-cents vuitanta-tres.
 Traducció catalana Gramàtica de la fantasia.
-Els Marges, núm. quatre.
+Els Marges, número quatre.
 Citat per Josep bargalló al Manual de mètrica i versificació catalanes .
 «Una poètica del Bar­roc: el Parnàs català».
 Francesc Vicent Garcia: Assaig d'Edició crítica.
@@ -11524,7 +11524,7 @@ Els seixanta-cinc millors crucigrames de Màrius Ser­ra i Pau Vidal per tenir s
 Literatura i teoria del coneixement.
 Primer llibre dels mots encreuats de l'Avui Català.
 Segona edició a la biblioteca de la Universitat de Manchester.
-Volum cinc, núm.u.
+Volum cinc, número u.
 Les mots sous les mots.
 Vegeu guillem del món.
 Reedicions augmentades de mil cinc-cents vuitanta-cinc, mil cinc-cents vuitanta-vuit, mil cinc-cents noranta-u, mil sis-cents tres, mil sis-cents vuit, mil sis-cents catorze, mil sis-cents setze, mil sis-cents vint-i-cinc i mil sis-cents seixanta-dos.
@@ -11535,7 +11535,7 @@ El luxe del llenguatge.
 Una introducció a la cultura alfabètica.
 Vint-i-vuit de febrer de mil nou-cents u.
 «Un poema en monosíl·labs de Guillem Roca i Reus: Tu te'n vas.
-Dins el núm. cinquanta-dos de la Revista Randa.
+Dins el número cinquanta-dos de la Revista Randa.
 Traducció al català d'Àlvar Valls.
 Traducció al català de Josep Maria Ter­ricabras.
 Edició a cura d'Antonio Car­reira i Jesús Antonio Cid.
@@ -11586,7 +11586,7 @@ Aigua de Mar Edicions.
 «En forma de labirinto» dins Antologia de poetes catalans.
 Galàxia Gutenberg-Cercle de Lectors.
 Teoria de les ics.
-Volum deu, núm. tres.
+Volum deu, número tres.
 Traducció catalana de Carles Riba.
 Traducció catalana El port de les aromes.
 Escrita el mil nou-cents vint-i-sis-vint-i-set.
@@ -11594,7 +11594,7 @@ Reedició cor­regida de mil nou-cents setanta-tres.
 Traduccions al català Alícia en ter­ra de meravelles de Josep Carner.
 Barcelona, mil nou-cents setanta-u i Alícia al país de les meravelles de Salvador Oliva.
 Text i traducció al català de Josep Antoni Clua.
-«Senhal», núm. trenta-nou.
+«Senhal», número trenta-nou.
 Antologia filosòfica editada per Miquel Batllori.
 Traducció al català de Joan-Francesc Mira Pedres de volcà.
 Marcial, Marc Valeri s. i dC.
@@ -18680,7 +18680,7 @@ Mon oncle està fet un dandi.
 El monjo li assegura que encara no l'ha visitat.
 Mon oncle troba un full quadriculat al calaix i me l'ensenya.
 Pare del cel em perdoni a mi i ens beneeixi.
-Apòstols perquè puguin escampar la seva doctrina en totes les llengües del món".
+Apòstols perquè puguin escampar la seva doctrina en totes les llengües del món.
 ¿Deu recordar la inacabada, després de mig segle de no escoltar-la?
 ¿Què pensarà quan senti els fragments ratllats de l'enregistrament?
 ¿Alguna mena de jaculatòries musicals?
@@ -20556,7 +20556,7 @@ Cada matí unes quantes dragees de dolor.
 Paquets de llibres i revistes per subscripció.
 L'oncle Joan generava molta paperassa.
 La primera és una nota anònima.
-El més famós possiblement De contemplatione".
+El més famós possiblement "De contemplatione".
 El núvol del no saber, sil·labeja la Dols.
 L'altra resposta li crida més l'atenció.
 La titlla de parcialment incorrecta.
@@ -27707,7 +27707,7 @@ El País en va ple.
 Això sí que és una operació mediàtica!
 Em sento un privilegiat.
 Aquest febrer no passo gens de fred.
-Marcel i el va fer parpellejar".
+Marcel i el va fer parpellejar.
 Admetre-ho ara i aquí no vol dir res més que constatar-ho.
 "així és com va anar".
 De com s'escriu una novel·la.
@@ -28192,7 +28192,7 @@ Després em proposa diversos finals per a "Monocle".
 Les protestes del sector populista van arribar al carrer.
 És una solució de reciclatge, però no està malament.
 És un final gamberro.
-La mare val més que una figura de vidre".
+La mare val més que una figura de vidre.
 Sí, aquest "quan m'hi posi" em té una mica amoïnat.
 I si no em surt res?
 I si em torno a quedar bloquejat?
@@ -28219,8 +28219,8 @@ Volia saber quin era el missatge ocult.
 L'escriptor quedava encallat i no aconseguia acabar-la.
 "Documentació" i, pel meu gust, sí que va reeixir.
 No em documento pas, ara.
-Per la tarda, he anat a nedar".
-Potser serviria per acabar de resoldre situacions sentimentals entre els personatges".
+Per la tarda, he anat a nedar.
+Potser serviria per acabar de resoldre situacions sentimentals entre els personatges.
 Ho sento, però no.
 Plantejament cent setze que la tesi binocular agradaria a amplis sectors de la societat.
 Tant m'és que sigui un final progressista, interclassista o democratitzador.
@@ -28268,7 +28268,7 @@ Queimada, avui m'he trobat una collita acumulada de disset finals.
 Aquesta és una primera impressió, és clar.
 La proposta que suscita aquest comentari és inversemblant.
 Poques vegades un dissenyador de fonts acaba a la nòmina dels artistes.
-Dos ulls de vidre com a reflex del rostre humà".
+Dos ulls de vidre com a reflex del rostre humà.
 Cal reconèixer que és una fórmula neta i clara.
 Quinze, setze...
 "Monocle" no torna a l'hospital sinó que queda en un museu.
@@ -31140,7 +31140,7 @@ També en el darrer; molts dels meus amics coneixen les meves aficions cleptòma
 La cueta feia referència al meu enllaç matrimonial.
 Ha estat justament arran del casament que he rebut més regals enigmístics.
 I gairebé tothom s'ha escarrassat a fer anagrames.
-Curiós, morbós i preable anagrama".
+Curiós, morbós i preable anagrama.
 No tornarà a passar.
 La seva perversitat congènita suscita, encara avui, càlids homenatges i conductes perilloses.
 Però crucigrama no figura al diccionari normatiu.
@@ -31272,7 +31272,7 @@ No serà que juguen amb la tipografia per aconseguir encapçalaments interessant
 Jo crec que els compaginadors s'ho han passat pipa.
 Sobre el paper, molt millor.
 Com per exemple els anomenats llibres de text.
-La ira rebrota: falta la calma".
+La ira rebrota: falta la calma.
 Assistim, meravellats, als avatars de la vida normal i l'onírica.
 Que després d'una causa hi hagi sempre un efecte.
 Que els significats no es barregin.
@@ -31423,7 +31423,7 @@ Sort i bona diada!
 Però el criptògraf llatí va esperar un trimestre abans de desvelar el misteri.
 Un cop més, Kepler s'hi va trencar les banyes.
 Heu de saber que esteu tractant amb honestos alemanys...
-Considereu les dificultats que el vostre silenci em causa".
+Considereu les dificultats que el vostre silenci em causa.
 Que facin mots encreuats, si volen emular Galileu.
 Algunes són paraules expressament invocades per a l'ocasió.
 Altrament l'article l'hauria de cobrar ell.
@@ -31485,7 +31485,7 @@ Totes aquestes paraules formen part de l'univers de referències del pacient.
 De fet, l'home admet haver-les sentides en una conversa familiar recent.
 Ella es veurà obligada a recollir peces i peixos del terra.
 "Sense la trena, el tren es pansia", hi llegim.
-La novel·la del Nobel ".
+La novel·la del Nobel.
 En reproduïm més encara.
 De peix —Gregueria: la rapa és l'espina escurada del rap—.
 Els criteris d'aquesta ordenació varien.
@@ -31494,7 +31494,7 @@ Encara que les successives reformes educatives semblin oblidar-ho.
 Tots els senyals de trànsit existeixen i, naturalment, permetrien altres relats menys esquemàtics.
 La lletra que cada capítol porta al títol indica la constricció.
 Bon i etílic Nadal.
-Estic farta de paraules".
+Estic farta de paraules.
 Alguns es poden reproduir complets sense haver de saltar-se cap línia.
 Car, interessant i ben editat.
 La resposta sembla clara.
@@ -31544,7 +31544,7 @@ Sessió prové de seure, i té una intersecció semàntica amb la lectura.
 Hem quedat que bo pot ser sinònim de dolent, no?
 Altrament resulta molt difícil elaborar un text narratiu intel·ligible.
 Tampoc els creatius de la casa Educa inventen gran cosa.
-Per tant, alguns nous pastissos són no-bons"...
+Per tant, alguns nous pastissos són no-bons...
 Els jugadors feien cases, esglésies i castells en miniatura per poder jugar.
 Potser el que ell anomena "joc mental" sigui el que fa més patxoca.
 Els problemes de lògica cobreixen un vast territori de l'enigmística internacional.
@@ -31566,7 +31566,7 @@ Romans ens proposava dues línies.
 Res no feia presagiar que el meu comentari sorneguer tingués cap validesa.
 La conclusió és que el virus s'escampa amb una força insospitada.
 En canvi, el titular desmentia de forma terminant la suposada immunitat.
-Més aviat sóc una mandarina".
+Més aviat sóc una mandarina.
 El nom en dues caselles i dues caselles més per a la puntuació.
 La Baixa Cerdanya no es quedaria pas enrere.
 Del seu territori sorgiria amb insòlita modèstia un clàssic desaprofitat dels mots encreuats.
@@ -31591,7 +31591,7 @@ Sobretot quan es tracta de la hac interior.
 On hauria anat a parar, un "boemi"?
 I en quin "veïcle"?
 Però la història dels epònims no és cap crònica de fracassos.
-En commemoració de la independència de Selva".
+En commemoració de la independència de Selva.
 Tampoc l'enèsima amenaça sobre seguretat vial de la Direcció General de Tràfic.
 Ni un eslògan electoral lituà.
 És la novel·la més actual de la literatura catalana.
@@ -31685,7 +31685,7 @@ El gendre de "Mistigrì" va fent via.
 Hi ha hagut molts Papes juganers.
 Aquest dos mil que ara s'acaba no és un any qualsevol.
 Els italians fan "blu" pel fosc i "azzuro" pel clar.
-Això m'ha animat a buscar parelles en català-llatí".
+Això m'ha animat a buscar parelles en català-llatí.
 Ja m'estan bé, aquests nous paradisos fluvials.
 Però jo hi canviaria un petit detall.
 Això és el que vull ser quan sigui gran.
@@ -31739,7 +31739,7 @@ Torressin verd l'Absurd, i en calbes roses.
 La resta és literatura.
 Com un programa cultural a Tele cinc, vaja!
 A cal fuster hi ha novetat.
-I omplen els dolls de vi moscat".
+I omplen els dolls de vi moscat.
 Un acte que pot atènyer la categoria de paradoxa.
 El sonet avança punyent pels camins de la paradoxa.
 La història del cal·ligrama sempre ha fascinat els heterodoxos de la literatura.
@@ -31799,8 +31799,8 @@ La vida és canvi.
 El divuitè aniversari és sempre un dels més feliços.
 Per això m'agrada tant.
 La resposta ens remet a l'essència mateixa de l'enigmística.
-Cap!" però tot seguit en fa una versió ampliada: "Una gorra, dius?
-No en vull cap!".
+"Cap!" però tot seguit en fa una versió ampliada: "Una gorra, dius?"
+No en vull cap!
 Naturalment, no es limiten a les paraules.
 En anglès, "sin", vol dir justament "pecat".
 Potser la cosina prima es diu Puri.
@@ -31884,7 +31884,7 @@ Però mai no callen.
 Són una col·lectivitat de xerraires curiosos que es deleixen per plantejar incògnites.
 Doncs resulta que "La Nit dels Ignorants" té il·lustres predecessors.
 Sempre a la capital del país veí.
-¿Donen aquestes dades una nova dimensió al problema?".
+¿Donen aquestes dades una nova dimensió al problema?
 Els antics parroquians del sis-cents seixanta-sis respirem finalment tranquils.
 L'estudi està estructurat en cercles concèntrics.
 Entre els mots destaca l'assumpció de l'analogia per crear neologismes.
@@ -31908,7 +31908,7 @@ El mecanisme és senzill.
 Qualsevol signe gràfic que permeti una transliteració val.
 És molt apropiat pels temps que corren.
 Potser em precipito, enviant el pobre Bartleby a l'atur.
-Titus: dóna aquesta carta a la mare".
+Titus: dóna aquesta carta a la mare.
 Els mecanismes de la definició són prou complexos.
 El corrector, adelerat, la troba escrita amb be baixa i ce trencada.
 Per transgredir, però, cal conèixer, ni que sigui d'oïda.
@@ -31951,7 +31951,7 @@ Un vuit de vuit, com si diguéssim.
 Ara ja hem assolit el nivell de la majoria de llengües europees.
 Qui s'anima a pujar un pis més?
 Els castellers ja fa temps que gosen a fer castells de nou.
-Les senyores pronuncien aquest `meu tot'amb una gràcia particular".
+Les senyores pronuncien aquest "meu tot" amb una gràcia particular.
 El cert és que les xarades més famoses ens arriben de França.
 També els autors anglesos van entrar en el joc.
 No cal ser molt sagaç per descobrir la resposta.
@@ -32103,13 +32103,13 @@ Allò els devia conhortar.
 Ja Ramon Llull, gens sospitós d'espanyolisme, l'usava.
 En català, el llenguatge figurat va espiritualitzar aquest transport.
 De tota manera, sembla que ho han encaixat prou esportivament.
-O el neguit de quedar-se a l'escapça".
+O el neguit de quedar-se a l'escapça.
 Aviat vaig adonar-me que aquella vegada era més difícil.
 Com qui no vol la cosa, van anar passant els mesos.
 Martí va intuir el perquè.
 Per tant, va aplicar la "cintura verbívora".
 Quinze minuts després tenia la frase enllestida.
-Jo, infeliç, li vaig haver de manllevar hàbilment".
+Jo, infeliç, li vaig haver de manllevar hàbilment.
 Cinc mil set-cents vint-i-tres nou mil dos-cents cinquanta-tres nou mil nou-cents vuitanta-set dos mil tres-cents seixanta-vuit cinc mil cent trenta-cinc...
 Ja he començat a preparar un nou criptograma.
 De vegades quan llegeix tradueix.
@@ -32309,8 +32309,8 @@ L'obra oberta, si ens fem ressò d'Eco.
 Un diccionari és una obra oberta per antonomàsia.
 Però això serà en un futur.
 Òbviament, la llista és variadíssima.
-Al darrera hi ha un llistat suplementari amb comentaris minimalistes: "Falstaff.
-Per prendre una aigua de València i comprar llibres".
+Al darrera hi ha un llistat suplementari amb comentaris minimalistes.
+Per prendre una aigua de València i comprar llibres.
 La porteria de la Diagonal.
 Decidiu anar a un bar alternatiu.
 Per exemple, la o i la ce dels occitans.
@@ -32502,7 +32502,6 @@ Doncs bé, això ja és història.
 Qui en dóna més?
 L'estiu és llarg i les paraules capricioses.
 Si algú en troba més notícies, que ho faci saber.
-Per exemple: "Adolf Hitler.
 L'opció s'aguditza amb un tal "Jean Bonnot" que fa de xarcuter.
 Hi ha exemples flagrants.
 La traducció a l'espanyol és literal.
@@ -32523,7 +32522,7 @@ Sí, sí, quan volen dir entesos diuen no, és a dir, d'acord.
 Em temo que els catalans els imitem massa sovint.
 Molt de soroll per a no res.
 Les anècdotes es compren, es venen, es manlleven...
-Doncs Sant Privat de Bas"...
+Doncs Sant Privat de Bas...
 El nostre plantejament defugia qualsevol transcendentalisme.
 Afers, tots, ben entenedors i raonables.
 També en l'àmbit teòric.
@@ -32566,9 +32565,9 @@ En tot cas, poesia que cada cop aspira menys a ser llegida.
 Aquests pocs ulls, de tant en tant, es regalen amb noves troballes.
 Perill nu, tal vegada.
 En triem un poema.
-Ja veureu com tot canvia".
+Ja veureu com tot canvia.
 I tant que canviava!
-Bruta, en aquest cas la de tan notable personatge".
+Bruta, en aquest cas la de tan notable personatge.
 Però ara ja he fet tard.
 Darrerament és difícil sopar amb algú que no et parli de guerra.
 Però arriba un moment que la gent no s'ho empassa.
@@ -32579,7 +32578,7 @@ Però la calculadora servia i serveix també per a jugar.
 Alguna altra vegada hem parlat de les estranyes relacions entre números i lletres.
 A la tornada, entusiasmats per l'experiència, decideixen posar-se a viure junts.
 El temps va passant dolçament de mica en mica.
-¿Qui els visitarà al cap de nou mesos?".
+¿Qui els visitarà al cap de nou mesos?
 En concret, cent noranta-un mil nou-cents trenta-dos multiplicat per dos més nou.
 Tres-cents vuitanta-tres mil vuit-cents setanta-tres- admet una lectura prosaica.
 L'únic perill, com en tot, és obsessionar-s'hi.
@@ -32690,7 +32689,7 @@ La del remei pitjor que la malaltia, per exemple.
 O la del foc i les brases.
 La Bíblia és un dels millors llibres que ha escrit l'home.
 Així, "camí" remet a "és la paraula dominant en aquesta estrofa.
-El terme camí, en hebreu, comença per la lletra dàlet".
+El terme camí, en hebreu, comença per la lletra dàlet.
 En canvi, en l'àmbit profà els exemples són més fàcils de trobar.
 La setmana entrant, la solució.
 I de moment aguanta.
@@ -32712,8 +32711,8 @@ Para l'orella i és capaç de fer-nos salivar.
 Alguns dels criptònims requereixen un cert context per treure partit de l'homofonia.
 No totes les seves troballes són tan rebuscades.
 La troballa més inquietant ens arriba de Barcelona.
-Laura Vila descompon Castelló de la Plana en dues frases suggerents: "Cast ell?
-Oda a la plana".
+Laura Vila descompon Castelló de la Plana en dues frases suggerents.
+Oda a la plana.
 Aquests americans no es ruboritzen per res.
 El programa és un joc de nens carrincló.
 És aquest un punt clau que molts autors haurien d'aplicar-se.
@@ -32805,7 +32804,7 @@ Hi havia una tirada que no podia sortir de cap de les maneres.
 Hi prima la idea de la dessacralització pròpia dels grans autors.
 Les pàgines setze i disset gairebé són en blanc.
 A la quaranta-vuit una veritable troballa: "Palindrama.
-Cabrera bateja la proposta de manera inequívoca: "Pornografismos".
+Cabrera bateja la proposta de manera inequívoca.
 A la vuitanta-nou hi ha un paràgraf que duu per títol "Peri Phalos".
 Cabrera ha jugat sempre amb referents reconeixibles a l'hora de titular.
 Una de les seccions del llibre és més narratiu.
@@ -33069,7 +33068,7 @@ Els lectors habituals d'aquesta columna han llegit el seu nom molts cops.
 Ja vaig intuir que això dels palíndroms era un producte de masses.
 Les entrevistes i els reportatges l'han acompanyat en els seus últims anys.
 ¿Què se'n farà ara, dels seus increïbles arxius?
-Me la vaig menjar molt a gust, la crema".
+Me la vaig menjar molt a gust, la crema.
 El nou sistema de crèdits variables ha revolucionat el món de l'ensenyament.
 Alguns jocs han resultat més positius que d'altres.
 Entre l'ensenyament i la delectança, aquesta mena de crèdits pugen i pujaran.
@@ -33297,7 +33296,7 @@ De manera que els fabricants de mots encreuats som "crucigramistes".
 Més enrevessada que el "facetious" britànic, però homologable.
 L'esquerda només havia esberlat el guix.
 La sensatesa, o el seu succedani pactat, imperava de nou per antena.
-L'analogia és obscura en la mesura que l'home mateix és obscur".
+L'analogia és obscura en la mesura que l'home mateix és obscur.
 Com si la clau tan cobejada obrís una porta tapiada.
 Que Lincoln va ser elegit president en mil vuit-cents seixanta i Kennedy en mil nou-cents seixanta.
 Tots dos van rebre un tret al cap. Tots dos en divendres.
@@ -33444,7 +33443,7 @@ Una finesa ja és tota una altra cosa.
 Les variants són infinites en tots dos sentits.
 Per al sifó cal un arpegi en registre agut.
 A l'ombra de l'auleda.
-Cada matí les fulles".
+Cada matí les fulles.
 Les possibilitats de transgredir el sentit són finites però molt elevades.
 Rudolf Ortega té trenta-cinc anys i fa de lingüista.
 El llibre, sempre amè, barreja diversió i reflexió.
@@ -33468,9 +33467,9 @@ Com l'escaquista, la informàtica o la nàutica.
 Parlar de gastronomia, per exemple.
 De fet, enigmística i gastronomia sempre han anat de la mà.
 Es tracta de Josep Abellan i Forcadell, de Barcelona.
-Una pera de la pagesa, pa, vi, cafè, copa de cava semi-sec".
+Una pera de la pagesa, pa, vi, cafè, copa de cava semi-sec.
 Arròs net ensorrat...
-Un préssec sec, prunes".
+Un préssec sec, prunes.
 Potser anirem a tastar-les.
 Poden ser parònims, homòfons o simples aproximacions.
 D'altres exemples són més escatològics.
@@ -33523,7 +33522,7 @@ Normalment, les curiositats més remarcables tenen relació amb la "història de
 Les majúscules no són meves.
 És llavors quan treus la llengua i ho entens tot.
 Tot plegat per reivindicar que es facin més inversions en la nostra llengua.
-Ara la toponímia és una altra: "www.cal-llengua.org".
+Ara la toponímia és una altra.
 I no sempre es pot.
 Quan hi arriba un assentament del registre civil redactat en català el refusen.
 Les fronteres són per travessar-les.
@@ -33553,7 +33552,7 @@ Un carrer cada dia i un bon dia serem tots al carrer.
 Si ens fixem en les lletres ja intuïm el perquè.
 Perquè cada idioma té la seva aritmètica i les quantitats no sempre quadren.
 Tot bon llibreter li ho dirà.
-Però, davant del seu text, és un zero a l'esquerra".
+Però, davant del seu text, és un zero a l'esquerra.
 Som en la franja cruel del refranyer.
 Són la cara constructiva de la tradició oral.
 Són les relatives a la qüestió nacional.
@@ -33598,7 +33597,7 @@ La tria no és un mer caprici.
 Però el catorze sí.
 Els nomenclàtors de carrers canvien sovint per qüestions polítiques.
 I excepcionalment enguany sant Jordi i sant Pasqual.
-Així ho han admès tots els meus respectables predecessors".
+Així ho han admès tots els meus respectables predecessors.
 No saben pas on s'estan ficant.
 La competició es desenvolupà en dues categories en català i dues en espanyol.
 Cada problema ben resolt atorgava vint punts.
@@ -33827,7 +33826,7 @@ Ho dic perquè hi ha anuncis impagables.
 Com el que ha aparegut recentment en diverses publicacions del nostre àmbit lingüístic.
 Com més bèsties millor.
 "Els Països Catalans tenen els seus propis rècords.
-Inscriviu la vostra marca al llibre dels Rècords catalans".
+Inscriviu la vostra marca al llibre dels Rècords catalans.
 Només els cal trobar notaris que en donin fe.
 El nostre epígraf per via materna, com si diguéssim.
 Una mena de màgia amiga cinematogràfica que provoqués bessonades xocants.

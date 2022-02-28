@@ -1,4 +1,3 @@
-# catalan_CC0_sentences
 collected CC0 sentences written in Catalan, from Public Domains and/ CC0 licences
 
 TeMU-BSC is the Text Mining Unit of the Barcelona Supercomputing Center - Centro Nacional de Supercomputación in Barcelona (Spain) 
@@ -45,7 +44,6 @@ The TeMU-BSC agrees that Mozilla may publish these contributions under the CC0 p
 366 literary sentences, published <a href="https://cultura.gencat.cat/ca/ilc/que-fem/publicacions/postals-literaries/">here</a> under a <a href="https://web.gencat.cat/en/menu-ajuda/ajuda/avis_legal/index.html">CC0 licence</a>, and edited for well-formedness and idiomacy.
 
 ### marius_serra_sentences_1.txt
-35245 sentences by <a href="https://twitter.com/mariusserra">Marius Serra</a>, who <a href="https://github.com/TeMU-BSC/catalan_CC0_sentences/blob/main/contribution_agmt/Permi%CC%81s%20AINA.jpeg">agrees</a> to share part of his work with the Common Voice project.
 
 This sentences are extracted from the following works:
 
