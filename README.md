@@ -45,7 +45,35 @@ The TeMU-BSC agrees that Mozilla may publish these contributions under the CC0 p
 366 literary sentences, published <a href="https://cultura.gencat.cat/ca/ilc/que-fem/publicacions/postals-literaries/">here</a> under a <a href="https://web.gencat.cat/en/menu-ajuda/ajuda/avis_legal/index.html">CC0 licence</a>, and edited for well-formedness and idiomacy.
 
 ### marius_serra_sentences_1.txt
-9917 sentences by Marius Serra, who <a href="https://github.com/TeMU-BSC/catalan_CC0_sentences/blob/main/contribution_agmt/Permi%CC%81s%20AINA.jpeg">agrees</a> to share part of his work with the Common Voice project.
+35245 sentences by <a href="https://twitter.com/mariusserra">Marius Serra</a>, who <a href="https://github.com/TeMU-BSC/catalan_CC0_sentences/blob/main/contribution_agmt/Permi%CC%81s%20AINA.jpeg">agrees</a> to share part of his work with the Common Voice project.
+
+This sentences are extracted from the following works:
+
+Books:
+
+- La Napeu
+- Fora de joc a Montserrat
+- Jugar-s'hi la vida
+- La novel·la de Sant Jordi
+- D'on trec el temps
+- Hawaii Lima
+- Plans de futur
+- L'arca de Babel
+- De com s'escriu una novel·la
+- Enviar i rebre
+- Farsa
+- La vida normal
+- L'home del sac
+- La llegenda de Sant Jordi
+- Mon oncle
+- Quiet
+- Res no és perfecte a Hawaii
+- Tres és massa
+- Verbàlia
+
+Mots encreuats (crosswords)
+
+Author's <a href="http://enigmisticamarius.blogspot.com/">blog</a>.
 
 ### more_intents.txt
 74772 new intent-like sentences, generated with substitution templates, published here for the first time. 
