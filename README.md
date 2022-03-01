@@ -44,7 +44,7 @@ The TeMU-BSC agrees that Mozilla may publish these contributions under the CC0 p
 366 literary sentences, published <a href="https://cultura.gencat.cat/ca/ilc/que-fem/publicacions/postals-literaries/">here</a> under a <a href="https://web.gencat.cat/en/menu-ajuda/ajuda/avis_legal/index.html">CC0 licence</a>, and edited for well-formedness and idiomacy.
 
 ### marius_serra_sentences.txt
-35244 sentences from <a href="https://twitter.com/mariusserra">Marius Serra</a>'s, work, extracted with the author's <a href="https://github.com/TeMU-BSC/catalan_CC0_sentences/blob/main/contribution_agmt/Permi%CC%81s%20AINA.jpeg">permission</a> of the author.
+35244 sentences from <a href="https://twitter.com/mariusserra">Marius Serra</a>'s, work, extracted with the author's <a href="https://github.com/TeMU-BSC/catalan_CC0_sentences/blob/main/contribution_agmt/Permi%CC%81s%20AINA.jpeg">permission</a>.
 
 This sentences are extracted from the following works:
 
