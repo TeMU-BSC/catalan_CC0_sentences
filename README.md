@@ -43,7 +43,8 @@ The TeMU-BSC agrees that Mozilla may publish these contributions under the CC0 p
 ### literatura.txt 
 366 literary sentences, published <a href="https://cultura.gencat.cat/ca/ilc/que-fem/publicacions/postals-literaries/">here</a> under a <a href="https://web.gencat.cat/en/menu-ajuda/ajuda/avis_legal/index.html">CC0 licence</a>, and edited for well-formedness and idiomacy.
 
-### marius_serra_sentences_1.txt
+### marius_serra_sentences.txt
+35244 sentences from <a href="https://twitter.com/mariusserra">Marius Serra</a>'s, work, extracted with the author's <a href="https://github.com/TeMU-BSC/catalan_CC0_sentences/blob/main/contribution_agmt/Permi%CC%81s%20AINA.jpeg">permission</a> of the author.
 
 This sentences are extracted from the following works:
 
@@ -88,7 +89,6 @@ The TeMU-BSC agrees that Mozilla may publish these contributions under the CC0 p
 - questions from VilaQuAD https://zenodo.org/record/4761430#.YW1KaJuxXOs and ViquiQuAD https://zenodo.org/record/4761412#.YW1KaZuxXOs, that we commissioned.
 - hypotesis we commissioned for the TECA dataset:    https://zenodo.org/record/4761458#.YW1KWZuxXOs
 
-The TeMU-BSC agrees that Mozilla may publish these contributions under the CC0 public domain dedication available at https://creativecommons.org/publicdomain/zero/1.0/legalcode. We, therefore, agree to waive all copyright and related or neighbouring rights together with all associated claims and causes of action with respect to these contributions to the extent possible under the law.
 
 ### sentences_from_xitxat_corpus.txt
 4154 new sentences from the XitXat corpus, written by our team, published here for the fist time.
