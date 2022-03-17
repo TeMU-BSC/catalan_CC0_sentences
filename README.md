@@ -15,12 +15,17 @@ Both the packaging and its content are under a CC0 Universal Licence.
 Please refer to <a href="https://web.gencat.cat/en/menu-ajuda/ajuda/avis_legal/index.html">web.gencat.cat/en/menu-ajuda/ajuda/avis_legal/index.html</a>
 
 ### edited_generated_selected_chatbot.txt
-2166 sentences, generated from edited_selected_chatbot.txt, and semi-authomaticaly doing masking with <a href="https://huggingface.co/bsc/roberta-base-ca-cased">bsc/roberta-base-ca-cased</a> transfromer model, and keeping only the well-formed ones.
+2166 sentences, generated from edited_selected_chatbot.txt, and semi-authomaticaly doing masking with <a href="https://huggingface.co/PlanTL-GOB-ES/roberta-base-ca">bsc/roberta-base-ca-cased</a> transfromer model, and keeping only the well-formed ones.
 
 The TeMU-BSC agrees that Mozilla may publish these contributions under the CC0 public domain dedication available at https://creativecommons.org/publicdomain/zero/1.0/legalcode. We, therefore, agree to waive all copyright and related or neighbouring rights together with all associated claims and causes of action with respect to these contributions to the extent possible under the law.
 
 ### edited_selected_chatbot.txt
 873 sentences selected from our chatbot corpus, not published already.
+
+The TeMU-BSC agrees that Mozilla may publish these contributions under the CC0 public domain dedication available at https://creativecommons.org/publicdomain/zero/1.0/legalcode. We, therefore, agree to waive all copyright and related or neighbouring rights together with all associated claims and causes of action with respect to these contributions to the extent possible under the law.
+
+### frases_agenda.txt
+160665 sentences generated with substituition templates for this project, with the municipalities of all Catalan-speaking areas, published here for the first time.
 
 The TeMU-BSC agrees that Mozilla may publish these contributions under the CC0 public domain dedication available at https://creativecommons.org/publicdomain/zero/1.0/legalcode. We, therefore, agree to waive all copyright and related or neighbouring rights together with all associated claims and causes of action with respect to these contributions to the extent possible under the law.
 
@@ -36,7 +41,7 @@ The TeMU-BSC agrees that Mozilla may publish these contributions under the CC0 p
 The TeMU-BSC agrees that Mozilla may publish these contributions under the CC0 public domain dedication available at https://creativecommons.org/publicdomain/zero/1.0/legalcode. We, therefore, agree to waive all copyright and related or neighbouring rights together with all associated claims and causes of action with respect to these contributions to the extent possible under the law.
 
 ### generades_spl_seleccionades.txt
-4469 new sentences, generated from frases_spl, and semi-authomaticaly doing masking with <a href="https://huggingface.co/bsc/roberta-base-ca-cased">bsc/roberta-base-ca-cased</a> transfromer model, and keeping only the well-formed ones.
+4469 new sentences, generated from frases_spl, and semi-authomaticaly doing masking with <a href="https://huggingface.co/PlanTL-GOB-ES/roberta-base-ca">bsc/roberta-base-ca-cased</a> transfromer model, and keeping only the well-formed ones.
 
 The TeMU-BSC agrees that Mozilla may publish these contributions under the CC0 public domain dedication available at https://creativecommons.org/publicdomain/zero/1.0/legalcode. We, therefore, agree to waive all copyright and related or neighbouring rights together with all associated claims and causes of action with respect to these contributions to the extent possible under the law.
 
@@ -99,7 +104,6 @@ The TeMU-BSC agrees that Mozilla may publish these contributions under the CC0 p
 18550 sentences generated with substituition templates for this project with wikidata data, published here for the first time.
 
 The TeMU-BSC agrees that Mozilla may publish these contributions under the CC0 public domain dedication available at https://creativecommons.org/publicdomain/zero/1.0/legalcode. We, therefore, agree to waive all copyright and related or neighbouring rights together with all associated claims and causes of action with respect to these contributions to the extent possible under the law.
-
 
 ## Aggregated files
 Files that aggregate files descrived before:
