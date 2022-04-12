@@ -100,6 +100,13 @@ The TeMU-BSC agrees that Mozilla may publish these contributions under the CC0 p
 
 The TeMU-BSC agrees that Mozilla may publish these contributions under the CC0 public domain dedication available at https://creativecommons.org/publicdomain/zero/1.0/legalcode. We, therefore, agree to waive all copyright and related or neighbouring rights together with all associated claims and causes of action with respect to these contributions to the extent possible under the law.
 
+### sentences_from_xitxat_corpus2.txt
+3818 other sentences from the XitXat corpus, written by our team, published here for the fist time.
+
+The TeMU-BSC agrees that Mozilla may publish these contributions under the CC0 public domain dedication available at https://creativecommons.org/publicdomain/zero/1.0/legalcode. We, therefore, agree to waive all copyright and related or neighbouring rights together with all associated claims and causes of action with respect to these contributions to the extent possible under the law.
+
+They have been added to the Common Voice corpus through the [Sentence Collector](https://commonvoice.mozilla.org/sentence-collector/#/en)
+
 ### wikidata_sentences.txt
 18550 sentences generated with substituition templates for this project with wikidata data, published here for the first time.
 
