@@ -79,6 +79,9 @@ Mots encreuats (crosswords)
 
 Author's <a href="http://enigmisticamarius.blogspot.com/">blog</a>.
 
+### marius_serra_sentences_crosswords.txt
+17795 new sentences from <a href="https://twitter.com/mariusserra">Marius Serra</a>'s, crosswords, provided by the author.
+
 ### more_intents.txt
 74772 new intent-like sentences, generated with substitution templates, published here for the first time. 
 
@@ -111,6 +114,9 @@ They have been added to the Common Voice corpus through the [Sentence Collector]
 18550 sentences generated with substituition templates for this project with wikidata data, published here for the first time.
 
 The TeMU-BSC agrees that Mozilla may publish these contributions under the CC0 public domain dedication available at https://creativecommons.org/publicdomain/zero/1.0/legalcode. We, therefore, agree to waive all copyright and related or neighbouring rights together with all associated claims and causes of action with respect to these contributions to the extent possible under the law.
+
+### wiki.es-ca.txt
+49990 sentences randomly selected and translated from [wiki.es.txt](https://github.com/common-voice/common-voice/blob/main/server/data/es/wiki.es.txt) into Catalan
 
 ## Aggregated files
 Files that aggregate files descrived before:
