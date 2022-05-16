@@ -87,6 +87,9 @@ Author's <a href="http://enigmisticamarius.blogspot.com/">blog</a>.
 
 The TeMU-BSC agrees that Mozilla may publish these contributions under the CC0 public domain dedication available at https://creativecommons.org/publicdomain/zero/1.0/legalcode. We, therefore, agree to waive all copyright and related or neighbouring rights together with all associated claims and causes of action with respect to these contributions to the extent possible under the law.
 
+### new_sentences_from_catalan_newswire.txt
+58310 sentences from a catalan newswire. The owner agrees that Mozilla may publish these contributions under the CC0 public domain dedication available at https://creativecommons.org/publicdomain/zero/1.0/legalcode.
+
 ### plantilles_intents.txt: 
 2664 intent-like sentences, generated with substituition templates for this project, published here for the first time.
 
