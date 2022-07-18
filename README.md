@@ -95,7 +95,10 @@ The TeMU-BSC agrees that Mozilla may publish these contributions under the CC0 p
 
 The TeMU-BSC agrees that Mozilla may publish these contributions under the CC0 public domain dedication available at https://creativecommons.org/publicdomain/zero/1.0/legalcode. We, therefore, agree to waive all copyright and related or neighbouring rights together with all associated claims and causes of action with respect to these contributions to the extent possible under the law.
 
-### selected_club.txt
+### pujolar_sentences.txt
+764 sentences from Joan Pujolar's work, extracted from [here](https://sites.google.com/view/jpujolar-dd0/p%C3%A0gina-principal) and [here](https://sites.google.com/view/joanpujolar/twain).
+
+### selected_club.txt[
 21237 sentences from our own</a> corpora and datasets:
 - questions from VilaQuAD https://zenodo.org/record/4761430#.YW1KaJuxXOs and ViquiQuAD https://zenodo.org/record/4761412#.YW1KaZuxXOs, that we commissioned.
 - hypotesis we commissioned for the TECA dataset:    https://zenodo.org/record/4761458#.YW1KWZuxXOs
@@ -118,8 +121,8 @@ They have been added to the Common Voice corpus through the [Sentence Collector]
 
 The TeMU-BSC agrees that Mozilla may publish these contributions under the CC0 public domain dedication available at https://creativecommons.org/publicdomain/zero/1.0/legalcode. We, therefore, agree to waive all copyright and related or neighbouring rights together with all associated claims and causes of action with respect to these contributions to the extent possible under the law.
 
-### wiki.es-ca.txt
-49990 sentences randomly selected and translated from [wiki.es.txt](https://github.com/common-voice/common-voice/blob/main/server/data/es/wiki.es.txt) into Catalan
+### translated_wiki.es-ca.txt
+49990 sentences randomly selected and translated from [wiki.es.txt](https://github.com/common-voice/common-voice/blob/main/server/data/es/wiki.es.txt) into Catalan. Not post edited.
 
 ## Aggregated files
 Files that aggregate files descrived before:
