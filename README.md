@@ -14,6 +14,16 @@ The Catalan Government Crawling Corpus is a 39-million-token web corpus of Catal
 Both the packaging and its content are under a CC0 Universal Licence.
 Please refer to <a href="https://web.gencat.cat/en/menu-ajuda/ajuda/avis_legal/index.html">web.gencat.cat/en/menu-ajuda/ajuda/avis_legal/index.html</a>
 
+### datasets_sentences.tsv
+155990 sentences extracted by the following [Projecte Aina](https://huggingface.co/projecte-aina) datasets:
+* [caBreu](https://huggingface.co/datasets/projecte-aina/caBreu)
+* [CoQCat](https://huggingface.co/datasets/projecte-aina/CoQCat)
+* [NLUCat](https://huggingface.co/datasets/projecte-aina/NLUCat)
+* [Parafraseja](https://huggingface.co/datasets/projecte-aina/Parafraseja)
+
+The [Language Technologies Unit](https://www.bsc.es/discover-bsc/organisation/research-departments/language-technologies-unit) agrees that Mozilla may publish these contributions under the CC0 public domain dedication available at https://creativecommons.org/publicdomain/zero/1.0/legalcode. We, therefore, agree to waive all copyright and related or neighbouring rights together with all associated claims and causes of action with respect to these contributions to the extent possible under the law.
+
+  
 ### edited_generated_selected_chatbot.txt
 2166 sentences, generated from edited_selected_chatbot.txt, and semi-authomaticaly doing masking with <a href="https://huggingface.co/PlanTL-GOB-ES/roberta-base-ca">bsc/roberta-base-ca-cased</a> transfromer model, and keeping only the well-formed ones.
 
